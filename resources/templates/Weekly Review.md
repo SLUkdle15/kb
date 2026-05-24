@@ -7,10 +7,10 @@ tags: [basb, weekly-review]
 
 ## Clear Obsidian Inbox
 
-- [ ] Open `Inbox`.
-- [ ] Move project-related notes to `Projects`.
-- [ ] Move responsibility-related notes to `Areas`.
-- [ ] Move reference notes to `Resources`.
+- [ ] Open `inbox`.
+- [ ] Move project-related notes to `projects`.
+- [ ] Move responsibility-related notes to `areas`.
+- [ ] Move reference notes to `resources`.
 - [ ] Archive inactive or outdated material.
 - [ ] Leave only uncertain items that need more thought.
 
@@ -36,7 +36,7 @@ tags: [basb, weekly-review]
 
 ## Review Active Projects
 
-- [ ] Open `Projects`.
+- [ ] Open `projects`.
 - [ ] Confirm each project still has a clear outcome.
 - [ ] Identify next actions.
 - [ ] Update deadlines.
@@ -44,9 +44,9 @@ tags: [basb, weekly-review]
 
 ## Move Stale Notes
 
-- [ ] Move ongoing responsibilities to `Areas`.
-- [ ] Move reference material to `Resources`.
-- [ ] Move inactive, outdated, or completed material to `Archives`.
+- [ ] Move ongoing responsibilities to `areas`.
+- [ ] Move reference material to `resources`.
+- [ ] Move inactive, outdated, or completed material to `archives`.
 
 ## Prompts
 

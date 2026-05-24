@@ -1,5 +1,22 @@
 # Agent Rules
 
+## Folder Naming
+
+Use lowercase folder names for vault structure and links.
+
+Current top-level content folders:
+
+```text
+inbox
+projects
+areas
+resources
+archives
+raw
+```
+
+Use `raw` for attachments, screenshots, PDFs, exports, and other files that are referenced by notes but are not standalone notes.
+
 ## Note Naming
 
 When creating a new note from a user capture, prefix the filename with the current date in `YYYY-MM-DD` format.
@@ -19,5 +36,5 @@ Example:
 This keeps notes parseable with simple Unix tools such as:
 
 ```sh
-find Inbox -type f -name '*.md' | sort
+find inbox -type f -name '*.md' | sort
 ```

@@ -30,7 +30,7 @@ tags: [basb, project, archive]
 
 ## Closeout Checklist
 
-- [ ] Move project folder to `Archives`.
+- [ ] Move project folder to `archives`.
 - [ ] Update links from active project notes.
-- [ ] Move reusable material into `Areas` or `Resources`.
+- [ ] Move reusable material into `areas` or `resources`.
 - [ ] Capture follow-up projects if needed.

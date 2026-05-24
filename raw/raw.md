@@ -1,8 +1,8 @@
-# Attachments
+# Raw
 
 ## What Belongs Here
 
-Use this folder for files attached to notes.
+Use this folder for raw files attached to or referenced by notes.
 
 Examples:
 
