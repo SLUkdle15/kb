@@ -1,6 +1,5 @@
 ---
 type: system-note
-tags: [basb, para, organization]
 ---
 
 # Actionability Checklist

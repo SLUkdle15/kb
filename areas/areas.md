@@ -29,3 +29,13 @@ Ask:
 - [ ] What standard am I maintaining?
 - [ ] Which projects should be created from this area?
 - [ ] Which notes are outdated or should move to Resources or Archives?
+
+## Active Areas
+
+- [[areas/badminton/badminton]]
+- [[areas/chinese/chinese]]
+- [[areas/camera/camera]]
+- [[areas/golf/golf]]
+- [[areas/finance/finance]]
+- [[areas/work/work]]
+- [[areas/travel/travel]]

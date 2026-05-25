@@ -1,6 +1,5 @@
 ---
 type: vault-guide
-tags: [basb, para, code]
 ---
 
 # SecondBrainVault
@@ -13,6 +12,7 @@ The vault is organized by actionability. The most important question is not "Wha
 
 - [[Twelve Favorite Problems]]
 - [[inbox/inbox]]
+- [[next/next]]
 - [[projects/projects]]
 - [[areas/areas]]
 - [[resources/resources]]
@@ -21,6 +21,7 @@ The vault is organized by actionability. The most important question is not "Wha
 
 ## Workflows
 
+- [[resources/agent-skills]]
 - [[resources/templates/Weekly Review]]
 - [[resources/templates/Project Kickoff]]
 - [[resources/templates/Project Completion]]
@@ -40,15 +41,28 @@ PARA is a practical structure for organizing knowledge by how active and actiona
 - **Resources**: Reference material for topics, interests, and future work.
 - **Archives**: Inactive, completed, or outdated material kept for reference.
 
+## GTD Action Layer
+
+Use `next` for commitments that are more actionable than inbox captures but not necessarily full projects:
+
+- **Next Actions**: Concrete actions to do soon.
+- **Calendar**: Date-specific or time-specific commitments.
+- **Maybe**: Someday/maybe ideas and possible future projects.
+- **Waiting**: Items blocked by someone or something else.
+
 ## Where a Note Belongs
 
 Use this order when deciding where to put something:
 
-1. If it helps an active project, move it to `projects`.
-2. If it supports an ongoing responsibility, move it to `areas`.
-3. If it is useful reference material, move it to `resources`.
-4. If it is inactive, completed, outdated, or no longer actionable, move it to `archives`.
-5. If you are unsure, leave it in `inbox` and review it later.
+1. If it is a concrete standalone action, move it to `next/next-actions`.
+2. If it is date-specific or time-specific, move it to `next/calendar`.
+3. If it is a someday/maybe idea, move it to `next/maybe`.
+4. If it is blocked by someone or something else, move it to `next/waiting`.
+5. If it helps an active project, move it to `projects`.
+6. If it supports an ongoing responsibility, move it to `areas`.
+7. If it is useful reference material, move it to `resources`.
+8. If it is inactive, completed, outdated, or no longer actionable, move it to `archives`.
+9. If you are unsure, leave it in `inbox` and review it later.
 
 Use [[resources/basb/Actionability Checklist]] when you need a quick decision flow.
 
@@ -58,6 +72,12 @@ Use [[resources/basb/Actionability Checklist]] when you need a quick decision fl
 - Use `raw` for attachments, screenshots, PDFs, exports, and other non-note source files.
 - Prefix new captured note filenames with the current date: `YYYY-MM-DD - Note Title.md`.
 - Keep the note's H1 clean and readable without the date prefix.
+
+## Tag Convention
+
+Do not use tags for topics, folders, PARA categories, sources, or note types.
+
+Use folders for actionability and wiki links for meaning. Only use tags for temporary workflow status, such as `#status/waiting`, `#status/review`, or `#status/draft`.
 
 ## CODE Workflow
 

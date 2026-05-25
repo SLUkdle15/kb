@@ -5,9 +5,6 @@ author:
 published:
 created: 2026-05-25
 description: "Give Codex new capabilities and expertise"
-tags:
-  - "clippings"
----
 # Codex Agent Skills
 
 Use agent skills to extend Codex with task-specific capabilities. A skill packages instructions, resources, and optional scripts so Codex can follow a workflow reliably. Skills build on the [open agent skills standard](https://agentskills.io/).

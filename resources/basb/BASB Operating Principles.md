@@ -1,6 +1,5 @@
 ---
 type: system-note
-tags: [basb, para, code, knowledge-management]
 ---
 
 # BASB Operating Principles

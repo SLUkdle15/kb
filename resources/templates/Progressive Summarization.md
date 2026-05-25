@@ -1,6 +1,5 @@
 ---
 type: template
-tags: [basb, progressive-summarization]
 ---
 
 # Progressive Summarization

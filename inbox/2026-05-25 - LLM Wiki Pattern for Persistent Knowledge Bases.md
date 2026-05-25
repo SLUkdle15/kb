@@ -5,9 +5,6 @@ author:
 published:
 created: 2026-05-25
 description:
-tags:
-  - "clippings"
----
 # LLM Wiki Pattern for Persistent Knowledge Bases
 
 ```

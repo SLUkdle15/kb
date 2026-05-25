@@ -1,6 +1,5 @@
 ---
 type: template
-tags: [basb, project]
 ---
 
 # Project Kickoff
