@@ -24,4 +24,4 @@ Review weekly.
 
 ## Related Resources
 
-- [[Favorite Problems]]
+- [[2026-05-25 - Favorite Problems|Favorite Problems]]
