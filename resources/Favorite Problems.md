@@ -1,4 +1,4 @@
-# Twelve Favorite Problems
+# Favorite Problems
 
 These are open-ended questions I want my Second Brain to help me explore over time.
 

@@ -24,4 +24,4 @@ Review monthly, or weekly when actively training.
 
 ## Related Resources
 
-- 
+- [[2026-05-25 - Badminton Fundamentals and Doubles Positioning|Badminton Fundamentals and Doubles Positioning]]

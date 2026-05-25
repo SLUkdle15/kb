@@ -24,4 +24,4 @@ Review monthly, and before major financial decisions.
 
 ## Related Resources
 
-- 
+- [[Favorite Problems]]

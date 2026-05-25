@@ -24,4 +24,4 @@ Review monthly, or weekly during active practice cycles.
 
 ## Related Resources
 
-- 
+- [[Favorite Problems]]

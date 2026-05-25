@@ -24,4 +24,4 @@ Review weekly.
 
 ## Related Resources
 
-- 
+- [[Favorite Problems]]
