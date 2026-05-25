@@ -43,3 +43,7 @@ Project notes should include:
 ```
 
 The next action note should link back to the project.
+
+## Active Projects
+
+- [[projects/learn-photo-basics/learn-photo-basics]]

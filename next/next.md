@@ -18,3 +18,14 @@ Use `next` for commitments and possible actions that are not yet project notes, 
 Promote an item to `projects` when it becomes a multi-step outcome with a finish line.
 
 Move context and learning into `areas` or `resources` when it becomes ongoing or reusable.
+
+## Agent Workflow
+
+Use the `create-next-action` agent skill to add small commitments.
+
+Routing rule:
+
+1. Specific date or time -> `next/calendar`
+2. Someday/maybe or optional -> `next/maybe`
+3. Blocked by someone or something -> `next/waiting`
+4. Otherwise -> `next/next-actions`

@@ -24,6 +24,7 @@ The vault is organized by actionability. The most important question is not "Wha
 Codex agent skills under `.agents/skills` handle reusable workflows:
 
 - `create-project`
+- `create-next-action`
 - `dispose-project`
 - `distill-note`
 - `inbox-triage`
@@ -110,6 +111,7 @@ Reusable workflows live in `.agents/skills`.
 Use them instead of copying templates:
 
 - `create-project` asks for missing project essentials and creates the project plus first next action.
+- `create-next-action` routes small commitments into calendar, next-actions, maybe, or waiting.
 - `dispose-project` closes or archives a project and preserves reusable material.
 - `distill-note` turns notes into summaries, checklists, questions, or reusable packets.
 - `inbox-triage` routes captures to the right folder.
