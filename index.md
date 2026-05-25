@@ -28,6 +28,7 @@ Codex agent skills under `.agents/skills` handle reusable workflows:
 - `dispose-project`
 - `distill-note`
 - `inbox-triage`
+- `lint`
 - `rename-capture`
 - `weekly-review`
 
@@ -115,6 +116,7 @@ Use them instead of copying templates:
 - `dispose-project` closes or archives a project and preserves reusable material.
 - `distill-note` turns notes into summaries, checklists, questions, or reusable packets.
 - `inbox-triage` routes captures to the right folder.
+- `lint` health-checks the vault for broken links, orphan notes, stale candidates, missing next actions, and missing concept pages.
 - `rename-capture` names raw captures and moves them into inbox.
 - `weekly-review` reviews inbox, next actions, active projects, and stale material.
 
