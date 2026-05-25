@@ -21,11 +21,14 @@ The vault is organized by actionability. The most important question is not "Wha
 
 ## Workflows
 
-- [[resources/agent-skills]]
-- [[resources/templates/Weekly Review]]
-- [[resources/templates/Project Kickoff]]
-- [[resources/templates/Project Completion]]
-- [[resources/templates/Progressive Summarization]]
+Codex agent skills under `.agents/skills` handle reusable workflows:
+
+- `create-project`
+- `dispose-project`
+- `distill-note`
+- `inbox-triage`
+- `rename-capture`
+- `weekly-review`
 
 ## Operating Principles
 
@@ -90,7 +93,7 @@ CODE is the knowledge workflow for this vault:
 
 ## Weekly Review Rhythm
 
-Once per week, create a new note from [[resources/templates/Weekly Review]].
+Once per week, run the `weekly-review` agent skill.
 
 During the review:
 
@@ -100,22 +103,24 @@ During the review:
 - [ ] Identify the highest-leverage project for the next week.
 - [ ] Capture anything important from your desktop, downloads folder, calendar, and open loops.
 
-## Templates
+## Agent Skills
 
-Templates live in `resources/templates`.
+Reusable workflows live in `.agents/skills`.
 
-Use them to start common workflows:
+Use them instead of copying templates:
 
-- [[resources/templates/Weekly Review]] for weekly maintenance.
-- [[resources/templates/Project Kickoff]] for starting a project.
-- [[resources/templates/Project Completion]] for closing a project.
-- [[resources/templates/Progressive Summarization]] for distilling reusable notes.
+- `create-project` asks for missing project essentials and creates the project plus first next action.
+- `dispose-project` closes or archives a project and preserves reusable material.
+- `distill-note` turns notes into summaries, checklists, questions, or reusable packets.
+- `inbox-triage` routes captures to the right folder.
+- `rename-capture` names raw captures and moves them into inbox.
+- `weekly-review` reviews inbox, next actions, active projects, and stale material.
 
 ## Moving Completed Projects to Archives
 
 When a project is complete:
 
-1. Create a completion note from [[resources/templates/Project Completion]].
+1. Run `dispose-project`.
 2. Record what was delivered, lessons learned, and reusable Intermediate Packets.
 3. Move any reusable knowledge into `areas` or `resources`.
 4. Move the whole project folder from `projects` to `archives`.

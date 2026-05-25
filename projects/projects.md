@@ -26,6 +26,20 @@ Review active projects weekly.
 During review, ask:
 
 - [ ] Is this still active?
-- [ ] What is the next action?
+- [ ] Does this project have at least one linked next action in `next/next-actions`?
 - [ ] What note, packet, or decision would move this forward?
 - [ ] Should this project be completed, paused, or archived?
+
+## Active Project Rule
+
+Every active project must have at least one linked next action.
+
+Project notes should include:
+
+```md
+## Next Actions
+
+- [[next/next-actions/YYYY-MM-DD - Action Title]]
+```
+
+The next action note should link back to the project.

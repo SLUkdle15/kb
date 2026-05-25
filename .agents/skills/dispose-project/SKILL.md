@@ -13,9 +13,29 @@ Use this skill when a project is completed, canceled, paused, obsolete, or no lo
 - Optional status: `completed`, `canceled`, `paused`, or `obsolete`.
 - Optional `mode`: `suggest` or `apply`. Default to `suggest`.
 
+## Essential Disposal Fields
+
+When a completion note is useful, keep it short:
+
+```md
+# Project Completion
+
+## Status
+
+## Outcome
+
+## Reusable Material
+
+## Lessons
+
+## Archive Actions
+```
+
+Ask only for missing essentials before applying destructive-looking moves.
+
 ## Workflow
 
-1. Read `resources/agent-skills.md` and `resources/templates/Project Completion.md`.
+1. Read `AGENTS.md` and `projects/projects.md`.
 2. Inspect the target project folder and notes.
 3. Determine the disposal status.
 4. Identify reusable material that belongs in `areas` or `resources`.
@@ -30,3 +50,4 @@ Use this skill when a project is completed, canceled, paused, obsolete, or no lo
 
 - Do not delete project material unless explicitly requested.
 - Do not archive active projects without a clear status.
+- If project status, reusable material, or archive destination is unclear, ask before applying changes.

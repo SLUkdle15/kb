@@ -25,6 +25,23 @@ Use `next` for GTD-style commitments that are more actionable than inbox capture
 - `next/maybe` for someday/maybe ideas and possible future projects.
 - `next/waiting` for things blocked by someone or something else.
 
+## Projects
+
+Every active project must have at least one linked next action.
+
+When creating or updating an active project:
+
+- Add a `Next Actions` section to the project note.
+- Link at least one note from `next/next-actions`.
+- The next action note should link back to the project.
+- If no next action is known, the project is not ready to be active; leave it in `next/maybe` or clarify the next action first.
+
+## Agent Skills Over Templates
+
+Do not rely on copy-paste templates for recurring workflows.
+
+Reusable workflows live in `.agents/skills`. When running a workflow, use the corresponding skill, infer what is already provided, and ask only for missing essentials before making changes.
+
 ## Tags
 
 Do not use tags for topics, folders, PARA categories, sources, or note types.

@@ -14,7 +14,7 @@ Use this skill to process captured notes in `inbox`.
 
 ## Workflow
 
-1. Read `AGENTS.md`, `resources/agent-skills.md`, and `resources/basb/Actionability Checklist.md`.
+1. Read `AGENTS.md` and `resources/basb/Actionability Checklist.md`.
 2. Inspect the target inbox note or all markdown notes in `inbox`.
 3. Classify each note by nearest useful destination:
    - `projects` for active outcomes with a finish line.

@@ -13,9 +13,29 @@ Use this skill when a note is likely to be reused.
 - Optional output type: `summary`, `checklist`, `packet`, `questions`, or `all`. Default to `all`.
 - Optional `mode`: `suggest` or `apply`. Default to `suggest`.
 
+## Essential Distillation Outputs
+
+Choose only the sections that fit the note and the user's request:
+
+```md
+## Summary
+
+## Key Ideas
+
+## Practical Checklist
+
+## Open Questions
+
+## Reusable Packet
+
+## Possible Next Use
+```
+
+Do not force every section. Ask what output the user wants only when the request is ambiguous and the note could support several useful outputs.
+
 ## Workflow
 
-1. Read `resources/agent-skills.md` and `resources/templates/Progressive Summarization.md`.
+1. Read `AGENTS.md` and `resources/basb/BASB Operating Principles.md`.
 2. Locate and read the target note.
 3. Preserve the original substance.
 4. Extract useful sections:

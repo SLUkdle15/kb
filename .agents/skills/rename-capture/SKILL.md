@@ -14,7 +14,7 @@ Use this skill to improve the filename and H1 of a captured note that currently 
 
 ## Workflow
 
-1. Read `AGENTS.md` and `resources/agent-skills.md`.
+1. Read `AGENTS.md`.
 2. Locate the target note only under `raw`. Do not search `inbox`, `projects`, `areas`, `resources`, or `archives` for rename targets.
 3. Read the note body before naming.
 4. Identify the durable idea, source, model, or use case.

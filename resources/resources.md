@@ -24,7 +24,3 @@ Examples:
 Review when starting a project, researching a question, or doing a deeper monthly cleanup.
 
 Resources should stay useful, but they do not need constant maintenance.
-
-## Workflow References
-
-- [[resources/agent-skills]]
