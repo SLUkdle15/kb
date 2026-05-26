@@ -1,0 +1,9 @@
+# Raw source artifacts are synced outside Git, for example with Syncthing.
+raw/**
+!raw/
+!raw/*/
+!raw/attachments/.gitkeep
+!raw/exports/.gitkeep
+!raw/html/.gitkeep
+!raw/images/.gitkeep
+!raw/pdf/.gitkeep
