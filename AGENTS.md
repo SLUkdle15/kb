@@ -16,7 +16,17 @@ archives
 raw
 ```
 
-Use `raw` for attachments, screenshots, PDFs, exports, and other files that are referenced by notes but are not standalone notes.
+Use `raw` for original source artifacts and non-note files that are referenced by notes but are not standalone notes. This includes PDFs, screenshots, images, saved HTML pages, app exports, and miscellaneous attachments.
+
+Use these `raw` subfolders by file/form, not by topic:
+
+- `raw/pdf` for PDFs, papers, manuals, and downloaded guides.
+- `raw/images` for screenshots, diagrams, photos, and image assets.
+- `raw/html` for saved webpages, clipped HTML, and single-file page exports.
+- `raw/exports` for app exports, browser exports, chat exports, and zip exports.
+- `raw/attachments` for miscellaneous referenced files that do not fit another raw subfolder.
+
+Readable Markdown web clippings should usually move from `inbox` to `resources`, not `raw`. If a resource note has a preserved raw artifact, link to the raw file from the resource note.
 
 Use `next` for GTD-style commitments that are more actionable than inbox captures but not necessarily full projects:
 
