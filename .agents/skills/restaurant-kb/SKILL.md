@@ -18,8 +18,6 @@ Use this skill for restaurant notes and meal decisions.
 ## Storage
 
 - Restaurant notes live in `resources/restaurants`.
-- Area notes live in `resources/locations` when useful.
-- Cuisine notes live in `resources/cuisines` when useful.
 - Use lowercase folder names.
 - Do not use topic tags. Record comparable traits as fields or bullets.
 
@@ -30,8 +28,8 @@ Create dated restaurant notes:
 ```md
 # Restaurant Name
 
-Cuisine: [[resources/cuisines/cuisine]]
-Location: [[resources/locations/area]]
+Cuisine:
+Location:
 Map:
 Website:
 Menu:
@@ -76,7 +74,7 @@ Omit unknown fields only when they add clutter. Prefer short, comparable values 
 1. Read `AGENTS.md` and `resources/restaurants/restaurants.md` if present.
 2. If adding a restaurant, search existing restaurant notes first to avoid duplicates.
 3. Create a note named `YYYY-MM-DD - Restaurant Name.md` in `resources/restaurants`.
-4. Link cuisine and location notes when known. Create simple cuisine or location notes only when the link would be reused.
+4. Use plain cuisine and location fields unless the user asks to create separate notes for them.
 5. Add the restaurant to `resources/restaurants/restaurants.md`.
 6. If recording a repeat visit, append a new dated entry under `## Past Experience` instead of replacing old experience.
 7. If recommending what to eat, rank matching restaurants and explain the top choice from stored attributes and past experience.
