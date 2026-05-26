@@ -34,8 +34,10 @@ Ask:
 
 - [[areas/badminton-training/badminton-training|Badminton Training]]
 - [[areas/chinese-learning/chinese-learning|Chinese Learning]]
+- [[areas/chess-training/chess-training|Chess Training]]
 - [[areas/photography/photography|Photography]]
 - [[areas/golf-training/golf-training|Golf Training]]
 - [[areas/personal-finance/personal-finance|Personal Finance]]
+- [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 - [[areas/career-and-work/career-and-work|Career and Work]]
 - [[areas/travel-planning/travel-planning|Travel Planning]]

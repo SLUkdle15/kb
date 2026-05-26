@@ -12,9 +12,9 @@ Examples:
 - Tax and finance references
 - AI coding agent workflows
 
-## Books
+## Resource Collections
 
-- [[books/2026-05-24 - Essentialism Core Models|Essentialism - Core Models]]
+- [[books/books|Books]]
 
 ## What Does Not Belong Here
 
