@@ -1,6 +1,6 @@
 ---
 title: "Codex Agent Skills"
-source: "https://developers.openai.com/codex/skills"
+	source: "https://developers.openai.com/codex/skills"
 author:
 published:
 created: 2026-05-25
