@@ -10,7 +10,6 @@ The vault is organized by actionability. The most important question is not "Wha
 
 ## Start Here
 
-- [[Twelve Favorite Problems]]
 - [[inbox/inbox]]
 - [[next/next]]
 - [[projects/projects]]
@@ -18,6 +17,16 @@ The vault is organized by actionability. The most important question is not "Wha
 - [[resources/resources]]
 - [[archives/archives]]
 - [[raw/raw]]
+
+## Active Areas
+
+- [[areas/badminton-training/badminton-training|Badminton Training]]
+- [[areas/chinese-learning/chinese-learning|Chinese Learning]]
+- [[areas/photography/photography|Photography]]
+- [[areas/golf-training/golf-training|Golf Training]]
+- [[areas/personal-finance/personal-finance|Personal Finance]]
+- [[areas/career-and-work/career-and-work|Career and Work]]
+- [[areas/travel-planning/travel-planning|Travel Planning]]
 
 ## Workflows
 
@@ -70,6 +79,14 @@ Use this order when deciding where to put something:
 9. If you are unsure, leave it in `inbox` and review it later.
 
 Use [[resources/basb/Actionability Checklist]] when you need a quick decision flow.
+
+## Linking Between Sections
+
+Folders decide where a note lives by actionability. Links show where the note is useful.
+
+- Project notes should link to the area they serve and the resources they use.
+- Area notes should link to related resources and active projects.
+- Resource notes should link back to the project or area where they are likely to be reused.
 
 ## Naming Conventions
 
