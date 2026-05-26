@@ -44,6 +44,12 @@ Project notes should include:
 
 The next action note should link back to the project.
 
+## Project Kickoff
+
+Collect relevant notes as links in the project note first.
+
+Move notes into the project folder only when they are project-specific working material, such as drafts, decision records, meeting notes, plans, or deliverables. Keep reusable references in `resources` and ongoing responsibility notes in `areas`, then link to them from the project.
+
 ## Active Projects
 
 - [[projects/learn-photo-basics/learn-photo-basics]]

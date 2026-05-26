@@ -1,16 +1,15 @@
 # Refactor BASB Notes
 
 Source:
-- [[resources/basb/BASB Operating Principles]]
-- [[resources/basb/Actionability Checklist]]
+- [[resources/books/2026-05-26 - Building a Second Brain Core Models]]
 
 ## Next Action
 
-Refactor the BASB notes so they sit in the books/resource structure, update index links, and add useful reference-back links.
+Finish replacing old BASB note links with [[resources/books/2026-05-26 - Building a Second Brain Core Models]].
 
 ## Done When
 
-- [ ] Decide whether BASB belongs under `resources/books` or another resource subfolder.
-- [ ] Move or rename the BASB notes if needed.
-- [ ] Update `index.md` and `resources/resources.md`.
-- [ ] Add reference-back links from the moved notes to the relevant index or resource note.
+- [x] Decide whether BASB belongs under `resources/books` or another resource subfolder.
+- [x] Move or rename the BASB notes if needed.
+- [x] Update `index.md` and `resources/resources.md`.
+- [x] Replace remaining old `resources/basb` links.

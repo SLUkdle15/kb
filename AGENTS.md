@@ -1,20 +1,25 @@
 # Agent Rules
 
-## Folder Naming
+## Naming and Folders
 
-Use lowercase folder names for vault structure and links.
+Use lowercase folder names for vault structure and links. Top-level content folders are `inbox`, `next`, `projects`, `areas`, `resources`, `archives`, and `raw`.
 
-Current top-level content folders:
+When creating a new note from a user capture, prefix the filename with the current date:
 
 ```text
-inbox
-next
-projects
-areas
-resources
-archives
-raw
+YYYY-MM-DD - Note Title.md
 ```
+
+Keep the note's H1 clean and readable without the date prefix.
+
+Use `next` for GTD-style commitments that are more actionable than inbox captures but not necessarily full projects:
+
+- `next/next-actions` for concrete standalone actions to do soon.
+- `next/calendar` for date-specific or time-specific commitments.
+- `next/maybe` for someday/maybe ideas and possible future projects.
+- `next/waiting` for things blocked by someone or something else.
+
+## Raw Files
 
 Use `raw` for original source artifacts and non-note files that are referenced by notes but are not standalone notes. This includes PDFs, screenshots, images, saved HTML pages, app exports, and miscellaneous attachments.
 
@@ -28,64 +33,32 @@ Use these `raw` subfolders by file/form, not by topic:
 
 Readable Markdown web clippings should usually move from `inbox` to `resources`, not `raw`. If a resource note has a preserved raw artifact, link to the raw file from the resource note.
 
-Use `next` for GTD-style commitments that are more actionable than inbox captures but not necessarily full projects:
-
-- `next/next-actions` for concrete standalone actions to do soon.
-- `next/calendar` for date-specific or time-specific commitments.
-- `next/maybe` for someday/maybe ideas and possible future projects.
-- `next/waiting` for things blocked by someone or something else.
-
 ## Projects
 
-Every active project must have at least one linked next action.
+Every active project must have a `Next Actions` section with at least one linked note from `next/next-actions`. The next action note must link back to the project.
 
-When creating or updating an active project:
+If no next action is known, do not create an active project; leave it in `next/maybe` or clarify the next action first.
 
-- Add a `Next Actions` section to the project note.
-- Link at least one note from `next/next-actions`.
-- The next action note should link back to the project.
-- If no next action is known, the project is not ready to be active; leave it in `next/maybe` or clarify the next action first.
+## Linking
 
-## Agent Skills Over Templates
+Folders decide where a note lives by actionability. Links show where the note is useful.
 
-Do not rely on copy-paste templates for recurring workflows.
+- Projects link to relevant areas, resources, and next actions.
+- Areas link to related resources and active projects.
+- Resources link back to likely projects or areas when reuse is clear.
 
-Reusable workflows live in `.agents/skills`. When running a workflow, use the corresponding skill, infer what is already provided, and ask only for missing essentials before making changes.
+## Agent Skills
+
+Reusable workflows live in `.agents/skills`.
+
+Use a matching skill before editing notes. Do not copy templates manually when a skill exists.
+
+Keep this file focused on enforceable agent rules. For human-facing navigation and BASB concepts, use `index.md` and `resources/books/2026-05-26 - Building a Second Brain Core Models.md`.
 
 ## Tags
 
 Do not use tags for topics, folders, PARA categories, sources, or note types.
 
-Prefer folders for actionability and wiki links for meaning.
-
-Only use tags when they represent temporary workflow status that cuts across folders, such as:
-
-```text
-#status/waiting
-#status/review
-#status/draft
-```
+Only use temporary workflow-status tags, such as `#status/waiting`, `#status/review`, or `#status/draft`.
 
 If a tag would duplicate a folder name or a linked concept, do not add it.
-
-## Note Naming
-
-When creating a new note from a user capture, prefix the filename with the current date in `YYYY-MM-DD` format.
-
-Use this pattern:
-
-```text
-YYYY-MM-DD - Note Title.md
-```
-
-Example:
-
-```text
-2026-05-24 - Essentialism Core Models.md
-```
-
-This keeps notes parseable with simple Unix tools such as:
-
-```sh
-find inbox -type f -name '*.md' | sort
-```

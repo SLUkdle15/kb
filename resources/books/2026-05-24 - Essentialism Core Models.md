@@ -1,8 +1,12 @@
+---
+type: distilled-note
+---
+
 # Essentialism - Core Models
 
 Source: Essentialism by Greg McKeown
 
-Related: [[../basb/BASB Operating Principles|BASB Operating Principles]]
+Related: [[resources/books/2026-05-26 - Building a Second Brain Core Models|Building a Second Brain Core Models]]
 
 ## Summary
 

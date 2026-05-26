@@ -14,8 +14,8 @@ Examples:
 
 ## Resource Collections
 
-- [[books/books|Books]]
-- [[restaurants/restaurants|Restaurants]]
+- [[resources/books/books|Books]]
+- [[resources/restaurants/restaurants|Restaurants]]
 
 ## What Does Not Belong Here
 
