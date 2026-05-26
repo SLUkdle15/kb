@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/resources.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/resources.md",
+                "file": "resources/basb/BASB Operating Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for resources"
+              "title": "Backlinks for BASB Operating Principles"
             }
           },
           {
@@ -171,18 +171,27 @@
   },
   "active": "de1fc7df1632ff74",
   "lastOpenFiles": [
-    "next/next-actions/2026-05-26 - Populate Restaurant DB.md",
+    "AGENTS.md",
+    "archives/archives.md",
+    "log.md",
+    "index.md",
+    "archives/next-actions/2026-05-26 - Refactor BASB Notes.md",
+    "archives/next-actions",
     "resources/books/2026-05-24 - Essentialism Core Models.md",
+    "resources/books/2026-05-26 - Building a Second Brain Core Models.md",
+    "resources/resources.md",
+    "resources/basb/BASB Operating Principles.md",
+    "resources/basb/Actionability Checklist.md",
+    "inbox/Untitled.md",
+    "inbox/2026-05-26 - Building a Second Brain Core Models.md",
     "resources/cuisines/cuisines.md",
     "resources/locations/locations.md",
+    "next/next-actions/2026-05-26 - Populate Restaurant DB.md",
     "resources/restaurants/restaurants.md",
     "resources/cuisines",
     "resources/locations",
     "resources/restaurants",
-    "resources/resources.md",
     "resources/books/books.md",
-    "index.md",
-    "AGENTS.md",
     "raw/raw.md",
     "inbox/2026-05-25 - Codex Agent Skills.md",
     "raw/attachments",
@@ -191,22 +200,13 @@
     "raw/images",
     "raw/pdf",
     "inbox/2026-05-25 - LLM Wiki Pattern for Persistent Knowledge Bases.md",
-    "archives/archives.md",
     "areas/areas.md",
     "inbox/inbox.md",
     "next/next.md",
     "projects/projects.md",
     "resources/2026-05-25 - Badminton Fundamentals and Doubles Positioning.md",
     "resources/2026-05-25 - Favorite Problems.md",
-    "areas/chess-training/chess-training.md",
-    "areas/chess-training/chess.md",
     "areas/chess-training",
-    "areas/romantic-relationship/romantic-relationship.md",
-    "areas/romantic-relationship/relationship.md",
-    "areas/romantic-relationship",
-    "areas/relationships/relationship.md",
-    "areas/chess/chess.md",
-    "areas/relationship/relationship.md",
     "Untitled.canvas"
   ]
 }

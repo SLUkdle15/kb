@@ -68,6 +68,7 @@ class Note:
     has_next_actions_section: bool
     links_to_next_actions: list[str]
     links_back_to_projects: list[str]
+    links_to_context: list[str]
 
 
 def rel(path: Path, vault: Path) -> str:
@@ -180,6 +181,10 @@ def extract_note(path: Path, vault: Path, text: str, aliases: dict[str, set[str]
         has_next_actions_section=any(h.lower() == "next actions" for h in headings),
         links_to_next_actions=unique_sorted([p for p in resolved if p.startswith("next/next-actions/")]),
         links_back_to_projects=unique_sorted([p for p in resolved if p.startswith("projects/")]),
+        links_to_context=unique_sorted([
+            p for p in resolved
+            if p.startswith(("projects/", "areas/", "resources/"))
+        ]),
     )
 
 
@@ -235,7 +240,7 @@ def write_report(index: dict[str, Any], out_dir: Path) -> None:
         f"- Broken wiki links: {len(issues['broken_wiki_links'])}",
         f"- Orphan notes: {len(issues['orphan_notes'])}",
         f"- Projects missing next actions: {len(issues['projects_missing_next_actions'])}",
-        f"- Next actions missing project backlinks: {len(issues['next_actions_missing_project_backlinks'])}",
+        f"- Next actions missing context links: {len(issues['next_actions_missing_context_links'])}",
         f"- Notes with time-sensitive terms: {len(issues['stale_candidates'])}",
         f"- Repeated missing wiki links: {len(issues['repeated_missing_wiki_links'])}",
         "",
@@ -270,9 +275,9 @@ def write_report(index: dict[str, Any], out_dir: Path) -> None:
         "",
         markdown_list(issues["inbox_candidates"][:80]),
         "",
-        "## Next Actions Missing Project Backlinks",
+        "## Next Actions Missing Context Links",
         "",
-        markdown_list(issues["next_actions_missing_project_backlinks"]),
+        markdown_list(issues["next_actions_missing_context_links"]),
         "",
     ]
     (out_dir / "report.md").write_text("\n".join(lines), encoding="utf-8")
@@ -357,9 +362,10 @@ def main() -> int:
         note for note in notes
         if note.path.startswith("next/next-actions/") and note.path != "next/next-actions/next-actions.md"
     ]
-    next_missing_project = [
+    next_missing_context = [
         note.path for note in next_action_notes
-        if not note.links_back_to_projects and not any(src.startswith("projects/") for src in note.backlinks)
+        if not note.links_to_context
+        and not any(src.startswith(("projects/", "areas/", "resources/")) for src in note.backlinks)
     ]
 
     root_allowlist = {"index.md", "AGENTS.md", "log.md"}
@@ -379,7 +385,7 @@ def main() -> int:
             "repeated_missing_wiki_links": repeated_missing,
             "orphan_notes": orphan_notes,
             "projects_missing_next_actions": projects_missing,
-            "next_actions_missing_project_backlinks": next_missing_project,
+            "next_actions_missing_context_links": next_missing_context,
             "stale_candidates": [
                 {
                     "path": note.path,

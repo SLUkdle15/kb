@@ -35,9 +35,11 @@ Readable Markdown web clippings should usually move from `inbox` to `resources`,
 
 ## Projects
 
-Every active project must have a `Next Actions` section with at least one linked note from `next/next-actions`. The next action note must link back to the project.
+Every active project must have a `Next Actions` section with at least one linked note from `next/next-actions`. Project next-action notes must link back to the project.
 
 If no next action is known, do not create an active project; leave it in `next/maybe` or clarify the next action first.
+
+A next action may be standalone. If it is not tied to a project, link it to the relevant area, resource, or source note when useful.
 
 ## Linking
 

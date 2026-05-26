@@ -1,5 +1,7 @@
 # Refactor BASB Notes
 
+Completed: 2026-05-26
+
 Source:
 - [[resources/books/2026-05-26 - Building a Second Brain Core Models]]
 
