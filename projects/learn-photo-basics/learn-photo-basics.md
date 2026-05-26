@@ -23,4 +23,4 @@ No deadline.
 
 ## Notes
 
-- Related area: [[areas/camera/camera]]
+- Related area: [[areas/photography/photography|Photography]]

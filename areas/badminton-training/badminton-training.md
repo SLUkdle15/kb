@@ -2,7 +2,7 @@
 type: area
 ---
 
-# Badminton
+# Badminton Training
 
 ## Purpose
 

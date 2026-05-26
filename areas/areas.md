@@ -32,10 +32,10 @@ Ask:
 
 ## Active Areas
 
-- [[areas/badminton/badminton]]
-- [[areas/chinese/chinese]]
-- [[areas/camera/camera]]
-- [[areas/golf/golf]]
-- [[areas/finance/finance]]
-- [[areas/work/work]]
-- [[areas/travel/travel]]
+- [[areas/badminton-training/badminton-training|Badminton Training]]
+- [[areas/chinese-learning/chinese-learning|Chinese Learning]]
+- [[areas/photography/photography|Photography]]
+- [[areas/golf-training/golf-training|Golf Training]]
+- [[areas/personal-finance/personal-finance|Personal Finance]]
+- [[areas/career-and-work/career-and-work|Career and Work]]
+- [[areas/travel-planning/travel-planning|Travel Planning]]

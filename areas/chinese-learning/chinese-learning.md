@@ -2,7 +2,7 @@
 type: area
 ---
 
-# Chinese
+# Chinese Learning
 
 ## Purpose
 

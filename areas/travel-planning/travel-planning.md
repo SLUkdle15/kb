@@ -2,7 +2,7 @@
 type: area
 ---
 
-# Travel
+# Travel Planning
 
 ## Purpose
 

@@ -2,7 +2,7 @@
 type: area
 ---
 
-# Golf
+# Golf Training
 
 ## Purpose
 

@@ -2,7 +2,7 @@
 type: area
 ---
 
-# Finance
+# Personal Finance
 
 ## Purpose
 

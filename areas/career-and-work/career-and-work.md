@@ -2,7 +2,7 @@
 type: area
 ---
 
-# Work
+# Career and Work
 
 ## Purpose
 

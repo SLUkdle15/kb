@@ -2,7 +2,7 @@
 type: area
 ---
 
-# Camera
+# Photography
 
 ## Purpose
 
