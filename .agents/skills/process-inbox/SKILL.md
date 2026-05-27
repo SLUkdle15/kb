@@ -1,21 +1,25 @@
 ---
 name: process-inbox
-description: Process captured Markdown notes found in inbox. Use when the user asks to rename, clean up, classify, route, split, move, distill, or organize an inbox capture.
+description: Process one specified Markdown note from inbox. Use when the user asks to rename, clean up, classify, route, split, move, distill, or organize a specific inbox capture.
 ---
 
 # Process Inbox
 
-Use this skill to turn an inbox capture into useful vault material. This includes light cleanup, destination suggestions, splitting mixed captures, moving or creating draft notes, and distilling reusable ideas.
+Use this skill to turn one user-specified inbox capture into useful vault material. This includes light cleanup, destination suggestions, splitting mixed captures, moving or creating draft notes, and distilling reusable ideas.
 
 ## Inputs
 
-- Required note path or title fragment, unless there is only one plausible note in `inbox`.
+- Required note path or title fragment under `inbox`.
 - Optional `mode`: `suggest` or `apply`. Default to `suggest` unless the user clearly asks to move, create, or update files.
+- Do not process the whole `inbox` folder. If the user does not specify a note, ask for the note path or title fragment.
 
 ## Workflow
 
 1. Read `AGENTS.md`, `index.md`, and the target inbox note.
-2. Locate the target note only under `inbox`. Do not search `raw`, `projects`, `areas`, `resources`, or `archives` for targets.
+2. Locate exactly one target note only under `inbox`. Do not search `raw`, `projects`, `areas`, `resources`, or `archives` for targets.
+   - If no note path or title fragment is provided, stop and ask the user for one.
+   - If the title fragment matches multiple notes, stop and ask the user to choose one.
+   - Do not list, scan, summarize, or process unrelated inbox notes.
 3. Read the note body before naming, routing, splitting, or distilling.
 4. Detect what the capture contains:
    - Concrete action, calendar item, waiting item, or someday/maybe item.
