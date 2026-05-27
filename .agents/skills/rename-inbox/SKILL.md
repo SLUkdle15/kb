@@ -1,9 +1,9 @@
 ---
-name: rename-capture
+name: rename-inbox
 description: Refine filenames and H1 titles for captured notes found in inbox. Use when the user asks to rename, clean up naming, title, or make an inbox capture easier to find.
 ---
 
-# Rename Capture
+# Rename Inbox
 
 Use this skill to improve the filename and H1 of a captured note that currently lives in `inbox`.
 

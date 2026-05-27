@@ -1,11 +1,11 @@
 ---
-name: restaurant-kb
-description: Create, update, query, and recommend from a personal restaurant knowledge base in this Obsidian vault. Use when the user asks to add a restaurant, record a visit, capture restaurant attributes, compare places, or decide what to eat based on constraints like area, budget, parking, date suitability, cuisine, mood, or past experience.
+name: create-restaurant
+description: Create a new restaurant note in this Obsidian vault. Use when the user asks to add a restaurant or capture initial restaurant attributes such as area, cuisine, price, parking, date suitability, map link, or past experience.
 ---
 
-# Restaurant KB
+# Create Restaurant
 
-Use this skill for restaurant notes and meal decisions.
+Use this skill only to create new restaurant notes.
 
 ## Inputs
 
@@ -13,7 +13,6 @@ Use this skill for restaurant notes and meal decisions.
 - Optional place or area.
 - Optional URL, map link, menu link, or delivery link.
 - Optional cuisine, price, parking, date suitability, group suitability, solo suitability, noise, reservation, hours, and past experience.
-- Optional current decision constraints: area, budget, transport, meal type, craving, time, companions, avoid list.
 
 ## Storage
 
@@ -72,24 +71,11 @@ Omit unknown fields only when they add clutter. Prefer short, comparable values 
 ## Workflow
 
 1. Read `AGENTS.md` and `resources/restaurants/restaurants.md` if present.
-2. If adding a restaurant, search existing restaurant notes first to avoid duplicates.
+2. Search existing restaurant notes first to avoid duplicates.
 3. Create a note named `YYYY-MM-DD - Restaurant Name.md` in `resources/restaurants`.
 4. Use plain cuisine and location fields unless the user asks to create separate notes for them.
 5. Add the restaurant to `resources/restaurants/restaurants.md`.
-6. If recording a repeat visit, append a new dated entry under `## Past Experience` instead of replacing old experience.
-7. If recommending what to eat, rank matching restaurants and explain the top choice from stored attributes and past experience.
-
-## Recommendation Heuristics
-
-When the user asks what to eat:
-
-1. Identify hard constraints: area, budget, open now or date/time, transport, companion, dietary avoid list.
-2. Identify soft preferences: craving, novelty, comfort, date mood, convenience, revisit priority.
-3. Prefer restaurants with direct evidence from `Attributes` and `Past Experience`.
-4. Penalize unknowns only when the constraint matters.
-5. Return a short ranked list with a clear first pick and why.
-
-If key decision context is missing, make a reasonable default and state it briefly. Ask a question only when the recommendation would be arbitrary.
+6. If the restaurant already exists, do not update it; report the existing note path instead.
 
 ## Guardrails
 
@@ -97,3 +83,4 @@ If key decision context is missing, make a reasonable default and state it brief
 - Do not create a project for this workflow unless the user asks for a multi-step outcome.
 - Do not store raw screenshots, PDFs, or exported menus in `resources`; put those under the proper `raw` subfolder and link them from the restaurant note.
 - Keep notes useful for future comparison, not prose-heavy reviews.
+- Do not update existing restaurant notes, append repeat visits, compare restaurants, or recommend what to eat.

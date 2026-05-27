@@ -4,7 +4,7 @@ Area: [[resources/restaurants/restaurants]]
 
 ## Action
 
-Add initial restaurant notes to [[resources/restaurants/restaurants]] using the `restaurant-kb` skill.
+Add initial restaurant notes to [[resources/restaurants/restaurants]] using the `create-restaurant` skill.
 
 ## Done When
 

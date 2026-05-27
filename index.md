@@ -20,7 +20,23 @@ The vault is organized by actionability. The most important question is not "Wha
 
 ## Operating Principles
 
-Use [[resources/books/2026-05-26 - Building a Second Brain Core Models|Building a Second Brain Core Models]] as the main distilled reference for PARA, CODE, Progressive Summarization, Intermediate Packets, project kickoff, and related BASB concepts.
+Use CODE as the basic knowledge workflow:
+
+- **Capture:** Save ideas, notes, quotes, tasks, and insights that feel useful, surprising, inspiring, or actionable.
+- **Organize:** Put information where it will be useful next, based on actionability rather than topic.
+- **Distill:** Summarize and sharpen notes so future you can quickly understand why they matter.
+- **Express:** Turn saved knowledge into output: decisions, projects, writing, conversations, presentations, or products.
+
+Use PARA as the main placement rule:
+
+- **Projects:** Active work with a clear outcome.
+- **Areas:** Long-term responsibilities to maintain.
+- **Resources:** Useful references and reusable knowledge.
+- **Archives:** Inactive material kept for future reference.
+
+Distilled notes should preserve the reusable idea, not the whole source. Keep the title readable, summarize the main point, extract the strongest details, and link it to the project, area, or resource where it will be useful.
+
+Treat good notes as Intermediate Packets: small reusable building blocks such as outlines, checklists, quotes, diagrams, drafts, examples, or decisions that can be pulled into future work.
 
 ## GTD Action Layer
 

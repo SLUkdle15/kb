@@ -55,7 +55,7 @@ Reusable workflows live in `.agents/skills`.
 
 Use a matching skill before editing notes. Do not copy templates manually when a skill exists.
 
-Keep this file focused on enforceable agent rules. For human-facing navigation and BASB concepts, use `index.md` and `resources/books/2026-05-26 - Building a Second Brain Core Models.md`.
+Keep this file focused on enforceable agent rules. For human-facing navigation and BASB concepts, use `index.md`.
 
 ## Tags
 
