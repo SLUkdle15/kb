@@ -21,6 +21,11 @@ When asking for a recommendation, include whatever matters today:
 
 Add restaurant links here as notes are created.
 
+- [[2026-05-26 - HA RIS Brunch & Grill|HA:RIS - Brunch & Grill]]
+- [[2026-05-26 - PaiOi Cafe|PaiOi Cafe]]
+- [[2026-05-26 - Tojeong Lac Long Quan|Tojeong - Lac Long Quan]]
+- [[2026-05-26 - Ramen Haruki|Ramen Haruki]]
+
 ## Decision Prompt
 
 ```text

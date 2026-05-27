@@ -14,7 +14,8 @@ Examples:
 
 ## Resource Collections
 
-- [[resources/books/books|Books]]
+- [[resources/personal-knowledge-management/personal-knowledge-management|Personal Knowledge Management]]
+- [[resources/ideas/ideas|Ideas]]
 - [[resources/restaurants/restaurants|Restaurants]]
 
 ## What Does Not Belong Here

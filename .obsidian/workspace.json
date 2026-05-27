@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "inbox/inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "inbox"
+            }
+          },
+          {
+            "id": "2c95613812c8cfce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5017547607422
+    "width": 382.5017547607422
   },
   "right": {
     "id": "f8dec191471512f7",
@@ -94,17 +105,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/basb/BASB Operating Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BASB Operating Principles"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -169,44 +178,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "de1fc7df1632ff74",
+  "active": "2c95613812c8cfce",
   "lastOpenFiles": [
-    "AGENTS.md",
-    "archives/archives.md",
-    "log.md",
-    "index.md",
-    "archives/next-actions/2026-05-26 - Refactor BASB Notes.md",
-    "archives/next-actions",
-    "resources/books/2026-05-24 - Essentialism Core Models.md",
-    "resources/books/2026-05-26 - Building a Second Brain Core Models.md",
-    "resources/resources.md",
-    "resources/basb/BASB Operating Principles.md",
-    "resources/basb/Actionability Checklist.md",
+    "resources/ideas/ideas.md",
+    "resources/personal-knowledge-management/personal-knowledge-management.md",
+    "resources/personal-knowledge-management/2026-05-27 - Capture What Resonates.md",
+    "inbox/2026-05-25 - LLM Wiki Pattern for Persistent Knowledge Bases.md",
+    "inbox/2026-05-25 - Codex Agent Skills.md",
+    "resources/personal-knowledge-management/2026-05-27 - Intermediate Packets.md",
+    "resources/personal-knowledge-management/2026-05-27 - Distill Notes.md",
+    "resources/2026-05-25 - Badminton Fundamentals and Doubles Positioning.md",
+    "inbox/2026-05-27 - Distill Notes.md",
+    "inbox/2026-05-27 - Intermediate Packets.md",
+    "inbox/2026-05-27 - Capture What Resonates.md",
+    "inbox/inbox.md",
+    "inbox/Untitled 1.md",
+    "inbox/Untitled 2.md",
     "inbox/Untitled.md",
-    "inbox/2026-05-26 - Building a Second Brain Core Models.md",
-    "resources/cuisines/cuisines.md",
-    "resources/locations/locations.md",
-    "next/next-actions/2026-05-26 - Populate Restaurant DB.md",
-    "resources/restaurants/restaurants.md",
+    "resources/ideas",
+    "resources/personal-knowledge-management",
+    "index.md",
+    "log.md",
+    "raw/html/2026-05-27 - Building a Second Brain The Definitive Introductory Guide.md",
+    "inbox/Building a Second Brain The Definitive Introductory Guide.md",
+    "Tiago Forte.md",
+    "Untitled 1.md",
+    "Untitled",
+    "AGENTS.md",
+    "resources/books/2026-05-26 - Building a Second Brain Core Models.md",
+    "archives/next-actions/2026-05-26 - Refactor BASB Notes.md",
+    "resources/books/books.md",
+    "resources/books/2026-05-24 - Essentialism Core Models.md",
+    "archives/next-actions",
     "resources/cuisines",
     "resources/locations",
     "resources/restaurants",
-    "resources/books/books.md",
-    "raw/raw.md",
-    "inbox/2026-05-25 - Codex Agent Skills.md",
     "raw/attachments",
     "raw/exports",
     "raw/html",
-    "raw/images",
-    "raw/pdf",
-    "inbox/2026-05-25 - LLM Wiki Pattern for Persistent Knowledge Bases.md",
-    "areas/areas.md",
-    "inbox/inbox.md",
-    "next/next.md",
-    "projects/projects.md",
-    "resources/2026-05-25 - Badminton Fundamentals and Doubles Positioning.md",
-    "resources/2026-05-25 - Favorite Problems.md",
-    "areas/chess-training",
     "Untitled.canvas"
   ]
 }
