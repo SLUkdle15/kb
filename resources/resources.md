@@ -15,6 +15,7 @@ Examples:
 ## Resource Collections
 
 - [[resources/personal-knowledge-management/personal-knowledge-management|Personal Knowledge Management]]
+- [[resources/software-engineering/software-engineering|Software Engineering]]
 - [[resources/ideas/ideas|Ideas]]
 - [[resources/restaurants/restaurants|Restaurants]]
 

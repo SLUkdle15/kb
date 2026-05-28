@@ -15,3 +15,8 @@ Use this folder for concrete actions that can be done soon.
 ## Rule
 
 Each note should describe a clear next action. If it requires multiple steps and a finish line, promote it to `projects`.
+
+## Current Actions
+
+- [[2026-05-25 - Research Exposure Triangle|Research Exposure Triangle]]
+- [[2026-05-26 - Populate Restaurant DB|Populate Restaurant DB]]

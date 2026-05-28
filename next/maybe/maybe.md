@@ -9,3 +9,7 @@ Use this folder for someday/maybe ideas, optional actions, possible projects, an
 ## Rule
 
 Keep this low-pressure. Review during weekly or monthly review and either promote, archive, or leave for later.
+
+## Items
+
+- [[2026-05-26 - Install Syncthing for KB|Install Syncthing for KB]]

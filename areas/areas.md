@@ -40,3 +40,4 @@ Ask:
 - [[areas/personal-finance/personal-finance|Personal Finance]]
 - [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 - [[areas/career-and-work/career-and-work|Career and Work]]
+- [[areas/software-engineering/software-engineering|Software Engineering]]
