@@ -1,4 +1,4 @@
-# Sushila
+# Sushila - Trich Sai
 
 Cuisine: Japanese, sushi
 Location: 243 Trich Sai
@@ -21,7 +21,7 @@ Menu:
 
 ## Best For
 
-- Sushi and Japanese set meals around Trich Sai.
+- Sushi and Japanese set meals at the Trich Sai branch.
 
 ## Past Experience
 

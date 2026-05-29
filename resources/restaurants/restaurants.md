@@ -25,7 +25,7 @@ Add restaurant links here as notes are created.
 - [[2026-05-26 - PaiOi Cafe|PaiOi Cafe]]
 - [[2026-05-26 - Tojeong Lac Long Quan|Tojeong - Lac Long Quan]]
 - [[2026-05-26 - Ramen Haruki|Ramen Haruki]]
-- [[2026-05-29 - Sushila|Sushila]]
+- [[2026-05-29 - Sushila Trich Sai|Sushila - Trich Sai]]
 
 ## Decision Prompt
 
