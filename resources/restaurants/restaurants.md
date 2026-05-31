@@ -26,6 +26,9 @@ Add restaurant links here as notes are created.
 - [[2026-05-26 - Tojeong Lac Long Quan|Tojeong - Lac Long Quan]]
 - [[2026-05-26 - Ramen Haruki|Ramen Haruki]]
 - [[2026-05-29 - Sushila Trich Sai|Sushila - Trich Sai]]
+- [[2026-05-31 - Paris Baguette Hanoi|Paris Baguette - Hanoi]]
+- [[2026-05-31 - Tojeong Samgyetang Trich Sai|Tojeong Samgyetang - Trich Sai]]
+- [[2026-05-31 - Deep Sii Van Bao|Deep Sii - Van Bao]]
 
 ## Decision Prompt
 
