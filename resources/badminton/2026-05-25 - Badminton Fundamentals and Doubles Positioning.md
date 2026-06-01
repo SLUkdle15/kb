@@ -1,7 +1,7 @@
 
 # Badminton Fundamentals and Doubles Positioning
 
-Related area: [[areas/badminton-training/badminton-training|Badminton Training]]
+Related area: [[areas/badminton/badminton|Badminton]]
 
 ### Guide
 

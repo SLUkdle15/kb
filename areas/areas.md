@@ -32,7 +32,7 @@ Ask:
 
 ## Active Areas
 
-- [[areas/badminton-training/badminton-training|Badminton Training]]
+- [[areas/badminton/badminton|Badminton]]
 - [[areas/chinese-learning/chinese-learning|Chinese Learning]]
 - [[areas/chess-training/chess-training|Chess Training]]
 - [[areas/photography/photography|Photography]]
