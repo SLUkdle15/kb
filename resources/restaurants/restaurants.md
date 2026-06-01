@@ -29,6 +29,8 @@ Add restaurant links here as notes are created.
 - [[2026-05-31 - Paris Baguette Hanoi|Paris Baguette - Hanoi]]
 - [[2026-05-31 - Tojeong Samgyetang Trich Sai|Tojeong Samgyetang - Trich Sai]]
 - [[2026-05-31 - Deep Sii Van Bao|Deep Sii - Van Bao]]
+- [[2026-06-01 - TOUS les JOURS Hoang Dao Thuy|TOUS les JOURS - Hoang Dao Thuy]]
+- [[2026-06-01 - THE 350F|THE 350F]]
 
 ## Decision Prompt
 
