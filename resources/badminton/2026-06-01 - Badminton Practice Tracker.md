@@ -19,7 +19,7 @@ Use this to track badminton practice without turning every session into a projec
 
 ## Current Focus
 
-- 
+-  
 
 ## Weekly Tracker
 
