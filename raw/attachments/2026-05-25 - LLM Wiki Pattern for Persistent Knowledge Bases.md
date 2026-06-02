@@ -1,14 +1,8 @@
----
-title: "LLM Wiki Pattern for Persistent Knowledge Bases"
-source: "https://gist.githubusercontent.com/karpathy/442a6bf555914893e9891c11519de94f/raw/ac46de1ad27f92b28ac95459c782c07f6b8c964a/llm-wiki.md"
-author:
-published:
-created: 2026-05-25
-description:
 # LLM Wiki Pattern for Persistent Knowledge Bases
 
-```
-# LLM Wiki
+Source: [Karpathy gist](https://gist.githubusercontent.com/karpathy/442a6bf555914893e9891c11519de94f/raw/ac46de1ad27f92b28ac95459c782c07f6b8c964a/llm-wiki.md)
+
+## LLM Wiki
 
 A pattern for building personal knowledge bases using LLMs.
 
@@ -82,4 +76,3 @@ The idea is related in spirit to Vannevar Bush's Memex (1945) — a personal, cu
 ## Note
 
 This document is intentionally abstract. It describes the idea, not a specific implementation. The exact directory structure, the schema conventions, the page formats, the tooling — all of that will depend on your domain, your preferences, and your LLM of choice. Everything mentioned above is optional and modular — pick what's useful, ignore what isn't. For example: your sources might be text-only, so you don't need image handling at all. Your wiki might be small enough that the index file is all you need, no search engine required. You might not care about slide decks and just want markdown pages. You might want a completely different set of output formats. The right way to use this is to share it with your LLM agent and work together to instantiate a version that fits your needs. The document's only job is to communicate the pattern. Your LLM can figure out the rest.
-```

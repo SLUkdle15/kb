@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/badminton/2026-06-01 - Badminton Practice Tracker.md",
+                "file": "resources/personal-knowledge-management/2026-05-27 - Capture What Resonates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-01 - Badminton Practice Tracker"
+              "title": "2026-05-27 - Capture What Resonates"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5017547607422
+    "width": 491.5017547607422
   },
   "right": {
     "id": "f8dec191471512f7",
@@ -169,20 +169,25 @@
   },
   "active": "0dd59d66351b2426",
   "lastOpenFiles": [
-    "resources/badminton/2026-05-31 - Badminton Coach Practice.md",
+    "resources/personal-knowledge-management/2026-05-25 - LLM Wiki Pattern for Persistent Knowledge Bases.md",
+    "resources/personal-knowledge-management/2026-05-27 - Capture What Resonates.md",
+    "raw/attachments/2026-05-25 - LLM Wiki Pattern for Persistent Knowledge Bases.md",
+    "resources/software-engineering/2026-05-28 - JavaScript Dev to Main Merge Review Checklist.md",
+    "inbox/2026-05-25 - LLM Wiki Pattern for Persistent Knowledge Bases.md",
+    "resources/software-engineering/2026-06-02 - Skill vs Workflow.md",
+    "inbox/Untitled.md",
+    "inbox/2026-05-25 - Codex Agent Skills.md",
     "resources/badminton/2026-06-01 - Badminton Practice Tracker.md",
+    "resources/badminton/2026-05-31 - Badminton Coach Practice.md",
     "resources/badminton/2026-05-25 - Badminton Fundamentals and Doubles Positioning.md",
     "resources/2026-05-31 - Badminton Coach Practice.md",
     "resources/badminton",
     "resources/2026-06-01 - Badminton Practice Tracker.md",
     "resources/resources.md",
     "resources/2026-05-25 - Badminton Fundamentals and Doubles Positioning.md",
-    "resources/software-engineering/2026-05-28 - JavaScript Dev to Main Merge Review Checklist.md",
     "areas/badminton/badminton.md",
     "areas/badminton",
     "resources/software-engineering/2026-05-25 - Codex Agent Skills.md",
-    "inbox/2026-05-25 - Codex Agent Skills.md",
-    "inbox/2026-05-25 - LLM Wiki Pattern for Persistent Knowledge Bases.md",
     "next/maybe/2026-05-26 - Install Syncthing for KB.md",
     "next/next-actions/2026-05-26 - Populate Restaurant DB.md",
     "next/next-actions/2026-05-25 - Research Exposure Triangle.md",
@@ -192,11 +197,6 @@
     "resources/restaurants/2026-05-26 - Tojeong Lac Long Quan.md",
     "projects/projects.md",
     "resources/restaurants/2026-05-31 - Tojeong Samgyetang Trich Sai.md",
-    "resources/restaurants/2026-05-31 - Paris Baguette Hanoi.md",
-    "inbox/inbox.md",
-    "areas/areas.md",
-    "areas/software-engineering/software-engineering.md",
-    "areas/badminton-training/badminton-training.md",
     "resources/software-engineering",
     "areas/software-engineering",
     "resources/ideas",
