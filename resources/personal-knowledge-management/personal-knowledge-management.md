@@ -4,7 +4,7 @@ Use this collection for reusable notes about capturing, organizing, distilling, 
 
 ## Notes
 
-- [[2026-05-25 - LLM Wiki Pattern for Persistent Knowledge Bases|LLM Wiki Pattern for Persistent Knowledge Bases]]
+- [[resources/personal-knowledge-management/2026-05-25 - LLM Wiki Pattern for Persistent Knowledge Bases|LLM Wiki Pattern for Persistent Knowledge Bases]]
 - [[2026-05-27 - Capture What Resonates|Capture What Resonates]]
 - [[2026-05-27 - Distill Notes|Distill Notes]]
 - [[2026-05-27 - Intermediate Packets|Intermediate Packets]]

@@ -23,7 +23,6 @@ Add restaurant links here as notes are created.
 
 - [[2026-05-26 - HA RIS Brunch & Grill|HA:RIS - Brunch & Grill]]
 - [[2026-05-26 - PaiOi Cafe|PaiOi Cafe]]
-- [[2026-05-26 - Tojeong Lac Long Quan|Tojeong - Lac Long Quan]]
 - [[2026-05-26 - Ramen Haruki|Ramen Haruki]]
 - [[2026-05-29 - Sushila Trich Sai|Sushila - Trich Sai]]
 - [[2026-05-31 - Paris Baguette Hanoi|Paris Baguette - Hanoi]]
@@ -31,6 +30,7 @@ Add restaurant links here as notes are created.
 - [[2026-05-31 - Deep Sii Van Bao|Deep Sii - Van Bao]]
 - [[2026-06-01 - TOUS les JOURS Hoang Dao Thuy|TOUS les JOURS - Hoang Dao Thuy]]
 - [[2026-06-01 - THE 350F|THE 350F]]
+- [[2026-06-03 - Paris Gateaux Nguyen Khanh Toan|Paris Gateaux - Nguyen Khanh Toan]]
 - [[2026-06-05 - Banh Trang Thit Heo Anh Ba|Banh Trang Thit Heo Anh Ba]]
 
 ## Decision Prompt

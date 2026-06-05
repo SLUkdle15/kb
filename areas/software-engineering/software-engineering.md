@@ -21,8 +21,9 @@ Review monthly, or during a weekly review when engineering work is under active 
 
 ## Current Projects
 
--
+- [[projects/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals|Complete Phase 1 Software Architecture Fundamentals]]
 
 ## Related Resources
 
 - [[resources/software-engineering/software-engineering|Software Engineering]]
+- [[resources/software-engineering/software-architecture/software-architecture|Software Architecture]]

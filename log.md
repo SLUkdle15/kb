@@ -33,3 +33,39 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 21
 - Report: /tmp/vault-lint/report.md
+
+## [2026-06-03] lint | Vault health check
+
+- Indexed 60 notes
+- Broken wiki links: 3
+- Orphan notes: 2
+- Projects missing next actions: 0
+- Stale-claim candidates: 32
+- Report: /tmp/vault-lint/report.md
+
+## [2026-06-03] lint | Vault health check
+
+- Indexed 60 notes
+- Broken wiki links: 3
+- Orphan notes: 2
+- Projects missing next actions: 0
+- Stale-claim candidates: 32
+- Report: /tmp/vault-lint/report.md
+
+## [2026-06-05] lint | Vault health check
+
+- Indexed 64 notes
+- Broken wiki links: 2
+- Orphan notes: 2
+- Projects missing next actions: 0
+- Stale-claim candidates: 33
+- Report: /tmp/vault-lint/report.md
+
+## [2026-06-05] lint | Vault health check
+
+- Indexed 64 notes
+- Broken wiki links: 0
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 33
+- Report: /tmp/vault-lint/report.md

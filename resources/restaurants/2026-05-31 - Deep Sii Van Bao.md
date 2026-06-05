@@ -17,7 +17,7 @@ Menu:
 - Reservation:
 - Open late:
 - Delivery:
-- Revisit priority:
+- Revisit priority: no return
 
 ## Best For
 
@@ -32,7 +32,7 @@ Ordered:
 - Bac siu
 
 Ratings:
-- Food: 7
+- Food: low
 - Value:
 - Atmosphere:
 - Convenience:
@@ -40,3 +40,4 @@ Ratings:
 Notes:
 - Usually crowded; weekend is alright.
 - Car parking is ok.
+- Sandwich was dry; do not return.

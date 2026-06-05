@@ -24,3 +24,7 @@ Examples:
 Review only when needed.
 
 Archives are designed to reduce clutter without deleting useful context.
+
+## Archive Indexes
+
+- [[archives/next-actions/2026|Completed next actions - 2026]]

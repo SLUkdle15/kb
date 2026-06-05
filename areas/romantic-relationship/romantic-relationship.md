@@ -24,4 +24,4 @@ Review monthly, or weekly when the relationship needs active attention.
 
 ## Related Resources
 
-- 
+- [[2026-06-05 - Love Rules|Love Rules]]
