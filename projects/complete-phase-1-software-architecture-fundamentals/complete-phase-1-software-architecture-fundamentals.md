@@ -21,7 +21,6 @@ No deadline.
 - [[next/next-actions/2026-06-03 - Study Phase 1 Architecture Characteristics]]
 - [[next/next-actions/2026-06-03 - Write Architecture Characteristics Review]]
 - [[next/next-actions/2026-06-03 - Write Three Phase 1 ADRs]]
-- [[next/next-actions/2026-06-03 - Draft Phase 1 Architecture Review]]
 
 ## Notes
 

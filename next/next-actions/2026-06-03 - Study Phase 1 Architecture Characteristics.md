@@ -8,7 +8,7 @@ Study the Phase 1 architecture characteristics from *Fundamentals of Software Ar
 
 ## Done When
 
-- [ ] Review scalability, availability, reliability, maintainability, deploy-ability, security, performance, observability, cost, and simplicity.
-- [ ] For each characteristic, write what it means.
-- [ ] For each characteristic, write why the business cares.
+- [x] Review scalability, availability, reliability, maintainability, deploy-ability, security, performance, observability, cost, and simplicity.
+- [x] For each characteristic, write what it means.
+- [x] For each characteristic, write why the business cares.
 - [ ] For each characteristic, write one measurement and one trade-off.

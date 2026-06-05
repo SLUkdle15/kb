@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Untitled.md",
+                "file": "resources/software-engineering/software-architecture/case-studies/2026-06-05 - FTEL Contract Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2026-06-05 - FTEL Contract Management"
             }
           }
         ]
@@ -169,42 +169,41 @@
   },
   "active": "0dd59d66351b2426",
   "lastOpenFiles": [
-    "resources/badminton/2026-06-01 - Badminton Practice Tracker.md",
-    "inbox/Untitled.md",
-    "resources/badminton/2026-05-31 - Badminton Coach Practice.md",
-    "resources/badminton/2026-05-25 - Badminton Fundamentals and Doubles Positioning.md",
-    "2026-06-05.md",
-    "Untitled.canvas",
-    "resources/software-engineering/software-architecture/case-studies/2026-06-05 - FTEL Contract Management.md",
-    "areas/romantic-relationship/2026-06-05 - Love Rules.md",
-    "resources/software-engineering/software-architecture/adr/architecture-decision-records.md",
-    "projects/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals.md",
-    "archives/next-actions/2026-06-03 - Choose System for Phase 1 Architecture Review.md",
-    "next/next-actions/2026-06-03 - Choose System for Phase 1 Architecture Review.md",
-    "inbox/2026-06-05 - Architecture Case Study FCM.md",
-    "next/next-actions/2026-05-25 - Research Exposure Triangle.md",
-    "resources/software-engineering/software-architecture/2026-06-03 - Software Architect Roadmap.md",
     "resources/software-engineering/software-architecture/case-studies/architecture-case-studies.md",
-    "resources/software-engineering/software-architecture/case-studies",
-    "resources/software-engineering/software-architecture/adr",
     "next/next-actions/2026-06-03 - Write Three Phase 1 ADRs.md",
     "next/next-actions/2026-06-03 - Write Architecture Characteristics Review.md",
     "next/next-actions/2026-06-03 - Study Phase 1 Architecture Characteristics.md",
+    "resources/software-engineering/software-architecture/case-studies/2026-06-05 - FTEL Contract Management.md",
+    "next/next-actions/2026-05-25 - Research Exposure Triangle.md",
+    "projects/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals.md",
+    "inbox/Untitled 1.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "archives/next-actions/2026-06-03 - Draft Phase 1 Architecture Review.md",
     "next/next-actions/2026-06-03 - Draft Phase 1 Architecture Review.md",
+    "resources/badminton/2026-05-25 - Badminton Fundamentals and Doubles Positioning.md",
+    "resources/software-engineering/software-architecture/2026-06-03 - Software Architect Roadmap.md",
+    "inbox/Untitled.md",
+    "resources/badminton/2026-06-01 - Badminton Practice Tracker.md",
+    "resources/badminton/2026-05-31 - Badminton Coach Practice.md",
+    "2026-06-05.md",
+    "areas/romantic-relationship/2026-06-05 - Love Rules.md",
+    "resources/software-engineering/software-architecture/adr/architecture-decision-records.md",
+    "archives/next-actions/2026-06-03 - Choose System for Phase 1 Architecture Review.md",
+    "next/next-actions/2026-06-03 - Choose System for Phase 1 Architecture Review.md",
+    "inbox/2026-06-05 - Architecture Case Study FCM.md",
+    "resources/software-engineering/software-architecture/case-studies",
+    "resources/software-engineering/software-architecture/adr",
     "archives/archives.md",
     "archives/next-actions/2026.md",
     "archives/next-actions/2026-05-26 - Populate Restaurant DB.md",
     "projects/projects.md",
-    "archives/2026-05-26 - Populate Restaurant DB.md",
-    "resources/restaurants/2026-06-03 - Paris Gateaux Nguyen Khanh Toan.md",
-    "resources/personal-knowledge-management/2026-05-27 - Building a Second Brain Introductory Guide.md",
     "resources/software-engineering/software-architecture",
     "projects/complete-phase-1-software-architecture-fundamentals",
     "projects/build-first-software-architecture-case-study",
     "resources/badminton",
     "areas/badminton",
     "resources/software-engineering",
-    "areas/software-engineering",
-    "resources/ideas"
+    "areas/software-engineering"
   ]
 }
