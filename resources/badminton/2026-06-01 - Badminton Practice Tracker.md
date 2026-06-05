@@ -19,7 +19,7 @@ Use this to track badminton practice without turning every session into a projec
 
 ## Current Focus
 
--  
+-  [[2026-05-25 - Badminton Fundamentals and Doubles Positioning]]
 
 ## Weekly Tracker
 
@@ -32,7 +32,7 @@ Use this to track badminton practice without turning every session into a projec
 
 | Skill | Current Level | Evidence | Next Drill |
 |---|---|---|---|
-| Footwork | Needs work | [[resources/badminton/2026-05-31 - Badminton Coach Practice|Coach feedback]]: redundant steps; weak net play and rear-corner movement | 4-corner footwork drill |
+| Footwork | Needs work | Coach feedback: [[resources/badminton/2026-05-31 - Badminton Coach Practice]]; redundant steps; weak net play and rear-corner movement | 4-corner footwork drill |
 | Serve |  |  |  |
 | Clear |  |  |  |
 | Drop |  |  |  |
@@ -48,41 +48,6 @@ Use this to track badminton practice without turning every session into a projec
 | 2026-05-31 | Coach practice | 2h | Footwork for net play and both rear corners | [[resources/badminton/2026-05-31 - Badminton Coach Practice|Many redundant steps; smash preparation footwork needs work]] | 4-corner footwork and resistance band endurance |
 |  | Self practice |  |  |  |  |
 |  | Coach practice |  |  |  |  |
-
-## Self Practice Template
-
-```md
-# Badminton Self Practice - YYYY-MM-DD
-
-Related area: [[areas/badminton/badminton|Badminton]]
-Tracker: [[resources/badminton/2026-06-01 - Badminton Practice Tracker|Badminton Practice Tracker]]
-
-## Session
-
-Date:
-Duration:
-Location:
-
-## Focus
-
-- 
-
-## Drills
-
-| Drill | Volume | Result |
-|---|---|---|
-|  |  |  |
-
-## Notes
-
-- Worked:
-- Weak:
-- Adjustment:
-
-## Follow-up
-
-- 
-```
 
 ## Coach Practice Template
 
