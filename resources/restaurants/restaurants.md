@@ -31,6 +31,7 @@ Add restaurant links here as notes are created.
 - [[2026-05-31 - Deep Sii Van Bao|Deep Sii - Van Bao]]
 - [[2026-06-01 - TOUS les JOURS Hoang Dao Thuy|TOUS les JOURS - Hoang Dao Thuy]]
 - [[2026-06-01 - THE 350F|THE 350F]]
+- [[2026-06-05 - Banh Trang Thit Heo Anh Ba|Banh Trang Thit Heo Anh Ba]]
 
 ## Decision Prompt
 
