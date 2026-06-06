@@ -18,6 +18,18 @@ Maintain the romantic relationship, communication habits, shared commitments, an
 
 Review monthly, or weekly when the relationship needs active attention.
 
+## Things to Remember About Her
+
+- She has low blood pressure.
+- She likes the green color of sunlight passing through leaves.
+- She likes grapes, papaya, guava, oranges, tangerines, and watermelon.
+
+## Relationship Milestones
+
+- First meeting: We met at a coffee shop. She wore a blue collarless long-sleeve shirt, white pants, and a blue bag.
+- First time I said "I love you": We were eating grilled eggs, and she took me home. She wore a yellow shirt and blue jeans.
+- First time we held hands: She wore an all-white outfit.
+
 ## Current Projects
 
 - 
