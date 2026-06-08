@@ -38,6 +38,3 @@ How will I ensure compliance with this decision?
 
 ## Notes
 ```
-## ADRs
-
-- [[resources/software-engineering/software-architecture/adr/0001 - Use a modular monolith as a single WAR|Use a Modular Monolith as a Single WAR]]
