@@ -18,34 +18,26 @@ Use the next available number and a short decision phrase that reads well in a d
 ```md
 # Decision Title
 
-ADR:
-Date:
-Status:
-Scope:
-Category:
 Case study:
 
 ## Context
 
+What is forcing me to make this decision?
+
 ## Decision
+
+What is the decision and corresponding justification?
 
 ## Consequences
 
-## Alternatives
+What is the impact of this decision?
+
+## Compliance
+
+How will I ensure compliance with this decision?
+
+## Notes
 ```
-
-## Scopes
-
-- Application
-- Integration
-- Enterprise
-
-## Categories
-
-- Common
-- ATP
-- PSTD
-
 ## ADRs
 
-- 
+- [[resources/software-engineering/software-architecture/adr/0001 - Use a modular monolith as a single WAR|Use a Modular Monolith as a Single WAR]]
