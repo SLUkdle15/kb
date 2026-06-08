@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/2026-06-08 - Software Architecture Fundamentals.md",
+                "file": "resources/software-engineering/software-architecture/2026-06-03 - Software Architect Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-08 - Software Architecture Fundamentals"
+              "title": "2026-06-03 - Software Architect Roadmap"
             }
           }
         ]
@@ -169,11 +169,13 @@
   },
   "active": "0dd59d66351b2426",
   "lastOpenFiles": [
-    "resources/restaurants/restaurants.md",
-    "resources/2026-06-08 - Software Architecture Fundamentals.md",
+    "resources/software-engineering/software-architecture/2026-06-08 - Software Architecture Fundamentals.md",
     "resources/software-engineering/software-architecture/2026-06-03 - Software Architect Roadmap.md",
-    "resources/software-engineering/software-architecture/case-studies/2026-06-05 - FTEL Contract Management.md",
+    "resources/software-engineering/software-architecture/software-architecture.md",
     "resources/software-engineering/software-architecture/adr/architecture-decision-records.md",
+    "resources/software-engineering/software-engineering.md",
+    "resources/restaurants/restaurants.md",
+    "resources/software-engineering/software-architecture/case-studies/2026-06-05 - FTEL Contract Management.md",
     "resources/software-engineering/software-architecture/adr/0001 - Use a modular monolith as a single WAR.md",
     "inbox/Untitled.md",
     "resources/software-engineering/software-architecture/case-studies/architecture-case-studies.md",
@@ -193,9 +195,6 @@
     "Untitled.md",
     "Untitled",
     "resources/restaurants/2026-05-26 - Ramen Haruki.md",
-    "resources/restaurants/2026-05-29 - Sushila Trich Sai.md",
-    "resources/restaurants/2026-05-31 - Deep Sii Van Bao.md",
-    "resources/restaurants/2026-05-31 - Paris Baguette Hanoi.md",
     "Untitled.base",
     "Untitled.canvas",
     "resources/software-engineering/software-architecture/case-studies",
