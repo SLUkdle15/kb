@@ -33,6 +33,7 @@ Add restaurant links here as notes are created.
 - [[2026-06-03 - Paris Gateaux Nguyen Khanh Toan|Paris Gateaux - Nguyen Khanh Toan]]
 - [[2026-06-05 - Banh Trang Thit Heo Anh Ba|Banh Trang Thit Heo Anh Ba]]
 - [[2026-06-06 - O An Quan Phan Ke Binh|O An Quan - Phan Ke Binh]]
+- [[2026-06-09 - Rani Kissaten|Rani Kissaten]]
 
 ## Decision Prompt
 
