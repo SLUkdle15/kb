@@ -35,6 +35,7 @@ Add restaurant links here as notes are created.
 - [[2026-06-06 - O An Quan Phan Ke Binh|O An Quan - Phan Ke Binh]]
 - [[2026-06-09 - Rani Kissaten|Rani Kissaten]]
 - [[2026-06-13 - 1986'S Tea & Coffee|1986'S Tea & Coffee]]
+- [[2026-06-13 - Aeon Bakery|Aeon Bakery]]
 
 ## Decision Prompt
 

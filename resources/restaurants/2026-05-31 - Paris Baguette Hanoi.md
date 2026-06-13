@@ -25,12 +25,13 @@ Menu:
 
 ## Past Experience
 
-Visited:
+Visited: 2026-06-13
 
 Ordered:
+- Caramel walnut pound cake (S) — too sweet
 
 Ratings:
-- Food:
+- Food: 5/10
 - Value:
 - Atmosphere:
 - Convenience:
