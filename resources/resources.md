@@ -18,6 +18,7 @@ Examples:
 - [[resources/software-engineering/software-engineering|Software Engineering]]
 - [[resources/ideas/ideas|Ideas]]
 - [[resources/restaurants/restaurants|Restaurants]]
+- [[resources/places/places|Places]]
 
 ## What Does Not Belong Here
 
