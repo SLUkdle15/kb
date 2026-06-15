@@ -36,6 +36,11 @@ Add restaurant links here as notes are created.
 - [[2026-06-09 - Rani Kissaten|Rani Kissaten]]
 - [[2026-06-13 - 1986'S Tea & Coffee|1986'S Tea & Coffee]]
 - [[2026-06-13 - Aeon Bakery|Aeon Bakery]]
+- [[2026-06-15 - Cafe Dinh|Cafe Dinh]]
+- [[2026-06-15 - Cha Ca Thang Long|Cha Ca Thang Long]]
+- [[2026-06-15 - Vua Cha Ca|Vua Cha Ca]]
+- [[2026-06-13 - Ushimania Royal City|Ushimania - Royal City]]
+- [[2026-06-15 - Pho Ink Le Thai To|Pho Ink - Le Thai To]]
 
 ## Decision Prompt
 
