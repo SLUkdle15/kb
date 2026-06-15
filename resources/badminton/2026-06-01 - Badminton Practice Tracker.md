@@ -27,6 +27,7 @@ Use this to track badminton practice without turning every session into a projec
 |---|---:|---:|---:|---|---|---|---|
 | 2026-W22 | 0 | 1 | 2 | Footwork |  | Redundant steps; weak net play and rear-corner movement for smash preparation | 4-corner footwork and resistance band endurance |
 | 2026-W23 | 0 | 0 | 0 |  |  |  |  |
+| 2026-W24 | 0 | 1 |  | Overhead swing |  | Hand pulls too far back; poor contact point | Smash → clear |
 
 ## Skill Tracker
 
@@ -34,9 +35,9 @@ Use this to track badminton practice without turning every session into a projec
 |---|---|---|---|
 | Footwork | Needs work | Coach feedback: [[resources/badminton/2026-05-31 - Badminton Coach Practice]]; redundant steps; weak net play and rear-corner movement | 4-corner footwork drill |
 | Serve |  |  |  |
-| Clear |  |  |  |
+| Clear | Needs work | Coach feedback: [[resources/badminton/2026-06-14 - Badminton Coach Practice]]; hand pulls too far back; poor contact point | Smash → clear drill |
 | Drop |  |  |  |
-| Smash |  |  |  |
+| Smash | Needs work | Coach feedback: [[resources/badminton/2026-06-14 - Badminton Coach Practice]]; hand pulls too far back; poor contact point | Smash → clear drill |
 | Drive |  |  |  |
 | Net play |  |  |  |
 | Doubles positioning |  |  |  |
@@ -46,6 +47,7 @@ Use this to track badminton practice without turning every session into a projec
 | Date | Type | Duration | Focus | Result | Follow-up |
 |---|---|---:|---|---|---|
 | 2026-05-31 | Coach practice | 2h | Footwork for net play and both rear corners | [[resources/badminton/2026-05-31 - Badminton Coach Practice|Many redundant steps; smash preparation footwork needs work]] | 4-corner footwork and resistance band endurance |
+| 2026-06-14 | Coach practice |  | Overhead swing | [[resources/badminton/2026-06-14 - Badminton Coach Practice|Hand pulls too far back; poor contact point]] | Smash → clear drill |
 |  | Self practice |  |  |  |  |
 |  | Coach practice |  |  |  |  |
 
