@@ -8,15 +8,19 @@ Kristin Neff, *Self-Compassion*
 
 When I feel hurt, lonely, angry, rejected, inferior, excluded, criticized, pressured, or unsupported.:
 
-- My team leader lets someone else do work that I expected to do.
-- My friends talk about a hobby that does not include me.
-- My soccer teammates or partners do not cover or support me.
-- My Khue is angry at me.
-- My dad criticizes, judges, or pressures me about what he wants me to do.
-- My mom asks me to do things I do not want to do.
-- I compare myself negatively because of my clothes, my job, or my relationship.
+- My team leader, my co-work Thanh talking about the stuff I don't know -> inferior
+- My friend Thanh is talking about stuff (gym) or carry gym bag or buy banana -> inferior
+- My friend Duong is talking about going to play badminton with his friends -> inferior
+- My soccer teammates beat me on duel -> inferior
+- My dad criticizes, judges, or pressures me about Chelsea about going abroad -> hurt
+- My mom asks me to do things I do not want to do. -> hurt
+- I compare myself negatively because of 
+	- my clothes with Mr Thanh -> inferior, excluded
+	- my relationships with my parents or my relatives -> inferior
+	- my job with my highschool class mate -> inferior
 
-## Why
+## Why do I feel
+
 The feedback loop:
 
 > Feel superior or expect something → Reality does not match → Feel hurt → Attack myself → Feel worse → Need to feel superior again
@@ -35,9 +39,9 @@ Silently label the experience:
 
 ### Use the self-compassion mantra
 
-This is a moment of suffering.  
-Suffering is part of life.  
-May I be kind to myself in this moment.  
+This is a moment of suffering.   -> noticing: mindfulness
+Suffering is part of life.  -> common humanity
+May I be kind to myself in this moment.  -> kindness
 May I give myself the compassion I need.
 
 ### Use supportive touch
@@ -65,6 +69,8 @@ Try:
 
 Moving from judgement -> understanding
 
+**Inner voice Ask**: "What would I say to a close friend in this exact situation?" Then say that to yourself.
+
 ### Write and reflect
 
 Write for a few minutes:
@@ -76,11 +82,9 @@ Write for a few minutes:
 - What is a kinder and more balanced view?
 - What is one wise action I can take?
 
-### Ask the key question
+### Fierce Compassion
 
-> _Is this a situation to accept — or a situation to change?_
+Tender compassion: soothe and accept. Fierce compassion: protect and act. speak up / set a limit / have an honest conversation -> to the one who might hurt you The question is: What do I genuinely need here, and what would caring for myself look like? This is not resentment.
 
-- **Accept:** feel the feeling, use the mantra, let it pass
-- **Change:** speak up to my team leader, set a limit with my mom, have an honest conversation with my dad, take responsibility with Khue
-
-These practices are meant to train daily
+These practices are meant to train daily 
+Informal: the in-the-moment steps, triggered by daily life. Formal: 5-minute self-compassion break — bring a mild difficulty to mind, run through the three components slowly to build the reflex. Backdraft: If old pain surfaces when I practice, don't stop. It means the practice is reaching something real.

@@ -41,6 +41,8 @@ Add restaurant links here as notes are created.
 - [[2026-06-15 - Vua Cha Ca|Vua Cha Ca]]
 - [[2026-06-13 - Ushimania Royal City|Ushimania - Royal City]]
 - [[2026-06-15 - Pho Ink Le Thai To|Pho Ink - Le Thai To]]
+- [[2026-06-20 - Cuon Sen Original Co So 3|CUỐN SEN Original - Cơ Sở 3]]
+- [[2026-06-20 - Don Chicken Hang Bong|Don Chicken - Hàng Bông]]
 
 ## Decision Prompt
 
