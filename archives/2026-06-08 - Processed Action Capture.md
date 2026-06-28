@@ -2,9 +2,9 @@
 
 Split into:
 
-- [[next/next-actions/2026-06-08 - Implement Datahub and Datatable Updates]]
+- Implement Datahub and Datatable Updates
 - [[next/next-actions/2026-06-08 - Visit a Bookstore]]
-- [[next/next-actions/2026-06-08 - Check VJSS Soccer Class]]
+- Check VJSS Soccer Class
 
 ## Original Capture
 
