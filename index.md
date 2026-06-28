@@ -16,7 +16,6 @@ The vault is organized by actionability. The most important question is not "Wha
 - [[areas/areas]]
 - [[resources/resources]]
 - [[archives/archives]]
-- [[raw/raw]]
 
 ## Operating Principles
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
+                "file": "inbox/inbox.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "inbox"
             }
           }
         ],
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inbox/inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for inbox"
             }
           },
           {
@@ -167,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,11 +184,33 @@
   },
   "active": "49e1c2da1aa6185a",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
     "Untitled.md",
-    "Untitled.canvas",
+    "inbox/2026-06-28 - Untitled.md",
     "inbox/inbox.md",
+    "resources/software-engineering/software-architecture/adr/0001 - Use a modular monolith as a single WAR.md",
+    "resources/software-engineering/software-engineering.md.tmp.630.42a7558a9a37",
+    "resources/software-engineering/2026-05-25 - LLM Wiki Pattern for Persistent Knowledge Bases.md",
+    "resources/software-engineering/software-architecture/adr/0002 - Choose Email to Reference Instead of ID.md",
+    "next/next-actions/2026-06-08 - Visit a Bookstore.md",
+    "next/next-actions/2026-06-28 - Fill In ADR 0002 Choose Email to Reference Instead of ID.md",
+    "next/next-actions/2026-06-28 - Fill In ADR 0002 Choose Email to Reference Instead of ID.md.tmp.630.be60aa860235",
+    "resources/software-engineering/software-architecture/adr/0002 - Choose Email to Reference Instead of ID.md.tmp.630.c061a5e08090",
+    "resources/software-engineering/software-architecture/2026-06-22 - Reverse Proxy Host Header Rewriting for Third-Party Callbacks.md",
+    "resources/software-engineering/software-architecture/2026-06-08 - Software Architecture Fundamentals.md",
+    "resources/software-engineering/software-architecture/2026-06-03 - Software Architect Roadmap.md",
+    "next/next-actions/2026-06-08 - Check VJSS Soccer Class.md",
+    "areas/romantic-relationship/romantic-relationship.md.tmp.630.f0efbc82d231",
+    "next/next-actions/2026-06-13 - Plan Monday to Thursday After Soccer Moves to Friday.md",
     "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
+    "index.md.tmp.630.996a61fe6a64",
+    "resources/software-engineering/software-architecture/software-architecture.md.tmp.630.3230c5c332a6",
+    "resources/2026-05-25 - Favorite Problems.md",
+    "resources/software-engineering/2026-06-02 - Skill vs Workflow.md",
+    "resources/software-engineering/2026-05-28 - JavaScript Dev to Main Merge Review Checklist.md",
+    "resources/software-engineering/software-architecture/software-architecture.md",
+    "resources/badminton/2026-05-25 - Badminton Fundamentals and Doubles Positioning.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "resources/restaurants/2026-05-31 - Paris Baguette Hanoi.md",
     "resources/places/places.md.tmp.1178.cac30d4e1ce5",
     "resources/places/2026-06-13 - Squid Fishing at Cai Rong Port.md",
@@ -196,30 +218,9 @@
     "resources/resources.md.tmp.1178.f5c4078ff041",
     "resources/places/places.md",
     "resources/places/places.md.tmp.1178.8c408c9c030f",
-    "resources/places",
-    "resources/restaurants/2026-05-31 - Paris Baguette Hanoi.md.tmp.1178.c5563f0ab846",
-    "next/next-actions/2026-06-13 - Plan Monday to Thursday After Soccer Moves to Friday.md",
-    "resources/restaurants/restaurants.md.tmp.1178.1835e32255d4",
     "resources/restaurants/2026-06-13 - Aeon Bakery.md",
-    "resources/restaurants/2026-06-13 - Aeon Bakery.md.tmp.1178.589165c65d14",
-    "next/maybe/maybe.md.tmp.1178.56dd3d6ddb8b",
     "next/maybe/2026-06-13 - Watch Ponyo on the Cliff by the Sea.md",
-    "next/maybe/2026-06-13 - Watch Ponyo on the Cliff by the Sea.md.tmp.1178.4e79ef15789e",
-    "next/next-actions/2026-06-08 - Visit a Bookstore.md",
     "next/next-actions/2026-06-08 - Implement Datahub and Datatable Updates.md",
-    "next/next-actions/2026-06-08 - Check VJSS Soccer Class.md",
-    "next/next-actions/2026-06-03 - Write Three Phase 1 ADRs.md",
-    "next/next-actions/2026-06-03 - Write Architecture Characteristics Review.md",
-    "next/next-actions/2026-05-25 - Research Exposure Triangle.md",
-    "next/next-actions/2026-06-13 - Refactor Notion.md",
-    "next/next-actions/2026-06-13 - Decide What to Do With Chinese Anki.md",
-    "resources/restaurants/2026-06-13 - 1986'S Tea & Coffee.md",
-    "resources/restaurants/2026-06-09 - Rani Kissaten.md",
-    "resources/restaurants/2026-06-06 - O An Quan Phan Ke Binh.md",
-    "resources/restaurants/2026-06-05 - Banh Trang Thit Heo Anh Ba.md",
-    "resources/restaurants/2026-06-03 - Paris Gateaux Nguyen Khanh Toan.md",
-    "resources/restaurants/2026-06-01 - TOUS les JOURS Hoang Dao Thuy.md",
-    "resources/restaurants/2026-06-01 - THE 350F.md",
-    "resources/restaurants/2026-05-31 - Tojeong Samgyetang Trich Sai.md"
+    "next/next-actions/2026-06-03 - Write Three Phase 1 ADRs.md"
   ]
 }

@@ -11,3 +11,4 @@ Related area: [[areas/software-engineering/software-engineering|Software Enginee
 - [[resources/software-engineering/software-architecture/adr/architecture-decision-records|Architecture Decision Records]]
 - [[resources/software-engineering/software-architecture/case-studies/architecture-case-studies|Architecture Case Studies]]
 - [[2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]
+- [[2026-06-08 - Software Architecture Fundamentals|Software Architecture Fundamentals]]
