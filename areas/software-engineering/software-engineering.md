@@ -27,3 +27,4 @@ Review monthly, or during a weekly review when engineering work is under active 
 
 - [[resources/software-engineering/software-engineering|Software Engineering]]
 - [[resources/software-engineering/software-architecture/software-architecture|Software Architecture]]
+- [[resources/software-engineering/software-architecture/2026-06-22 - Reverse Proxy Host Header Rewriting for Third-Party Callbacks|Reverse Proxy Host Header Rewriting for Third-Party Callbacks]]

@@ -114,3 +114,12 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 48
 - Report: /tmp/vault-lint/report.md
+
+## [2026-07-11] lint | Vault health check
+
+- Indexed 99 notes
+- Broken wiki links: 0
+- Orphan notes: 12
+- Projects missing next actions: 0
+- Stale-claim candidates: 48
+- Report: /tmp/vault-lint/report.md
