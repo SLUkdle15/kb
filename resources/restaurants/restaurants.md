@@ -46,6 +46,7 @@ Add restaurant links here as notes are created.
 - [[2026-06-28 - Vi An|Vi An]]
 - [[2026-06-28 - Maxbook Coffee|Maxbook Coffee]]
 - [[2026-06-28 - Biblio Cafe Sach Chua Boc|Biblio - Book Cafe Chua Boc]]
+- [[2026-07-12 - Hokkaido Sachi|Hokkaido Sachi]]
 
 ## Decision Prompt
 
