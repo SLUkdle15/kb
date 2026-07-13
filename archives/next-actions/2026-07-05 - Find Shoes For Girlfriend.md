@@ -1,5 +1,8 @@
 # Find Shoes For Girlfriend
 
+Status: complete
+Completed: 2026-07-13
+
 ## Action
 
 Find/buy shoes for girlfriend. Sizes to check against:
@@ -10,4 +13,4 @@ Find/buy shoes for girlfriend. Sizes to check against:
 
 ## Done When
 
-- Shoes are found/bought in the right size.
+- [x] Shoes are found/bought in the right size.
