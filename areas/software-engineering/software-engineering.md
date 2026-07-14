@@ -19,6 +19,10 @@ Maintain software engineering craft, delivery quality, development workflows, te
 
 Review monthly, or during a weekly review when engineering work is under active pressure.
 
+## Plans
+
+- [[areas/software-engineering/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]
+
 ## Current Projects
 
 - [[projects/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals|Complete Phase 1 Software Architecture Fundamentals]]
@@ -27,4 +31,4 @@ Review monthly, or during a weekly review when engineering work is under active 
 
 - [[resources/software-engineering/software-engineering|Software Engineering]]
 - [[resources/software-engineering/software-architecture/software-architecture|Software Architecture]]
-- [[resources/software-engineering/software-architecture/2026-06-22 - Reverse Proxy Host Header Rewriting for Third-Party Callbacks|Reverse Proxy Host Header Rewriting for Third-Party Callbacks]]
+- [[resources/software-engineering/infrastructure/2026-06-22 - Reverse Proxy Host Header Rewriting for Third-Party Callbacks|Reverse Proxy Host Header Rewriting for Third-Party Callbacks]]

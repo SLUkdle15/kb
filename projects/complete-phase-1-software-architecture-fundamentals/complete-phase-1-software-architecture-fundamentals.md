@@ -2,7 +2,7 @@
 
 ## Outcome
 
-Build the Phase 1 software architecture fundamentals mindset from [[resources/software-engineering/software-architecture/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]: explain trade-offs, identify architecture characteristics, document technical decisions, and review a real system from business, technical, and operational perspectives.
+Build the Phase 1 software architecture fundamentals mindset from [[areas/software-engineering/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]: explain trade-offs, identify architecture characteristics, document technical decisions, and review a real system from business, technical, and operational perspectives.
 
 ## Deadline
 
@@ -24,7 +24,7 @@ No deadline.
 
 ## Notes
 
-- Source: [[resources/software-engineering/software-architecture/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]
+- Source: [[areas/software-engineering/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]
 - Case study: [[resources/software-engineering/software-architecture/case-studies/2026-06-05 - FTEL Contract Management|FTEL Contract Management]]
 - Rule for Phase 1: for every 1 hour reading, spend 2 hours writing or designing.
 - Main resource: *Fundamentals of Software Architecture*.
