@@ -2,8 +2,6 @@
 
 ## Context
 
-## Decision
-
 ## Consequences
 
 ## Compliance

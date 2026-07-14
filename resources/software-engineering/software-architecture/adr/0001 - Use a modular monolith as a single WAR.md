@@ -7,11 +7,6 @@ Case study: [[resources/software-engineering/software-architecture/case-studies/
 - The team needs a deployable structure for FCM that fits the existing Maven and WAR-based service setup.
 - Shared concerns such as `fcm-common`, `fcm-common-domain`, and `fcm-common-kafka` are already factored into library modules used by `fcm-service`.
 
-## Decision
-
-- Keep FCM as a modular monolith: one deployable `fcm-service` WAR with shared concerns in library modules.
-- Keep API clients separate from domain libraries.
-
 ## Consequences
 
 - Familiar structure for the team and works well with Maven.
