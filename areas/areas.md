@@ -33,7 +33,6 @@ Ask:
 ## Active Areas
 
 - [[areas/badminton/badminton|Badminton]]
-- [[areas/chess-training/chess-training|Chess Training]]
 - [[areas/photography/photography|Photography]]
 - [[areas/golf-training/golf-training|Golf Training]]
 - [[areas/personal-finance/personal-finance|Personal Finance]]

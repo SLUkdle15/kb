@@ -8,7 +8,6 @@ Examples:
 
 - Software architecture patterns
 - Golf training ideas
-- Chess study resources
 - Tax and finance references
 - AI coding agent workflows
 
