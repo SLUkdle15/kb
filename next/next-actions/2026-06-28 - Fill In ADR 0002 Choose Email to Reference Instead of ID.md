@@ -1,6 +1,6 @@
 # Fill In ADR 0002 Choose Email to Reference Instead of ID
 
-Related area: [[areas/software-engineering/software-engineering]]
+Related area: [[areas/software-architecture/software-architecture]]
 
 ## Action
 

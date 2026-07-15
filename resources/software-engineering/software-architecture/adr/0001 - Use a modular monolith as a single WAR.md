@@ -1,11 +1,16 @@
 # Use a Modular Monolith as a Single WAR
 
-Case study: [[resources/software-engineering/software-architecture/case-studies/2026-06-05 - FTEL Contract Management|FTEL Contract Management]]
+System: [[resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview|FCM]]
 
 ## Context
 
 - The team needs a deployable structure for FCM that fits the existing Maven and WAR-based service setup.
 - Shared concerns such as `fcm-common`, `fcm-common-domain`, and `fcm-common-kafka` are already factored into library modules used by `fcm-service`.
+
+## Decision
+
+- Keep FCM as a modular monolith: one deployable `fcm-service` WAR with shared concerns in library modules.
+- Keep API clients separate from domain libraries.
 
 ## Consequences
 

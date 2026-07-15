@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
+                "file": "resources/personal-knowledge-management/2026-05-27 - Intermediate Packets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-09 - Self-Compassion Response to Emotional Triggers"
+              "title": "2026-05-27 - Intermediate Packets"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
+                "file": "resources/personal-knowledge-management/2026-05-27 - Intermediate Packets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-06-09 - Self-Compassion Response to Emotional Triggers"
+              "title": "Backlinks for 2026-05-27 - Intermediate Packets"
             }
           },
           {
@@ -182,44 +182,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "c4c6b084ea9b2576",
+  "active": "8ac0df24938cd539",
   "lastOpenFiles": [
-    "resources/software-engineering/software-architecture/software-architecture.md.tmp.531755.c9201209ccc0",
-    "resources/software-engineering/software-architecture/2026-07-14 - What a Software Architect Needs to Do.md",
-    "resources/software-engineering/software-architecture/2026-07-14 - What a Software Architect Needs to Do.md.tmp.531755.19d93ff3634d",
     "resources/2026-05-25 - Favorite Problems.md",
-    "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
-    "inbox/What an SA need to do?.md",
-    "resources/software-engineering/software-architecture/case-studies/2026-06-05 - FTEL Contract Management.md",
-    "resources/software-engineering/software-architecture/adr/0002 - Choose Email to Reference Instead of ID.md",
-    "resources/software-engineering/software-architecture/adr/0001 - Use a modular monolith as a single WAR.md",
-    "Untitled.md",
-    "index.md",
-    "areas/areas.md",
-    "log.md",
-    "CLAUDE.md",
-    "AGENTS.md",
-    "resources/software-engineering/software-architecture/bug/2026-06-28 - eContract Gateway Misconfiguration Incident.md",
-    "resources/resources.md.tmp.457548.f198a4b4e526",
-    "areas/areas.md.tmp.457548.da5ea95ea57b",
-    "areas/chess-training/chess-training.md",
-    "areas/software-engineering/2026-06-03 - Software Architect Roadmap.md.tmp.457548.6da05cfb654a",
-    "projects/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals.md.tmp.457548.0430ca73a201",
-    "projects/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals.md.tmp.457548.8f52391ac9c1",
-    "areas/software-engineering/software-engineering.md.tmp.457548.6a94ee849109",
-    "resources/software-engineering/software-engineering.md.tmp.457548.b77a54769507",
-    "resources/software-engineering/software-architecture/software-architecture.md.tmp.457548.e1ad47e2739f",
-    "resources/software-engineering/software-architecture/2026-06-08 - Software Architecture Fundamentals.md",
-    "resources/software-engineering/infrastructure/infrastructure.md",
-    "resources/software-engineering/infrastructure/infrastructure.md.tmp.457548.b34e1550bc63",
-    "resources/software-engineering/ai-agents/ai-agents.md",
-    "resources/software-engineering/testing/testing.md",
-    "areas/software-engineering/2026-06-03 - Software Architect Roadmap.md",
-    "resources/software-engineering/infrastructure/2026-06-22 - Reverse Proxy Host Header Rewriting for Third-Party Callbacks.md",
+    "resources/personal-knowledge-management/2026-05-27 - Intermediate Packets.md",
+    "resources/personal-knowledge-management/2026-05-27 - Distill Notes.md",
+    "resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview.md.tmp.28422.2b403ba61693",
+    "resources/personal-knowledge-management/2026-05-27 - Capture What Resonates.md",
+    "resources/badminton/2026-06-14 - Badminton Coach Practice.md",
+    "resources/badminton/2026-06-01 - Badminton Practice Tracker.md",
+    "resources/badminton/2026-05-31 - Badminton Coach Practice.md",
+    "resources/badminton/2026-05-25 - Badminton Fundamentals and Doubles Positioning.md",
     "resources/software-engineering/ai-agents/2026-06-02 - Skill vs Workflow.md",
-    "resources/software-engineering/testing/2026-07-05 - Integration Testing Principles.md",
-    "AI chat bot.md",
+    "resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview.md",
     "resources/software-engineering/2026-05-28 - JavaScript Dev to Main Merge Review Checklist.md",
+    "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
+    "archives/next-actions/2026-06-03 - Choose System for Phase 1 Architecture Review.md.tmp.28422.b6e56fe6cef8",
+    "next/maybe/2026-07-13 - Watch Chernobyl.md",
+    "resources/software-engineering/software-architecture/adr/architecture-decision-records.md.tmp.28422.15b5cfc5e3bf",
+    "projects/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals.md.tmp.28422.9f07b2276dde",
+    "resources/software-engineering/software-architecture/adr/0002 - Choose Email to Reference Instead of ID.md.tmp.28422.a9d1bd02d690",
+    "resources/software-engineering/software-architecture/adr/0001 - Use a modular monolith as a single WAR.md.tmp.28422.61ff02144dc3",
+    "resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview.md.tmp.28422.c0580e9dc101",
+    "next/maybe/2026-06-13 - Watch Ponyo on the Cliff by the Sea.md",
+    "next/maybe/2026-07-13 - Gift Idea Muji Multipurpose Cushion.md",
+    "next/maybe/2026-05-26 - Install Syncthing for KB.md",
+    "index.md",
+    "log.md",
+    "2026-06-05 - FTEL Contract Management.md",
+    "resources/software-engineering/software-architecture/adr/0001 - Use a modular monolith as a single WAR.md",
+    "resources/software-engineering/software-architecture/adr/0002 - Choose Email to Reference Instead of ID.md",
+    "areas/software-architecture/software-architecture.md.tmp.28422.55ce17407e23",
+    "resources/software-engineering/software-architecture/adr/architecture-decision-records.md",
+    "areas/software-architecture/software-architecture.md",
+    "areas/software-architecture/2026-06-03 - Software Architect Roadmap.md",
+    "areas/software-architecture",
+    "projects/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals.md",
+    "resources/software-engineering/software-engineering.md",
+    "resources/software-engineering/software-architecture/adr/0002 - Choose Email to Reference Instead of ID.md.tmp.28422.5a10b890213f",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

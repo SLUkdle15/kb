@@ -4,7 +4,7 @@ Use this collection for reusable notes about AI agents: agent concepts, skills, 
 
 Parent resource: [[resources/software-engineering/software-engineering|Software Engineering]]
 
-Related area: [[areas/software-engineering/software-engineering|Software Engineering]]
+Related area: [[areas/software-architecture/software-architecture|Software Architecture]]
 
 ## Notes
 

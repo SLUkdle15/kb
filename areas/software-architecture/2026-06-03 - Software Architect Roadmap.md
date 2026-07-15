@@ -1,6 +1,6 @@
 # Software Architect Roadmap
 
-Related area: [[areas/software-engineering/software-engineering|Software Engineering]]
+Related area: [[areas/software-architecture/software-architecture|Software Architecture]]
 
 A practical roadmap to become a Software Architect, based on the Reddit software architecture resources thread.
 

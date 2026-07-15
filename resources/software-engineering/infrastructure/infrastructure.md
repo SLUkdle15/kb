@@ -4,7 +4,7 @@ Use this collection for reusable infrastructure and networking notes: reverse pr
 
 Parent resource: [[resources/software-engineering/software-engineering|Software Engineering]]
 
-Related area: [[areas/software-engineering/software-engineering|Software Engineering]]
+Related area: [[areas/software-architecture/software-architecture|Software Architecture]]
 
 ## Notes
 

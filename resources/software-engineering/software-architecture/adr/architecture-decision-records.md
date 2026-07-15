@@ -4,6 +4,13 @@ Use this collection for ADRs that capture meaningful architecture decisions, tra
 
 Parent resource: [[resources/software-engineering/software-architecture/software-architecture|Software Architecture]]
 
+## ADRs
+
+### [[resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview|FCM]]
+
+- [[resources/software-engineering/software-architecture/adr/0001 - Use a modular monolith as a single WAR|Use a Modular Monolith as a Single WAR]]
+- [[resources/software-engineering/software-architecture/adr/0002 - Choose Email to Reference Instead of ID|Choose Email to Reference Instead of ID]]
+
 ## Note Shape
 
 ADR filenames use a monotonic sequence instead of the vault's usual date prefix:
@@ -18,7 +25,7 @@ Use the next available number and a short decision phrase that reads well in a d
 ```md
 # Decision Title
 
-Case study:
+## Status: Proposed, Accepted, Superseded
 
 ## Context
 

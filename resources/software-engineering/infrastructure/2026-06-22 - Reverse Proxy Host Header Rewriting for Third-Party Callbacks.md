@@ -1,6 +1,6 @@
 # Reverse Proxy Host Header Rewriting for Third-Party Callbacks
 
-Related area: [[areas/software-engineering/software-engineering|Software Engineering]]
+Related area: [[areas/software-architecture/software-architecture|Software Architecture]]
 
 ## Core Idea
 

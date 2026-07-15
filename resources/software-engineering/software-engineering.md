@@ -2,7 +2,7 @@
 
 Use this collection for reusable notes about engineering workflows, code review, debugging, releases, architecture, JavaScript, tooling, and delivery practices.
 
-Related area: [[areas/software-engineering/software-engineering|Software Engineering]]
+Related area: [[areas/software-architecture/software-architecture|Software Architecture]]
 
 ## Notes
 
