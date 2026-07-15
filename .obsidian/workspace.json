@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "areas/romantic-relationship/romantic-relationship.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "romantic-relationship"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "areas/romantic-relationship/romantic-relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for romantic-relationship"
             }
           },
           {
@@ -167,8 +167,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "c4c6b084ea9b2576",
+  "active": "1c85b6a260a52847",
   "lastOpenFiles": [
+    "areas/romantic-relationship/2026-07-15 - Promises to Her.md",
+    "areas/romantic-relationship/2026-06-05 - Love Rules.md",
+    "index.md",
+    "areas/romantic-relationship/romantic-relationship.md.tmp.92427.f02de5420d3a",
+    "areas/romantic-relationship/2026-07-15 - Promises to Her.md.tmp.92427.39234c5f3665",
+    "Untitled.md",
+    "areas/romantic-relationship/romantic-relationship.md.tmp.92427.5da1b55ba0ad",
+    "areas/romantic-relationship/2026-07-15 - Date Ideas Checklist.md",
+    "areas/romantic-relationship/2026-07-15 - Date Ideas Checklist.md.tmp.92427.32aaf76c23e0",
     "next/next-actions/next-actions.md.tmp.92427.913c80566b72",
     "next/next-actions/2026-07-15 - Examine Guitar.md",
     "next/next-actions/2026-07-15 - Examine Guitar.md.tmp.92427.d538323d0029",
@@ -177,11 +186,6 @@
     "archives/complete-phase-1-software-architecture-fundamentals/2026-07-15 - Project Completion.md",
     "archives/complete-phase-1-software-architecture-fundamentals/2026-07-15 - Project Completion.md.tmp.92427.38464052570b",
     "archives/next-actions/2026.md.tmp.92427.07fbced02d3f",
-    "archives/next-actions/2026-06-03 - Draft Phase 1 Architecture Review.md.tmp.92427.03b1d6a8a811",
-    "archives/next-actions/2026-06-03 - Choose System for Phase 1 Architecture Review.md.tmp.92427.e27b8e8b70a5",
-    "archives/next-actions/2026-06-03 - Write Three Phase 1 ADRs.md.tmp.92427.faf99d278b9a",
-    "archives/next-actions/2026-06-03 - Write Architecture Characteristics Review.md.tmp.92427.76cc40803a03",
-    "archives/next-actions/2026-06-03 - Study Phase 1 Architecture Characteristics.md.tmp.92427.4e44bf179f47",
     "archives/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals.md",
     "archives/next-actions/2026-06-03 - Write Three Phase 1 ADRs.md",
     "archives/next-actions/2026-06-03 - Write Architecture Characteristics Review.md",
@@ -201,10 +205,6 @@
     "resources/software-engineering/infrastructure/2026-06-22 - Reverse Proxy Host Header Rewriting for Third-Party Callbacks.md",
     "resources/badminton/2026-06-14 - Badminton Coach Practice.md",
     "resources/badminton/2026-06-01 - Badminton Practice Tracker.md",
-    "resources/badminton/2026-05-31 - Badminton Coach Practice.md",
-    "resources/badminton/2026-05-25 - Badminton Fundamentals and Doubles Positioning.md",
-    "resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview.md",
-    "next/maybe/2026-07-13 - Watch Chernobyl.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
