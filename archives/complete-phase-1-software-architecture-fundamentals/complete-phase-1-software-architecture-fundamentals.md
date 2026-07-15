@@ -16,11 +16,15 @@ No deadline.
 - [ ] Create one architecture review document for a real system.
 - [ ] Revise the review so each major design decision connects technical trade-offs to business goals.
 
+## Status
+
+Completed 2026-07-15. See [[archives/complete-phase-1-software-architecture-fundamentals/2026-07-15 - Project Completion|Project Completion]].
+
 ## Next Actions
 
-- [[next/next-actions/2026-06-03 - Study Phase 1 Architecture Characteristics]]
-- [[next/next-actions/2026-06-03 - Write Architecture Characteristics Review]]
-- [[next/next-actions/2026-06-03 - Write Three Phase 1 ADRs]]
+- [[archives/next-actions/2026-06-03 - Study Phase 1 Architecture Characteristics]]
+- [[archives/next-actions/2026-06-03 - Write Architecture Characteristics Review]]
+- [[archives/next-actions/2026-06-03 - Write Three Phase 1 ADRs]]
 
 ## Notes
 

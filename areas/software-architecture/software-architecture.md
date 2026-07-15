@@ -25,7 +25,11 @@ Review monthly, or during a weekly review when architecture work is under active
 
 ## Current Projects
 
-- [[projects/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals|Complete Phase 1 Software Architecture Fundamentals]]
+- None.
+
+## Past Projects
+
+- [[archives/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals|Complete Phase 1 Software Architecture Fundamentals]] - completed 2026-07-15
 
 ## Related Resources
 

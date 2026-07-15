@@ -1,6 +1,6 @@
 # Choose System for Phase 1 Architecture Review
 
-Project: [[projects/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals|Complete Phase 1 Software Architecture Fundamentals]]
+Project: [[archives/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals|Complete Phase 1 Software Architecture Fundamentals]]
 Completed: 2026-06-05
 
 ## Next Action

@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "8ac0df24938cd539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resources/personal-knowledge-management/2026-05-27 - Intermediate Packets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-27 - Intermediate Packets"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/personal-knowledge-management/2026-05-27 - Intermediate Packets.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-05-27 - Intermediate Packets"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -182,44 +167,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ac0df24938cd539",
+  "active": "c4c6b084ea9b2576",
   "lastOpenFiles": [
+    "next/next-actions/next-actions.md.tmp.92427.913c80566b72",
+    "next/next-actions/2026-07-15 - Examine Guitar.md",
+    "next/next-actions/2026-07-15 - Examine Guitar.md.tmp.92427.d538323d0029",
+    "areas/software-architecture/software-architecture.md.tmp.92427.6d32b33513b9",
+    "archives/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals.md.tmp.92427.ac2a9dbb79a9",
+    "archives/complete-phase-1-software-architecture-fundamentals/2026-07-15 - Project Completion.md",
+    "archives/complete-phase-1-software-architecture-fundamentals/2026-07-15 - Project Completion.md.tmp.92427.38464052570b",
+    "archives/next-actions/2026.md.tmp.92427.07fbced02d3f",
+    "archives/next-actions/2026-06-03 - Draft Phase 1 Architecture Review.md.tmp.92427.03b1d6a8a811",
+    "archives/next-actions/2026-06-03 - Choose System for Phase 1 Architecture Review.md.tmp.92427.e27b8e8b70a5",
+    "archives/next-actions/2026-06-03 - Write Three Phase 1 ADRs.md.tmp.92427.faf99d278b9a",
+    "archives/next-actions/2026-06-03 - Write Architecture Characteristics Review.md.tmp.92427.76cc40803a03",
+    "archives/next-actions/2026-06-03 - Study Phase 1 Architecture Characteristics.md.tmp.92427.4e44bf179f47",
+    "archives/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals.md",
+    "archives/next-actions/2026-06-03 - Write Three Phase 1 ADRs.md",
+    "archives/next-actions/2026-06-03 - Write Architecture Characteristics Review.md",
+    "archives/next-actions/2026-06-03 - Study Phase 1 Architecture Characteristics.md",
+    "resources/self-compassion/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
+    "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
+    "resources/self-compassion/2026-07-15 - Self-Compassion Trigger Response Protocol.md",
+    "resources/self-compassion/self-compassion.md",
+    "resources/software-engineering/2026-05-28 - JavaScript Dev to Main Merge Review Checklist.md",
     "resources/2026-05-25 - Favorite Problems.md",
+    "resources/software-engineering/ai-agents/2026-06-02 - Skill vs Workflow.md",
+    "resources/software-engineering/testing/2026-07-05 - Integration Testing Principles.md",
     "resources/personal-knowledge-management/2026-05-27 - Intermediate Packets.md",
     "resources/personal-knowledge-management/2026-05-27 - Distill Notes.md",
-    "resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview.md.tmp.28422.2b403ba61693",
     "resources/personal-knowledge-management/2026-05-27 - Capture What Resonates.md",
+    "resources/ideas/ideas.md",
+    "resources/software-engineering/infrastructure/2026-06-22 - Reverse Proxy Host Header Rewriting for Third-Party Callbacks.md",
     "resources/badminton/2026-06-14 - Badminton Coach Practice.md",
     "resources/badminton/2026-06-01 - Badminton Practice Tracker.md",
     "resources/badminton/2026-05-31 - Badminton Coach Practice.md",
     "resources/badminton/2026-05-25 - Badminton Fundamentals and Doubles Positioning.md",
-    "resources/software-engineering/ai-agents/2026-06-02 - Skill vs Workflow.md",
     "resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview.md",
-    "resources/software-engineering/2026-05-28 - JavaScript Dev to Main Merge Review Checklist.md",
-    "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
-    "archives/next-actions/2026-06-03 - Choose System for Phase 1 Architecture Review.md.tmp.28422.b6e56fe6cef8",
     "next/maybe/2026-07-13 - Watch Chernobyl.md",
-    "resources/software-engineering/software-architecture/adr/architecture-decision-records.md.tmp.28422.15b5cfc5e3bf",
-    "projects/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals.md.tmp.28422.9f07b2276dde",
-    "resources/software-engineering/software-architecture/adr/0002 - Choose Email to Reference Instead of ID.md.tmp.28422.a9d1bd02d690",
-    "resources/software-engineering/software-architecture/adr/0001 - Use a modular monolith as a single WAR.md.tmp.28422.61ff02144dc3",
-    "resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview.md.tmp.28422.c0580e9dc101",
-    "next/maybe/2026-06-13 - Watch Ponyo on the Cliff by the Sea.md",
-    "next/maybe/2026-07-13 - Gift Idea Muji Multipurpose Cushion.md",
-    "next/maybe/2026-05-26 - Install Syncthing for KB.md",
-    "index.md",
-    "log.md",
-    "2026-06-05 - FTEL Contract Management.md",
-    "resources/software-engineering/software-architecture/adr/0001 - Use a modular monolith as a single WAR.md",
-    "resources/software-engineering/software-architecture/adr/0002 - Choose Email to Reference Instead of ID.md",
-    "areas/software-architecture/software-architecture.md.tmp.28422.55ce17407e23",
-    "resources/software-engineering/software-architecture/adr/architecture-decision-records.md",
-    "areas/software-architecture/software-architecture.md",
-    "areas/software-architecture/2026-06-03 - Software Architect Roadmap.md",
-    "areas/software-architecture",
-    "projects/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals.md",
-    "resources/software-engineering/software-engineering.md",
-    "resources/software-engineering/software-architecture/adr/0002 - Choose Email to Reference Instead of ID.md.tmp.28422.5a10b890213f",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

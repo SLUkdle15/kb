@@ -1,6 +1,7 @@
 # Write Architecture Characteristics Review
 
-Project: [[projects/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals]]
+Project: [[archives/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals|Complete Phase 1 Software Architecture Fundamentals]]
+Completed: 2026-07-15
 
 ## Next Action
 
