@@ -34,6 +34,7 @@ Reusable workflows live in `.agents/skills/` and are exposed to Claude Code via 
 - `complete` — complete / cancel / pause / archive a project or an action.
 - `restaurant` — capture a new restaurant note in `resources/restaurants`.
 - `process` — classify, route, split, or distill **one** specified inbox note.
+- `protocol` — build a reusable protocol (checklist intermediate packet) inside the owning area's folder from an existing note.
 - `distill` — distill a long note into smaller, focused notes.
 - `lint` — health-check the vault (structure + semantics); runs `.agents/skills/lint/scripts/build_index.py`.
 - `review` — weekly review of inbox, next actions, projects, and areas.

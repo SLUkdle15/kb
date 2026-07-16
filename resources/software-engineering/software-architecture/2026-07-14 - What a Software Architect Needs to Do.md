@@ -11,6 +11,8 @@ Source: *Fundamentals of Software Architecture*
 
 Related: [[resources/software-engineering/software-architecture/software-architecture|Software Architecture]] · [[areas/software-architecture/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]
 
+Protocol: [[areas/software-architecture/make-an-architecture-decision|Make an Architecture Decision]]
+
 ## Role and mindset questions
 
 1. What does a software architect need to think about? (mindset — technical, business, and stakeholder concerns compared to a developer's)

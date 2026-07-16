@@ -4,6 +4,8 @@ Use this collection for ADRs that capture meaningful architecture decisions, tra
 
 Parent resource: [[resources/software-engineering/software-architecture/software-architecture|Software Architecture]]
 
+Protocol: [[areas/software-architecture/write-an-adr|Write an ADR]]
+
 ## ADRs
 
 ### [[resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview|FCM]]

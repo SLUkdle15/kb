@@ -23,6 +23,11 @@ Review monthly, or during a weekly review when architecture work is under active
 
 - [[areas/software-architecture/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]
 
+## Protocols
+
+- [[areas/software-architecture/make-an-architecture-decision|Make an Architecture Decision]]
+- [[areas/software-architecture/write-an-adr|Write an ADR]]
+
 ## Current Projects
 
 - None.
