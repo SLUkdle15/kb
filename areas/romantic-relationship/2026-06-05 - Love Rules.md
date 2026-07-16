@@ -1,8 +1,6 @@
----
-area: "[[romantic-relationship]]"
----
-
 # Love Rules
+
+Area: [[areas/romantic-relationship/romantic-relationship]]
 
 1. No kissing or overly informal behavior in formal settings.
 2. Resolve issues within 24 hours.

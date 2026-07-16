@@ -12,7 +12,6 @@ Top-level content folders (all lowercase):
 - `areas` — ongoing responsibilities with no finish line.
 - `resources` — reusable knowledge and references.
 - `archives` — inactive but retained material.
-- `raw` — original source artifacts (PDFs, images, html, exports, attachments); referenced by notes, not standalone notes. Synced outside git.
 
 Key navigation files:
 
@@ -47,4 +46,3 @@ Most skills default to **suggest** mode (report only) and apply changes only whe
 - New capture notes are dated: `YYYY-MM-DD - Note Title.md`, with a clean H1 that omits the date prefix.
 - Do not use topic / PARA / source / type tags — only temporary workflow-status tags like `#status/waiting`.
 - Do not delete notes or move ambiguous ones without asking; surface a question instead.
-- Don't store raw artifacts in `resources` — put them under the right `raw/` subfolder and link from the note.

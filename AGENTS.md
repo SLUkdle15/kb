@@ -2,7 +2,7 @@
 
 ## Naming and Folders
 
-Use lowercase folder names for vault structure and links. Top-level content folders are `inbox`, `next`, `projects`, `areas`, `resources`, `archives`, and `raw`.
+Use lowercase folder names for vault structure and links. Top-level content folders are `inbox`, `next`, `projects`, `areas`, `resources`, and `archives`.
 
 When creating a new note from a user capture, prefix the filename with the current date:
 
@@ -18,20 +18,6 @@ Use `next` for GTD-style commitments that are more actionable than inbox capture
 - `next/calendar` for date-specific or time-specific commitments.
 - `next/maybe` for someday/maybe ideas and possible future projects.
 - `next/waiting` for things blocked by someone or something else.
-
-## Raw Files
-
-Use `raw` for original source artifacts and non-note files that are referenced by notes but are not standalone notes. This includes PDFs, screenshots, images, saved HTML pages, app exports, and miscellaneous attachments.
-
-Use these `raw` subfolders by file/form, not by topic:
-
-- `raw/pdf` for PDFs, papers, manuals, and downloaded guides.
-- `raw/images` for screenshots, diagrams, photos, and image assets.
-- `raw/html` for saved webpages, clipped HTML, and single-file page exports.
-- `raw/exports` for app exports, browser exports, chat exports, and zip exports.
-- `raw/attachments` for miscellaneous referenced files that do not fit another raw subfolder.
-
-Readable Markdown web clippings should usually move from `inbox` to `resources`, not `raw`. If a resource note has a preserved raw artifact, link to the raw file from the resource note.
 
 ## Projects
 

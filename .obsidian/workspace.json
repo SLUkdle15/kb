@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/romantic-relationship/romantic-relationship.md",
+                "file": "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "romantic-relationship"
+              "title": "2026-06-09 - Self-Compassion Response to Emotional Triggers"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"type\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,22 +89,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "028afb3f2aece227",
+            "id": "fc34b0c754f74711",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/romantic-relationship/romantic-relationship.md",
+                "file": "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for romantic-relationship"
+              "title": "Backlinks for 2026-06-09 - Self-Compassion Response to Emotional Triggers"
             }
           },
           {
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2026-06-09 - Self-Compassion Response to Emotional Triggers"
             }
           },
           {
@@ -153,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,43 +171,43 @@
   },
   "active": "1c85b6a260a52847",
   "lastOpenFiles": [
-    "areas/romantic-relationship/2026-07-15 - Promises to Her.md",
-    "areas/romantic-relationship/2026-06-05 - Love Rules.md",
-    "index.md",
-    "areas/romantic-relationship/romantic-relationship.md.tmp.92427.f02de5420d3a",
-    "areas/romantic-relationship/2026-07-15 - Promises to Her.md.tmp.92427.39234c5f3665",
-    "Untitled.md",
-    "areas/romantic-relationship/romantic-relationship.md.tmp.92427.5da1b55ba0ad",
-    "areas/romantic-relationship/2026-07-15 - Date Ideas Checklist.md",
-    "areas/romantic-relationship/2026-07-15 - Date Ideas Checklist.md.tmp.92427.32aaf76c23e0",
-    "next/next-actions/next-actions.md.tmp.92427.913c80566b72",
-    "next/next-actions/2026-07-15 - Examine Guitar.md",
-    "next/next-actions/2026-07-15 - Examine Guitar.md.tmp.92427.d538323d0029",
-    "areas/software-architecture/software-architecture.md.tmp.92427.6d32b33513b9",
-    "archives/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals.md.tmp.92427.ac2a9dbb79a9",
-    "archives/complete-phase-1-software-architecture-fundamentals/2026-07-15 - Project Completion.md",
-    "archives/complete-phase-1-software-architecture-fundamentals/2026-07-15 - Project Completion.md.tmp.92427.38464052570b",
-    "archives/next-actions/2026.md.tmp.92427.07fbced02d3f",
-    "archives/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals.md",
-    "archives/next-actions/2026-06-03 - Write Three Phase 1 ADRs.md",
-    "archives/next-actions/2026-06-03 - Write Architecture Characteristics Review.md",
-    "archives/next-actions/2026-06-03 - Study Phase 1 Architecture Characteristics.md",
-    "resources/self-compassion/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
-    "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
-    "resources/self-compassion/2026-07-15 - Self-Compassion Trigger Response Protocol.md",
-    "resources/self-compassion/self-compassion.md",
-    "resources/software-engineering/2026-05-28 - JavaScript Dev to Main Merge Review Checklist.md",
-    "resources/2026-05-25 - Favorite Problems.md",
-    "resources/software-engineering/ai-agents/2026-06-02 - Skill vs Workflow.md",
+    "next/maybe/maybe.md.tmp.530113.cf177afba8af",
+    "resources/software-engineering/software-engineering.md.tmp.530113.afa99d8048c2",
+    "AGENTS.md.tmp.530113.08c7c5789d3f",
+    "AGENTS.md.tmp.530113.1db0d680669b",
+    "CLAUDE.md.tmp.530113.5762421e7c68",
+    "CLAUDE.md.tmp.530113.c187f73587a7",
     "resources/software-engineering/testing/2026-07-05 - Integration Testing Principles.md",
-    "resources/personal-knowledge-management/2026-05-27 - Intermediate Packets.md",
-    "resources/personal-knowledge-management/2026-05-27 - Distill Notes.md",
-    "resources/personal-knowledge-management/2026-05-27 - Capture What Resonates.md",
-    "resources/ideas/ideas.md",
+    "resources/software-engineering/software-architecture/2026-07-14 - What a Software Architect Needs to Do.md",
+    "resources/software-engineering/software-architecture/software-architecture.md",
+    "resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview.md",
     "resources/software-engineering/infrastructure/2026-06-22 - Reverse Proxy Host Header Rewriting for Third-Party Callbacks.md",
+    "resources/software-engineering/ai-agents/2026-06-02 - Skill vs Workflow.md",
+    "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
     "resources/badminton/2026-06-14 - Badminton Coach Practice.md",
     "resources/badminton/2026-06-01 - Badminton Practice Tracker.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "resources/badminton/2026-05-31 - Badminton Coach Practice.md",
+    "resources/badminton/2026-05-25 - Badminton Fundamentals and Doubles Positioning.md",
+    "next/next-actions/2026-07-15 - Examine Guitar.md",
+    "next/next-actions/next-actions.md.tmp.530113.1835f32e5ed0",
+    "next/maybe/maybe.md.tmp.530113.cda8725dd2a6",
+    "next/next-actions/2026-07-13 - Watch Chernobyl.md",
+    "next/next-actions/2026-06-28 - Fill In ADR 0002 Choose Email to Reference Instead of ID.md",
+    "next/next-actions/2026-06-08 - Visit a Bookstore.md",
+    "next/next-actions/2026-05-25 - Research Exposure Triangle.md",
+    "next/maybe/2026-07-15 - Build a Chat System Over This Vault.md",
+    "next/maybe/2026-07-13 - Gift Idea Muji Multipurpose Cushion.md",
+    "next/maybe/2026-06-13 - Watch Ponyo on the Cliff by the Sea.md",
+    "next/maybe/2026-05-26 - Install Syncthing for KB.md",
+    "next/calendar/calendar.md",
+    "inbox/inbox.md",
+    "areas/romantic-relationship/romantic-relationship.md",
+    "areas/romantic-relationship/2026-06-05 - Love Rules.md",
+    "areas/romantic-relationship/2026-07-15 - Promises to Her.md",
+    "calendar.ics.tmp.530113.97fc995a40ce",
+    "next/calendar/calendar.md.tmp.530113.aba088bcb027",
+    "Untitled.canvas",
+    "calendar.ics",
+    "Untitled 1.canvas"
   ]
 }

@@ -12,8 +12,6 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 
 ## Items
 
-- [[2026-05-26 - Install Syncthing for KB|Install Syncthing for KB]]
 - [[2026-06-13 - Watch Ponyo on the Cliff by the Sea|Watch Ponyo on the Cliff by the Sea]]
-- [[2026-07-13 - Watch Chernobyl|Watch Chernobyl]]
 - [[2026-07-13 - Gift Idea Muji Multipurpose Cushion|Gift Idea: Muji Multipurpose Cushion]]
 - [[2026-07-15 - Build a Chat System Over This Vault|Build a Chat System Over This Vault]]
