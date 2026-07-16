@@ -1,5 +1,5 @@
 ---
-name: create-restaurant
+name: restaurant
 description: Create a new restaurant note in this Obsidian vault. Use when the user asks to add a restaurant or capture initial restaurant attributes such as area, cuisine, price, parking, date suitability, map link, or past experience.
 ---
 

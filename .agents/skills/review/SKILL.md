@@ -1,5 +1,5 @@
 ---
-name: weekly-review
+name: review
 description: Run a weekly review for this Obsidian BASB/PARA and GTD-style vault. Use when the user asks to review the week, clear inbox, review active projects, inspect next actions, or choose focus for next week.
 ---
 

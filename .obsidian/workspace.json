@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
+                "file": "next/next-actions/next-actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-09 - Self-Compassion Response to Emotional Triggers"
+              "title": "next-actions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
+                "file": "next/next-actions/next-actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-06-09 - Self-Compassion Response to Emotional Triggers"
+              "title": "Backlinks for next-actions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
+                "file": "next/next-actions/next-actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-06-09 - Self-Compassion Response to Emotional Triggers"
+              "title": "Outgoing links from next-actions"
             }
           },
           {
@@ -171,43 +171,43 @@
   },
   "active": "1c85b6a260a52847",
   "lastOpenFiles": [
+    "next/next-actions/next-actions.md.tmp.533118.fcd5d72a73f9",
+    "next/next-actions/2026-07-15 - Examine Guitar.md",
+    "next/next-actions/2026-07-13 - Watch Chernobyl.md",
+    "next/next-actions/2026-07-05 - Fix The Door.md",
+    "next/next-actions/2026-06-28 - Fill In ADR 0002 Choose Email to Reference Instead of ID.md",
+    "next/next-actions/2026-05-25 - Research Exposure Triangle.md",
+    "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
+    "next/next-actions/next-actions.md.tmp.533118.9767f167a7a1",
+    "next/next-actions/2026-07-16 - Refactor KB Trigger Notes Into Areas.md",
+    "next/next-actions/2026-07-16 - Refactor KB Trigger Notes Into Areas.md.tmp.533118.a5525fe3ae4e",
+    "resources/2026-05-25 - Favorite Problems.md",
+    "resources/software-engineering/infrastructure/2026-06-22 - Reverse Proxy Host Header Rewriting for Third-Party Callbacks.md",
+    "inbox/Refactor your KB.md",
+    "next/next-actions/2026-06-08 - Visit a Bookstore.md",
+    "areas/golf-training/golf-training.md",
+    "resources/software-engineering/software-architecture/2026-07-14 - What a Software Architect Needs to Do.md",
+    "resources/software-engineering/software-engineering.md.tmp.532261.24e73f5ac328",
+    "resources/software-engineering/2026-05-28 - JavaScript Dev to Main Merge Review.md.tmp.532261.3635da55b229",
+    "resources/software-engineering/2026-05-28 - JavaScript Dev to Main Merge Review.md",
+    "resources/software-engineering/2026-05-28 - JavaScript Dev to Main Merge Review Checklist.md",
+    "CLAUDE.md.tmp.532261.a124b79f4979",
+    "CLAUDE.md.tmp.532261.ea5b016878f8",
+    "resources/software-engineering/testing/2026-07-05 - Integration Testing Principles.md",
+    "CLAUDE.md",
+    "resources/personal-knowledge-management/2026-05-27 - Distill Notes.md",
+    "CLAUDE.md.tmp.530113.f86803718701",
+    "resources/personal-knowledge-management/2026-05-27 - Intermediate Packets.md",
+    "resources/personal-knowledge-management/2026-05-27 - Capture What Resonates.md",
+    "AGENTS.md",
     "next/maybe/maybe.md.tmp.530113.cf177afba8af",
     "resources/software-engineering/software-engineering.md.tmp.530113.afa99d8048c2",
     "AGENTS.md.tmp.530113.08c7c5789d3f",
-    "AGENTS.md.tmp.530113.1db0d680669b",
-    "CLAUDE.md.tmp.530113.5762421e7c68",
-    "CLAUDE.md.tmp.530113.c187f73587a7",
-    "resources/software-engineering/testing/2026-07-05 - Integration Testing Principles.md",
-    "resources/software-engineering/software-architecture/2026-07-14 - What a Software Architect Needs to Do.md",
     "resources/software-engineering/software-architecture/software-architecture.md",
     "resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview.md",
-    "resources/software-engineering/infrastructure/2026-06-22 - Reverse Proxy Host Header Rewriting for Third-Party Callbacks.md",
     "resources/software-engineering/ai-agents/2026-06-02 - Skill vs Workflow.md",
-    "resources/2026-06-09 - Self-Compassion Response to Emotional Triggers.md",
     "resources/badminton/2026-06-14 - Badminton Coach Practice.md",
-    "resources/badminton/2026-06-01 - Badminton Practice Tracker.md",
-    "resources/badminton/2026-05-31 - Badminton Coach Practice.md",
-    "resources/badminton/2026-05-25 - Badminton Fundamentals and Doubles Positioning.md",
-    "next/next-actions/2026-07-15 - Examine Guitar.md",
-    "next/next-actions/next-actions.md.tmp.530113.1835f32e5ed0",
-    "next/maybe/maybe.md.tmp.530113.cda8725dd2a6",
-    "next/next-actions/2026-07-13 - Watch Chernobyl.md",
-    "next/next-actions/2026-06-28 - Fill In ADR 0002 Choose Email to Reference Instead of ID.md",
-    "next/next-actions/2026-06-08 - Visit a Bookstore.md",
-    "next/next-actions/2026-05-25 - Research Exposure Triangle.md",
-    "next/maybe/2026-07-15 - Build a Chat System Over This Vault.md",
-    "next/maybe/2026-07-13 - Gift Idea Muji Multipurpose Cushion.md",
-    "next/maybe/2026-06-13 - Watch Ponyo on the Cliff by the Sea.md",
-    "next/maybe/2026-05-26 - Install Syncthing for KB.md",
-    "next/calendar/calendar.md",
-    "inbox/inbox.md",
-    "areas/romantic-relationship/romantic-relationship.md",
-    "areas/romantic-relationship/2026-06-05 - Love Rules.md",
-    "areas/romantic-relationship/2026-07-15 - Promises to Her.md",
-    "calendar.ics.tmp.530113.97fc995a40ce",
-    "next/calendar/calendar.md.tmp.530113.aba088bcb027",
     "Untitled.canvas",
-    "calendar.ics",
     "Untitled 1.canvas"
   ]
 }

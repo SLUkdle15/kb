@@ -1,5 +1,5 @@
 ---
-name: process-inbox
+name: process
 description: Process one specified Markdown note from inbox. Use when the user asks to rename, clean up, classify, route, split, move, distill, or organize a specific inbox capture.
 ---
 
@@ -64,8 +64,8 @@ When creating organized notes:
 2. Put notes in the folder where they will be useful next.
 3. Add a clean H1 without the date prefix.
 4. Link new notes back to the source inbox note unless the source note is moved whole.
-5. If creating a next action, follow the `create-next-action` skill.
-6. If creating an active project, follow the `create-project` skill and ensure at least one linked next action exists.
+5. If creating a next action, follow the `next` skill.
+6. If creating an active project, follow the `project` skill and ensure at least one linked next action exists.
 7. If material is ambiguous, leave it in `inbox` and report the question instead of forcing a move.
 
 ## Distillation

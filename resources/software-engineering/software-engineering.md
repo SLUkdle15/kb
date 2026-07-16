@@ -6,7 +6,7 @@ Related area: [[areas/software-architecture/software-architecture|Software Archi
 
 ## Notes
 
-- [[2026-05-28 - JavaScript Dev to Main Merge Review Checklist|JavaScript Dev to Main Merge Review Checklist]]
+- [[2026-05-28 - JavaScript Dev to Main Merge Review|JavaScript Dev to Main Merge Review]]
 - [[resources/software-engineering/software-architecture/software-architecture|Software Architecture]]
 - [[resources/software-engineering/infrastructure/infrastructure|Infrastructure]]
 - [[resources/software-engineering/testing/testing|Testing]]

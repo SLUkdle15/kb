@@ -1,5 +1,5 @@
 ---
-name: create-project
+name: project
 description: Create a PARA project in this Obsidian vault from a note or desired outcome. Use when the user asks to start, kickoff, create, or plan a project with a finish line.
 ---
 

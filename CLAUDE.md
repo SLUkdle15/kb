@@ -29,14 +29,14 @@ The enforceable rules (naming, routing, linking, tags, projects) live in `AGENTS
 
 Reusable workflows live in `.agents/skills/` and are exposed to Claude Code via `.claude/skills` (a symlink, so there is a single source of truth shared with Codex). **Prefer the matching skill over editing notes by hand:**
 
-- `create-next-action` — add a GTD action and route it (next-actions / calendar / maybe / waiting).
-- `create-project` — start a PARA project with outcome, definition of done, and ≥1 linked next action.
-- `dispose-project` — complete / cancel / pause / archive a project.
-- `create-restaurant` — capture a new restaurant note in `resources/restaurants`.
-- `process-inbox` — classify, route, split, or distill **one** specified inbox note.
-- `packetize-notes` — find and draft reusable Intermediate Packets.
+- `next` — add a GTD action and route it (next-actions / calendar / maybe / waiting).
+- `project` — start a PARA project with outcome, definition of done, and ≥1 linked next action.
+- `complete` — complete / cancel / pause / archive a project or an action.
+- `restaurant` — capture a new restaurant note in `resources/restaurants`.
+- `process` — classify, route, split, or distill **one** specified inbox note.
+- `distill` — distill a long note into smaller, focused notes.
 - `lint` — health-check the vault (structure + semantics); runs `.agents/skills/lint/scripts/build_index.py`.
-- `weekly-review` — review inbox, next actions, projects, and areas.
+- `review` — weekly review of inbox, next actions, projects, and areas.
 
 Most skills default to **suggest** mode (report only) and apply changes only when the user clearly asks.
 

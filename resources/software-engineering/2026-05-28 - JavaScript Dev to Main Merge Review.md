@@ -1,4 +1,4 @@
-# JavaScript Dev to Main Merge Review Checklist
+# JavaScript Dev to Main Merge Review
 
 Related area: [[areas/software-architecture/software-architecture|Software Architecture]]
 

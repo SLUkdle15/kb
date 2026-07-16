@@ -1,5 +1,5 @@
 ---
-name: create-next-action
+name: next
 description: Create and route a GTD-style action note in this Obsidian vault. Use when the user asks to add a task, next action, reminder, someday/maybe item, waiting item, or calendar action.
 ---
 

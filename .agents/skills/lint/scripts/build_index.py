@@ -368,7 +368,7 @@ def main() -> int:
         and not any(src.startswith(("projects/", "areas/", "resources/")) for src in note.backlinks)
     ]
 
-    root_allowlist = {"index.md", "AGENTS.md", "log.md"}
+    root_allowlist = {"index.md", "AGENTS.md", "CLAUDE.md", "log.md"}
     orphan_notes = [
         note.path for note in notes
         if not note.backlinks
