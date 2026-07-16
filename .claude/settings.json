@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 .agents/skills/lint/scripts/build_index.py:*)",
+      "Bash(python3 .agents/scripts/build_calendar_ics.py:*)"
+    ]
+  }
+}
