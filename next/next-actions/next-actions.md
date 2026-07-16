@@ -20,7 +20,6 @@ Each note should describe a clear next action. If it requires multiple steps and
 
 - [[2026-05-25 - Research Exposure Triangle|Research Exposure Triangle]]
 - [[2026-06-08 - Visit a Bookstore|Visit a Bookstore]]
-- [[2026-06-28 - Fill In ADR 0002 Choose Email to Reference Instead of ID|Fill In ADR 0002 Choose Email to Reference Instead of ID]]
 - [[2026-07-05 - Fix The Door|Fix The Door]]
 - [[2026-07-13 - Watch Chernobyl|Watch Chernobyl]]
 - [[2026-07-15 - Examine Guitar|Examine Guitar]]
