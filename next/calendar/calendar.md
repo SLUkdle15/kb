@@ -20,4 +20,4 @@ Use this folder for date-specific or time-specific commitments.
 
 ## Items
 
-- None right now.
+- [[next/calendar/2026-07-16 - Dinner at Omakase Tiger Westlake]] — 2026-07-22 17:30

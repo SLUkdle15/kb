@@ -47,6 +47,7 @@ Add restaurant links here as notes are created.
 - [[2026-06-28 - Maxbook Coffee|Maxbook Coffee]]
 - [[2026-06-28 - Biblio Cafe Sach Chua Boc|Biblio - Book Cafe Chua Boc]]
 - [[2026-07-12 - Hokkaido Sachi|Hokkaido Sachi]]
+- [[2026-07-16 - Omakase Tiger Westlake|Omakase Tiger - Westlake]]
 
 ## Decision Prompt
 
