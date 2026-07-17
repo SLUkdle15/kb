@@ -28,7 +28,6 @@ Related area: [[areas/software-architecture/software-architecture|Software Archi
 ## Architecture Decisions
 
 - [[resources/software-engineering/software-architecture/adr/0001 - Use a modular monolith as a single WAR|Use a Modular Monolith as a Single WAR]]
-- [[resources/software-engineering/software-architecture/adr/0002 - Choose Email to Reference Instead of ID|Choose Email to Reference Instead of ID]]
 
 ## Related
 

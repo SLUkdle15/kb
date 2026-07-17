@@ -11,6 +11,9 @@ Protocol: [[areas/software-architecture/write-an-adr|Write an ADR]]
 ### [[resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview|FCM]]
 
 - [[resources/software-engineering/software-architecture/adr/0001 - Use a modular monolith as a single WAR|Use a Modular Monolith as a Single WAR]]
+
+### [[resources/software-engineering/software-architecture/2026-07-17 - AI Chat Bot System Overview|AI Chat Bot]]
+
 - [[resources/software-engineering/software-architecture/adr/0002 - Choose Email to Reference Instead of ID|Choose Email to Reference Instead of ID]]
 
 ## Note Shape

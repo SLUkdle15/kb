@@ -1,6 +1,6 @@
 # Choose Email to Reference Instead of ID
 
-System: [[resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview|FCM]]
+System: [[resources/software-engineering/software-architecture/2026-07-17 - AI Chat Bot System Overview|AI Chat Bot]]
 
 ## Status
 
@@ -8,7 +8,7 @@ Accepted
 
 ## Context
 
-- The FCM notification feature needs a way to reference the users it notifies.
+- The AI chat bot notification feature needs a way to reference the users it notifies.
 - Referencing users by FPT employee ID is unreliable because the employee table is not kept in sync with the actual employee records, so ID lookups can return stale or missing users.
 - The primary concern for notifications is correctness: they must reach the right person.
 
