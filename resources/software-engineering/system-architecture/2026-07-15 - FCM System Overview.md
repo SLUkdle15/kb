@@ -2,7 +2,7 @@
 
 System: FCM — FTEL internal contract management for the Legal team (~10 users).
 
-Related area: [[areas/software-architecture/software-architecture|Software Architecture]]
+Related area: [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
 
 ## Scope
 
@@ -27,8 +27,8 @@ Related area: [[areas/software-architecture/software-architecture|Software Archi
 
 ## Architecture Decisions
 
-- [[resources/software-engineering/software-architecture/adr/0001 - Use a modular monolith as a single WAR|Use a Modular Monolith as a Single WAR]]
+- [[resources/software-engineering/system-architecture/adr/0001 - Use a modular monolith as a single WAR|Use a Modular Monolith as a Single WAR]]
 
 ## Related
 
-- [[resources/software-engineering/software-architecture/incidents/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]]
+- [[resources/software-engineering/system-architecture/incidents/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]]

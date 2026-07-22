@@ -9,7 +9,7 @@ Menu: [Summer Menu (Google Drive)](https://drive.google.com/file/d/1-kfMNoFrZZWu
 - Price: expensive
 - Parking:
 - Good for date:
-- Revisit priority: 10
+- Revisit priority: 3
 - Reservation: required — 1M VND deposit
 - Booking lead time (days): 7
 
@@ -17,6 +17,11 @@ Menu: [Summer Menu (Google Drive)](https://drive.google.com/file/d/1-kfMNoFrZZWu
 
 - Date dinner
 
-## Planned Visit
+## Past Experience
 
-- [[next/calendar/2026-07-16 - Dinner at Omakase Tiger Westlake]] — 2026-07-22 17:30
+Visited: 2026-07-22
+
+Ratings:
+- Food: 5/10
+
+Notes: Okay, not great. Expensive for what it delivers.

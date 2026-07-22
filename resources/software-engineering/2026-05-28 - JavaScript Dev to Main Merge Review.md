@@ -1,6 +1,6 @@
 # JavaScript Dev to Main Merge Review
 
-Related area: [[areas/software-architecture/software-architecture|Software Architecture]]
+Related area: [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
 
 ## Merge review steps
 

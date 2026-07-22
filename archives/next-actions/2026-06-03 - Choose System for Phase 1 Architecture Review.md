@@ -17,4 +17,4 @@ Choose one real system to use for the Phase 1 architecture review.
 
 ## Result
 
-- Selected system: FCM (FTEL Contract Management) — now documented in [[resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview|FCM System Overview]]
+- Selected system: FCM (FTEL Contract Management) — now documented in [[resources/software-engineering/system-architecture/2026-07-15 - FCM System Overview|FCM System Overview]]

@@ -2,7 +2,7 @@
 
 System: AI chat bot — enterprise AI chatbot platform for FPT (internal corporate use).
 
-Related area: [[areas/software-architecture/software-architecture|Software Architecture]]
+Related area: [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
 
 ## Scope
 
@@ -18,4 +18,4 @@ Related area: [[areas/software-architecture/software-architecture|Software Archi
 
 ## Architecture Decisions
 
-- [[resources/software-engineering/software-architecture/adr/0002 - Choose Email to Reference Instead of ID|Choose Email to Reference Instead of ID]]
+- [[resources/software-engineering/system-architecture/adr/0002 - Choose Email to Reference Instead of ID|Choose Email to Reference Instead of ID]]

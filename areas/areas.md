@@ -38,4 +38,4 @@ Ask:
 - [[areas/home-maintenance/home-maintenance|Home Maintenance]]
 - [[areas/personal-finance/personal-finance|Personal Finance]]
 - [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
-- [[areas/software-architecture/software-architecture|Software Architecture]]
+- [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]

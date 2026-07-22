@@ -1,6 +1,6 @@
 # Use a Modular Monolith as a Single WAR
 
-System: [[resources/software-engineering/software-architecture/2026-07-15 - FCM System Overview|FCM]]
+System: [[resources/software-engineering/system-architecture/2026-07-15 - FCM System Overview|FCM]]
 
 ## Context
 

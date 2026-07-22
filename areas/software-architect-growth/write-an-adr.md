@@ -4,12 +4,12 @@ type: protocol
 
 # Write an ADR
 
-Source: [[resources/software-engineering/software-architecture/adr/architecture-decision-records|Architecture Decision Records]]
+Source: [[resources/software-engineering/system-architecture/adr/architecture-decision-records|Architecture Decision Records]]
 
 ## Checklist
 
 - [ ] Confirm the decision is **architecturally significant**
-- [ ] Check existing ADRs in [[resources/software-engineering/software-architecture/adr/architecture-decision-records|the ADR collection]] for overlap or one this supersedes.
+- [ ] Check existing ADRs in [[resources/software-engineering/system-architecture/adr/architecture-decision-records|the ADR collection]] for overlap or one this supersedes.
 - [ ] Create the note in the `adr` folder with the next sequence number: `NNNN - Decision Title.md`.
 - [ ] Set **Status**: Proposed, Accepted, or Superseded.
 - [ ] Write **Context**: what is forcing this decision.

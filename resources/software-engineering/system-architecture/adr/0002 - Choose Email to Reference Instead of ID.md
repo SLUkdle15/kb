@@ -1,6 +1,6 @@
 # Choose Email to Reference Instead of ID
 
-System: [[resources/software-engineering/software-architecture/2026-07-17 - AI Chat Bot System Overview|AI Chat Bot]]
+System: [[resources/software-engineering/system-architecture/2026-07-17 - AI Chat Bot System Overview|AI Chat Bot]]
 
 ## Status
 
