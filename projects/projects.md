@@ -52,4 +52,4 @@ Move notes into the project folder only when they are project-specific working m
 
 ## Active Projects
 
-- [[projects/learn-photo-basics/learn-photo-basics]]
+None.

@@ -34,7 +34,7 @@ Ask:
 
 - [[areas/badminton/badminton|Badminton]]
 - [[areas/photography/photography|Photography]]
-- [[areas/golf-training/golf-training|Golf Training]]
+- [[golf-training|Golf Training]]
 - [[areas/personal-finance/personal-finance|Personal Finance]]
 - [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 - [[areas/software-architecture/software-architecture|Software Architecture]]

@@ -18,10 +18,6 @@ Maintain and improve badminton skill, fitness, practice rhythm, and related lear
 
 Review monthly, or weekly when actively training.
 
-## Tracker
-
-- [[resources/badminton/2026-06-01 - Badminton Practice Tracker|Badminton Practice Tracker]]
-
 ## Current Training Focus
 
 - 4-corner footwork.
@@ -32,8 +28,6 @@ Review monthly, or weekly when actively training.
 
 | Date | Type | Focus | Follow-up |
 |---|---|---|---|
-| 2026-05-31 | Coach practice | Footwork for net play and both rear corners | [[resources/badminton/2026-05-31 - Badminton Coach Practice|4-corner footwork and resistance band endurance]] |
-| 2026-06-14 | Coach practice | Overhead swing (smash and clear) | [[resources/badminton/2026-06-14 - Badminton Coach Practice|Hand pulls too far back; poor contact point — smash → clear drill]] |
 
 ## Current Projects
 
@@ -42,4 +36,3 @@ Review monthly, or weekly when actively training.
 ## Related Resources
 
 - [[resources/badminton/2026-05-25 - Badminton Fundamentals and Doubles Positioning|Badminton Fundamentals and Doubles Positioning]]
-- [[resources/badminton/2026-06-01 - Badminton Practice Tracker|Badminton Practice Tracker]]
