@@ -13,7 +13,7 @@ Website: https://www.facebook.com/ramenharuki
 - Good for solo: yes
 - Good for group: yes
 - Open late: yes
-- Revisit priority:
+- Revisit priority: 10
 
 ## Best For
 

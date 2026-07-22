@@ -6,10 +6,12 @@ Menu: [Summer Menu (Google Drive)](https://drive.google.com/file/d/1-kfMNoFrZZWu
 
 ## Attributes
 
-- Price:
+- Price: expensive
 - Parking:
 - Good for date:
-- Revisit priority:
+- Revisit priority: 10
+- Reservation: required — 1M VND deposit
+- Booking lead time (days): 7
 
 ## Best For
 

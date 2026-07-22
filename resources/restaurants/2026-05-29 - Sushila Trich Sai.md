@@ -6,11 +6,11 @@ Map:
 
 ## Attributes
 
-- Price:
-- Parking:
-- Good for date:
+- Price: cheap
+- Parking: may be
+- Good for date: yes
 - Open late:
-- Revisit priority:
+- Revisit priority: 10
 
 ## Best For
 

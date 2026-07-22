@@ -6,8 +6,9 @@ Map: 2RP7+3X Ngọc Hà, Ba Đình, Hà Nội, Vietnam
 
 ## Attributes
 
-- Price:
+- Price: mid
 - Good for date: yes
+- Revisit priority: high
 
 ## Best For
 

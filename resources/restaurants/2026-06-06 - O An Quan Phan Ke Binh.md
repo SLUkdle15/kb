@@ -6,6 +6,7 @@ Location: Phan Ke Binh, Hanoi
 ## Attributes
 
 - Revisit priority: high
+- Price: mid
 
 ## Best For
 

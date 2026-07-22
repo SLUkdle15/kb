@@ -10,7 +10,7 @@ Map:
 - Parking:
 - Good for date:
 - Open late:
-- Revisit priority:
+- Revisit priority: 10
 
 ## Best For
 

@@ -6,12 +6,12 @@ Map: https://www.google.com/maps/search/?api=1&query=PaiOi%20Cafe%2C%2059B%20Tra
 
 ## Attributes
 
-- Price:
-- Parking:
-- Good for date:
+- Price: expensive
+- Parking: yes
+- Good for date: yes
 - Good for solo: yes
 - Open late: no
-- Revisit priority:
+- Revisit priority: 10
 
 ## Best For
 

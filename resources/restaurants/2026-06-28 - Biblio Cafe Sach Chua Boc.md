@@ -10,11 +10,15 @@ Map:
 - Parking:
 - Good for date:
 - Open late:
-- Revisit priority:
+- Revisit priority: 10
 
 ## Best For
 
 - 
+
+## Past Experience
+
+Visited: not yet
 
 ## Notes
 

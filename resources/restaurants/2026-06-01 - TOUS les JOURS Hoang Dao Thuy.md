@@ -5,11 +5,11 @@ Location: Hoang Dao Thuy
 
 ## Attributes
 
-- Price:
+- Price: mid
 - Parking:
 - Good for date:
 - Open late:
-- Revisit priority: high
+- Revisit priority: 10
 
 ## Best For
 

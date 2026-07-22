@@ -6,11 +6,11 @@ Map:
 
 ## Attributes
 
-- Price:
+- Price: mid
 - Parking: ok for car
 - Good for date:
 - Noise level: usually crowded, weekend alright
-- Open late:
+- Open late: no
 - Revisit priority: no return
 
 ## Best For

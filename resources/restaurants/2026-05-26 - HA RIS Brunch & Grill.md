@@ -12,7 +12,7 @@ Map: https://www.google.com/maps/search/?api=1&query=HA%3ARIS%20Brunch%20%26%20G
 - Reservation: available
 - Open late: yes
 - Delivery: yes
-- Revisit priority:
+- Revisit priority: 10
 
 ## Best For
 
@@ -20,7 +20,7 @@ Map: https://www.google.com/maps/search/?api=1&query=HA%3ARIS%20Brunch%20%26%20G
 
 ## Past Experience
 
-Visited:
+Visited: not yet
 
 Ordered:
 

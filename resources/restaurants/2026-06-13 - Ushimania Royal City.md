@@ -11,7 +11,7 @@ Map:
 - Good for date:
 - Good for group: yes (spacious)
 - Open late:
-- Revisit priority:
+- Revisit priority: 10
 
 ## Best For
 
