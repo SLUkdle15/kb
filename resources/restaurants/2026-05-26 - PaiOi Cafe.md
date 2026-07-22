@@ -3,8 +3,6 @@
 Cuisine: cafe, Vietnamese, Thai-inspired drinks
 Location: 59B Tran Quoc Toan, Hoan Kiem, Hanoi
 Map: https://www.google.com/maps/search/?api=1&query=PaiOi%20Cafe%2C%2059B%20Tran%20Quoc%20Toan%2C%20Hoan%20Kiem%2C%20Hanoi
-Website:
-Menu:
 
 ## Attributes
 
@@ -12,11 +10,7 @@ Menu:
 - Parking:
 - Good for date:
 - Good for solo: yes
-- Good for group:
-- Noise level:
-- Reservation:
 - Open late: no
-- Delivery:
 - Revisit priority:
 
 ## Best For
@@ -31,9 +25,6 @@ Ordered:
 
 Ratings:
 - Food:
-- Value:
-- Atmosphere:
-- Convenience:
 
 Notes:
 - Tripadvisor lists PaiOi at 59B Tran Quoc Toan, Hanoi.

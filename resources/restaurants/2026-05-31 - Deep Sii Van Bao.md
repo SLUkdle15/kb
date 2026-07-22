@@ -3,20 +3,14 @@
 Cuisine: cafe, sandwiches
 Location: Van Bao, Hanoi
 Map:
-Website:
-Menu:
 
 ## Attributes
 
 - Price:
 - Parking: ok for car
 - Good for date:
-- Good for solo:
-- Good for group:
 - Noise level: usually crowded, weekend alright
-- Reservation:
 - Open late:
-- Delivery:
 - Revisit priority: no return
 
 ## Best For
@@ -33,9 +27,6 @@ Ordered:
 
 Ratings:
 - Food: low
-- Value:
-- Atmosphere:
-- Convenience:
 
 Notes:
 - Usually crowded; weekend is alright.

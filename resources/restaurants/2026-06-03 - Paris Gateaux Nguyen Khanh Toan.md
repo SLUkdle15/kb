@@ -3,20 +3,13 @@
 Cuisine: bakery, cafe
 Location: Nguyen Khanh Toan
 Map:
-Website:
-Menu:
 
 ## Attributes
 
 - Price:
 - Parking:
 - Good for date:
-- Good for solo:
-- Good for group:
-- Noise level:
-- Reservation:
 - Open late:
-- Delivery:
 - Revisit priority:
 
 ## Best For
@@ -41,8 +34,5 @@ Ordered:
 
 Ratings:
 - Food:
-- Value:
-- Atmosphere:
-- Convenience:
 
 Notes:

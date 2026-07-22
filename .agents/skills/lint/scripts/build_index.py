@@ -30,9 +30,13 @@ TIME_SENSITIVE_RE = re.compile(
     re.IGNORECASE,
 )
 UNRESOLVED_RE = re.compile(r"\b(TODO|FIXME|TBD|question|unclear|verify|check|research)\b|\?", re.IGNORECASE)
-CONCEPT_RE = re.compile(r"\b[A-Z][A-Za-z0-9]+(?:\s+[A-Z][A-Za-z0-9]+){1,4}\b")
+CONCEPT_RE = re.compile(
+    r"\b[A-Z][A-Za-z0-9]+(?:-[A-Za-z0-9]+)*(?:[ \t]+[A-Z][A-Za-z0-9]+(?:-[A-Za-z0-9]+)*){1,4}\b"
+)
 FENCED_BLOCK_RE = re.compile(r"```.*?```", re.DOTALL)
 INLINE_CODE_RE = re.compile(r"`[^`\n]+`")
+ANY_WIKI_LINK_RE = re.compile(r"!?\[\[[^\]\n]+\]\]")
+FIELD_LABEL_RE = re.compile(r"^(\s*(?:[-*]\s+)?)[A-Za-z][A-Za-z /'-]{0,40}:", re.MULTILINE)
 
 EXCLUDED_DIRS = {
     ".git",
@@ -100,6 +104,12 @@ def strip_code(text: str) -> str:
     return INLINE_CODE_RE.sub("", text)
 
 
+def strip_template_noise(text: str) -> str:
+    """Drop headings and 'Label:' prefixes so template scaffolding is not scanned as claims."""
+    text = HEADING_RE.sub("", text)
+    return FIELD_LABEL_RE.sub(r"\1", text)
+
+
 def first_h1(text: str) -> str | None:
     for match in HEADING_RE.finditer(text):
         if len(match.group(1)) == 1:
@@ -136,6 +146,7 @@ def resolve_wiki(raw: str, aliases: dict[str, set[str]]) -> str | None:
 def extract_note(path: Path, vault: Path, text: str, aliases: dict[str, set[str]]) -> Note:
     path_rel = rel(path, vault)
     prose = strip_code(text)
+    claim_prose = strip_template_noise(prose)
     headings = [m.group(2).strip() for m in HEADING_RE.finditer(prose)]
     h1 = first_h1(prose)
     wiki_raw = [display_link_target(m.group(1)) for m in WIKI_LINK_RE.finditer(prose)]
@@ -176,7 +187,7 @@ def extract_note(path: Path, vault: Path, text: str, aliases: dict[str, set[str]
         word_count=len(words),
         modified_time=datetime.fromtimestamp(path.stat().st_mtime, tz=timezone.utc).isoformat(),
         dates_mentioned=unique_sorted([m.group(0) for m in DATE_RE.finditer(prose)]),
-        time_sensitive_terms=unique_sorted([m.group(1).lower() for m in TIME_SENSITIVE_RE.finditer(prose)]),
+        time_sensitive_terms=unique_sorted([m.group(1).lower() for m in TIME_SENSITIVE_RE.finditer(claim_prose)]),
         unresolved_markers=unique_sorted([m.group(0) for m in UNRESOLVED_RE.finditer(prose)]),
         has_next_actions_section=any(h.lower() == "next actions" for h in headings),
         links_to_next_actions=unique_sorted([p for p in resolved if p.startswith("next/next-actions/")]),
@@ -206,6 +217,9 @@ def concept_candidates(texts: dict[Path, str], aliases: dict[str, set[str]], vau
     for path, text in texts.items():
         prose = strip_code(text)
         prose = HEADING_RE.sub("", prose)
+        prose = ANY_WIKI_LINK_RE.sub("", prose)
+        prose = MD_LINK_RE.sub("", prose)
+        prose = URL_RE.sub("", prose)
         for match in CONCEPT_RE.finditer(prose):
             concept = re.sub(r"\s+", " ", match.group(0).strip())
             if concept in stop or len(concept) < 5 or normalize_title(concept) in aliases:
@@ -395,6 +409,8 @@ def main() -> int:
                 }
                 for note in notes
                 if note.time_sensitive_terms
+                and note.path not in root_allowlist
+                and not note.path.startswith("archives/")
             ],
             "concept_candidates": concept_candidates(texts, aliases, vault),
             "inbox_candidates": [note.path for note in notes if note.path.startswith("inbox/")],

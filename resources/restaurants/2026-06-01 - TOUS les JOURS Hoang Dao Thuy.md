@@ -8,12 +8,7 @@ Location: Hoang Dao Thuy
 - Price:
 - Parking:
 - Good for date:
-- Good for solo:
-- Good for group:
-- Noise level:
-- Reservation:
 - Open late:
-- Delivery:
 - Revisit priority: high
 
 ## Best For
@@ -32,9 +27,6 @@ Ordered:
 
 Ratings:
 - Food:
-- Value:
-- Atmosphere:
-- Convenience:
 
 Notes:
 - Banh mi sua chua was very good.

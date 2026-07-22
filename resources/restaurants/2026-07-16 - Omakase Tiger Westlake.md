@@ -9,7 +9,6 @@ Menu: [Summer Menu (Google Drive)](https://drive.google.com/file/d/1-kfMNoFrZZWu
 - Price:
 - Parking:
 - Good for date:
-- Reservation:
 - Revisit priority:
 
 ## Best For

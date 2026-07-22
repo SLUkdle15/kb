@@ -9,9 +9,6 @@ Map: https://www.google.com/maps/search/?api=1&query=HA%3ARIS%20Brunch%20%26%20G
 - Price: mid
 - Parking: available
 - Good for date:
-- Good for solo:
-- Good for group:
-- Noise level:
 - Reservation: available
 - Open late: yes
 - Delivery: yes
@@ -29,8 +26,5 @@ Ordered:
 
 Ratings:
 - Food:
-- Value:
-- Atmosphere:
-- Convenience:
 
 Notes:

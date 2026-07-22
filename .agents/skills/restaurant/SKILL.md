@@ -10,9 +10,10 @@ Use this skill only to create new restaurant notes.
 ## Inputs
 
 - Restaurant name.
+- Price bracket and revisit priority (required — ask if not given; see Workflow).
 - Optional place or area.
-- Optional URL, map link, menu link, or delivery link.
-- Optional cuisine, price, parking, date suitability, group suitability, solo suitability, noise, reservation, hours, and past experience.
+- Optional URL or map link.
+- Optional cuisine, parking, date suitability, hours, and past experience.
 
 ## Storage
 
@@ -30,20 +31,13 @@ Create dated restaurant notes:
 Cuisine:
 Location:
 Map:
-Website:
-Menu:
 
 ## Attributes
 
 - Price:
 - Parking:
 - Good for date:
-- Good for solo:
-- Good for group:
-- Noise level:
-- Reservation:
 - Open late:
-- Delivery:
 - Revisit priority:
 
 ## Best For
@@ -57,25 +51,24 @@ Visited: YYYY-MM-DD
 Ordered:
 - 
 
-Ratings:
-- Food:
-- Value:
-- Atmosphere:
-- Convenience:
+- Food rating:
 
 Notes:
 ```
 
-Omit unknown fields only when they add clutter. Prefer short, comparable values such as `cheap`, `mid`, `expensive`, `yes`, `no`, `limited`, `quiet`, `moderate`, `loud`, or a 1-10 rating.
+Prefer short, comparable values such as `cheap`, `mid`, `expensive`, `yes`, `no`, `limited`, or a 1-10 rating.
+
+Add extra fields (website, menu, noise level, reservation, delivery, group/solo suitability, more ratings) only when the user provides a value for them — never as empty placeholders.
 
 ## Workflow
 
 1. Read `AGENTS.md` and `resources/restaurants/restaurants.md` if present.
 2. Search existing restaurant notes first to avoid duplicates.
-3. Create a note named `YYYY-MM-DD - Restaurant Name.md` in `resources/restaurants`.
-4. Use plain cuisine and location fields unless the user asks to create separate notes for them.
-5. Add the restaurant to `resources/restaurants/restaurants.md`.
-6. If the restaurant already exists, do not update it; report the existing note path instead.
+3. If the capture does not include a price bracket (`cheap` / `mid` / `expensive`) and a revisit priority (1-10), ask for them before saving — these two fields drive meal decisions and are only reliably known right after a visit. If the user declines or does not answer, save the note anyway and say which fields are still empty.
+4. Create a note named `YYYY-MM-DD - Restaurant Name.md` in `resources/restaurants`.
+5. Use plain cuisine and location fields unless the user asks to create separate notes for them.
+6. Add the restaurant to `resources/restaurants/restaurants.md`.
+7. If the restaurant already exists, do not update it; report the existing note path instead.
 
 ## Guardrails
 

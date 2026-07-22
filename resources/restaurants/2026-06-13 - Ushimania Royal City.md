@@ -3,20 +3,14 @@
 Cuisine: Japanese / yakiniku BBQ
 Location: Royal City, Hà Nội
 Map:
-Website:
-Menu:
 
 ## Attributes
 
 - Price: expensive
 - Parking:
 - Good for date:
-- Good for solo:
 - Good for group: yes (spacious)
-- Noise level:
-- Reservation:
 - Open late:
-- Delivery:
 - Revisit priority:
 
 ## Best For
@@ -35,7 +29,6 @@ Ratings:
 - Food: good
 - Value: expensive
 - Atmosphere: spacious
-- Convenience:
 
 Notes:
 - Expensive but good.

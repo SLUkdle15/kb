@@ -23,3 +23,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-07-15 - Examine Guitar|Examine Guitar]]
 - [[2026-07-16 - Refactor KB Trigger Notes Into Areas|Refactor KB Trigger Notes Into Areas]]
 - [[2026-07-22 - Fix the Sink Drain Cover|Fix the Sink Drain Cover]]
+- [[2026-07-22 - Backfill Restaurant Price and Revisit Priority|Backfill Restaurant Price and Revisit Priority]]

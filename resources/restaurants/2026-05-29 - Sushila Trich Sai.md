@@ -3,20 +3,13 @@
 Cuisine: Japanese, sushi
 Location: 243 Trich Sai
 Map:
-Website:
-Menu:
 
 ## Attributes
 
 - Price:
 - Parking:
 - Good for date:
-- Good for solo:
-- Good for group:
-- Noise level:
-- Reservation:
 - Open late:
-- Delivery:
 - Revisit priority:
 
 ## Best For
@@ -38,7 +31,6 @@ Ratings:
 - Food: 10
 - Value: 10
 - Atmosphere: 7
-- Convenience:
 
 Notes:
 - View to West Lake, but compact.

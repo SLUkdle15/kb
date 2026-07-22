@@ -3,20 +3,13 @@
 Cuisine: Vietnamese / phở
 Location: Lê Thái Tổ, Hoàn Kiếm, Hà Nội
 Map:
-Website:
-Menu:
 
 ## Attributes
 
 - Price: expensive
 - Parking: no
 - Good for date:
-- Good for solo:
-- Good for group:
-- Noise level:
-- Reservation:
 - Open late:
-- Delivery:
 - Revisit priority:
 
 ## Best For
@@ -33,9 +26,6 @@ Ordered:
 
 Ratings:
 - Food:
-- Value:
-- Atmosphere:
-- Convenience:
 
 Notes:
 - Expensive but good.

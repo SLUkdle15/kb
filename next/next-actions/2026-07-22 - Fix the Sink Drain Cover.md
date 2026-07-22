@@ -1,5 +1,7 @@
 # Fix the Sink Drain Cover
 
+Area: [[areas/home-maintenance/home-maintenance|Home Maintenance]]
+
 ## Action
 
 Fix the sink drain cover.

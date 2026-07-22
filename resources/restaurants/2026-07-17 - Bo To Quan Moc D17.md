@@ -3,20 +3,13 @@
 Cuisine: Vietnamese
 Location: Lang Quoc te Thang Long, Nghia Do, Ha Noi 100000, Vietnam
 Map:
-Website:
-Menu:
 
 ## Attributes
 
 - Price:
 - Parking:
 - Good for date:
-- Good for solo:
-- Good for group:
-- Noise level:
-- Reservation:
 - Open late:
-- Delivery:
 - Revisit priority:
 
 ## Best For
@@ -36,8 +29,5 @@ Ordered:
 
 Ratings:
 - Food:
-- Value:
-- Atmosphere:
-- Convenience:
 
 Notes: All three dishes were very good.

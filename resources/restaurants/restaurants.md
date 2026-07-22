@@ -49,6 +49,8 @@ Add restaurant links here as notes are created.
 - [[2026-07-12 - Hokkaido Sachi|Hokkaido Sachi]]
 - [[2026-07-16 - Omakase Tiger Westlake|Omakase Tiger - Westlake]]
 - [[2026-07-17 - Bo To Quan Moc D17|Bo To Quan Moc D17]]
+- [[2026-07-22 - Pho Ga Tien Nguyen Truong To|Phở Gà Tiến - Nguyễn Trường Tộ]]
+- [[2026-07-22 - Com Tam Bay Fo Hang Bun|Cơm Tấm Bảy Fơ - Hàng Bún]]
 
 ## Decision Prompt
 

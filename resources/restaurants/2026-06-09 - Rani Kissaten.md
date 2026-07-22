@@ -1,10 +1,8 @@
 # Rani Kissaten
 
 Cuisine: cafe / pizza
-Location:
-Map:
-Website:
-Menu:
+Location: Số 5 ngõ 3 Liễu Giai, Ngọc Hà, Ba Đình, Hà Nội, Vietnam
+Map: 2RP7+3X Ngọc Hà, Ba Đình, Hà Nội, Vietnam
 
 ## Attributes
 
