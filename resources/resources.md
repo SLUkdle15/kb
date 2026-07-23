@@ -13,6 +13,7 @@ Examples:
 
 ## Resource Collections
 
+- [[resources/behavior-change/behavior-change|Behavior Change]]
 - [[resources/personal-knowledge-management/personal-knowledge-management|Personal Knowledge Management]]
 - [[resources/software-engineering/software-engineering|Software Engineering]]
 - [[resources/ideas/ideas|Ideas]]
