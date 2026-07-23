@@ -30,6 +30,10 @@ Review monthly, or weekly when the relationship needs active attention.
 - First time I said "I love you": We were eating grilled eggs, and she took me home. She wore a yellow shirt and blue jeans.
 - First time we held hands: She wore an all-white outfit.
 
+## Protocols
+
+- [[take-her-out-for-weekday-dinner|Take Her Out for Weekday Dinner]]
+
 ## Current Projects
 
 - 

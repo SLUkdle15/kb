@@ -8,4 +8,4 @@ Related area: [[areas/software-architect-growth/software-architect-growth|Softwa
 
 ## Notes
 
-- [[2026-06-22 - Reverse Proxy Host Header Rewriting for Third-Party Callbacks|Reverse Proxy Host Header Rewriting for Third-Party Callbacks]]
+- [[resources/software-engineering/infrastructure/2026-06-22 - Reverse Proxy for Third-Party Callbacks|Reverse Proxy Host Header Rewriting for Third-Party Callbacks]]

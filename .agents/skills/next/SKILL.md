@@ -36,6 +36,7 @@ Use only the fields that fit the item:
 
 Project: [[projects/project-folder/project-note]]
 Area: [[areas/area/area]]
+Protocol: [[areas/area/protocol-name]]
 Due: YYYY-MM-DD
 Waiting on:
 
@@ -49,10 +50,13 @@ Waiting on:
 1. Read `AGENTS.md` and `next/next.md`.
 2. Extract the action, route, date/time, and related project or area from the user request.
 3. Ask only for missing essentials when routing is ambiguous.
-4. Create a dated note using `YYYY-MM-DD - Action Title.md`.
-5. Put the note in the routed folder.
-6. Link back to the project or area when provided.
-7. If linked to an active project, make sure the project note links to this next action.
+4. Check the owning area's index note for a `## Protocols` section. If a protocol covers the activity behind the action:
+   - Add a `Protocol:` link to the protocol note in the action note.
+   - Read the protocol's checklist and surface unmet items as extra suggested actions (for example, a dinner action matching the weekday-dinner protocol also suggests logging the restaurant in `resources/restaurants`).
+5. Create a dated note using `YYYY-MM-DD - Action Title.md`.
+6. Put the note in the routed folder.
+7. Link back to the project or area when provided.
+8. If linked to an active project, make sure the project note links to this next action.
 
 ## Guardrails
 
