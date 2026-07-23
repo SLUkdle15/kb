@@ -37,6 +37,9 @@ FENCED_BLOCK_RE = re.compile(r"```.*?```", re.DOTALL)
 INLINE_CODE_RE = re.compile(r"`[^`\n]+`")
 ANY_WIKI_LINK_RE = re.compile(r"!?\[\[[^\]\n]+\]\]")
 FIELD_LABEL_RE = re.compile(r"^(\s*(?:[-*]\s+)?)[A-Za-z][A-Za-z /'-]{0,40}:", re.MULTILINE)
+LIST_ITEM_RE = re.compile(r"^\s*(?:[-*+]|\d{1,3}[.)])\s+(.*)$")
+TITLE_TOKEN_RE = re.compile(r"[A-Z][A-Za-z0-9'&.-]*|of|in|on|at|to|a|an|and|the|for|with|vs\.?|\d+")
+ITALIC_SPAN_RE = re.compile(r"(?<!\*)\*[^*\n]+\*(?!\*)")
 
 EXCLUDED_DIRS = {
     ".git",
@@ -199,6 +202,28 @@ def extract_note(path: Path, vault: Path, text: str, aliases: dict[str, set[str]
     )
 
 
+def strip_book_title_lines(prose: str) -> str:
+    """Drop list items that read like book/reading-list titles, e.g.
+    "- Fundamentals of Software Architecture" or "5. Software Architecture: The Hard Parts".
+    A line qualifies when every word is title-case (or a connector) and it is
+    long enough (>= 3 words) or carries a colon subtitle."""
+    kept = []
+    for line in prose.splitlines():
+        match = LIST_ITEM_RE.match(line)
+        if match:
+            head, colon, _ = match.group(1).strip().partition(":")
+            words = head.strip().split()
+            if (
+                words
+                and words[0][0].isupper()
+                and all(TITLE_TOKEN_RE.fullmatch(w) for w in words)
+                and (len(words) >= 3 or colon)
+            ):
+                continue
+        kept.append(line)
+    return "\n".join(kept)
+
+
 def concept_candidates(texts: dict[Path, str], aliases: dict[str, set[str]], vault: Path) -> list[dict[str, Any]]:
     stop = {
         "Current Projects",
@@ -220,6 +245,8 @@ def concept_candidates(texts: dict[Path, str], aliases: dict[str, set[str]], vau
         prose = ANY_WIKI_LINK_RE.sub("", prose)
         prose = MD_LINK_RE.sub("", prose)
         prose = URL_RE.sub("", prose)
+        prose = ITALIC_SPAN_RE.sub("", prose)
+        prose = strip_book_title_lines(prose)
         for match in CONCEPT_RE.finditer(prose):
             concept = re.sub(r"\s+", " ", match.group(0).strip())
             if concept in stop or len(concept) < 5 or normalize_title(concept) in aliases:
