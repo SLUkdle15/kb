@@ -38,6 +38,10 @@ INLINE_CODE_RE = re.compile(r"`[^`\n]+`")
 ANY_WIKI_LINK_RE = re.compile(r"!?\[\[[^\]\n]+\]\]")
 FIELD_LABEL_RE = re.compile(r"^(\s*(?:[-*]\s+)?)[A-Za-z][A-Za-z /'-]{0,40}:", re.MULTILINE)
 LIST_ITEM_RE = re.compile(r"^\s*(?:[-*+]|\d{1,3}[.)])\s+(.*)$")
+PLACE_FIELD_RE = re.compile(
+    r"^\s*(?:[-*+]\s+)?(?:location|address|area|place|map)\s*:\s*(\S.*)$",
+    re.IGNORECASE | re.MULTILINE,
+)
 TITLE_TOKEN_RE = re.compile(r"[A-Z][A-Za-z0-9'&.-]*|of|in|on|at|to|a|an|and|the|for|with|vs\.?|\d+")
 ITALIC_SPAN_RE = re.compile(r"(?<!\*)\*[^*\n]+\*(?!\*)")
 
@@ -256,10 +260,20 @@ def concept_candidates(texts: dict[Path, str], aliases: dict[str, set[str]], vau
             counts[concept] += 1
             paths_by_concept[concept].add(rel(path, vault))
 
+    # Structured place data (Location:/Area: fields) and phrases already inside
+    # an existing note title are not missing concepts.
+    field_values = "\n".join(
+        m.group(1).lower() for text in texts.values() for m in PLACE_FIELD_RE.finditer(text)
+    )
+
+    def covered(concept: str) -> bool:
+        norm = normalize_title(concept)
+        return norm in field_values or any(norm in key for key in aliases)
+
     return [
         {"concept": concept, "mentions": count, "sample_paths": sorted(paths_by_concept[concept])[:5]}
         for concept, count in counts.most_common(40)
-        if count >= 3
+        if count >= 3 and not covered(concept)
     ]
 
 
