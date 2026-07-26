@@ -23,3 +23,5 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-07-16 - Refactor KB Trigger Notes Into Areas|Refactor KB Trigger Notes Into Areas]]
 - [[2026-07-22 - Fix the Sink Drain Cover|Fix the Sink Drain Cover]]
 - [[2026-07-22 - Watch The Odyssey at the Cinema|Watch The Odyssey at the Cinema]]
+- [[2026-07-26 - Call Bank About Mom Transfer|Call Bank About Mom Transfer]]
+- [[2026-07-26 - Get Moms Bank Account Details|Get Mom's Bank Account Details]]
