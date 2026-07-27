@@ -9,3 +9,7 @@ Ask mom for her bank name, account number, and account holder name so the transf
 ## Done When
 
 Have mom's bank account details recorded.
+
+## Status
+
+Completed 2026-07-27.

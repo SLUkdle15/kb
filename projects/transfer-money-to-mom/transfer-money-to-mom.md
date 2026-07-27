@@ -10,7 +10,7 @@ Send the money to mom via a bank transfer to her account.
 
 ## Definition of Done
 
-- [ ] Have mom's bank account details on hand.
+- [x] Have mom's bank account details on hand.
 - [ ] Know whether transfers above the threshold (~16, unit unconfirmed — possibly billion VND) incur a fee.
 - [ ] Know how long the transfer takes to land.
 - [ ] Know whether it can be done via the banking app or requires a branch visit.
@@ -18,8 +18,9 @@ Send the money to mom via a bank transfer to her account.
 
 ## Next Actions
 
-- [[next/next-actions/2026-07-26 - Call Bank About Mom Transfer]]
-- [[next/next-actions/2026-07-26 - Get Moms Bank Account Details]]
+- [[next/calendar/2026-07-26 - Call Bank About Mom Transfer]]
+
+Completed: [[archives/next-actions/2026-07-26 - Get Moms Bank Account Details|Get Mom's Bank Account Details]] (2026-07-27)
 
 ## Notes
 
