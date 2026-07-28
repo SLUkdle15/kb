@@ -1,6 +1,6 @@
 # Call Bank About Mom Transfer
 
-Project: [[projects/transfer-money-to-mom/transfer-money-to-mom]]
+Project: [[archives/transfer-money-to-mom/transfer-money-to-mom]]
 Due: 2026-07-28
 
 ## Action

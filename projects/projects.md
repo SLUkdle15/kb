@@ -52,4 +52,4 @@ Move notes into the project folder only when they are project-specific working m
 
 ## Active Projects
 
-- [[projects/transfer-money-to-mom/transfer-money-to-mom|Transfer Money to Mom]] — due 2026-07-29
+- None right now.

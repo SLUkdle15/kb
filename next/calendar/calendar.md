@@ -21,4 +21,3 @@ Use this folder for date-specific or time-specific commitments.
 ## Items
 
 - [[next/calendar/2026-07-22 - Book Tuoi Tho Du Doi Premiere Tickets]] — due 2026-08-02 (show 2026-08-16 20:00)
-- [[next/calendar/2026-07-26 - Call Bank About Mom Transfer]] — due 2026-07-28

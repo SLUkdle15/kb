@@ -1,6 +1,6 @@
 # Get Mom's Bank Account Details
 
-Project: [[projects/transfer-money-to-mom/transfer-money-to-mom]]
+Project: [[archives/transfer-money-to-mom/transfer-money-to-mom]]
 
 ## Action
 
