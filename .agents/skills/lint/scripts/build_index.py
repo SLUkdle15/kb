@@ -197,7 +197,10 @@ def extract_note(path: Path, vault: Path, text: str, aliases: dict[str, set[str]
         time_sensitive_terms=unique_sorted([m.group(1).lower() for m in TIME_SENSITIVE_RE.finditer(claim_prose)]),
         unresolved_markers=unique_sorted([m.group(0) for m in UNRESOLVED_RE.finditer(prose)]),
         has_next_actions_section=any(h.lower() == "next actions" for h in headings),
-        links_to_next_actions=unique_sorted([p for p in resolved if p.startswith("next/next-actions/")]),
+        links_to_next_actions=unique_sorted([
+            p for p in resolved
+            if p.startswith(("next/next-actions/", "next/calendar/", "next/waiting/"))
+        ]),
         links_back_to_projects=unique_sorted([p for p in resolved if p.startswith("projects/")]),
         links_to_context=unique_sorted([
             p for p in resolved
