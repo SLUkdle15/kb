@@ -21,6 +21,7 @@ Review monthly, or when a fix is pending.
 
 - [[next/next-actions/2026-07-05 - Fix The Door|Fix The Door]]
 - [[next/next-actions/2026-07-22 - Fix the Sink Drain Cover|Fix the Sink Drain Cover]]
+- [[next/calendar/2026-07-28 - Viettel Technician Wifi Update|Viettel Technician Wifi Update]]
 
 ## Current Projects
 
