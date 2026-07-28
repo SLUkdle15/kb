@@ -15,8 +15,7 @@ Source: [[archives/transfer-money-to-mom/transfer-money-to-mom|Transfer Money to
 - [ ] At the branch: sign exactly as your signature registered with TPBank.
 - [ ] Confirm the fee before executing (0.02%, capped at 1.1 million VND).
 - [ ] Verify the money landed in the CIMB account.
+- [ ] Put the ID back in the drawer.
 
 ## Notes
 
-- Fee is 0.02% (e.g. 6 billion VND → 1.2 million), but the 1.1 million VND cap kicks in from 5.5 billion upward — so a 6 billion transfer costs **1.1 million VND**.
-- Unclear whether the in-app fast transfers carry a fee, or whether the 0.02% applies only to the branch transfer — ask when at the branch.
