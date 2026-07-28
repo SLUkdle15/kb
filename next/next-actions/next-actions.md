@@ -24,3 +24,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-07-22 - Fix the Sink Drain Cover|Fix the Sink Drain Cover]]
 - [[2026-07-27 - Buy New Tempered Glasses for 2 Phones|Buy New Tempered Glasses for 2 Phones]]
 - [[2026-07-28 - Find Out How to Put Soccer Protocol Into KB|Find Out How to Put Soccer Protocol Into KB]]
+- [[2026-07-28 - Find Out What to Book for the Premiere|Find Out What to Book for the Premiere]]

@@ -34,6 +34,10 @@ Review monthly, or weekly when the relationship needs active attention.
 
 - [[take-her-out-for-weekday-dinner|Take Her Out for Weekday Dinner]]
 
+## Current Actions
+
+- [[next/calendar/2026-07-27 - Reply to Her Hometown Invitation|Reply to Her Hometown Invitation]]
+
 ## Current Projects
 
 - 
