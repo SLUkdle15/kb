@@ -21,6 +21,5 @@ Use this folder for date-specific or time-specific commitments.
 ## Items
 
 - [[next/calendar/2026-07-27 - Reply to Her Hometown Invitation]] — due 2026-08-10 (visit 2026-09-02)
-- [[next/calendar/2026-07-28 - Viettel Technician Wifi Update]] — due 2026-07-29 (visit window 17:00-18:00)
 - [[next/calendar/2026-07-29 - Weekly Tuesday Soccer]] — recurring Tuesday 17:30 (reminder 3 days before to decide on cancelling the field)
 - [[next/calendar/2026-07-29 - Pick a Date to Meet Friend Next Week]] — due 2026-08-02 (during Sunday review)
