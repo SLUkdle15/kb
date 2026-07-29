@@ -20,7 +20,6 @@ Review monthly, or when a fix is pending.
 ## Current Actions
 
 - [[next/next-actions/2026-07-05 - Fix The Door|Fix The Door]]
-- [[next/next-actions/2026-07-22 - Fix the Sink Drain Cover|Fix the Sink Drain Cover]]
 
 ## Current Projects
 
