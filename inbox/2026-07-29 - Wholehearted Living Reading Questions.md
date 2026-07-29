@@ -1,3 +1,7 @@
+# Wholehearted Living Reading Questions
+
+Questions raised while reading *The Gifts of Imperfection* (Brené Brown).
+
 - Does perfection mean difficult emotion?
 - What is my perfection? _(after finishing)_
 - What is the benefit of living wholehearted and loving myself?
@@ -6,9 +10,5 @@
 - What is numbing? Am I numbing myself, and with what?
 - Where do I confuse "fitting in" with "belonging"?
 - Which guidepost is hardest for me to accept, not just hardest to do?
-
-
-
-
 
 
