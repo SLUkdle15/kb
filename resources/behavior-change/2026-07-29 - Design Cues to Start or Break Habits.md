@@ -5,6 +5,7 @@ type: distilled-note
 # Design Cues to Start or Break Habits
 
 Source: [[inbox/2026-07-22 - Atomic Habit|Atomic Habit]]
+Related: [[resources/behavior-change/2026-07-29 - Four Laws of Behavior Change|Four Laws of Behavior Change]] (the framework these tactics apply — 1st law: make it obvious)
 
 ## Core Idea
 

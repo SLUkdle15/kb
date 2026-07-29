@@ -14,7 +14,7 @@ A habit is a behavior that has been repeated enough times to become automatic. T
 
 Each step maps to a law of behavior change:
 
-1. The 1st law (Cue): Make it obvious.
+1. The 1st law (Cue): Make it obvious. — tactics: [[resources/behavior-change/2026-07-29 - Design Cues to Start or Break Habits|Design Cues to Start or Break Habits]]
 2. The 2nd law (Craving): Make it attractive.
 3. The 3rd law (Response): Make it easy.
 4. The 4th law (Reward): Make it satisfying.
