@@ -1,5 +1,7 @@
 # Find Out How to Put Soccer Protocol Into KB
 
+Due: 2026-07-30
+
 ## Action
 
 Figure out where a soccer protocol should live in the vault. Protocols live inside an owning area's folder, and no soccer area exists yet — decide whether to:

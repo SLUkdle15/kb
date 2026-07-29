@@ -22,4 +22,3 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-07-15 - Examine Guitar|Examine Guitar]]
 - [[2026-07-16 - Refactor KB Trigger Notes Into Areas|Refactor KB Trigger Notes Into Areas]]
 - [[2026-07-27 - Buy New Tempered Glasses for 2 Phones|Buy New Tempered Glasses for 2 Phones]]
-- [[2026-07-28 - Find Out How to Put Soccer Protocol Into KB|Find Out How to Put Soccer Protocol Into KB]]
