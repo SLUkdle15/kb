@@ -12,3 +12,4 @@ Use this collection for reusable knowledge about building habits, breaking bad o
 - [[resources/behavior-change/2026-07-29 - Identity Change Drives Lasting Habits|Identity Change Drives Lasting Habits]]
 - [[resources/behavior-change/2026-07-29 - Four Laws of Behavior Change|Four Laws of Behavior Change]]
 - [[resources/behavior-change/2026-07-29 - Design Cues to Start or Break Habits|Design Cues to Start or Break Habits]]
+- [[resources/behavior-change/2026-07-30 - Make Habits Attractive|Make Habits Attractive]]

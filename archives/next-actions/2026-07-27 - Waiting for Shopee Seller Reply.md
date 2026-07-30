@@ -1,5 +1,8 @@
 # Waiting for Shopee Seller Reply
 
+Status: canceled
+Canceled: 2026-07-30
+
 Waiting on: Shopee seller/tenant to respond to message
 Follow up by: 2026-08-01
 

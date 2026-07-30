@@ -11,8 +11,9 @@
 
 ## Distilled so far
 
-- Points 1–3 → [[resources/behavior-change/2026-07-23 - Habits Compound and Systems Beat Goals|Habits Compound and Systems Beat Goals]]
-- Points 4–6 → [[resources/behavior-change/2026-07-29 - Identity Change Drives Lasting Habits|Identity Change Drives Lasting Habits]]
+- Compounding and systems → [[resources/behavior-change/2026-07-23 - Habits Compound and Systems Beat Goals|Habits Compound and Systems Beat Goals]]
+- Identity change → [[resources/behavior-change/2026-07-29 - Identity Change Drives Lasting Habits|Identity Change Drives Lasting Habits]]
 - Four laws framework → [[resources/behavior-change/2026-07-29 - Four Laws of Behavior Change|Four Laws of Behavior Change]]
-- Cue design tactics → [[resources/behavior-change/2026-07-29 - Design Cues to Start or Break Habits|Design Cues to Start or Break Habits]]
+- Cue design tactics (1st law) → [[resources/behavior-change/2026-07-29 - Design Cues to Start or Break Habits|Design Cues to Start or Break Habits]]
+- Attractiveness tactics (2nd law) → [[resources/behavior-change/2026-07-30 - Make Habits Attractive|Make Habits Attractive]]
 
