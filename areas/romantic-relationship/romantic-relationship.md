@@ -37,6 +37,7 @@ Review monthly, or weekly when the relationship needs active attention.
 ## Current Actions
 
 - [[next/calendar/2026-07-27 - Reply to Her Hometown Invitation|Reply to Her Hometown Invitation]]
+- [[next/calendar/2026-07-30 - Weekly Wednesday Walk with Girlfriend|Weekly Wednesday Walk with Girlfriend]]
 
 ## Current Projects
 
