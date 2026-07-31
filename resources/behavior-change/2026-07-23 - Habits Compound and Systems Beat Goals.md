@@ -4,8 +4,6 @@ type: distilled-note
 
 # Habits Compound and Systems Beat Goals
 
-Source: [[inbox/2026-07-22 - Atomic Habit|Atomic Habit]]
-
 ## Core Idea
 
 Habits are the compound interest of self-improvement: 1% better or worse each day compounds to roughly 37 times better or worse over a year.

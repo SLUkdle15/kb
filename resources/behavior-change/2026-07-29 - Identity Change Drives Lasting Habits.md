@@ -4,8 +4,6 @@ type: distilled-note
 
 # Identity Change Drives Lasting Habits
 
-Source: [[inbox/2026-07-22 - Atomic Habit|Atomic Habit]]
-
 ## Core Idea
 
 True behavior change is identity change. If the new habit conflicts with your identity, it won't last. The very first step of building new habits is changing yourself.

@@ -4,8 +4,6 @@ type: distilled-note
 
 # Make Habits Attractive
 
-Source: [[inbox/2026-07-22 - Atomic Habit|Atomic Habit]]
-
 ## Core Idea
 
 Craving drives habits more than the reward itself: the brain has far more neural circuitry allocated for wanting rewards than for liking them. Tactics for the 2nd law ([[resources/behavior-change/2026-07-29 - Four Laws of Behavior Change|Four Laws of Behavior Change]]) work by raising the anticipation around a habit, not the payoff.

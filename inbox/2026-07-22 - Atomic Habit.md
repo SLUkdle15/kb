@@ -8,6 +8,7 @@
     - How to log my performance? and is this act as a craving factor?
 - How do I remove a bad habit — specifically endless social media and poor morning focus?
 - When a habit plateaus, what do I do?
+- How many reps does it take to form a new habit?
 
 ## Distilled so far
 
@@ -16,4 +17,5 @@
 - Four laws framework → [[resources/behavior-change/2026-07-29 - Four Laws of Behavior Change|Four Laws of Behavior Change]]
 - Cue design tactics (1st law) → [[resources/behavior-change/2026-07-29 - Design Cues to Start or Break Habits|Design Cues to Start or Break Habits]]
 - Attractiveness tactics (2nd law) → [[resources/behavior-change/2026-07-30 - Make Habits Attractive|Make Habits Attractive]]
+- Ease/friction tactics (3rd law) → [[resources/behavior-change/2026-07-31 - Make Habits Easy|Make Habits Easy]]
 
