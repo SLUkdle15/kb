@@ -4,15 +4,6 @@ type: distilled-note
 
 # What a Software Architect Needs to Do
 
-> [!summary]
-> An architect's job is less about writing code and more about defining, prioritizing, measuring, and governing architecture characteristics, making architecturally significant decisions (recorded as ADRs where the *why* matters more than the *how*), assessing risk, and continuously coaching the dev team. Breadth beats depth: move from "I don't know what I don't know" to "I know I don't know."
-
-Source: *Fundamentals of Software Architecture*
-
-Related: [[resources/software-engineering/system-architecture/system-architecture|System Architecture]] · [[areas/software-architect-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]
-
-Protocol: [[areas/software-architect-growth/make-an-architecture-decision|Make an Architecture Decision]]
-
 ## Role and mindset questions
 
 1. What does a software architect need to think about? (mindset — technical, business, and stakeholder concerns compared to a developer's)
@@ -27,7 +18,7 @@ Protocol: [[areas/software-architect-growth/make-an-architecture-decision|Make a
 	3. **Measure** AC
 	4. **Govern** them (fitness functions + ADR) at component level
 	5. **Understand/know app architecture style** 
-	6. **Make architecture decisions (AD)**
+	6. **Make architecture decisions (AD)** — protocol: [[areas/software-architect-growth/make-an-architecture-decision|Make an Architecture Decision]]
 		1.  According to Michael, **architecturally significant** decisions are those decisions that affect the structure, nonfunctional characteristics, dependencies, interfaces, or construction techniques.
 	7. **Assessing risks**
 3. What is the real value of an Architecture Decision Record (ADR)?
