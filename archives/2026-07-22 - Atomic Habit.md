@@ -10,20 +10,6 @@
 - When a habit plateaus, what do I do?
 - How many reps does it take to form a new habit?
 
-Make it easy
-Every day, there are a handful of moments that deliver an outsized impact.
-I refer to these little choices as decisive moments. The moment you decide
-between ordering takeout or cooking dinner. The moment you choose
-between driving your car or riding your bike. The moment you decide
-between starting your homework or grabbing the video game controller.
-These choices are a fork in the road.
-
-“When you start a new habit, it should take less than two minutes to do.
-
-The secret is to always stay below the point where it feels like work. Greg
-McKeown, a leadership consultant from the United Kingdom, built a daily
-journaling habit by specifically writing less than he felt like.
-
 ## Distilled so far
 
 - Compounding and systems → [[resources/behavior-change/2026-07-23 - Habits Compound and Systems Beat Goals|Habits Compound and Systems Beat Goals]]
@@ -32,4 +18,6 @@ journaling habit by specifically writing less than he felt like.
 - Cue design tactics (1st law) → [[resources/behavior-change/2026-07-29 - Design Cues to Start or Break Habits|Design Cues to Start or Break Habits]]
 - Attractiveness tactics (2nd law) → [[resources/behavior-change/2026-07-30 - Make Habits Attractive|Make Habits Attractive]]
 - Ease/friction tactics (3rd law) → [[resources/behavior-change/2026-07-31 - Make Habits Easy|Make Habits Easy]]
+- Reward/satisfaction tactics (4th law) → [[resources/behavior-change/2026-08-01 - Make Habits Satisfying|Make Habits Satisfying]]
+- Motivation and reflection → [[resources/behavior-change/2026-08-01 - The Goldilocks Rule Sustains Motivation|The Goldilocks Rule Sustains Motivation]]
 

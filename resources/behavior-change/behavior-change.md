@@ -14,3 +14,5 @@ Use this collection for reusable knowledge about building habits, breaking bad o
 - [[resources/behavior-change/2026-07-29 - Design Cues to Start or Break Habits|Design Cues to Start or Break Habits]]
 - [[resources/behavior-change/2026-07-30 - Make Habits Attractive|Make Habits Attractive]]
 - [[resources/behavior-change/2026-07-31 - Make Habits Easy|Make Habits Easy]]
+- [[resources/behavior-change/2026-08-01 - Make Habits Satisfying|Make Habits Satisfying]]
+- [[resources/behavior-change/2026-08-01 - The Goldilocks Rule Sustains Motivation|The Goldilocks Rule Sustains Motivation]]

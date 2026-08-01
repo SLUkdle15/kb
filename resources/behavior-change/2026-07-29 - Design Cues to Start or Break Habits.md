@@ -2,6 +2,7 @@
 type: distilled-note
 ---
 
+
 # Design Cues to Start or Break Habits
 
 ## Core Idea
