@@ -21,6 +21,10 @@ Review monthly, or weekly when actively training.
 
 - [[areas/soccer/prepare-for-weekly-soccer|Prepare for Weekly Soccer]]
 
+## Logs
+
+- [[areas/soccer/midfielder-match-log|Midfielder Match Log]] — fill in at halftime and after the final whistle
+
 ## Current Projects
 
 - [[projects/dsc-soccer-league/dsc-soccer-league|DSC Soccer League]]
