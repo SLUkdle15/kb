@@ -6,6 +6,7 @@ Booking site: https://datve.nhahattuoitre.vn/trang-chu
 
 Deferred 2026-07-29: no bookings in July or August, so the 2026-08-16 premiere won't be booked.
 Rescheduled 2026-08-03: check again on 2026-08-05.
+Completed 2026-08-04: tickets purchased and confirmed.
 
 ## Action
 
