@@ -36,6 +36,7 @@ Ask:
 - [[areas/photography/photography|Photography]]
 - [[golf-training|Golf Training]]
 - [[areas/home-maintenance/home-maintenance|Home Maintenance]]
+- [[areas/personal-development/personal-development|Personal Development]]
 - [[areas/personal-finance/personal-finance|Personal Finance]]
 - [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 - [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
