@@ -3,6 +3,8 @@
 > [!summary]
 > Reading notes from DDIA. Core ideas so far: every system balances reliability, scalability, and maintainability; the document-vs-relational choice trades schema flexibility and locality against join support; declarative queries state the what and leave the how to the optimizer; and storage engines trade read speed against write cost (indexes, B-trees vs LSM-trees).
 
+
+5-6-7-9-11
 Distilled notes:
 
 - [[resources/software-engineering/system-architecture/2026-07-31 - Reliability Scalability Maintainability|Reliability Scalability Maintainability]]
