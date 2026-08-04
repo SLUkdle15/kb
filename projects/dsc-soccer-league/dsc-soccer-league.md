@@ -1,5 +1,7 @@
 # DSC Soccer League
 
+Area: [[areas/soccer/soccer|Soccer]]
+
 ## Outcome
 
 Launch a new 3-team soccer league at DSC, playing Saturday mornings, with beer after each match, on a budget of around 6,000,000.

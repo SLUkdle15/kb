@@ -39,5 +39,6 @@ Ask:
 - [[areas/personal-development/personal-development|Personal Development]]
 - [[areas/personal-finance/personal-finance|Personal Finance]]
 - [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
+- [[areas/soccer/soccer|Soccer]]
 - [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
 - [[areas/travel/travel|Travel]]

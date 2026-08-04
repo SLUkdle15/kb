@@ -2,7 +2,7 @@
 
 Every: Tuesday 17:30
 Remind: 4
-Related: [[next/maybe/2026-07-28 - Find Out How to Put Soccer Protocol Into KB]]
+Protocol: [[areas/soccer/prepare-for-weekly-soccer|Prepare for Weekly Soccer]]
 
 ## Action
 

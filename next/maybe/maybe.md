@@ -17,4 +17,3 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-07-15 - Build a Chat System Over This Vault|Build a Chat System Over This Vault]]
 - [[2026-07-15 - Examine Guitar|Examine Guitar]]
 - [[2026-07-22 - Watch The Odyssey at the Cinema|Watch The Odyssey at the Cinema]]
-- [[2026-07-28 - Find Out How to Put Soccer Protocol Into KB|Find Out How to Put Soccer Protocol Into KB]]
