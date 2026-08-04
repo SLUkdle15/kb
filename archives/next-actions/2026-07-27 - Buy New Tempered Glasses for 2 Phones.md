@@ -1,5 +1,7 @@
 # Buy New Tempered Glasses for 2 Phones
 
+Completed: 2026-08-04
+
 ## Action
 
 Buy new tempered glass screen protectors for 2 phones.
