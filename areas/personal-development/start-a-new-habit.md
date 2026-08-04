@@ -15,7 +15,7 @@ Source: [[resources/behavior-change/2026-07-29 - Four Laws of Behavior Change|Fo
 - [ ] Prime the environment beforehand to remove friction, and automate or lock in what a one-time decision can cover.
 - [ ] Attach an immediate reward that fires right after the habit (e.g. a savings transfer for skipped spending).
 - [ ] If this is a top-priority habit, track it — log each rep immediately after it happens.
-- [ ] When it plateaus, recalibrate to just-manageable difficulty instead of waiting for motivation.
+- [ ] When it plateaus, recalibrate to just-manageable difficulty instead of waiting for motivation ([[resources/behavior-change/2026-08-01 - The Goldilocks Rule Sustains Motivation|Goldilocks Rule]]).
 
 ## Notes
 

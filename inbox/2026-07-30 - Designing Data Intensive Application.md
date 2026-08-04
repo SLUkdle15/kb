@@ -11,3 +11,4 @@ Distilled notes:
 - [[resources/software-engineering/system-architecture/2026-07-31 - Document vs Relational Data Model|Document vs Relational Data Model]]
 - [[resources/software-engineering/system-architecture/2026-08-03 - Declarative vs Imperative Query Languages|Declarative vs Imperative Query Languages]]
 - [[resources/software-engineering/system-architecture/2026-08-03 - B-Tree vs LSM-Tree Storage Engines|B-Tree vs LSM-Tree Storage Engines]]
+- [[resources/software-engineering/system-architecture/2026-08-04 - Column-Oriented Storage|Column-Oriented Storage]]
