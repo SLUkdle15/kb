@@ -32,3 +32,4 @@ Review monthly, or weekly when actively training.
 ## Related Resources
 
 - [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]]
+- [[resources/reading/reading|Reading]] — *Soccer IQ* queued in the to-read list
