@@ -2,7 +2,7 @@
 
 Related area: [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
 
-A practical roadmap to become a Software Architect, based on the Reddit software architecture resources thread.
+A practical roadmap to become a Software Architect, based on the [roadmap.sh Software Architect roadmap](https://roadmap.sh/software-architect).
 
 Goal: become someone who can understand business goals, translate them into system requirements, design trade-off-based architecture, communicate the design clearly, guide teams through implementation, and evolve systems over time.
 

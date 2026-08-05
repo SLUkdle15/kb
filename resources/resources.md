@@ -17,6 +17,7 @@ Examples:
 - [[resources/personal-knowledge-management/personal-knowledge-management|Personal Knowledge Management]]
 - [[resources/software-engineering/software-engineering|Software Engineering]]
 - [[resources/ideas/ideas|Ideas]]
+- [[resources/reading/reading|Reading]]
 - [[resources/restaurants/restaurants|Restaurants]]
 - [[resources/places/places|Places]]
 

@@ -9,6 +9,5 @@ The main arguments in favor of the document data model are schema flexibility, b
 Which data model leads to simpler application code?
 Schema flexibility
 	- Schema-on-read is similar to dynamic (runtime) type checking in programming languages, whereas schema-on-write is similar to static (compile-time) type checking.
-Data locality for queries
 
 The advantage of using an ID is that because it has no meaning to humans, it never needs to change.

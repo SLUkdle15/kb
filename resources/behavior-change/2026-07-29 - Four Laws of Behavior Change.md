@@ -17,6 +17,8 @@ Each step maps to a law of behavior change:
 3. The 3rd law (Response): Make it easy. — tactics: [[resources/behavior-change/2026-07-31 - Make Habits Easy|Make Habits Easy]]
 4. The 4th law (Reward): Make it satisfying. — tactics: [[resources/behavior-change/2026-08-01 - Make Habits Satisfying|Make Habits Satisfying]]
 
+To apply the laws end to end, follow the [[areas/personal-development/start-a-new-habit|Start a New Habit]] protocol.
+
 ## Questions This Answers
 
 - What is a habit, mechanically — is there a repeatable structure to it?

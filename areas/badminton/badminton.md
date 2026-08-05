@@ -11,7 +11,6 @@ Maintain and improve badminton skill, fitness, practice rhythm, and related lear
 ## Standard to Maintain
 
 - Practice or train consistently.
-- Track lessons, drills, equipment notes, and recurring weaknesses.
 - Convert specific improvement goals into projects or next actions.
 
 ## Review Rhythm
@@ -23,11 +22,6 @@ Review monthly, or weekly when actively training.
 - 4-corner footwork.
 - Reduce redundant steps, especially for net play and both rear corners.
 - Build endurance with resistance band practice.
-
-## Recent Practice
-
-| Date | Type | Focus | Follow-up |
-|---|---|---|---|
 
 ## Current Projects
 
