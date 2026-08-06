@@ -5,6 +5,14 @@
 
 
 5-6-7-9-11
+Partitioning
+The main reason for wanting to partition data is scalability. Different partitions can
+be placed on different nodes in a shared-nothing cluster 
+
+A partition with disproportion‐ately high load is called a hot spot.
+Partitioning by Key Range -> hot spot or skew
+Partitioning by Hash of Key -> lose query
+Partition with index 
 
 Distilled notes:
 
