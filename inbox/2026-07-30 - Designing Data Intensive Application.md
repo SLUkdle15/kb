@@ -1,20 +1,11 @@
 # Designing Data Intensive Application
 
 > [!summary]
-> Reading notes from DDIA. Core ideas so far: every system balances reliability, scalability, and maintainability; the document-vs-relational choice trades schema flexibility and locality against join support; declarative queries state the what and leave the how to the optimizer; storage engines trade read speed against write cost (indexes, B-trees vs LSM-trees); and replication trades consistency guarantees against latency, availability, and read throughput (single-leader vs multi-leader vs leaderless).
-
+> Reading notes from DDIA. Core ideas so far: every system balances reliability, scalability, and maintainability; the document-vs-relational choice trades schema flexibility and locality against join support; declarative queries state the what and leave the how to the optimizer; storage engines trade read speed against write cost (indexes, B-trees vs LSM-trees); replication trades consistency guarantees against latency, availability, and read throughput (single-leader vs multi-leader vs leaderless); and partitioning trades range-query support against even load distribution, with secondary indexes kept either local to each partition or global by term.
 
 5-6-7-9-11
-Partitioning
-The main reason for wanting to partition data is scalability. Different partitions can
-be placed on different nodes in a shared-nothing cluster 
 
-A partition with disproportion‐ately high load is called a hot spot.
-Partitioning by Key Range -> hot spot or skew
-Partitioning by Hash of Key -> lose query
-Partition with index 
-
-Distilled notes:
+## Distilled notes
 
 - [[resources/software-engineering/system-architecture/2026-07-31 - Reliability Scalability Maintainability|Reliability Scalability Maintainability]]
 - [[resources/software-engineering/system-architecture/2026-07-31 - Document vs Relational Data Model|Document vs Relational Data Model]]
@@ -23,3 +14,5 @@ Distilled notes:
 - [[resources/software-engineering/system-architecture/2026-08-04 - Column-Oriented Storage|Column-Oriented Storage]]
 - [[resources/software-engineering/system-architecture/2026-08-05 - Single-Leader vs Multi-Leader vs Leaderless Replication|Single-Leader vs Multi-Leader vs Leaderless Replication]]
 - [[resources/software-engineering/system-architecture/2026-08-05 - Replication Lag and Consistency Guarantees|Replication Lag and Consistency Guarantees]]
+- [[resources/software-engineering/system-architecture/2026-08-07 - Partitioning by Key Range vs Hash|Partitioning by Key Range vs Hash]]
+- [[resources/software-engineering/system-architecture/2026-08-07 - Local vs Global Secondary Indexes in Partitioned Data|Local vs Global Secondary Indexes in Partitioned Data]]

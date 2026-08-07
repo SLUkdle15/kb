@@ -17,6 +17,8 @@ Related area: [[areas/software-architect-growth/software-architect-growth|Softwa
 - [[2026-08-04 - Column-Oriented Storage|Column-Oriented Storage]]
 - [[2026-08-05 - Single-Leader vs Multi-Leader vs Leaderless Replication|Single-Leader vs Multi-Leader vs Leaderless Replication]]
 - [[2026-08-05 - Replication Lag and Consistency Guarantees|Replication Lag and Consistency Guarantees]]
+- [[2026-08-07 - Partitioning by Key Range vs Hash|Partitioning by Key Range vs Hash]]
+- [[2026-08-07 - Local vs Global Secondary Indexes in Partitioned Data|Local vs Global Secondary Indexes in Partitioned Data]]
 - [[2026-07-15 - FCM System Overview|FCM System Overview]]
 - [[2026-07-17 - AI Chat Bot System Overview|AI Chat Bot System Overview]]
 - [[resources/software-engineering/system-architecture/incidents/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]]
