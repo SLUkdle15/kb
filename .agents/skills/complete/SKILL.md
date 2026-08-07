@@ -23,6 +23,7 @@ For notes under `next/next-actions`, `next/calendar`, `next/maybe`, or `next/wai
 4. In `apply` mode:
    - Move the note to `archives/next-actions`.
    - Remove its entry from the folder index note (`next-actions.md`, `calendar.md`, `maybe.md`, or `waiting.md`).
+   - If the note came from `next/calendar`, regenerate the subscribed feed with `python3 .agents/scripts/build_calendar_ics.py`, so the archived event stops showing on the phone. The pre-commit hook does this too, but only if it is installed; run it directly rather than relying on that.
    - If a project links to it, update the project's `Next Actions` section; an active project must keep at least one linked next action, so surface it if this was the last one.
    - Remove any workflow-status tags such as `#status/waiting`.
 

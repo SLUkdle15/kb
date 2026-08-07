@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 # Regenerate calendar.ics whenever staged changes touch next/calendar,
 # and include the refreshed file in the same commit.
-if git diff --cached --name-only | grep -q '^next/calendar/'; then
+# --no-renames matters: archiving a calendar note is a rename, and with rename
+# detection on, git reports only the archives/ destination, so the old
+# next/calendar/ path never matches and the completed event lingers in the feed.
+if git diff --cached --name-only --no-renames | grep -q '^next/calendar/'; then
     python3 .agents/scripts/build_calendar_ics.py || exit 1
     git add calendar.ics
 fi
