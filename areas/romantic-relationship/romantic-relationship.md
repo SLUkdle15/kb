@@ -37,7 +37,6 @@ Review monthly, or weekly when the relationship needs active attention.
 ## Current Actions
 
 - [[next/calendar/2026-07-30 - Weekly Wednesday Walk with Girlfriend|Weekly Wednesday Walk with Girlfriend]]
-- [[next/calendar/2026-08-06 - Plan Date with Girlfriend|Plan Date with Girlfriend]]
 
 ## Current Projects
 
