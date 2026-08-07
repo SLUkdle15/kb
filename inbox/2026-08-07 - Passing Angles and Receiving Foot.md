@@ -17,6 +17,7 @@ What foot should I receive the ball on, and how do I pass to the receiver's prop
 1. Receive the ball with the back foot.
 2. Receive the ball with the main foot.
 
+## Routed out of this note
 
-Redesign the log
-build a protocol for soccer
+- [[next/next-actions/2026-08-07 - Redesign the Midfielder Match Log|Redesign the Midfielder Match Log]]
+- [[next/maybe/2026-08-07 - Build an In-Match Soccer Protocol|Build an In-Match Soccer Protocol]]

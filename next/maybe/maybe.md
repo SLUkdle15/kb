@@ -17,3 +17,5 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-07-15 - Build a Chat System Over This Vault|Build a Chat System Over This Vault]]
 - [[2026-07-15 - Examine Guitar|Examine Guitar]]
 - [[2026-07-22 - Watch The Odyssey at the Cinema|Watch The Odyssey at the Cinema]]
+- [[2026-08-06 - Test Replication Partitioning and Transactions Locally|Test Replication, Partitioning and Transactions Locally]]
+- [[2026-08-07 - Build an In-Match Soccer Protocol|Build an In-Match Soccer Protocol]]

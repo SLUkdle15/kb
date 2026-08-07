@@ -20,3 +20,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 
 - [[2026-07-16 - Refactor KB Trigger Notes Into Areas|Refactor KB Trigger Notes Into Areas]]
 - [[2026-08-01 - Draft DSC Soccer League Schedule and Budget|Draft DSC Soccer League Schedule and Budget]]
+- [[2026-08-07 - Redesign the Midfielder Match Log|Redesign the Midfielder Match Log]]
