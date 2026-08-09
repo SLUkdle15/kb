@@ -10,3 +10,7 @@ Grab beer after soccer on Saturday 2026-08-08, around lunch time.
 ## Done When
 
 Went for beer after soccer.
+
+## Status
+
+Completed 2026-08-08.

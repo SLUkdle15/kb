@@ -9,3 +9,7 @@ Draft the Saturday morning schedule for the 3-team league and break down how the
 ## Done When
 
 A draft schedule and budget breakdown exist for the league.
+
+## Status
+
+Completed 2026-08-09.

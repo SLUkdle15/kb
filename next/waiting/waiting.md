@@ -15,4 +15,4 @@ Use this folder for things blocked by someone or something else.
 
 ## Items
 
-None right now.
+- [[next/waiting/2026-08-09 - Field Rental Status for DSC Soccer League]] — waiting on Manh, follow up 2026-08-10

@@ -19,7 +19,7 @@ Review monthly, or when a fix is pending.
 
 ## Current Actions
 
-- [[next/calendar/2026-07-05 - Fix The Door|Fix The Door]]
+- [[next/next-actions/2026-08-09 - Examine the Door|Examine the Door]]
 
 ## Current Projects
 

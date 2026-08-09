@@ -1,0 +1,10 @@
+# Arrange Images From Desktop
+
+## Action
+
+Arrange the images sitting on the desktop, including the VCAA ones, into proper folders.
+
+## Done When
+
+- Desktop images are sorted/organized.
+- VCAA images have a proper home.
