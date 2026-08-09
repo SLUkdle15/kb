@@ -20,6 +20,8 @@ Examples:
 - [[resources/reading/reading|Reading]]
 - [[resources/restaurants/restaurants|Restaurants]]
 - [[resources/places/places|Places]]
+- [[resources/badminton/badminton|Badminton]]
+- [[resources/soccer/soccer|Soccer]]
 
 ## What Does Not Belong Here
 
