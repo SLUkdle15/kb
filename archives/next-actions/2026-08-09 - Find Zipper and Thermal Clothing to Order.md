@@ -11,3 +11,7 @@ Due: 2026-08-09
 
 - Zipper option found on Shopee.
 - Thermal clothing options from Nike and Adidas found for bro to order.
+
+## Status
+
+Completed 2026-08-09.

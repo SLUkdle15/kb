@@ -20,7 +20,6 @@ Use this folder for date-specific or time-specific commitments.
 
 ## Items
 
-- [[next/calendar/2026-08-09 - Find Zipper and Thermal Clothing to Order]] — 2026-08-09 (Shopee zipper; Nike/Adidas thermal clothing for bro)
 - [[next/calendar/2026-08-10 - Go to the Bank and Deposit Cash]] — 2026-08-10
 - [[next/calendar/2026-08-09 - Play Badminton with Mom]] — 2026-08-09 16:30 (play badminton with mom today)
 - [[next/calendar/2026-08-09 - Text Khanh About Referee Rental]] — 2026-08-10 (text Khanh about referee rental for DSC Soccer League)
