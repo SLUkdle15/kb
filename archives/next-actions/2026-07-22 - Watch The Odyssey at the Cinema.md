@@ -9,3 +9,7 @@ Go to the cinema and watch The Odyssey.
 ## Done When
 
 - I have watched The Odyssey at the cinema.
+
+## Status
+
+Completed 2026-08-10.

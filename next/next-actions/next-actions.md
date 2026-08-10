@@ -25,4 +25,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-08-09 - Cash Out for DSC Soccer League Prize|Cash Out for DSC Soccer League Prize]]
 - [[2026-08-09 - Clean a Shelf for Mom|Clean a Shelf for Mom]]
 - [[2026-08-10 - Fill Gas for Car|Fill Gas for Car]]
-- [[2026-08-10 - Refactor the Log for NCTool|Refactor the Log for NCTool]]
+- [[2026-08-10 - Rent the Field for DSC Soccer League|Rent the Field for DSC Soccer League]]

@@ -9,3 +9,7 @@ Refactor NCTool logging so it is compatible with Grafana. Logs currently go to s
 ## Done When
 
 NCTool emits JSON logs that Grafana can ingest.
+
+## Status
+
+Completed 2026-08-10.
