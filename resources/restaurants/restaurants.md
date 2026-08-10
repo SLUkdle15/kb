@@ -52,6 +52,7 @@ Add restaurant links here as notes are created.
 - [[2026-07-22 - Pho Ga Tien Nguyen Truong To|Phở Gà Tiến - Nguyễn Trường Tộ]]
 - [[2026-07-22 - Com Tam Bay Fo Hang Bun|Cơm Tấm Bảy Fơ - Hàng Bún]]
 - [[2026-07-30 - Nhat Chao Quan|Nhất Cháo Quán]]
+- [[2026-08-10 - Vit 34|Vịt 34]]
 
 ## Decision Prompt
 
