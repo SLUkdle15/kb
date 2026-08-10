@@ -12,7 +12,6 @@ League launched and running — first Saturday morning match completed with beer
 
 ## Next Actions
 
-- [[next/calendar/2026-08-09 - Text Khanh About Referee Rental]]
 - [[next/next-actions/2026-08-09 - Cash Out for DSC Soccer League Prize]]
 
 ## Waiting

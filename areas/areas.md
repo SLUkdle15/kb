@@ -42,3 +42,4 @@ Ask:
 - [[areas/soccer/soccer|Soccer]]
 - [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
 - [[areas/travel/travel|Travel]]
+- [[areas/work-systems/work-systems|Work Systems]]
