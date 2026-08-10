@@ -9,3 +9,7 @@ Rent the Saturday morning field for the league myself, taking this over from Man
 ## Done When
 
 Field is booked for Saturday mornings.
+
+## Status
+
+Completed 2026-08-10.
