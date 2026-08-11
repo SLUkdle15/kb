@@ -12,8 +12,7 @@ League launched and running — first Saturday morning match completed with beer
 
 ## Next Actions
 
-- [[next/next-actions/2026-08-10 - Rent the Referee for DSC Soccer League]]
-- [[next/next-actions/2026-08-10 - Confirm Team Captains and Members for DSC Soccer League]]
+- None — needs a new next action to stay active.
 
 ## Waiting
 

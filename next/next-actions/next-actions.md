@@ -23,5 +23,3 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-07-16 - Refactor KB Trigger Notes Into Areas|Refactor KB Trigger Notes Into Areas]]
 - [[2026-08-07 - Redesign the Midfielder Match Log|Redesign the Midfielder Match Log]]
 - [[2026-08-09 - Clean a Shelf for Mom|Clean a Shelf for Mom]]
-- [[2026-08-10 - Rent the Referee for DSC Soccer League|Rent the Referee for DSC Soccer League]]
-- [[2026-08-10 - Confirm Team Captains and Members for DSC Soccer League|Confirm Team Captains and Members for DSC Soccer League]]

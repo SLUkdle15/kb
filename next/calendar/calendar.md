@@ -25,4 +25,4 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-07-29 - Weekly Tuesday Soccer]] — recurring Tuesday 17:30 (reminder 4 days before to decide on cancelling the field)
 - [[next/calendar/2026-07-30 - Weekly Wednesday Walk with Girlfriend]] — recurring Wednesday 21:00
 - [[next/calendar/2026-08-10 - Go to Temple and Eat Vegetarian]] — 2026-10-10 (first day of lunar month/September)
-- [[next/calendar/2026-08-10 - Fill Gas for Car]] — 2026-08-12 (early Wednesday morning)
+- [[next/calendar/2026-08-11 - Fill Gas for Car]] — 2026-08-26 (recurring every 2 weeks)
