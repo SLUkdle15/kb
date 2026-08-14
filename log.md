@@ -420,3 +420,12 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 19
 - Report: /tmp/vault-lint/report.md
+
+## [2026-08-14] lint | Vault health check
+
+- Indexed 191 notes
+- Broken wiki links: 1
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 19
+- Report: /tmp/vault-lint/report.md

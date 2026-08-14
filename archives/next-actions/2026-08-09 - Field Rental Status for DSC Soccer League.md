@@ -15,4 +15,4 @@ Field rental status is confirmed.
 
 ## Status
 
-Closed 2026-08-10 — Manh is done with his part; taking the rental over myself in [[next/next-actions/2026-08-10 - Rent the Field for DSC Soccer League|Rent the Field for DSC Soccer League]].
+Closed 2026-08-10 — Manh is done with his part; taking the rental over myself in [[archives/next-actions/2026-08-10 - Rent the Field for DSC Soccer League|Rent the Field for DSC Soccer League]].
