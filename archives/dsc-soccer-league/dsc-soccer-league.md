@@ -10,9 +10,13 @@ Launch a new 3-team soccer league at DSC, playing Saturday mornings, with beer a
 
 League launched and running — first Saturday morning match completed with beer after.
 
+## Status
+
+Completed 2026-08-14. See [[archives/dsc-soccer-league/2026-08-14 - Project Completion|Project Completion]].
+
 ## Next Actions
 
-- None — needs a new next action to stay active.
+- None — see [[archives/dsc-soccer-league/2026-08-14 - Match Day 1 Schedule|Match Day 1 Schedule]] for open items (funding ask, possible invites) still to follow up on.
 
 ## Waiting
 
@@ -22,3 +26,4 @@ League launched and running — first Saturday morning match completed with beer
 
 - 3 teams, Saturday mornings, beer after.
 - Budget: ~6,000,000.
+- Field, referee, and team captains/members confirmed; match day 1 scheduled for 2026-08-15.

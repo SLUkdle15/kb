@@ -27,7 +27,11 @@ Review monthly, or weekly when actively training.
 
 ## Current Projects
 
-- [[projects/dsc-soccer-league/dsc-soccer-league|DSC Soccer League]]
+- None.
+
+## Past Projects
+
+- [[archives/dsc-soccer-league/dsc-soccer-league|DSC Soccer League]] - completed 2026-08-14
 
 ## Related Resources
 

@@ -1,6 +1,6 @@
 # Cash Out for DSC Soccer League Prize
 
-Project: [[projects/dsc-soccer-league/dsc-soccer-league]]
+Project: [[archives/dsc-soccer-league/dsc-soccer-league]]
 
 ## Action
 

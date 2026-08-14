@@ -1,6 +1,6 @@
 # Field Rental Status for DSC Soccer League
 
-Project: [[projects/dsc-soccer-league/dsc-soccer-league]]
+Project: [[archives/dsc-soccer-league/dsc-soccer-league]]
 
 Waiting on: Manh — checking field rental status
 Follow up by: 2026-08-10

@@ -1,6 +1,6 @@
 # Text Khanh About Referee Rental
 
-Project: [[projects/dsc-soccer-league/dsc-soccer-league]]
+Project: [[archives/dsc-soccer-league/dsc-soccer-league]]
 Due: 2026-08-10
 
 ## Action
