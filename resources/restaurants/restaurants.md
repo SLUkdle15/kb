@@ -53,6 +53,7 @@ Add restaurant links here as notes are created.
 - [[2026-07-22 - Com Tam Bay Fo Hang Bun|Cơm Tấm Bảy Fơ - Hàng Bún]]
 - [[2026-07-30 - Nhat Chao Quan|Nhất Cháo Quán]]
 - [[2026-08-10 - Vit 34|Vịt 34]]
+- [[2026-08-14 - Pizza 4P's Lotte Lieu Giai|Pizza 4P's - Lotte Liễu Giai]]
 
 ## Decision Prompt
 
