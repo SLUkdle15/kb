@@ -19,3 +19,4 @@ Source: [[archives/transfer-money-to-mom/transfer-money-to-mom|Transfer Money to
 
 ## Notes
 
+- Transfers after 15:30 incur an extra fee of 330,000 VND.
