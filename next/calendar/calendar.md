@@ -26,3 +26,4 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-07-30 - Weekly Wednesday Walk with Girlfriend]] — recurring Wednesday 21:00
 - [[next/calendar/2026-08-10 - Go to Temple and Eat Vegetarian]] — 2026-10-10 (first day of lunar month/September)
 - [[next/calendar/2026-08-11 - Fill Gas for Car]] — 2026-08-26 (recurring every 2 weeks)
+- [[next/calendar/2026-08-16 - Resolve Money for the Saturday Tournament]] — 2026-08-17 (settle DSC tournament prize/cost money against sponsorship)
