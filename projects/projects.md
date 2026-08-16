@@ -52,4 +52,4 @@ Move notes into the project folder only when they are project-specific working m
 
 ## Active Projects
 
-- None.
+- [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]]
