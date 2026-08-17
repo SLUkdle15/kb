@@ -1,6 +1,6 @@
 # Test Replication, Partitioning and Transactions Locally
 
-Area: [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
+Area: [[areas/technical-growth/technical-growth|Technical Growth]]
 
 ## Action
 

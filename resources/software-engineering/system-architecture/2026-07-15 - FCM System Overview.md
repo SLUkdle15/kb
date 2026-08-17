@@ -2,7 +2,7 @@
 
 System: FCM — FTEL internal contract management for the Legal team (~10 users).
 
-Related area: [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
+Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 
 ## Scope
 

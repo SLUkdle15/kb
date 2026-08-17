@@ -1,6 +1,6 @@
 # Fill In ADR 0002 Choose Email to Reference Instead of ID
 
-Related area: [[areas/software-architect-growth/software-architect-growth]]
+Related area: [[areas/technical-growth/technical-growth]]
 Completed: 2026-07-16
 
 ## Action

@@ -12,7 +12,7 @@ Step 1 of the project. Narrow the master's field down to one or two candidates. 
 Frame the decision:
 
 - [ ] Write one sentence naming what the degree must give that the FPT job plus self-study cannot. If no sentence survives scrutiny, the honest answer may be "not a master's".
-- [ ] Read [[resources/2026-05-25 - Favorite Problems|Favorite Problems]] and mark which questions a field would advance — #1, #2, and #8 are already about architecture, agents, and spotting ideas early.
+- [ ] Read [[areas/personal-development/favorite-problems|Favorite Problems]] and mark which questions a field would advance — the technical-influence and intelligence-system questions are the closest ones.
 - [ ] Name what is being optimized: depth in the current craft, a pivot to a different field, or the move to the US itself. These three point at different degrees.
 
 Build the long list:

@@ -17,7 +17,7 @@ A protocol is an intermediate packet: a simple checklist plus a few notes, with 
 
 ## Storage
 
-- Protocol notes live in the owning area's folder, such as `areas/software-architect-growth/write-an-adr.md`. There is no shared protocols folder.
+- Protocol notes live in the owning area's folder, such as `areas/technical-growth/write-an-adr.md`. There is no shared protocols folder.
 - Filenames are undated, lowercase, hyphenated verb phrases: `write-an-adr.md`. Protocols are evergreen, not captures, so no date prefix.
 - Frontmatter: `type: protocol`.
 

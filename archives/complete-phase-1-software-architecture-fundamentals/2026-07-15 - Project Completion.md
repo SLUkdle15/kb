@@ -6,7 +6,7 @@ Completed 2026-07-15.
 
 ## Outcome
 
-Built the Phase 1 software architecture fundamentals mindset from the [[areas/software-architect-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]: studied architecture characteristics, reviewed a real system (FCM), and drafted ADRs. Some Definition of Done checklist items were left unchecked; the project was closed as done on the owner's call.
+Built the Phase 1 software architecture fundamentals mindset from the [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]: studied architecture characteristics, reviewed a real system (FCM), and drafted ADRs. Some Definition of Done checklist items were left unchecked; the project was closed as done on the owner's call.
 
 ## Reusable Material
 

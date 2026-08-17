@@ -23,6 +23,10 @@ Maintain the systems I am responsible for at work â€” currently NCTool and FCM â
 
 Review monthly, or weekly when a migration or incident is active.
 
+## Protocols
+
+- [[areas/work-systems/merge-dev-to-production|Merge Dev to Production]]
+
 ## Next Actions
 
 - [[next/next-actions/2026-08-09 - Check Work Moving to New Infra for NCTool and FCM|Check Work Moving to New Infra for NCTool and FCM]]

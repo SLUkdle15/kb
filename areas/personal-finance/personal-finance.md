@@ -28,4 +28,4 @@ Review monthly, and before major financial decisions.
 
 ## Related Resources
 
-- [[2026-05-25 - Favorite Problems|Favorite Problems]]
+- [[areas/personal-development/favorite-problems|Favorite Problems]]

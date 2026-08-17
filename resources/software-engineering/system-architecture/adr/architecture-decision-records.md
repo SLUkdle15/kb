@@ -4,7 +4,7 @@ Use this collection for ADRs that capture meaningful architecture decisions, tra
 
 Parent resource: [[resources/software-engineering/system-architecture/system-architecture|System Architecture]]
 
-Protocol: [[areas/software-architect-growth/write-an-adr|Write an ADR]]
+Protocol: [[areas/technical-growth/write-an-adr|Write an ADR]]
 
 ## ADRs
 

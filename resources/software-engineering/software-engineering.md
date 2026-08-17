@@ -2,7 +2,7 @@
 
 Use this collection for reusable notes about engineering workflows, code review, debugging, releases, architecture, JavaScript, tooling, and delivery practices.
 
-Related area: [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
+Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 
 ## Notes
 

@@ -18,7 +18,7 @@ type: distilled-note
 	3. **Measure** AC
 	4. **Govern** them (fitness functions + ADR) at component level
 	5. **Understand/know app architecture style** 
-	6. **Make architecture decisions (AD)** — protocol: [[areas/software-architect-growth/make-an-architecture-decision|Make an Architecture Decision]]
+	6. **Make architecture decisions (AD)** — protocol: [[areas/technical-growth/make-an-architecture-decision|Make an Architecture Decision]]
 		1.  According to Michael, **architecturally significant** decisions are those decisions that affect the structure, nonfunctional characteristics, dependencies, interfaces, or construction techniques.
 	7. **Assessing risks**
 3. What is the real value of an Architecture Decision Record (ADR)?

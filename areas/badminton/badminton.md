@@ -30,3 +30,4 @@ Review monthly, or weekly when actively training.
 ## Related Resources
 
 - [[resources/badminton/2026-05-25 - Badminton Fundamentals and Doubles Positioning|Badminton Fundamentals and Doubles Positioning]]
+- [[areas/personal-development/favorite-problems|Favorite Problems]] — #5 is about competing across the sports I play

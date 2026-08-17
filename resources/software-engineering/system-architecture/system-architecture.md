@@ -4,7 +4,7 @@ Use this collection for reusable software architecture notes: roadmaps, architec
 
 Parent resource: [[resources/software-engineering/software-engineering|Software Engineering]]
 
-Related area: [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
+Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 
 ## Notes
 
@@ -23,4 +23,4 @@ Related area: [[areas/software-architect-growth/software-architect-growth|Softwa
 - [[2026-07-17 - AI Chat Bot System Overview|AI Chat Bot System Overview]]
 - [[resources/software-engineering/system-architecture/incidents/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]]
 
-Related plan: [[areas/software-architect-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]
+Related plan: [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]

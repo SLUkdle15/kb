@@ -2,7 +2,7 @@
 
 System: AI chat bot — enterprise AI chatbot platform for FPT (internal corporate use).
 
-Related area: [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
+Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 
 ## Scope
 

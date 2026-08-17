@@ -4,7 +4,7 @@ Use this collection for reusable testing notes: testing principles, test design,
 
 Parent resource: [[resources/software-engineering/software-engineering|Software Engineering]]
 
-Related area: [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
+Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 
 ## Notes
 

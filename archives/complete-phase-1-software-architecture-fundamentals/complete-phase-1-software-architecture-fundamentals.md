@@ -2,7 +2,7 @@
 
 ## Outcome
 
-Build the Phase 1 software architecture fundamentals mindset from [[areas/software-architect-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]: explain trade-offs, identify architecture characteristics, document technical decisions, and review a real system from business, technical, and operational perspectives.
+Build the Phase 1 software architecture fundamentals mindset from [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]: explain trade-offs, identify architecture characteristics, document technical decisions, and review a real system from business, technical, and operational perspectives.
 
 ## Deadline
 
@@ -28,7 +28,7 @@ Completed 2026-07-15. See [[archives/complete-phase-1-software-architecture-fund
 
 ## Notes
 
-- Source: [[areas/software-architect-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]
+- Source: [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]
 - Review target system: [[resources/software-engineering/system-architecture/2026-07-15 - FCM System Overview|FCM]]
 - Rule for Phase 1: for every 1 hour reading, spend 2 hours writing or designing.
 - Main resource: *Fundamentals of Software Architecture*.

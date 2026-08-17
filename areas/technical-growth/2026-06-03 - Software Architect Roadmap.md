@@ -1,10 +1,10 @@
 # Software Architect Roadmap
 
-Related area: [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
+Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 
-A practical roadmap to become a Software Architect, based on the [roadmap.sh Software Architect roadmap](https://roadmap.sh/software-architect).
+One candidate path for [[areas/personal-development/favorite-problems|Favorite Problems]] #1, not a committed career track. Based on the [roadmap.sh Software Architect roadmap](https://roadmap.sh/software-architect).
 
-Goal: become someone who can understand business goals, translate them into system requirements, design trade-off-based architecture, communicate the design clearly, guide teams through implementation, and evolve systems over time.
+Goal: become someone who can understand business goals, translate them into system requirements, design trade-off-based architecture, communicate the design clearly, guide teams through implementation, and evolve systems over time. That capability is worth building whether or not the title ever follows.
 
 ---
 
@@ -12,10 +12,10 @@ Goal: become someone who can understand business goals, translate them into syst
 
 Since you are already a senior developer, do not start from beginner coding material.
 
-Your target profile:
+If this path is the one being followed:
 
-- Primary track: Software Architect
-- Secondary track: Solution Architect / Cloud Architect
+- Depth: architecture — design, trade-offs, quality attributes
+- Adjacent: solution and cloud architecture
 - Main output: architecture portfolio
 
 Use these as high-level maps:

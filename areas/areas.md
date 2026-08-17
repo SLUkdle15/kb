@@ -40,6 +40,6 @@ Ask:
 - [[areas/personal-finance/personal-finance|Personal Finance]]
 - [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 - [[areas/soccer/soccer|Soccer]]
-- [[areas/software-architect-growth/software-architect-growth|Software Architect Growth]]
+- [[areas/technical-growth/technical-growth|Technical Growth]]
 - [[areas/travel/travel|Travel]]
 - [[areas/work-systems/work-systems|Work Systems]]
