@@ -16,3 +16,4 @@ Use this folder for things blocked by someone or something else.
 ## Items
 
 - [[next/waiting/2026-08-17 - TPBank Savings Term Matures|TPBank Savings Term Matures]] — follow up 2027-02-16 (6-month term at 6.2%, opened 2026-08-16)
+- [[next/waiting/2026-08-17 - Soccer Team Owes 2M VND|Soccer Team Owes 2M VND]] — waiting on the soccer team to pay back 2,000,000 VND

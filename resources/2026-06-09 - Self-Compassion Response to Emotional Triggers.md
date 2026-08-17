@@ -4,6 +4,12 @@
 
 Kristin Neff, *Self-Compassion*
 
+## What self-compassion is
+
+Insecurity, anxiety, and depression are incredibly common in our society, much of it driven by self-judgment — beating ourselves up when we feel we aren't winning in the game of life. Self-compassion provides the same benefits as high self-esteem without its drawbacks: a way to stop judging and evaluating ourselves altogether.
+
+Compassion involves the recognition and clear seeing of suffering, and feelings of kindness for those who are suffering, so that the desire to help — to ameliorate suffering — emerges. Compassion to ourselves first requires that we stop to recognize our own suffering. Everyone is worthy of compassion.
+
 ## Main triggers
 
 When I feel hurt, lonely, angry, rejected, inferior, excluded, criticized, pressured, or unsupported.:
@@ -24,9 +30,27 @@ When I feel hurt, lonely, angry, rejected, inferior, excluded, criticized, press
 
 ## Why do I feel
 
+Why do we blame ourselves? These neurotic ego cycles are not of our own choosing — they are natural and universal. We come by our dysfunctions honestly; they are part of our human inheritance. The engine is normal, and self-compassion is the way out.
+
 The feedback loop:
 
 > Feel superior or expect something → Reality does not match → Feel hurt → Attack myself → Feel worse → Need to feel superior again
+
+A more detailed model of the same engine:
+
+```
+Engine (always running):  need to feel better than others / rank-monitoring
+        ↓
+Engine runs a comparison:  you vs. colleague's salary
+        ↓
+Warning light turns on:   "I'm behind — I'm not measuring up"
+        ↓
+Reactions (attempts to turn the light back off):
+   → Self-inflation: "Money isn't everything — I have better
+     work-life balance, I'm smarter than them anyway."
+   → Self-criticism: "I should've negotiated harder, I should've
+     switched jobs sooner. What's wrong with me?"
+```
 
 ## What to do in the moment
 ### Note what is happening
