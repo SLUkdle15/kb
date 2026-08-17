@@ -26,3 +26,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-08-17 - Decide Master's Field of Study|Decide Master's Field of Study]]
 - [[2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 - [[2026-08-17 - Review the Efficient Spring Logging Guide in Grafana|Review the Efficient Spring Logging Guide in Grafana]]
+- [[2026-08-17 - Buy Ugreen USB-C Cables on Shopee|Buy Ugreen USB-C Cables on Shopee]]
