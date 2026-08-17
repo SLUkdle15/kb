@@ -24,7 +24,7 @@ Review monthly, or during a weekly review when a habit is plateauing or slipping
 
 ## Current Projects
 
-- None.
+- [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]]
 
 ## Related Resources
 
