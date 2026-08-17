@@ -1,5 +1,8 @@
 # Resolve Money for the Saturday Tournament
 
+Status: complete
+Completed: 2026-08-17
+
 Due: 2026-08-17
 Area: [[areas/soccer/soccer|Soccer]]
 

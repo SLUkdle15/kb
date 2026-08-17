@@ -24,4 +24,3 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-08-07 - Redesign the Midfielder Match Log|Redesign the Midfielder Match Log]]
 - [[2026-08-09 - Clean a Shelf for Mom|Clean a Shelf for Mom]]
 - [[2026-08-16 - Check Master's Program Entrance Requirements|Check Master's Program Entrance Requirements]]
-- [[2026-08-16 - Register for a Savings Program|Register for a Savings Program]]
