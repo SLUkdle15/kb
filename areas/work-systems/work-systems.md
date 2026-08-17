@@ -30,3 +30,4 @@ Review monthly, or weekly when a migration or incident is active.
 ## Next Actions
 
 - [[next/next-actions/2026-08-09 - Check Work Moving to New Infra for NCTool and FCM|Check Work Moving to New Infra for NCTool and FCM]]
+- [[next/next-actions/2026-08-17 - Review the Efficient Spring Logging Guide in Grafana|Review the Efficient Spring Logging Guide in Grafana]]
