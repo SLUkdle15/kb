@@ -72,6 +72,8 @@ Remind myself:
 
 This works because physical touch activates the body's care-and-soothe system — the same biological response as being comforted by someone who cares about me.
 
+More on practicing self-kindness, including the supportive-touch script and a critic-to-compassion self-talk technique: [[resources/emotional-regulation/2026-08-18 - Self-Kindness in Practice|Self-Kindness in Practice]].
+
 ## What to do afterward
 ### Reframe motivation
 

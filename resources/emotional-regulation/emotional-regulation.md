@@ -11,3 +11,4 @@ Related area: [[areas/personal-development/personal-development|Personal Develop
 ## Notes
 
 - [[resources/emotional-regulation/2026-08-18 - The Rank-Monitoring Engine Behind Self-Criticism|The Rank-Monitoring Engine Behind Self-Criticism]]
+- [[resources/emotional-regulation/2026-08-18 - Self-Kindness in Practice|Self-Kindness in Practice]]
