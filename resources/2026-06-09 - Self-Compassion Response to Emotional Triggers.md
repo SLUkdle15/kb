@@ -10,7 +10,9 @@ Kristin Neff, *Self-Compassion*
 
 ## What self-compassion is
 
-Distilled out to [[resources/emotional-regulation/2026-08-18 - Self-Compassion vs Self-Esteem|Self-Compassion vs Self-Esteem]] — it drops self-evaluation altogether instead of winning at it, and lists the three components the mantra below rehearses.
+Insecurity, anxiety, and depression are incredibly common in our society, much of it driven by self-judgment — beating ourselves up when we feel we aren't winning in the game of life. Self-compassion provides the same benefits as high self-esteem without its drawbacks: a way to stop judging and evaluating ourselves altogether.
+
+Compassion involves the recognition and clear seeing of suffering, and feelings of kindness for those who are suffering, so that the desire to help — to ameliorate suffering — emerges. Compassion to ourselves first requires that we stop to recognize our own suffering. Everyone is worthy of compassion.
 
 ## Main triggers
 
