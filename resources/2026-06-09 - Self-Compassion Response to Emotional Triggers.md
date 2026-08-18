@@ -2,6 +2,8 @@
 
 Related area: [[areas/personal-development/personal-development|Personal Development]]
 
+Temporary study material. To be replaced by a self-compassion protocol in Personal Development — distill anything worth keeping into `resources` before removing this note. #status/draft
+
 ## Source
 
 Kristin Neff, *Self-Compassion*
@@ -38,21 +40,7 @@ The feedback loop:
 
 > Feel superior or expect something → Reality does not match → Feel hurt → Attack myself → Feel worse → Need to feel superior again
 
-A more detailed model of the same engine:
-
-```
-Engine (always running):  need to feel better than others / rank-monitoring
-        ↓
-Engine runs a comparison:  you vs. colleague's salary
-        ↓
-Warning light turns on:   "I'm behind — I'm not measuring up"
-        ↓
-Reactions (attempts to turn the light back off):
-   → Self-inflation: "Money isn't everything — I have better
-     work-life balance, I'm smarter than them anyway."
-   → Self-criticism: "I should've negotiated harder, I should've
-     switched jobs sooner. What's wrong with me?"
-```
+A more detailed model of the same engine, and why self-inflation and self-criticism are the same reaction: [[resources/2026-08-18 - The Rank-Monitoring Engine Behind Self-Criticism|The Rank-Monitoring Engine Behind Self-Criticism]].
 
 ## What to do in the moment
 ### Note what is happening
