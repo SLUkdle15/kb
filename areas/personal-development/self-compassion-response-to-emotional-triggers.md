@@ -1,5 +1,9 @@
 # Self-Compassion Response to Emotional Triggers
 
+Area: [[areas/personal-development/personal-development|Personal Development]]
+
+When to use: when feeling down — hurt, inferior, rejected, criticized, or unsupported.
+
 ## Source
 
 Kristin Neff, *Self-Compassion*

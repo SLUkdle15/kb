@@ -22,6 +22,6 @@ Examples:
 
 ## Review Frequency
 
-Review at least weekly using the `weekly-review` agent skill.
+Review at least weekly using the `review` agent skill.
 
 If the Inbox is growing quickly, clear it daily.

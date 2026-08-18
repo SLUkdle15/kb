@@ -21,7 +21,7 @@ Move context and learning into `areas` or `resources` when it becomes ongoing or
 
 ## Agent Workflow
 
-Use the `create-next-action` agent skill to add small commitments.
+Use the `next` agent skill to add small commitments.
 
 Routing rule:
 

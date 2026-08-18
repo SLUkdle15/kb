@@ -12,4 +12,4 @@ The tank is filled.
 
 ## Notes
 
-Recurring every 2 weeks.
+Fill up roughly every 2 weeks. The calendar feed only supports weekly recurrence, so this is a one-off event: after filling, re-date this note to the next fill and regenerate `calendar.ics`.

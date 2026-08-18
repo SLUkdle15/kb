@@ -22,6 +22,7 @@ Review monthly, or during a weekly review when a habit is plateauing or slipping
 ## Trigger Notes
 
 - [[areas/personal-development/favorite-problems|Favorite Problems]] — consult when capturing a note.
+- [[areas/personal-development/self-compassion-response-to-emotional-triggers|Self-Compassion Response to Emotional Triggers]] — use when feeling down.
 
 ## Protocols
 
