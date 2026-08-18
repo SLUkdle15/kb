@@ -34,4 +34,5 @@ Review monthly, or during a weekly review when a habit is plateauing or slipping
 ## Related Resources
 
 - [[resources/behavior-change/behavior-change|Behavior Change]]
+- [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]
 - [[resources/2026-06-09 - Self-Compassion Response to Emotional Triggers|Self-Compassion Response to Emotional Triggers]] — study material for a self-compassion protocol.
