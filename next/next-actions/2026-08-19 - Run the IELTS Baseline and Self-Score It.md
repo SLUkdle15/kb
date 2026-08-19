@@ -1,0 +1,41 @@
+# Run the IELTS Baseline and Self-Score It
+
+Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]]
+Area: [[areas/personal-development/personal-development|Personal Development]]
+
+## Action
+
+Week 0 of the plan. Sit a timed baseline in Writing and Speaking, self-score it against the official band descriptors, and use the result to answer one question: is the gap to 6.5 structural, or is it raw fluency? Six and a half weeks can close the first and cannot close the second, so this decides whether early October is the right test date at all.
+
+## Checklist
+
+Before writing anything:
+
+- [ ] Download the official public band descriptors for Writing Task 1, Writing Task 2, and Speaking from ielts.org.
+- [ ] Read the band 6 and band 7 rows side by side, criterion by criterion. Twenty minutes, and it reframes everything after it.
+
+Sit the baseline, from a real Cambridge past paper, under time:
+
+- [ ] Writing Task 2 in 40 minutes. No dictionary, no pausing, no restarting.
+- [ ] Writing Task 1 in 20 minutes.
+- [ ] A full Speaking test recorded on the phone: Part 1, one Part 2 cue card with one minute of preparation, and four Part 3 questions. No script, no retakes.
+- [ ] One timed Reading section, to confirm it still sits at 7.5 or above. If it does not, Reading rejoins the weekday rotation and the plan changes.
+
+Score it honestly:
+
+- [ ] Run the self-scoring pass in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] on both essays.
+- [ ] Run the recording loop in [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]], including transcribing sixty seconds.
+- [ ] Give a band per criterion — eight numbers, not two. The point is to find the one criterion dragging each skill.
+- [ ] Optionally have an AI mark against the descriptors. Use the criterion comments, ignore the band number.
+- [ ] Seed [[projects/score-ielts-7-overall/error-log|Error Log]] with whatever repeats.
+
+Make the call:
+
+- [ ] Decide whether the failure is **structural** — question type misread, no Task 1 overview, position drifting, Part 2 dying at fifty seconds, under 250 words — or **fluency**, where the answer is complete and well-shaped and still scores 5.5 on grammar and vocabulary alone.
+- [ ] If structural, proceed to weeks 1–2 as written. If fluency, move the test to November or December and say so in the project note before booking locks in.
+
+## Done When
+
+Eight criterion-level band estimates are written down, the error log has real entries in it, and the project note records a go or no-go on the early-October date with one sentence of reasoning.
+
+Finish this by Saturday 23 August. Weeks 1–2 cannot start until the diagnosis exists.

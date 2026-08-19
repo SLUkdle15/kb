@@ -28,7 +28,7 @@ Work these in order. Only the current step becomes a note in `next/next-actions`
 2. ~~**Set the constraints.**~~ Done 2026-08-17 — see Constraints above.
 3. **Shortlist three to five US programs** that fit the field, spread across reach and safety.
 4. **Check entrance requirements per shortlisted program.** TOEFL or IELTS, GRE if the program still requires it, transcripts, recommendation letters, statement of purpose, and each program's application deadline.
-5. **Book the required tests.** TOEFL/IELTS slots fill months ahead and scores take weeks to report, so book as soon as step 4 names the test — this is the step most likely to blow the December deadline.
+5. **Book the required tests.** TOEFL/IELTS slots fill months ahead and scores take weeks to report, so book as soon as step 4 names the test — this is the step most likely to blow the December deadline. Started ahead of step 4 as [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]], which assumes an IELTS requirement of 7.0 with no band below 6.5; step 4 has to confirm that target. Started ahead of step 4 as its own project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]], working to a 7.0 / no-band-below-6.5 target and an early October retake. Step 4 may revise that target.
 6. **Gather the documents.** Transcripts, degree certificate, CV, and any translation or notarization the programs require.
 7. **Ask for recommendation letters.** Give referees at least a month and a copy of the statement of purpose.
 8. **Write the statement of purpose**, then adapt it per program.
