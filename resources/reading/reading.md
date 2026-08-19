@@ -20,3 +20,4 @@ Ongoing reading list: what I am reading now, what is queued, and what is finishe
 ## Finished
 
 - *Atomic Habits* — James Clear — distilled into [[resources/behavior-change/behavior-change|Behavior Change]]
+- *Self-Compassion* — Kristin Neff — distilled into [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]

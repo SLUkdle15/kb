@@ -46,4 +46,4 @@ Review monthly, or weekly when the relationship needs active attention.
 
 - [[2026-07-15 - Promises to Her|Promises to Her]]
 - [[2026-06-05 - Love Rules|Love Rules]]
-- [[resources/2026-06-09 - Self-Compassion Response to Emotional Triggers|Self-Compassion Response to Emotional Triggers]]
+- [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]

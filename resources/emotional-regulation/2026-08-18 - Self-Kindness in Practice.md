@@ -4,8 +4,6 @@ type: distilled-note
 
 # Self-Kindness in Practice
 
-Source: [[resources/2026-06-09 - Self-Compassion Response to Emotional Triggers]]
-
 ## Core Idea
 
 Self-kindness means more than stopping self-judgment — it means actively comforting myself the way I would a dear friend in need, both through physical touch and by reframing the critical inner voice.
@@ -17,10 +15,6 @@ Put my hand on my chest, hug myself, or hold my arms gently, speaking in kind, s
 Remind myself:
 
 - "This is really difficult right now. Poor darling."
-- "I am here for myself."
-- "I do not need to attack myself to be safe."
-
-This works because physical touch activates the body's care-and-soothe system — the same biological response as being comforted by someone who cares about me.
 
 ## Reframing Critical Self-Talk
 

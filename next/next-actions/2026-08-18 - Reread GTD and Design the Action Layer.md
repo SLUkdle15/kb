@@ -4,7 +4,7 @@ Area: [[areas/personal-development/personal-development|Personal Development]]
 
 ## Action
 
-Reread the Getting Things Done philosophy and decide how it should actually work in this vault. Actions sit in [[next/next-actions/next-actions|Next Actions]] far too long — [[2026-07-16 - Refactor KB Trigger Notes Into Areas|the KB refactor]] has been open since 2026-07-16 and only surfaced because a lint run counted its age — so the gap is in the back half of GTD, not in capture.
+Reread the Getting Things Done philosophy and decide how it should actually work in this vault. Actions sit in [[next/next-actions/next-actions|Next Actions]] far too long — [[archives/next-actions/2026-07-16 - Refactor KB Trigger Notes Into Areas|the KB refactor]] has been open since 2026-07-16 and only surfaced because a lint run counted its age — so the gap is in the back half of GTD, not in capture.
 
 Walk the five stages (capture, clarify, organize, reflect, engage) and write down for each one what this vault already does and what is missing:
 

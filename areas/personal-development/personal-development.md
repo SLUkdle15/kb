@@ -26,6 +26,8 @@ Review monthly, or during a weekly review when a habit is plateauing or slipping
 ## Protocols
 
 - [[areas/personal-development/start-a-new-habit|Start a New Habit]]
+- [[areas/personal-development/respond-to-an-emotional-trigger|Respond to an Emotional Trigger]] — use in the heated moment, when feeling hurt or inferior.
+- [[areas/personal-development/reflect-after-an-emotional-trigger|Reflect After an Emotional Trigger]] — use once the heat drops, or in the evening.
 
 ## Current Projects
 
@@ -35,4 +37,3 @@ Review monthly, or during a weekly review when a habit is plateauing or slipping
 
 - [[resources/behavior-change/behavior-change|Behavior Change]]
 - [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]
-- [[resources/2026-06-09 - Self-Compassion Response to Emotional Triggers|Self-Compassion Response to Emotional Triggers]] — study material for a self-compassion protocol.
