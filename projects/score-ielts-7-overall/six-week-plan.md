@@ -1,6 +1,6 @@
 # Six-Week Plan
 
-Built for 5–7 hours a week — about an hour on weekdays and a longer block on Saturday. Test date 2026-10-03.
+Built for 5–7 hours a week — about an hour on weekdays and a longer block on Saturday. Dates below assume a 2026-10-03 test, which is not booked; if the date moves, keep the sequence and count the weeks back from it.
 
 The shape of it: two weeks fixing mechanics, two weeks of volume with rewrites, one week under exam conditions, one week tapering. Writing and Speaking alternate on weekdays so neither gets a week off. Reading and Listening get one Saturday section, purely to hold the band.
 
@@ -24,7 +24,7 @@ Nothing improves until the diagnosis is real.
 
 - Read the official public band descriptors for Writing Task 2 and for Speaking, and read the 6 and 7 rows side by side. Twenty minutes, and it reframes everything after it.
 - Sit a baseline: one Task 2 in 40 minutes, one Task 1 in 20, one recorded full Speaking test. Self-score all of it. See [[next/next-actions/2026-08-19 - Run the IELTS Baseline and Self-Score It]].
-- Book the test, by Sunday 24 August, once the baseline has been scored — the diagnosis decides whether the date is October or November. Slots and centre choice both matter, so this cannot slip past the end of the month. See [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October]].
+- Book the test when ready. Not scheduled, and not a blocker for anything below — the weeks that follow work against any date. Read them as "six weeks out, five weeks out" and count back from whatever gets booked. See [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October]].
 - One timed Reading section to confirm it is still at 7.5 or above. If it is not, the plan changes and Reading rejoins the weekday rotation.
 - Start the error log with whatever the baseline exposes.
 

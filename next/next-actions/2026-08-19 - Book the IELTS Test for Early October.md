@@ -32,6 +32,8 @@ Close the loop:
 
 A paid booking confirmation exists with a named date and centre, the date is on the calendar, and the six-week plan has been shifted to match it.
 
-**Book by Sunday 24 August**, the day after the baseline. Hard limit is the end of August: slots at good centres fill weeks ahead, Speaking may land on a separate day, and waiting costs centre choice — which is what decides whether One Skill Retake is available at all. Booking in late September means a November test, not an October one.
+No deadline on this — deliberately. Study first, book when ready.
 
-If the booking has to happen before the baseline for slot reasons, note that IELTS normally allows a transfer up to **5 weeks before the test date** for an administrative fee — around 29 August for a 3 October test. Confirm the exact terms on the booking page, since they vary by centre.
+What booking later costs is the test date, not the project. Roughly: booked by end of August holds 3 October; booked in September lands late October or November; booked in October lands in December. Any of those still clears the December application window in [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]] — a mid-November test reports by late November — so the real limit is around mid-November, not the end of August.
+
+The one thing that does erode with waiting is centre choice, and centre choice is what decides whether One Skill Retake is available. Worth checking which nearby centres offer it before the shortlist thins.
