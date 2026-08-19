@@ -8,7 +8,7 @@ A Test Report Form showing **7.0 overall with no band below 6.5**, from a retake
 
 Working test date: **Saturday 3 October 2026**, computer-delivered, not yet booked. That leaves 6.5 weeks from 2026-08-19.
 
-Book it first — see [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October]]. Computer-delivered results land in 1–5 days versus 13 for paper, which is what keeps a November contingency open.
+Book it by **Sunday 24 August**, straight after the baseline — see [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October]]. Computer-delivered results land in 1–5 days versus 13 for paper, which is what keeps a November contingency open.
 
 ## Definition of Done
 

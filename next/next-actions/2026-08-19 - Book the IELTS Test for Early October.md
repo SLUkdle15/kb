@@ -5,7 +5,7 @@ Area: [[areas/personal-development/personal-development|Personal Development]]
 
 ## Action
 
-Book an IELTS Academic slot for early October 2026 — target Saturday 3 October. Do this before any studying. Slots at popular centres fill weeks ahead, and the plan's whole shape depends on the date being real.
+Book an IELTS Academic slot for early October 2026 — target Saturday 3 October. Book once [[next/next-actions/2026-08-19 - Run the IELTS Baseline and Self-Score It|the baseline]] has been scored, so the date is chosen with the diagnosis in hand rather than on the assumption that October is realistic.
 
 ## Checklist
 
@@ -32,4 +32,6 @@ Close the loop:
 
 A paid booking confirmation exists with a named date and centre, the date is on the calendar, and the six-week plan has been shifted to match it.
 
-Do this within the next few days. Every day the booking slips, either the plan gets shorter or the test gets later.
+**Book by Sunday 24 August**, the day after the baseline. Hard limit is the end of August: slots at good centres fill weeks ahead, Speaking may land on a separate day, and waiting costs centre choice — which is what decides whether One Skill Retake is available at all. Booking in late September means a November test, not an October one.
+
+If the booking has to happen before the baseline for slot reasons, note that IELTS normally allows a transfer up to **5 weeks before the test date** for an administrative fee — around 29 August for a 3 October test. Confirm the exact terms on the booking page, since they vary by centre.

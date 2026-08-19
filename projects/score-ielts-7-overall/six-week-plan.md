@@ -22,9 +22,9 @@ Wednesday is the highest-value hour in the week. Writing new essays raises volum
 
 Nothing improves until the diagnosis is real.
 
-- Book the test. Slots and centre choice both matter — see [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October]].
 - Read the official public band descriptors for Writing Task 2 and for Speaking, and read the 6 and 7 rows side by side. Twenty minutes, and it reframes everything after it.
 - Sit a baseline: one Task 2 in 40 minutes, one Task 1 in 20, one recorded full Speaking test. Self-score all of it. See [[next/next-actions/2026-08-19 - Run the IELTS Baseline and Self-Score It]].
+- Book the test, by Sunday 24 August, once the baseline has been scored — the diagnosis decides whether the date is October or November. Slots and centre choice both matter, so this cannot slip past the end of the month. See [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October]].
 - One timed Reading section to confirm it is still at 7.5 or above. If it is not, the plan changes and Reading rejoins the weekday rotation.
 - Start the error log with whatever the baseline exposes.
 
