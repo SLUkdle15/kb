@@ -15,6 +15,10 @@ Walk the five stages (capture, clarify, organize, reflect, engage) and write dow
 
 Keep the design compatible with the BASB side already written in [[resources/personal-knowledge-management/personal-knowledge-management|Personal Knowledge Management]].
 
-## Done When
+## Decision — canceled 2026-08-19
 
-The decisions are written as a distilled note in `resources/personal-knowledge-management`, and the concrete rule changes are reflected in [[next/next|Next]] plus any skill that enforces them.
+Not rereading GTD. The action layer is not the problem: actions in this vault are sorted correctly under `next-actions`, `calendar`, `maybe`, and `waiting`, and no contexts or energy hints are missing.
+
+The problem is that I do not follow the rule I already have. An action gets written and then left for months before it is looked at again — the KB refactor sat from 2026-07-16 to 2026-08-19 and only surfaced because a lint run counted its age.
+
+So the gap is Reflect alone: nothing makes the review actually happen. Clarify, Organize, and Engage need no redesign, and no distilled GTD note is needed.

@@ -12,6 +12,7 @@ Maintain and improve soccer skill, fitness, and the weekly match rhythm.
 
 - Play the weekly Tuesday match; decide on the field booking by Friday.
 - Convert specific improvement goals into projects or next actions.
+- When the field rental ends, reclaim the 2M VND deposit: [[next/waiting/2026-08-17 - Soccer Field Deposit of 2M VND|Soccer Field Deposit of 2M VND]].
 
 ## Review Rhythm
 

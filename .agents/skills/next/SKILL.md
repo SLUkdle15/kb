@@ -14,6 +14,14 @@ Use this skill for small commitments that are actionable but not necessarily pro
 - Optional project, area, or source note to link.
 - Optional route: `next-action`, `calendar`, `maybe`, or `waiting`.
 
+## Do It Now Gate
+
+Before routing, check whether the item is worth a note at all.
+
+If the action looks like it takes under about five minutes and is not blocked or date-bound, say so and ask whether to just do it now instead of creating a note. Capturing in this vault costs a dated note, an area link, an index entry, and a commit — roughly as long as a small task takes, so a note for a two-minute job is pure overhead.
+
+Only skip the gate when the user has already said they cannot do it now, or the item is blocked, date-bound, or someday/maybe.
+
 ## Routing Rules
 
 Route the item by the strongest signal:
@@ -23,7 +31,7 @@ Route the item by the strongest signal:
 3. If it is blocked by someone or something else, create it in `next/waiting`.
 4. Otherwise create it in `next/next-actions`.
 
-If the action looks like it should take about 30 minutes or less but cannot be done now, it is usually a `next/next-actions` item.
+If the action takes roughly five to thirty minutes, or takes less but genuinely cannot be done now, it is usually a `next/next-actions` item.
 
 If it requires multiple steps and a finish line, suggest creating a project instead.
 

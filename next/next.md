@@ -25,6 +25,7 @@ Use the `next` agent skill to add small commitments.
 
 Routing rule:
 
+0. Doable now in under ~5 minutes -> do it, no note. Filing costs about as much as the task.
 1. Specific date or time -> `next/calendar`
 2. Someday/maybe or optional -> `next/maybe`
 3. Blocked by someone or something -> `next/waiting`
