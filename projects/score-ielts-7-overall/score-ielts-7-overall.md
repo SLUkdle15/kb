@@ -40,7 +40,6 @@ Two consequences that shape the whole plan:
 ## Next Actions
 
 - [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October]]
-- [[next/calendar/2026-08-19 - Read the Descriptors and Sit Writing Task 2]]
 - [[next/calendar/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay]]
 - [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic]]
 

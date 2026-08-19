@@ -6,11 +6,11 @@ Due: 2026-08-20
 
 ## Action
 
-Score the Task 2 essay from [[next/calendar/2026-08-19 - Read the Descriptors and Sit Writing Task 2|today's session]], using the self-scoring pass in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]]. Thirty minutes available — the pass itself is twenty, best run the next day while the essay is still fresh.
+Score the Task 2 essay in [[projects/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2 Baseline]], using the self-scoring pass in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]]. Thirty minutes available — the pass itself is twenty, best run the next day while the essay is still fresh.
 
 ## Checklist
 
-- [ ] Run the self-scoring pass in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] on the Task 2 essay.
+- [ ] Run the self-scoring pass in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] on the Task 2 essay in [[projects/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2 Baseline]].
 - [ ] Add every repeated error to [[projects/score-ielts-7-overall/error-log|Error Log]].
 
 ## Done When

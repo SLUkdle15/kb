@@ -6,7 +6,7 @@ Due: 2026-08-23
 
 ## Action
 
-The rest of Week 0's baseline, after [[next/calendar/2026-08-19 - Read the Descriptors and Sit Writing Task 2|Writing Task 2 was sat]] and [[next/calendar/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay|self-scored]]. Sit and score Task 1 and Speaking, check Reading, then answer one question: is the gap to 6.5 structural, or is it raw fluency? Six and a half weeks can close the first and cannot close the second, so this decides whether early October is the right test date at all.
+The rest of Week 0's baseline, after [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2|Writing Task 2 was sat]] and [[next/calendar/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay|self-scored]]. Sit and score Task 1 and Speaking, check Reading, then answer one question: is the gap to 6.5 structural, or is it raw fluency? Six and a half weeks can close the first and cannot close the second, so this decides whether early October is the right test date at all.
 
 ## Checklist
 
