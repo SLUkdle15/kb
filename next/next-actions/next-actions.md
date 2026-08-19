@@ -19,7 +19,6 @@ Each note should describe a clear next action. If it requires multiple steps and
 ## Current Actions
 
 - [[2026-08-09 - Examine the Door|Examine the Door]]
-- [[2026-08-07 - Redesign the Midfielder Match Log|Redesign the Midfielder Match Log]]
 - [[2026-08-09 - Clean a Shelf for Mom|Clean a Shelf for Mom]]
 - [[2026-08-09 - Play Badminton with Mom|Play Badminton with Mom]]
 - [[2026-08-17 - Decide Master's Field of Study|Decide Master's Field of Study]]

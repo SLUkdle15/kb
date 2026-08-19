@@ -6,7 +6,7 @@ Area: [[areas/soccer/soccer|Soccer]]
 
 Build a second soccer protocol covering what to do during and right after a match, alongside the existing pre-match [[areas/soccer/prepare-for-weekly-soccer|Prepare for Weekly Soccer]].
 
-Not ready yet. [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]] holds only one cue (the 3-step rule), which is not enough to distill into a checklist, and the halftime/full-time log routine depends on [[next/next-actions/2026-08-07 - Redesign the Midfielder Match Log|redesigning the match log]] first.
+Not ready yet. [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]] holds only one cue (the 3-step rule), which is not enough to distill into a checklist, and the halftime/full-time log routine depends on [[next/calendar/2026-08-07 - Redesign the Midfielder Match Log|redesigning the match log]] first.
 
 ## Done When
 

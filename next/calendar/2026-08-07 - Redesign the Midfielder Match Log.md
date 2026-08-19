@@ -1,6 +1,7 @@
 # Redesign the Midfielder Match Log
 
 Area: [[areas/soccer/soccer|Soccer]]
+Due: 2026-08-20
 
 ## Action
 
@@ -9,3 +10,5 @@ Redesign [[areas/soccer/midfielder-match-log|Midfielder Match Log]] so it captur
 ## Done When
 
 The log has a revised column set and at least one match filled in.
+Finish reading soccer iq
+and close [[2026-08-07 - Passing Angles and Receiving Foot]]

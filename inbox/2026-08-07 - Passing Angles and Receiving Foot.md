@@ -19,5 +19,5 @@ What foot should I receive the ball on, and how do I pass to the receiver's prop
 
 ## Routed out of this note
 
-- [[next/next-actions/2026-08-07 - Redesign the Midfielder Match Log|Redesign the Midfielder Match Log]]
+- [[next/calendar/2026-08-07 - Redesign the Midfielder Match Log|Redesign the Midfielder Match Log]]
 - [[next/maybe/2026-08-07 - Build an In-Match Soccer Protocol|Build an In-Match Soccer Protocol]]
