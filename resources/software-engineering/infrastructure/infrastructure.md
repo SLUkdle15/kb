@@ -9,3 +9,4 @@ Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 ## Notes
 
 - [[resources/software-engineering/infrastructure/2026-06-22 - Reverse Proxy for Third-Party Callbacks|Reverse Proxy Host Header Rewriting for Third-Party Callbacks]]
+- [[resources/software-engineering/infrastructure/2026-08-19 - NCTool and FCM on the New Infra|NCTool and FCM on the New Infra]]
