@@ -5,7 +5,7 @@ Area: [[areas/personal-development/personal-development|Personal Development]]
 
 ## Action
 
-Book an IELTS Academic slot for early October 2026 — target Saturday 3 October. Book once [[next/next-actions/2026-08-19 - Run the IELTS Baseline and Self-Score It|the baseline]] has been scored, so the date is chosen with the diagnosis in hand rather than on the assumption that October is realistic.
+Book an IELTS Academic slot for early October 2026 — target Saturday 3 October. Book once [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic|the baseline]] has been scored, so the date is chosen with the diagnosis in hand rather than on the assumption that October is realistic.
 
 ## Checklist
 

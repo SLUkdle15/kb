@@ -27,3 +27,6 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-08-10 - Go to Temple and Eat Vegetarian]] — 2026-10-10 (first day of lunar month/September)
 - [[next/calendar/2026-08-11 - Fill Gas for Car]] — 2026-08-26 (recurring every 2 weeks)
 - [[next/calendar/2026-08-07 - Redesign the Midfielder Match Log]] — 2026-08-20
+- [[next/calendar/2026-08-19 - Read the Descriptors and Sit Writing Task 2]] — 2026-08-19
+- [[next/calendar/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay]] — 2026-08-20
+- [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic]] — 2026-08-23
