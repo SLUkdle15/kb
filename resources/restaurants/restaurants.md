@@ -55,6 +55,7 @@ Add restaurant links here as notes are created.
 - [[2026-08-10 - Vit 34|Vịt 34]]
 - [[2026-08-14 - Pizza 4P's Lotte Lieu Giai|Pizza 4P's - Lotte Liễu Giai]]
 - [[2026-08-17 - Tiem Com Bam Thu|Tiệm Cơm Bầm Thu]]
+- [[2026-08-20 - Long Wang Tho Nhuom|Long Wang - Thợ Nhuộm]]
 
 ## Decision Prompt
 
