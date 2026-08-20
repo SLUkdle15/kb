@@ -26,4 +26,5 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-08-19 - Weekly Sunday Vault Review]] — recurring Sunday 20:00 (run the `review` skill)
 - [[next/calendar/2026-08-10 - Go to Temple and Eat Vegetarian]] — 2026-10-10 (first day of lunar month/September)
 - [[next/calendar/2026-08-11 - Fill Gas for Car]] — 2026-08-26 (recurring every 2 weeks)
+- [[next/calendar/2026-08-21 - Sit IELTS Task 1 and Record the Speaking Test]] — 2026-08-21
 - [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic]] — 2026-08-23

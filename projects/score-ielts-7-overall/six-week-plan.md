@@ -23,7 +23,7 @@ Wednesday is the highest-value hour in the week. Writing new essays raises volum
 Nothing improves until the diagnosis is real.
 
 - Read the official public band descriptors for Writing Task 2 and for Speaking, and read the 6 and 7 rows side by side. Twenty minutes, and it reframes everything after it.
-- Sit a baseline: one Task 2 in 40 minutes, one Task 1 in 20, one recorded full Speaking test. Self-score all of it. See [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2]], [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay]], and [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic]].
+- Sit a baseline: one Task 2 in 40 minutes, one Task 1 in 20, one recorded full Speaking test. Self-score all of it. See [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2]], [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay]], [[next/calendar/2026-08-21 - Sit IELTS Task 1 and Record the Speaking Test]], and [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic]].
 - Book the test when ready. Not scheduled, and not a blocker for anything below — the weeks that follow work against any date. Read them as "six weeks out, five weeks out" and count back from whatever gets booked. See [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October]].
 - One timed Reading section to confirm it is still at 7.5 or above. If it is not, the plan changes and Reading rejoins the weekday rotation.
 - Start the error log with whatever the baseline exposes.
