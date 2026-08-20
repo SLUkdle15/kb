@@ -10,8 +10,8 @@ Score the Task 2 essay in [[projects/score-ielts-7-overall/writing-task-2-baseli
 
 ## Checklist
 
-- [ ] Run the self-scoring pass in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] on the Task 2 essay in [[projects/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2 Baseline]].
-- [ ] Add every repeated error to [[projects/score-ielts-7-overall/error-log|Error Log]].
+- [x] Run the self-scoring pass in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] on the Task 2 essay in [[projects/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2 Baseline]].
+- [x] Add every repeated error to [[projects/score-ielts-7-overall/error-log|Error Log]].
 
 ## Done When
 

@@ -14,7 +14,17 @@ The most load-bearing note in the project. Band 7 grammar is defined as *frequen
 
 | Error | Wrong | Right | Last seen |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| Subject-verb agreement | Tourist services brings up numerous benefits | Tourist services bring numerous benefits | 2026-08-19 |
+| Subject-verb agreement | This make the government become aware | This makes the government aware | 2026-08-19 |
+| Subject-verb agreement | the benefits it create is undeniably impactful | the benefits it creates are undeniable | 2026-08-19 |
+| Subject-verb agreement | its advantages certainly outweighs | its advantages certainly outweigh | 2026-08-19 |
+| Missing article | coral species in island are revived with protected environment | coral species on the islands are revived in a protected environment | 2026-08-19 |
+| Missing article | tourism often damage on a country environment | tourism often damages a country's environment | 2026-08-19 |
+| Plural -s on countable nouns | one of the main contributor of its economics | one of the main contributors to its economy | 2026-08-19 |
+| Plural -s on countable nouns | animals are less and less being seen like bear, tiger | animals such as bears and tigers are seen less and less | 2026-08-19 |
+| Possessive vs pronoun | who concern about a country problem | who are concerned about a country's problems | 2026-08-19 |
+| Possessive vs pronoun | I believe its advantages outweigh it disadvantages | I believe its advantages outweigh its disadvantages | 2026-08-19 |
+| Verb form after *be* | VN is heavily depend on tourism | Vietnam depends heavily on tourism | 2026-08-19 |
 
 Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the baseline rather than assume: articles (*a/an/the* and the zero article), plural `-s` on countable nouns, subject-verb agreement, past tense marking, prepositions after specific verbs, and word order in embedded questions.
 
@@ -22,7 +32,10 @@ Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the ba
 
 | Wrong | Right | Note | Last seen |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| improve the inhabitants | improve residents' lives | you cannot improve people | 2026-08-19 |
+| make the environmental issues become more aware | raise awareness of environmental issues | issues cannot be aware | 2026-08-19 |
+| Statically | Statistically | | 2026-08-19 |
+| wild life | wildlife | one word | 2026-08-19 |
 
 ## Pronunciation
 
@@ -38,7 +51,10 @@ Not sentence-level. Things like: no overview in Task 1, only one part of a two-p
 
 | Error | Where | Last seen |
 | --- | --- | --- |
-|  |  |  |
+| Abbreviations in formal writing — *VN*, *infra* | Task 2 baseline, four times | 2026-08-19 |
+| Colon before a clause or a *such as* list | Task 2 baseline, twice | 2026-08-19 |
+| Examples asserted, not concrete — no figure, place, or mechanism | Task 2 baseline, both body paragraphs | 2026-08-19 |
+| Other side never weighed in an *outweigh* question | Task 2 baseline, conceded in half a clause and dropped | 2026-08-19 |
 
 ## Fixed
 

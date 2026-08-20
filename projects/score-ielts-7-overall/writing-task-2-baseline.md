@@ -1,6 +1,6 @@
 # Writing Task 2 Baseline
 
-Written for [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2|today's session]], scored in [[next/calendar/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay|tomorrow's]].
+Written for [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2|the 2026-08-19 session]], self-scored on 2026-08-20 in [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay|its own action]].
 
 ## Prompt
 
@@ -24,4 +24,36 @@ In conclusion, even though tourism often damage on a country environment, the be
 
 ## Self-Score
 
-*(filled in tomorrow, against [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]])*
+Scored 2026-08-20 against the self-scoring pass in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]].
+
+| Criterion | Band |
+| --- | --- |
+| Task Response | 6 |
+| Coherence and Cohesion | 6 |
+| Lexical Resource | 5 |
+| Grammatical Range and Accuracy | 5 |
+| Overall | 5.5 |
+
+Provisional. Final criterion bands wait until Task 1 and Speaking are also scored in [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic|the rest of the baseline]].
+
+### The Pass
+
+- **Question type.** Opinion (do the disadvantages outweigh the advantages). Answered as an opinion essay, all parts addressed.
+- **Position.** Clear in the introduction, held in both body paragraphs, restated in the conclusion. The strongest thing in the essay and already a band 7 feature.
+- **Topic sentences.** Both body paragraphs have one, one idea each.
+- **Why and concrete example.** Where Task Response stalls at 6. Both examples are asserted rather than concrete — no figure, no named place, no mechanism. Paragraph 2's causal chain breaks: wildlife decline is blamed on over-modernisation, then tourists posting on social media is offered as the fix, which does not follow.
+- **Linkers.** Count is fine, one per paragraph opening. But the skeleton is *First of all / Second / In conclusion*, exactly the mechanical cohesion band 6 describes. Referencing is attempted, though *This* twice has an unclear referent.
+- **Error-free sentences: 2 of 15, 13 percent.** Well under half, so grammar is the binding constraint. Only the two shortest sentences are clean.
+- **Word count.** 267, over the 250 minimum.
+
+### What to Fix First
+
+1. **Subject-verb agreement, drilled to automatic.** Seven instances in fifteen sentences. Fixing only this takes the error-free ratio from 13 percent to roughly 45 — the largest available gain, and it requires learning nothing new.
+2. **Shorter sentences.** The longest sentences carry three errors each; both clean sentences are short. A short correct sentence outscores a long broken one.
+3. **Articles and plurals.** The two gaps [[projects/score-ielts-7-overall/error-log|Error Log]] predicted for a Vietnamese L1 speaker, now confirmed rather than assumed.
+4. **Concrete examples.** One real detail per body paragraph — a place, a figure, a named consequence — instead of a general claim. This is the Task Response 6 to 7 move.
+5. **One concession.** Name a real disadvantage before dismissing it, since the question asks for a weighing.
+
+Not yet: relative clauses, inversions, less common vocabulary. At 13 percent error-free, ambition adds errors faster than range.
+
+Repeated errors logged in [[projects/score-ielts-7-overall/error-log|Error Log]].
