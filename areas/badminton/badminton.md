@@ -29,5 +29,6 @@ Review monthly, or weekly when actively training.
 
 ## Related Resources
 
+- [[areas/badminton/courts-near-me|Courts Near Me]] — where to play, and what is still unconfirmed.
 - [[resources/badminton/2026-05-25 - Badminton Fundamentals and Doubles Positioning|Badminton Fundamentals and Doubles Positioning]]
 - [[areas/personal-development/favorite-problems|Favorite Problems]] — #5 is about competing across the sports I play

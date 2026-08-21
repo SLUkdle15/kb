@@ -1,0 +1,24 @@
+# Courts Near Me
+
+Area: [[areas/badminton/badminton|Badminton]]
+
+Badminton courts within reach of home. Captured as given — most entries are still just a street or venue name, so treat anything without an address as a lead to confirm, not a booking.
+
+They cluster around Khương Đình and Thanh Xuân, which is the useful part: several are close enough that a full court somewhere does not end the evening.
+
+## Courts
+
+| Court | Location | Confirmed |
+| --- | --- | --- |
+| Khuong Dinh High School | Ngh. 29/78 P. Khương Hạ, Khương Đình, Hà Nội 120120 | address |
+| Sân cầu lông Phúc Long | Số 5 Lê Trọng Tấn | address |
+| Sân Cầu Lông Trường Cấp 3 Quang Trung | — | name only |
+| Sân cầu Học viện Ngân hàng | Banking Academy — | name only |
+| Lê Văn Thiêm | — | street only |
+| Lê Văn Lương | — | street only |
+| Bùi Xương Trạch | — | street only |
+| Trong Dong canh ho | as written; likely "Trống Đồng", beside the lake | unclear |
+
+## Worth Adding Later
+
+Only once a court is actually played at, and only what changes the choice: booking method and whether slots need reserving, price per hour, indoor or outdoor, floor and lighting quality, and parking.
