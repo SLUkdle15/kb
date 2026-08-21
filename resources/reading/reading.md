@@ -14,8 +14,22 @@ Ongoing reading list: what I am reading now, what is queued, and what is finishe
 
 ## To Read
 
+Two parked programs feed this list: [[next/maybe/2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]] (argument, improv, mental models) and [[next/maybe/2026-08-21 - Start Investing|Start Investing]] (the investing books).
+
 - *Soccer IQ* — Dan Blank — for the [[areas/soccer/soccer|soccer]] area
 - *The Blade Itself* — Joe Abercrombie
+- *A Rulebook for Arguments* — Anthony Weston — argument skeletons in ~100 pages; for making an argument hold up, not for filling a silence
+- *Thank You for Arguing* — Jay Heinrichs — rhetoric, and the concession move
+- *Improv Wisdom* — Patricia Ryan Madson — 13 maxims against going blank
+- *Impro* — Keith Johnstone — the improv classic; killing the internal censor
+- *The Art of Thinking Clearly* — Rolf Dobelli — **start here for the idea pool**; 99 three-page chapters, each one deployable, no continuity needed
+- *The Great Mental Models, Vol. 1* — Shane Parrish — inversion, second-order effects, incentives
+- *Range* — David Epstein — argument fodder on education and specialization
+- *Factfulness* — Hans Rosling — citable numbers on the recurring debate themes
+- *The Psychology of Money* — Morgan Housel — **start here for investing**; 20 short chapters on the behavior that decides outcomes
+- *The Little Book of Common Sense Investing* — John Bogle — the index-fund case, and what to actually do with it
+- *Millionaire Teacher* — Andrew Hallam — index investing implemented from outside the US, which most books assume away
+- *The Four Pillars of Investing* — William Bernstein — theory, history, psychology, business; the deep one, read last
 
 ## Finished
 
