@@ -11,12 +11,12 @@ Ongoing reading list: what I am reading now, what is queued, and what is finishe
 ## Currently Reading
 
 - *Designing Data-Intensive Applications* — Martin Kleppmann — [[inbox/2026-07-30 - Designing Data Intensive Application|reading notes]]
+- *Soccer IQ* — Dan Blank — [[inbox/2026-08-21 - Soccer IQ|reading notes]] — for the [[areas/soccer/soccer|soccer]] area
 
 ## To Read
 
 Two parked programs feed this list: [[next/maybe/2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]] (argument, improv, mental models) and [[next/maybe/2026-08-21 - Start Investing|Start Investing]] (the investing books).
 
-- *Soccer IQ* — Dan Blank — for the [[areas/soccer/soccer|soccer]] area
 - *The Blade Itself* — Joe Abercrombie
 - *A Rulebook for Arguments* — Anthony Weston — argument skeletons in ~100 pages; for making an argument hold up, not for filling a silence
 - *Thank You for Arguing* — Jay Heinrichs — rhetoric, and the concession move
