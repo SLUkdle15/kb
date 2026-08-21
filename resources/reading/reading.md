@@ -11,7 +11,7 @@ Ongoing reading list: what I am reading now, what is queued, and what is finishe
 ## Currently Reading
 
 - *Designing Data-Intensive Applications* — Martin Kleppmann — [[inbox/2026-07-30 - Designing Data Intensive Application|reading notes]]
-- *Soccer IQ* — Dan Blank — [[inbox/2026-08-21 - Soccer IQ|reading notes]] — for the [[areas/soccer/soccer|soccer]] area
+- *Soccer IQ* — Dan Blank — cues land straight in [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]], no separate capture
 
 ## To Read
 
