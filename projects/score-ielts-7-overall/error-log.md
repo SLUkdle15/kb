@@ -18,10 +18,15 @@ The most load-bearing note in the project. Band 7 grammar is defined as *frequen
 | Subject-verb agreement | This make the government become aware | This makes the government aware | 2026-08-19 |
 | Subject-verb agreement | the benefits it create is undeniably impactful | the benefits it creates are undeniable | 2026-08-19 |
 | Subject-verb agreement | its advantages certainly outweighs | its advantages certainly outweigh | 2026-08-19 |
+| Subject-verb agreement | Both Brazil and VN has a very steady trend | Both Brazil and Vietnam have a very steady trend | 2026-08-21 |
+| Subject-verb agreement | Vn show a similarly trend | Vietnam shows a similar trend | 2026-08-21 |
 | Missing article | coral species in island are revived with protected environment | coral species on the islands are revived in a protected environment | 2026-08-19 |
 | Missing article | tourism often damage on a country environment | tourism often damages a country's environment | 2026-08-19 |
 | Plural -s on countable nouns | one of the main contributor of its economics | one of the main contributors to its economy | 2026-08-19 |
 | Plural -s on countable nouns | animals are less and less being seen like bear, tiger | animals such as bears and tigers are seen less and less | 2026-08-19 |
+| Plural -s on countable nouns | internet access 5 year later | internet access 5 years later | 2026-08-21 |
+| Plural -s on countable nouns | the lowest percentage of household user | the lowest percentage of household users | 2026-08-21 |
+| Past tense for historical data | South Korea already has approximately 50% of household | South Korea already had approximately 50% of households | 2026-08-21 |
 | Possessive vs pronoun | who concern about a country problem | who are concerned about a country's problems | 2026-08-19 |
 | Possessive vs pronoun | I believe its advantages outweigh it disadvantages | I believe its advantages outweigh its disadvantages | 2026-08-19 |
 | Verb form after *be* | VN is heavily depend on tourism | Vietnam depends heavily on tourism | 2026-08-19 |

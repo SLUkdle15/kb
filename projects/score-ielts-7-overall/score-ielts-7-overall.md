@@ -40,7 +40,7 @@ Two consequences that shape the whole plan:
 ## Next Actions
 
 - [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October]]
-- [[next/calendar/2026-08-21 - Sit IELTS Task 1 and Record the Speaking Test]]
+- [[next/calendar/2026-08-22 - Score the Speaking Baseline Recording]]
 - [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic]]
 
 ## Notes

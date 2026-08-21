@@ -6,20 +6,19 @@ Due: 2026-08-23
 
 ## Action
 
-The last slice of Week 0's baseline, after Task 2 was [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2|sat]] and [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay|self-scored]], and Task 1 plus the Speaking test are [[next/calendar/2026-08-21 - Sit IELTS Task 1 and Record the Speaking Test|sat and Task 1 self-scored]]. Check Reading, score the Speaking recording, then answer one question: is the gap to 6.5 structural, or is it raw fluency? Six and a half weeks can close the first and cannot close the second, so this decides whether early October is the right test date at all.
+The last slice of Week 0's baseline, after Task 2 was [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2|sat]] and [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay|self-scored]], Task 1 was [[archives/next-actions/2026-08-21 - Sit IELTS Task 1 and Record the Speaking Test|sat and self-scored]], and the Speaking recording was [[next/calendar/2026-08-22 - Score the Speaking Baseline Recording|scored a day early]] to compress the schedule. Check Reading, then answer one question: is the gap to 6.5 structural, or is it raw fluency? Six and a half weeks can close the first and cannot close the second, so this decides whether early October is the right test date at all.
 
 ## Checklist
 
-Sit the rest, from a real Cambridge past paper, under time:
+Sit the last piece, from a real Cambridge past paper, under time:
 
 - [ ] One timed Reading section, to confirm it still sits at 7.5 or above. If it does not, Reading rejoins the weekday rotation and the plan changes.
 
-Score it honestly:
+Pull the eight bands together:
 
-- [ ] Run the recording loop in [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]] on the baseline Speaking recording, including transcribing sixty seconds.
-- [ ] Give a band per criterion — eight numbers, not two — drawing on both Writing essays and the Speaking recording. The point is to find the one criterion dragging each skill.
+- [ ] Give a band per criterion — eight numbers, not two — drawing on both Writing essays and the [[next/calendar/2026-08-22 - Score the Speaking Baseline Recording|already-scored Speaking recording]]. The point is to find the one criterion dragging each skill.
 - [ ] Optionally have an AI mark against the descriptors. Use the criterion comments, ignore the band number.
-- [ ] Seed [[projects/score-ielts-7-overall/error-log|Error Log]] with whatever repeats.
+- [ ] Confirm the Error Log is seeded with whatever repeats across all three baseline pieces.
 
 Make the call:
 
