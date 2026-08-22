@@ -27,4 +27,4 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-08-10 - Go to Temple and Eat Vegetarian]] — 2026-10-10 (first day of lunar month/September)
 - [[next/calendar/2026-08-11 - Fill Gas for Car]] — 2026-08-26 (recurring every 2 weeks)
 - [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic]] — 2026-08-23
-- [[next/calendar/2026-08-22 - Score the Speaking Baseline Recording]] — 2026-08-22
+- [[next/calendar/2026-08-22 - Pull the Baseline Bands and Make the Go-No-Go Call]] — 2026-08-24

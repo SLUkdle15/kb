@@ -40,8 +40,8 @@ Two consequences that shape the whole plan:
 ## Next Actions
 
 - [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October]]
-- [[next/calendar/2026-08-22 - Score the Speaking Baseline Recording]]
 - [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic]]
+- [[next/calendar/2026-08-22 - Pull the Baseline Bands and Make the Go-No-Go Call]]
 
 ## Notes
 

@@ -6,25 +6,12 @@ Due: 2026-08-23
 
 ## Action
 
-The last slice of Week 0's baseline, after Task 2 was [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2|sat]] and [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay|self-scored]], Task 1 was [[archives/next-actions/2026-08-21 - Sit IELTS Task 1 and Record the Speaking Test|sat and self-scored]], and the Speaking recording was [[next/calendar/2026-08-22 - Score the Speaking Baseline Recording|scored a day early]] to compress the schedule. Check Reading, then answer one question: is the gap to 6.5 structural, or is it raw fluency? Six and a half weeks can close the first and cannot close the second, so this decides whether early October is the right test date at all.
+The last sitting of Week 0's baseline, after Task 2 was [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2|sat]] and [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay|self-scored]], Task 1 was [[archives/next-actions/2026-08-21 - Sit IELTS Task 1 and Record the Speaking Test|sat and self-scored]], and the Speaking recording was [[archives/next-actions/2026-08-22 - Score the Speaking Baseline Recording|scored]]. A full Cambridge Reading section is 60 minutes on its own, so this action is scoped to sitting it — pulling the eight bands together and making the structural-vs-fluency call is split off into [[next/calendar/2026-08-22 - Pull the Baseline Bands and Make the Go-No-Go Call]], since both don't fit in one hour.
 
 ## Checklist
 
-Sit the last piece, from a real Cambridge past paper, under time:
-
-- [ ] One timed Reading section, to confirm it still sits at 7.5 or above. If it does not, Reading rejoins the weekday rotation and the plan changes.
-
-Pull the eight bands together:
-
-- [ ] Give a band per criterion — eight numbers, not two — drawing on both Writing essays and the [[next/calendar/2026-08-22 - Score the Speaking Baseline Recording|already-scored Speaking recording]]. The point is to find the one criterion dragging each skill.
-- [ ] Optionally have an AI mark against the descriptors. Use the criterion comments, ignore the band number.
-- [ ] Confirm the Error Log is seeded with whatever repeats across all three baseline pieces.
-
-Make the call:
-
-- [ ] Decide whether the failure is **structural** — question type misread, no Task 1 overview, position drifting, Part 2 dying at fifty seconds, under 250 words — or **fluency**, where the answer is complete and well-shaped and still scores 5.5 on grammar and vocabulary alone.
-- [ ] If structural, proceed to weeks 1–2 as written. If fluency, move the test to November or December and say so in the project note before booking locks in.
+- [ ] One timed Reading section, from a real Cambridge past paper, to confirm it still sits at 7.5 or above. If it does not, Reading rejoins the weekday rotation and the plan changes.
 
 ## Done When
 
-Eight criterion-level band estimates are written down, the error log has real entries in it, and the project note records a go or no-go on the early-October date with one sentence of reasoning.
+A Reading band is on record, feeding into [[next/calendar/2026-08-22 - Pull the Baseline Bands and Make the Go-No-Go Call]].
