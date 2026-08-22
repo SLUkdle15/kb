@@ -4,8 +4,11 @@ Short on purpose. The failure mode in IELTS self-study is collecting resources i
 
 ## Non-Negotiable
 
-- **The official public band descriptors** for Writing Task 1, Writing Task 2, and Speaking. Free PDFs from ielts.org. Read the band 6 and band 7 rows side by side once, then keep them open during every self-scoring pass. Everything in this project is downstream of these.
-- **Cambridge IELTS past paper books, 16 to 20.** Real retired tests. These are the only source of tasks worth timing yourself against; invented practice questions are subtly off in ways that matter. Use them for Reading and Listening sections too.
+- **The official public band descriptors** for Writing Task 1, Writing Task 2, and Speaking. Read the band 6 and band 7 rows side by side once, then keep them open during every self-scoring pass. Everything in this project is downstream of these.
+  - Writing, both tasks in one PDF: https://assets.ctfassets.net/unrdeg6se4ke/19SJoSvnUYjrHgVhWvuMnC/42f1b0cb0d7709646a1392d8418646d0/writingbanddescriptorstask1and2.pdf
+  - Speaking: https://takeielts.britishcouncil.org/sites/default/files/ielts_speaking_band_descriptors.pdf
+  - The fuller examiner-facing version of the writing criteria: https://www.ielts.org/news-and-insights/ielts-writing-band-descriptors-and-key-assessment-criteria
+- **Cambridge IELTS past paper books, 16 to 20.** Real retired tests. Free official samples, fewer of them, at https://ielts.org/take-a-test/preparation-resources/sample-test-questions . These are the only source of tasks worth timing yourself against; invented practice questions are subtly off in ways that matter. Use them for Reading and Listening sections too.
 - **A phone voice recorder.** The entire Speaking plan runs on it.
 
 ## Writing
@@ -20,6 +23,7 @@ Short on purpose. The failure mode in IELTS self-study is collecting resources i
 - **IELTS Liz** — clean explanations of each part's format and a large topic bank. Best used for cue cards.
 - **Keith Speaking Academy (YouTube)** — the strongest free material on Part 3 depth, which is where 6.5 is won.
 - **YouGlish** — hear any word pronounced in real speech, in context. Better than a dictionary clip for word stress.
+- **Somewhere to get Part 3 reps against a live interlocutor.** Keith covers what Part 3 asks for; it does not give you turns to take. smalltalk2.me runs a free full Speaking mock with AI feedback, and HelloTalk, Tandem or italki Community find a human partner. Same rule as below — use the criterion comments, ignore the band number.
 - **Minimal-pair drills for final consonants** — any source will do. The drill matters more than the source. See [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]].
 
 ## AI as a Grader
@@ -27,6 +31,12 @@ Short on purpose. The failure mode in IELTS self-study is collecting resources i
 Useful for the mechanical half of the self-scoring pass: spotting grammar errors, catching an unanswered part of the question, flagging unsupported claims. Paste the public descriptors in and ask it to mark strictly against them, criterion by criterion.
 
 Treat the band number it gives as noise. AI graders run generous and inconsistent, and a fake 7.0 in week two is worse than no feedback at all. Trust the criterion-level comments; ignore the score.
+
+## Once the Test Is Booked
+
+Booking with the **British Council** unlocks IELTS Ready Premium free: 40 full scored practice tests plus AI feedback across all four skills, through the test-taker portal, until shortly after the test date. https://takeielts.britishcouncil.org/take-ielts/prepare/ielts-ready
+
+This is the mock source the plan's two checkpoints need, and it only exists after booking — which is an argument for booking early enough to study against it rather than after. See [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October|Book the IELTS Test]].
 
 ## What to Ignore
 
