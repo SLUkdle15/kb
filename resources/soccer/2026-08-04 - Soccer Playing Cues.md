@@ -33,7 +33,10 @@ Cues from *Soccer IQ* (Dan Blank), which is still being read — expect more, an
 
 - **Do not turn into pressure.** Turning away keeps your body between the ball and the opponent, which is what protects it. This is about dribbling to escape pressure and keep possession, not about beating anyone.
 - Don't be ashamed to employ the toe-poke.
+- Add a pre-fake to your game. Captured as a bare directive — what the pre-fake is meant to set up is not spelled out yet.
 
 ### Defending
 
 - No half clearance.
+- The opponent you are facing is likely to favor one foot. The first job is to figure out which foot that is; the next is to make her play with the other one.
+- **Cut off the return pass.**
