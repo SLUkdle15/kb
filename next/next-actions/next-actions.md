@@ -25,3 +25,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 - [[2026-08-17 - Review the Efficient Spring Logging Guide in Grafana|Review the Efficient Spring Logging Guide in Grafana]]
 - [[2026-08-19 - Book the IELTS Test for Early October|Book the IELTS Test for Early October]]
+- [[2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]]
