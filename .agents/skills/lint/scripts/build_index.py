@@ -407,9 +407,13 @@ def main() -> int:
         if count >= 2
     ]
 
+    # A project is one folder with one main note whose filename matches the folder.
+    # Supporting notes inside a project folder carry no Next Actions of their own.
     project_notes = [
         note for note in notes
-        if note.path.startswith("projects/") and note.path.lower() != "projects/projects.md"
+        if note.path.startswith("projects/")
+        and Path(note.path).stem == Path(note.path).parent.name
+        and note.path.lower() != "projects/projects.md"
     ]
     projects_missing = [
         note.path for note in project_notes
