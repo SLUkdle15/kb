@@ -20,7 +20,7 @@ Review monthly, or weekly when actively training.
 
 ## Protocols
 
-- [[areas/soccer/prepare-for-weekly-soccer|Prepare for Weekly Soccer]]
+- [[areas/soccer/decide-whether-to-cancel-weekly-soccer|Decide Whether to Cancel Weekly Soccer]]
 
 ## Logs
 

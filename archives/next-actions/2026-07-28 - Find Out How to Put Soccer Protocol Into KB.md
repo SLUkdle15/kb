@@ -1,6 +1,6 @@
 # Find Out How to Put Soccer Protocol Into KB
 
-Completed 2026-08-04: created [[areas/soccer/soccer|Soccer]] area with the [[areas/soccer/prepare-for-weekly-soccer|Prepare for Weekly Soccer]] protocol; per-session logging goes in the area's Recent Matches table, and playing cues live in [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]].
+Completed 2026-08-04: created [[areas/soccer/soccer|Soccer]] area with the [[areas/soccer/decide-whether-to-cancel-weekly-soccer|Decide Whether to Cancel Weekly Soccer]] protocol; per-session logging goes in the area's Recent Matches table, and playing cues live in [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]].
 
 ## Action
 

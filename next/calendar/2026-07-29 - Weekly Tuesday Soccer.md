@@ -2,7 +2,7 @@
 
 Every: Tuesday 17:30
 Remind: 4
-Protocol: [[areas/soccer/prepare-for-weekly-soccer|Prepare for Weekly Soccer]]
+Protocol: [[areas/soccer/decide-whether-to-cancel-weekly-soccer|Decide Whether to Cancel Weekly Soccer]]
 
 ## Action
 

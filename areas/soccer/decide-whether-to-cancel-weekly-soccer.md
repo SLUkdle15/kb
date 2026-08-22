@@ -2,7 +2,7 @@
 type: protocol
 ---
 
-# Prepare for Weekly Soccer
+# Decide Whether to Cancel Weekly Soccer
 
 Source: [[archives/next-actions/2026-07-28 - Find Out How to Put Soccer Protocol Into KB|Find Out How to Put Soccer Protocol Into KB]]
 
