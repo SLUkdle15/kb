@@ -4,7 +4,7 @@ Area: [[areas/badminton/badminton|Badminton]]
 
 Badminton courts within reach of home. Captured as given — most entries are still just a street or venue name, so treat anything without an address as a lead to confirm, not a booking.
 
-They cluster around Khương Đình and Thanh Xuân, which is the useful part: several are close enough that a full court somewhere does not end the evening.
+They cluster around Khương Đình, Thanh Xuân, and Đống Đa, which is the useful part: several are close enough that a full court somewhere does not end the evening.
 
 ## Courts
 
@@ -18,6 +18,11 @@ They cluster around Khương Đình and Thanh Xuân, which is the useful part: s
 | Lê Văn Lương | — | street only |
 | Bùi Xương Trạch | — | street only |
 | Trong Dong canh ho | as written; likely "Trống Đồng", beside the lake | unclear |
+| THCS Khương Thượng | 10 Tôn Thất Tùng | address |
+| THCS Nhân Chính | Ngõ 134 Quan Nhân | address |
+| — | 95 Chùa Bộc | address, no name |
+| Thủy Lợi University Gymnasium | Thuyloi University campus; likely 175 Tây Sơn, Đống Đa | name only |
+| — | 66B Triều Khúc | address, no name |
 
 ## Worth Adding Later
 
