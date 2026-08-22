@@ -2,6 +2,7 @@
 
 Area: [[areas/personal-development/personal-development|Personal Development]]
 Protocol: [[areas/personal-development/distill-a-chapter-into-the-idea-pool|Distill a Chapter into the Idea Pool]]
+Bank: [[resources/ideas/idea-pool|Idea Pool]]
 
 ## Action
 
