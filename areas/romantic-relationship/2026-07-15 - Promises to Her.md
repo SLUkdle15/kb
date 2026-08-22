@@ -9,6 +9,6 @@ Things I promised to do with her.
 - [ ] Take an out-of-city trip
 - [ ] Go to a concert
 - [ ] Go to a workshop
-- [ ] Get to know her character
 - [ ] Eat candy with her
 - [ ] Decide when to practice riding public transportation together
+- [ ] Go to LUPO and do a The scientist
