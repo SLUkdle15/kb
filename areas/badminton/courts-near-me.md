@@ -20,8 +20,7 @@ They cluster around Khương Đình, Thanh Xuân, and Đống Đa, which is the 
 | Trong Dong canh ho | as written; likely "Trống Đồng", beside the lake | unclear |
 | THCS Khương Thượng | 10 Tôn Thất Tùng | address |
 | THCS Nhân Chính | Ngõ 134 Quan Nhân | address |
-| — | 95 Chùa Bộc | address, no name |
-| Thủy Lợi University Gymnasium | Thuyloi University campus; likely 175 Tây Sơn, Đống Đa | name only |
+| Thủy Lợi University Gymnasium | 95 Chùa Bộc | address |
 | — | 66B Triều Khúc | address, no name |
 
 ## Worth Adding Later
