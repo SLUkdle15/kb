@@ -1,6 +1,7 @@
 # Build an Idea Pool for Conversation and Debate
 
 Area: [[areas/personal-development/personal-development|Personal Development]]
+Protocol: [[areas/personal-development/distill-a-chapter-into-the-idea-pool|Distill a Chapter into the Idea Pool]]
 
 ## Action
 

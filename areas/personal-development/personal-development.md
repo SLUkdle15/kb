@@ -28,6 +28,7 @@ Review monthly, or during a weekly review when a habit is plateauing or slipping
 - [[areas/personal-development/start-a-new-habit|Start a New Habit]]
 - [[areas/personal-development/respond-to-an-emotional-trigger|Respond to an Emotional Trigger]] — use in the heated moment, when feeling hurt or inferior.
 - [[areas/personal-development/reflect-after-an-emotional-trigger|Reflect After an Emotional Trigger]] — use once the heat drops, or in the evening.
+- [[areas/personal-development/distill-a-chapter-into-the-idea-pool|Distill a Chapter into the Idea Pool]] — use while reading for the conversation/debate idea pool.
 
 ## Current Projects
 
