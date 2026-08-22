@@ -3,7 +3,7 @@
 > [!summary]
 > Reading notes from DDIA. Core ideas so far: every system balances reliability, scalability, and maintainability; the document-vs-relational choice trades schema flexibility and locality against join support; declarative queries state the what and leave the how to the optimizer; storage engines trade read speed against write cost (indexes, B-trees vs LSM-trees); replication trades consistency guarantees against latency, availability, and read throughput (single-leader vs multi-leader vs leaderless); and partitioning trades range-query support against even load distribution, with secondary indexes kept either local to each partition or global by term.
 
-5-6-7-9-11
+7-9-11
 
 ## Distilled notes
 
