@@ -15,3 +15,9 @@ The last sitting of Week 0's baseline, after Task 2 was [[archives/next-actions/
 ## Done When
 
 A Reading band is on record, feeding into [[next/calendar/2026-08-22 - Pull the Baseline Bands and Make the Go-No-Go Call]].
+
+## Note
+
+Cambridge IELTS 16–20 (Academic) now in hand. As a same-day stopgap before these arrived, sat one official ielts.org sample task instead of a full section: Part 3 Summary Completion ("Plain English" movement), 4/5 correct — rough proxy band 7–7.5. That's 5 questions from one task type, not a full timed 60-minute section — a weak but directionally positive signal, not a confirmed band.
+
+**Assigned for the real sitting:** Cambridge IELTS 20, Test 1, Reading. Most recent book, closest to current test format. Sit it timed at 60 minutes to confirm the band; log the real result here or in the go/no-go call. Save the rest of Test 1 (16–19) and the remaining tests in each book for the Saturday Reading/Listening maintenance slot across the six-week plan.
