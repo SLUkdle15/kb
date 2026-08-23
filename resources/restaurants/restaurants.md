@@ -56,6 +56,7 @@ Add restaurant links here as notes are created.
 - [[2026-08-14 - Pizza 4P's Lotte Lieu Giai|Pizza 4P's - Lotte Liễu Giai]]
 - [[2026-08-17 - Tiem Com Bam Thu|Tiệm Cơm Bầm Thu]]
 - [[2026-08-20 - Long Wang Tho Nhuom|Long Wang - Thợ Nhuộm]]
+- [[2026-08-23 - Ashima Mushroom Hotpot Trieu Viet Vuong|Ashima Mushroom Hotpot - Triệu Việt Vương]]
 
 ## Decision Prompt
 
