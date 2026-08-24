@@ -18,15 +18,15 @@ Uh, part one, warm up. Do you enjoy traveling? Why or why not? Uh, I do enjoy tr
 
 Scored 2026-08-22 from the transcript above.
 
-| Criterion | Band |
-| --- | --- |
-| Fluency and Coherence | 5.5 |
-| Lexical Resource | 5 |
-| Grammatical Range and Accuracy | 5 |
-| Pronunciation | 5 (assumed, not audio-verified) |
-| Overall | 5 |
+| Criterion                      | Band |
+| ------------------------------ | ---- |
+| Fluency and Coherence          | 5.5  |
+| Lexical Resource               | 5    |
+| Grammatical Range and Accuracy | 5    |
+| Pronunciation                  | 5    |
+| Overall                        | 5    |
 
-Pronunciation is an assumed average, not a real score — no audio pass was done, see below. The other three were confirmed 2026-08-24 by [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]], which found fluency binding and moved the test to mid-November. Pronunciation stays an assumption until an audio pass happens.
+All four confirmed. The first three were settled 2026-08-24 by [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]], which found fluency binding and moved the test to mid-November. Pronunciation was audio-verified later the same day and came back at the 5 that had been assumed — the number did not move, but it is now a measurement rather than a placeholder.
 
 ### The Pass
 
@@ -43,11 +43,11 @@ Pronunciation is an assumed average, not a real score — no audio pass was done
   6. "We actually have a plan for the trip for quite a long times, but we finally saving time and finally take charge of the trip and finally have a chance to go to there." — error (tense, collocation, non-standard "go to there").
 
   **2 of 6 error-free, roughly 33 percent.** Worse than the Task 2 baseline's 13 percent would suggest is possible to beat casually, but this is a harder comparison — spontaneous speech versus a planned, timed essay — so read it as its own number, not a direct one against Writing.
-- **Pronunciation.** Not actually scored — set to 5 as a working assumption (matching the other three bands) so the baseline could close. This still requires an actual listen to the recording — dropped final consonants, stress, and intonation don't survive into a transcript — and the assumed 5 should be checked against real audio before it's trusted for the Phase 1 pass bar.
+- **Pronunciation.** Audio-verified 2026-08-24 at Band 5, confirming the working assumption the baseline closed with. Scored against the even anchors: a listener has to work in places, which rules out 8, and clarity is not sustained well enough for 6.
 
 ### What to Fix First
 
-1. **Do an actual audio pass for Pronunciation**, when there's time — the 5 currently on the books is an assumption, not a listen.
+1. ~~Do an actual audio pass for Pronunciation.~~ Done 2026-08-24 — the 5 held. The remaining pronunciation work is the specific slips, which still need logging in [[projects/score-ielts-7-overall/error-log|Error Log]].
 2. **Subject-verb agreement and plural -s**, the same two categories the Writing baselines already flagged — now confirmed as a speaking issue too, not just a writing one.
 3. **Hold past tense through a full narrative.** New pattern: once the story gets past "I went hiking," tense reverts to present for several clauses in a row. Different from the Task 1 baseline's "present tense for historical chart data" — this is narrative past tense dropped mid-story, not a report-tense confusion.
 4. **Cut filler density.** Some hesitation is normal in spontaneous speech, but this transcript's rate is high enough to be its own Fluency cost, independent of the self-corrections.

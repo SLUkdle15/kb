@@ -41,11 +41,13 @@ Made 2026-08-24, closing Phase 0. Consolidated from [[projects/score-ielts-7-ove
 | Coherence and Cohesion | 6 (Task 1: 5) | — |
 | Lexical Resource | 5 | 5 |
 | Grammatical Range and Accuracy | 5 (Task 1: 4) | 5 |
-| Pronunciation | — | 5 (assumed, not audio-verified) |
+| Pronunciation | — | 5 (audio-verified 2026-08-24) |
 
 Task 2 weighs double against Task 1, so **Writing ≈ 5.5** and **Speaking ≈ 5.0**. Against the 6.5 floor that is **+1.0 on Writing and +1.5 on Speaking**.
 
 Read down the columns: Lexical Resource and Grammatical Range and Accuracy are 5 in every place they appear. Task Response and Coherence are already 6 in Task 2 — half a band from target. The two language criteria are a full band and a half away, in both skills at once, and they are the same two criteria in each. That is the diagnosis.
+
+Pronunciation was an assumption when this verdict was written and was audio-verified the same day at the same band 5, so the table above stands as measured.
 
 Reading is near-full on a past official TRF — real evidence, historical format, not re-confirmed this cycle. Listening has never been baselined, which makes it the only completely untested skill in the exam.
 
