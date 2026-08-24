@@ -1,7 +1,7 @@
 # Designing Data Intensive Application
 
 > [!summary]
-> Reading notes from DDIA. Core ideas so far: every system balances reliability, scalability, and maintainability; the document-vs-relational choice trades schema flexibility and locality against join support; declarative queries state the what and leave the how to the optimizer; storage engines trade read speed against write cost (indexes, B-trees vs LSM-trees); replication trades consistency guarantees against latency, availability, and read throughput (single-leader vs multi-leader vs leaderless); and partitioning trades range-query support against even load distribution, with secondary indexes kept either local to each partition or global by term.
+> Reading notes from DDIA. Core ideas so far: every system balances reliability, scalability, and maintainability; the document-vs-relational choice trades schema flexibility and locality against join support; declarative queries state the what and leave the how to the optimizer; storage engines trade read speed against write cost (indexes, B-trees vs LSM-trees); replication trades consistency guarantees against latency, availability, and read throughput (single-leader vs multi-leader vs leaderless); and partitioning trades range-query support against even load distribution, with secondary indexes kept either local to each partition or global by term; and transactions give atomicity, isolation, and durability from the database while consistency stays a property of the application, with weak isolation levels such as read committed ruling out dirty reads and writes but not stale reads from a cache above them.
 
 7-9-11
 
@@ -16,3 +16,5 @@
 - [[resources/software-engineering/system-architecture/2026-08-05 - Replication Lag and Consistency Guarantees|Replication Lag and Consistency Guarantees]]
 - [[resources/software-engineering/system-architecture/2026-08-07 - Partitioning by Key Range vs Hash|Partitioning by Key Range vs Hash]]
 - [[resources/software-engineering/system-architecture/2026-08-07 - Local vs Global Secondary Indexes in Partitioned Data|Local vs Global Secondary Indexes in Partitioned Data]]
+- [[resources/software-engineering/system-architecture/2026-08-24 - ACID and Why Consistency Belongs to the Application|ACID and Why Consistency Belongs to the Application]]
+- [[resources/software-engineering/system-architecture/2026-08-24 - Read Committed and Hibernate L1 Cache Stale Reads|Read Committed and Hibernate L1 Cache Stale Reads]]
