@@ -1,11 +1,11 @@
-# Book the IELTS Test for Early October
+# Book the IELTS Test for Mid-November
 
 Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]]
 Area: [[areas/personal-development/personal-development|Personal Development]]
 
 ## Action
 
-Book an IELTS Academic slot for early October 2026 — target Saturday 3 October. Book once [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic|the baseline]] has been scored, so the date is chosen with the diagnosis in hand rather than on the assumption that October is realistic.
+Book an IELTS Academic slot for **mid-November 2026**. Retargeted from 3 October on 2026-08-24 by [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]], which found fluency rather than structure to be the binding constraint — the diagnosis is now in hand, so the remaining question is which mid-November date, not whether October is realistic.
 
 ## Checklist
 
@@ -25,7 +25,7 @@ Book it:
 Close the loop:
 
 - [ ] Add the test date to [[next/calendar/calendar|Calendar]], with the Speaking date if it differs.
-- [ ] Write the confirmed date into [[projects/score-ielts-7-overall/score-ielts-7-overall|the project note]] and adjust [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]] if it is not 3 October.
+- [ ] Write the confirmed date into [[projects/score-ielts-7-overall/score-ielts-7-overall|the project note]] and adjust [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]] to match it.
 - [ ] Note the results date and check it still clears the December 2026 application deadline in [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]].
 
 ## Done When
@@ -34,7 +34,7 @@ A paid booking confirmation exists with a named date and centre, the date is on 
 
 No deadline on this — deliberately. Study first, book when ready.
 
-What booking later costs is the test date, not the project. Roughly: booked by end of August holds 3 October; booked in September lands late October or November; booked in October lands in December. Any of those still clears the December application window in [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]] — a mid-November test reports by late November — so the real limit is around mid-November, not the end of August.
+What booking later costs is the test date, not the project. A mid-November test reports by late November, which still clears the December application window in [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]]. That is now the outer limit rather than a contingency, so the slack that existed while October was the target is gone: booking that slips into October lands the test in December and misses the window.
 
 What does erode with waiting is study material. Booking with the British Council unlocks IELTS Ready Premium free — 40 full scored mock tests with AI feedback across all four skills, open until shortly after the test date. Both of the plan's mock checkpoints depend on having mocks to sit, so booking early enough to study *against* that bank is worth more than holding the date open. See [[projects/score-ielts-7-overall/materials|Materials]].
 

@@ -2,13 +2,13 @@
 
 ## Outcome
 
-A Test Report Form showing **7.0 overall with no band below 6.5**, from a retake in early October 2026. Reading and Listening are already strong; the project is really about dragging Writing and Speaking from below 6 up to 6.5.
+A Test Report Form showing **7.0 overall with no band below 6.5**, from a retake in mid-November 2026. Reading and Listening are already strong; the project is really about dragging Writing and Speaking from below 6 up to 6.5.
 
 ## Deadline
 
-Working test date: **Saturday 3 October 2026**, computer-delivered, not yet booked. That leaves 6.5 weeks from 2026-08-19.
+Working test date: **mid-November 2026**, computer-delivered, not yet booked — moved from 3 October by the baseline verdict below on 2026-08-24. The October date is no longer the plan; mid-November is the outer limit that still reports in time for the December application window.
 
-**The date is not booked and booking is deliberately unscheduled** — see [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October]]. Until it is booked, 3 October is a planning assumption, not a commitment, and every week booking waits moves the test about a week. The outer limit is a test around mid-November, which still reports in time for the December application window. Computer-delivered results land in 1–5 days versus 13 for paper, which is what keeps a November contingency open.
+**The date is not booked and booking is deliberately unscheduled** — see [[next/next-actions/2026-08-19 - Book the IELTS Test for Mid-November]]. Until it is booked, the date is a planning assumption, not a commitment, and every week booking waits moves the test about a week. Computer-delivered results land in 1–5 days versus 13 for paper, which is what keeps a November contingency open.
 
 ## Definition of Done
 
@@ -29,6 +29,44 @@ Two consequences that shape the whole plan:
 - **The sub-band floor cannot be averaged away.** A 6.0 in Writing fails the requirement even with 8.5s in Reading and Listening. Writing and Speaking are the only real work.
 - **"Minimal review" for Reading and Listening means maintenance, not neglect.** With Writing and Speaking at the 6.5 floor, Reading and Listening have to average about 7.25. One timed section per week is enough to hold that; zero is not.
 
+## Baseline Verdict
+
+Made 2026-08-24, closing Phase 0. Consolidated from [[projects/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2]], [[projects/score-ielts-7-overall/writing-task-1-baseline|Writing Task 1]], and [[projects/score-ielts-7-overall/speaking-baseline|Speaking]].
+
+### The Eight Bands
+
+| Criterion | Writing | Speaking |
+| --- | --- | --- |
+| Task Response / Fluency and Coherence | 6 (Task 1: 5) | 5.5 |
+| Coherence and Cohesion | 6 (Task 1: 5) | — |
+| Lexical Resource | 5 | 5 |
+| Grammatical Range and Accuracy | 5 (Task 1: 4) | 5 |
+| Pronunciation | — | 5 (assumed, not audio-verified) |
+
+Task 2 weighs double against Task 1, so **Writing ≈ 5.5** and **Speaking ≈ 5.0**. Against the 6.5 floor that is **+1.0 on Writing and +1.5 on Speaking**.
+
+Read down the columns: Lexical Resource and Grammatical Range and Accuracy are 5 in every place they appear. Task Response and Coherence are already 6 in Task 2 — half a band from target. The two language criteria are a full band and a half away, in both skills at once, and they are the same two criteria in each. That is the diagnosis.
+
+Reading is near-full on a past official TRF — real evidence, historical format, not re-confirmed this cycle. Listening has never been baselined, which makes it the only completely untested skill in the exam.
+
+### Structural or Fluency
+
+**Both are present, but fluency is the binding constraint.**
+
+Structural failures are real and fast to fix: no Task 1 overview, examples asserted rather than concrete, the other side never weighed in an *outweigh* question, mechanical *First of all / Second* cohesion. Those account for the gap between Task Response 6 and 7, and weeks of work would close them.
+
+They are not what is holding the band down. The error-free sentence rate is 13% on Task 2 and 10% on Task 1, against a band 7 definition of *frequent* error-free sentences. And Speaking already does the structural things right — sustained two-minute answers, never gives up, holds position — and still scores 5 on grammar and vocabulary alone. That is precisely the case [[projects/score-ielts-7-overall/six-week-plan|the plan]] named as the slow problem.
+
+The mitigating fact, and the reason the project is not in trouble: every logged error sits in four high-frequency mechanical categories — subject-verb agreement, plural `-s`, articles, and past-tense marking. That is drillable in a way raw fluency is not. It is just not drillable in six weeks alongside everything else.
+
+### Go / No-Go
+
+**No-go on 3 October 2026. Plan for mid-November.**
+
+Lexical Resource and Grammatical Range and Accuracy sit at 5 everywhere they appear with an error-free sentence rate of 10–13%, and Speaking already does the structural things right and still scores 5 — so what remains is the slow problem rather than the fast one, and the rep budget confirms it: Phase 1 alone wants roughly twenty recorded Part 2 turns, four Task 2s written and rewritten, and two Task 1s, which at one hour a day runs five to six weeks and lands on top of 3 October with Phases 2 and 3 untouched.
+
+Nothing about the plan changes — Phase 1 is the same work against either date. What changes is that booking does not lock in October.
+
 ## Plan
 
 - [[projects/score-ielts-7-overall/six-week-plan|Six-Week Plan]] — week-by-week schedule and the one-hour daily template.
@@ -39,17 +77,17 @@ Two consequences that shape the whole plan:
 
 ## Next Actions
 
-- [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October]]
-- [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic]]
-- [[next/calendar/2026-08-22 - Pull the Baseline Bands and Make the Go-No-Go Call]]
+- [[next/next-actions/2026-08-19 - Book the IELTS Test for Mid-November]]
+
+Phase 0 closed 2026-08-24. Both baseline actions are archived — [[archives/next-actions/2026-08-22 - Pull the Baseline Bands and Make the Go-No-Go Call|the go/no-go call]] completed, and [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic|the Reading diagnostic]] obsolete. Phase 1 runs off the weekly template in [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]] rather than one note per session.
 
 ## Notes
 
 Feeds step 5 of [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]]. Note the ordering risk: step 4 of that project decides which programs, and therefore whether 7.0 with no band under 6.5 is even the right target. This project assumes it is. If step 4 comes back with a 6.5 requirement, the target drops and the plan gets easier; if it comes back with a 7.5 Writing requirement, this becomes a much longer project than 6.5 weeks.
 
-Honest read on the timeline: a full band in both Writing and Speaking in 6.5 weeks at one hour a day is at the optimistic edge of realistic. It is reachable when the cause is structural — not answering the whole question, no overview in Task 1, collapsing before two minutes in Part 2, grammar errors in most sentences — because those are fixable in weeks. It is not reachable in that time if the cause is raw fluency. The baseline action exists to tell the two apart by the end of this week.
+Honest read on the timeline: a full band in both Writing and Speaking in 6.5 weeks at one hour a day is at the optimistic edge of realistic. It is reachable when the cause is structural — not answering the whole question, no overview in Task 1, collapsing before two minutes in Part 2, grammar errors in most sentences — because those are fixable in weeks. It is not reachable in that time if the cause is raw fluency. The baseline told the two apart on 2026-08-24: fluency is binding, which is why the date moved. See the Baseline Verdict above.
 
 Contingencies, decided in advance so a bad result does not become a panic:
 
-- **One Skill Retake.** IELTS lets a single skill be re-sat within 60 days of the test at the same centre. If the October result comes back with exactly one of Writing or Speaking below 6.5, that is the cheap fix — but confirm at booking that the chosen centre offers it, because it changes which centre to book.
-- **A November backup slot.** If both Writing and Speaking miss, One Skill Retake does not help and a full retake is needed. Sessions run weekly in Vietnam, so this can wait until the October result is known.
+- **One Skill Retake.** IELTS lets a single skill be re-sat within 60 days of the test at the same centre. If the result comes back with exactly one of Writing or Speaking below 6.5, that is the cheap fix — but confirm at booking that the chosen centre offers it, because it changes which centre to book.
+- **A backup slot after the test.** If both Writing and Speaking miss, One Skill Retake does not help and a full retake is needed. Sessions run weekly in Vietnam, so this can wait until the result is known — though a miss in mid-November leaves much less room before the December window than an October miss would have.

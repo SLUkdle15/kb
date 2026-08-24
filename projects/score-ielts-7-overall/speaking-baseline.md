@@ -26,7 +26,7 @@ Scored 2026-08-22 from the transcript above.
 | Pronunciation | 5 (assumed, not audio-verified) |
 | Overall | 5 |
 
-Pronunciation is an assumed average, not a real score — no audio pass was done, see below. Provisional either way, same as the Writing baselines. Final criterion bands still wait on Reading and the structural-vs-fluency verdict due [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic|08-23]].
+Pronunciation is an assumed average, not a real score — no audio pass was done, see below. The other three were confirmed 2026-08-24 by [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]], which found fluency binding and moved the test to mid-November. Pronunciation stays an assumption until an audio pass happens.
 
 ### The Pass
 

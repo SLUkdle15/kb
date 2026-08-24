@@ -6,7 +6,7 @@ Due: 2026-08-19
 
 ## Action
 
-First slice of Week 0's baseline — sized to fit a one-hour window today. The rest (Task 1, Speaking, Reading, and scoring) is split across the next few days in [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay|tomorrow's note]] and [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic|the remainder]].
+First slice of Week 0's baseline — sized to fit a one-hour window today. The rest (Task 1, Speaking, Reading, and scoring) is split across the next few days in [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay|tomorrow's note]] and [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic|the remainder]].
 
 ## Checklist
 

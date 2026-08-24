@@ -34,7 +34,7 @@ Scored 2026-08-20 against the self-scoring pass in [[projects/score-ielts-7-over
 | Grammatical Range and Accuracy | 5 |
 | Overall | 5.5 |
 
-Provisional. Final criterion bands wait until Task 1 and Speaking are also scored in [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic|the rest of the baseline]].
+Confirmed 2026-08-24 by [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]], which consolidated all three baseline pieces and moved the test to mid-November.
 
 ### The Pass
 

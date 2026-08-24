@@ -6,7 +6,7 @@ Due: 2026-08-21
 
 ## Action
 
-Next slice of Week 0's baseline, after Task 2 was [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2|sat]] and [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay|self-scored]]. 1 hour 15 minutes available today — sized to fit Task 1 sat and self-scored, plus the Speaking test recorded. Reading and the Speaking scoring pass wait for [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic|the rest of the baseline]], due 2026-08-23.
+Next slice of Week 0's baseline, after Task 2 was [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2|sat]] and [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay|self-scored]]. 1 hour 15 minutes available today — sized to fit Task 1 sat and self-scored, plus the Speaking test recorded. Reading and the Speaking scoring pass wait for [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic|the rest of the baseline]], due 2026-08-23.
 
 ## Checklist
 
@@ -17,4 +17,4 @@ Next slice of Week 0's baseline, after Task 2 was [[archives/next-actions/2026-0
 
 ## Done When
 
-The Task 1 essay is written and self-scored with a criterion band each, and the Speaking test is recorded and saved for scoring. The recording loop, Reading section, final criterion bands, and the structural-vs-fluency call wait for [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic|the rest of the baseline]].
+The Task 1 essay is written and self-scored with a criterion band each, and the Speaking test is recorded and saved for scoring. The recording loop, Reading section, final criterion bands, and the structural-vs-fluency call wait for [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic|the rest of the baseline]].

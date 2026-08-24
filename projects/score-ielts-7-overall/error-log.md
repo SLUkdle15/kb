@@ -58,12 +58,16 @@ Start this section with dropped final consonants — `-s`, `-ed`, and final stop
 
 Not sentence-level. Things like: no overview in Task 1, only one part of a two-part question answered, position drifting by the third paragraph, Part 2 running dry before two minutes, Part 3 answers stopping at two sentences.
 
-| Error | Where | Last seen |
-| --- | --- | --- |
-| Abbreviations in formal writing — *VN*, *infra* | Task 2 baseline, four times | 2026-08-19 |
-| Colon before a clause or a *such as* list | Task 2 baseline, twice | 2026-08-19 |
-| Examples asserted, not concrete — no figure, place, or mechanism | Task 2 baseline, both body paragraphs | 2026-08-19 |
-| Other side never weighed in an *outweigh* question | Task 2 baseline, conceded in half a clause and dropped | 2026-08-19 |
+The Task 1 entries are logged on first sighting, against the repeated-errors-only rule above. That rule keeps one-off slips out; a structural cap the plan already calls non-negotiable is not a slip.
+
+| Error                                                            | Where                                                  | Last seen  |
+| ---------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
+| Abbreviations in formal writing — *VN*, *infra*                  | Task 2 baseline, four times                            | 2026-08-19 |
+| Colon before a clause or a *such as* list                        | Task 2 baseline, twice                                 | 2026-08-19 |
+| Examples asserted, not concrete — no figure, place, or mechanism | Task 2 baseline, both body paragraphs                  | 2026-08-19 |
+| Other side never weighed in an *outweigh* question               | Task 2 baseline, conceded in half a clause and dropped | 2026-08-19 |
+| No overview sentence                                              | Task 1 baseline, paragraph 1 doubles as intro and never states the main trends | 2026-08-21 |
+| Closing paragraph restates a feature instead of adding one        | Task 1 baseline, Nigeria's 2020 low for the third time  | 2026-08-21 |
 
 ## Fixed
 

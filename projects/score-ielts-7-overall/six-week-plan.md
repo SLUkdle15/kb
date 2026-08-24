@@ -27,12 +27,14 @@ Wednesday is the highest-value hour in the week. Writing new essays raises volum
 Nothing improves until the diagnosis is real. Started 2026-08-19.
 
 - Read the official public band descriptors for Writing Task 2 and for Speaking, and read the 6 and 7 rows side by side. Twenty minutes, and it reframes everything after it.
-- Sit a baseline: one Task 2 in 40 minutes, one Task 1 in 20, one recorded full Speaking test. Self-score all of it. See [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2]], [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay]], [[archives/next-actions/2026-08-21 - Sit IELTS Task 1 and Record the Speaking Test]], [[archives/next-actions/2026-08-22 - Score the Speaking Baseline Recording]], and [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic]].
-- Book the test when ready. Not a blocker for anything below — the phases that follow work against any date. See [[next/next-actions/2026-08-19 - Book the IELTS Test for Early October]].
-- One timed Reading section to confirm it is still at 7.5 or above. If it is not, the plan changes and Reading rejoins the weekday rotation.
+- Sit a baseline: one Task 2 in 40 minutes, one Task 1 in 20, one recorded full Speaking test. Self-score all of it. See [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2]], [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay]], [[archives/next-actions/2026-08-21 - Sit IELTS Task 1 and Record the Speaking Test]], [[archives/next-actions/2026-08-22 - Score the Speaking Baseline Recording]], and [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic]].
+- Book the test when ready. Not a blocker for anything below — the phases that follow work against any date. See [[next/next-actions/2026-08-19 - Book the IELTS Test for Mid-November]].
+- ~~One timed Reading section to confirm it is still at 7.5 or above.~~ Settled without a sitting: Reading is near-full on a past official IELTS TRF, so it is not where the risk lives. Confirmation folds into the Saturday maintenance rotation rather than gating Phase 0. **Listening is now the untested skill** — it has never been baselined, so it takes the next Saturday alternating slot.
 - Start the error log with whatever the baseline exposes.
 
-**Move on when:** eight criterion-level bands are written down and the structural-vs-fluency call is made, per [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic]].
+**Move on when:** eight criterion-level bands are written down and the structural-vs-fluency call is made.
+
+**Closed 2026-08-24.** Both done — see [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]]. Writing ≈ 5.5, Speaking ≈ 5.0, with Lexical Resource and Grammatical Range and Accuracy at 5 in every place they appear. Fluency judged binding rather than structure, so the test moved from 3 October to mid-November. Phase 1 starts from here.
 
 Read the baseline honestly. Structural failures — no clear position, no Task 1 overview, Part 2 answers running dry at 50 seconds, under 250 words — are fixable in a few weeks. If instead the writing addresses the question fully and the speaking runs the full two minutes and it still scores 5.5 on grammar and vocabulary alone, that is a slower problem, and the right move is a November or December test date rather than a heroic October.
 

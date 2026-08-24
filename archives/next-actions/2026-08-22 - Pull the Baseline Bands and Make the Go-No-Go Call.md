@@ -4,9 +4,13 @@ Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 
 Area: [[areas/personal-development/personal-development|Personal Development]]
 Due: 2026-08-24
 
+## Status
+
+**Completed 2026-08-24.** Eight criterion-level bands recorded, the error log seeded with real repeats across all baseline pieces, and a no-go on 3 October written into [[projects/score-ielts-7-overall/score-ielts-7-overall|the project note]] with its reasoning. The optional AI-marking step was skipped. Phase 0 closed.
+
 ## Action
 
-Split off [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic|the Reading sitting]] so each piece fits its own one-hour slot. By the time this runs, all four baseline pieces exist: [[projects/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2]], [[projects/score-ielts-7-overall/writing-task-1-baseline|Writing Task 1]], [[projects/score-ielts-7-overall/speaking-baseline|Speaking]] (Pronunciation still an assumed 5, not audio-verified), and the Reading section from 08-23. Pull them into one verdict.
+Split off [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic|the Reading sitting]] so each piece fits its own one-hour slot. By the time this runs, all four baseline pieces exist: [[projects/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2]], [[projects/score-ielts-7-overall/writing-task-1-baseline|Writing Task 1]], [[projects/score-ielts-7-overall/speaking-baseline|Speaking]] (Pronunciation still an assumed 5, not audio-verified), and the Reading section from 08-23. Pull them into one verdict.
 
 ## Checklist
 

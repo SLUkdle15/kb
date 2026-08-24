@@ -15,4 +15,4 @@ Score the Task 2 essay in [[projects/score-ielts-7-overall/writing-task-2-baseli
 
 ## Done When
 
-The Task 2 essay has been scored against the checklist, and any repeated errors are in the Error Log. Final criterion bands wait for [[next/calendar/2026-08-19 - Finish the IELTS Baseline Diagnostic|the rest of the baseline]], once Task 1 and Speaking are also scored.
+The Task 2 essay has been scored against the checklist, and any repeated errors are in the Error Log. Final criterion bands wait for [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic|the rest of the baseline]], once Task 1 and Speaking are also scored.
