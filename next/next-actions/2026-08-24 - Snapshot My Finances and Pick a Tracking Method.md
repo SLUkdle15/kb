@@ -26,6 +26,20 @@ Two things to decide while the numbers are in front of you, not later:
 
 This is the missing prerequisite under [[next/maybe/2026-08-21 - Start Investing|Start Investing]], which parks itself behind two open questions — whether an emergency fund exists, and what the money is for. Neither is answerable without this snapshot, so doing this unblocks that decision without starting the investing track early.
 
+**If [[areas/badminton/badminton|badminton]] hosting starts.** Hosting a session is a pass-through, not a real outflow, so it should not inflate the recurring-outflow line. Setup is 1 court for 2 hours, 6 shuttlecocks per session, 4 sessions a month.
+
+| Item | Per session | Per month (4 sessions) | Per person / session |
+| --- | --- | --- | --- |
+| Court | 210,000 | 840,000 | 35,000 (6p) / 30,000 (7p) |
+| Shuttles (6 pcs) | 165,000 | 660,000 | 27,500 (6p) / 23,571 (7p) |
+| **Total out** | **375,000** | **1,500,000** | **62,500 (6p) / 53,571 (7p)** |
+| Collected @ 6 people | 378,000 | 1,512,000 | **63,000** |
+| Collected @ 7 people | 378,000 | 1,512,000 | **54,000** |
+
+Monthly shuttles: 6 x 4 = 24 pcs = 2 boxes @ 330,000, so a shuttle unit price of 27,500.
+
+If turnout varies, collect 75,000 at 5 people, 63,000 at 6, 54,000 at 7, 47,000 at 8, 42,000 at 9, 38,000 at 10. Announce the total (375,000) rather than a per-person price, and split it among whoever turns up. Minimum 5 people to run the session; 6 shuttles included, extras split among players. The small buffer goes toward the next box of shuttles.
+
 Timing: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]] owns the weekday hours through the test. This is an hour, once, not a learning track — a Sunday or a spare evening fits it without touching the sprint.
 
 ## Done When
