@@ -23,6 +23,10 @@ Review monthly, or weekly when actively training.
 - Reduce redundant steps, especially for net play and both rear corners.
 - Build endurance with resistance band practice.
 
+## Current Actions
+
+- [[next/calendar/2026-08-26 - Tell Khai I Am Not Continuing at CKH Academy|Tell Khai I Am Not Continuing at CKH Academy]]
+
 ## Current Projects
 
 - 

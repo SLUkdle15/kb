@@ -25,4 +25,5 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-07-30 - Weekly Wednesday Walk with Girlfriend]] — recurring Wednesday 21:00
 - [[next/calendar/2026-08-19 - Weekly Sunday Vault Review]] — recurring Sunday 20:00 (run the `review` skill)
 - [[next/calendar/2026-08-10 - Go to Temple and Eat Vegetarian]] — 2026-10-10 (first day of lunar month/September)
-- [[next/calendar/2026-08-11 - Fill Gas for Car]] — 2026-08-26 (recurring every 2 weeks)
+- [[next/calendar/2026-08-11 - Fill Gas for Car]] — 2026-09-02 (recurring every 3 weeks)
+- [[next/calendar/2026-08-26 - Tell Khai I Am Not Continuing at CKH Academy]] — 2026-09-01 (decline the next CKH badminton course)
