@@ -25,8 +25,8 @@ DATE_RE = re.compile(
     re.IGNORECASE,
 )
 TIME_SENSITIVE_RE = re.compile(
-    r"\b(current|currently|latest|recent|newest|best|today|now|pricing|price|version|"
-    r"deprecated|roadmap|deadline|schedule|law|policy|regulation|market|forecast)\b",
+    r"\b(current|currently|latest|newest|pricing|price|version|"
+    r"deprecated|roadmap|deadline|schedule|market|forecast)\b",
     re.IGNORECASE,
 )
 UNRESOLVED_RE = re.compile(r"\b(TODO|FIXME|TBD|question|unclear|verify|check|research)\b|\?", re.IGNORECASE)
