@@ -1,9 +1,9 @@
 # Designing Data Intensive Application
 
 > [!summary]
-> Reading notes from DDIA. Core ideas so far: every system balances reliability, scalability, and maintainability; the document-vs-relational choice trades schema flexibility and locality against join support; declarative queries state the what and leave the how to the optimizer; storage engines trade read speed against write cost (indexes, B-trees vs LSM-trees); replication trades consistency guarantees against latency, availability, and read throughput (single-leader vs multi-leader vs leaderless); and partitioning trades range-query support against even load distribution, with secondary indexes kept either local to each partition or global by term; and transactions give atomicity, isolation, and durability from the database while consistency stays a property of the application, with weak isolation levels such as read committed ruling out dirty reads and writes but not stale reads from a cache above them.
+> Reading notes from DDIA. Core ideas so far: every system balances reliability, scalability, and maintainability; the document-vs-relational choice trades schema flexibility and locality against join support; declarative queries state the what and leave the how to the optimizer; storage engines trade read speed against write cost (indexes, B-trees vs LSM-trees); replication trades consistency guarantees against latency, availability, and read throughput (single-leader vs multi-leader vs leaderless); and partitioning trades range-query support against even load distribution, with secondary indexes kept either local to each partition or global by term; and transactions give atomicity, isolation, and durability from the database while consistency stays a property of the application, with weak isolation levels such as read committed ruling out dirty reads and writes but not stale reads from a cache above them; and the isolation ladder trades anomaly prevention against abort rate, with only serializable tracking reads and therefore preventing write skew. Serial execution rules out interactive multi-statement transactions, forcing the whole transaction into a stored procedure, which earns its keep mainly for set-based work, hot-row contention, and writers you do not control.
 
-7-9-11
+9-11
 
 ## Distilled notes
 
@@ -18,3 +18,5 @@
 - [[resources/software-engineering/system-architecture/2026-08-07 - Local vs Global Secondary Indexes in Partitioned Data|Local vs Global Secondary Indexes in Partitioned Data]]
 - [[resources/software-engineering/system-architecture/2026-08-24 - ACID and Why Consistency Belongs to the Application|ACID and Why Consistency Belongs to the Application]]
 - [[resources/software-engineering/system-architecture/2026-08-24 - Read Committed and Hibernate L1 Cache Stale Reads|Read Committed and Hibernate L1 Cache Stale Reads]]
+- [[resources/software-engineering/system-architecture/2026-08-26 - Isolation Levels and the Anomalies They Allow|Isolation Levels and the Anomalies They Allow]]
+- [[resources/software-engineering/system-architecture/2026-08-26 - Interactive Transactions vs Stored Procedures|Interactive Transactions vs Stored Procedures]]
