@@ -16,6 +16,8 @@ Same handling as [[areas/badminton/courts-near-me|Courts Near Me]]: anything wit
 | Sân bóng HQV | — | — | name only |
 | Sân bóng Yên Hòa | — | — | name only |
 | Sân bóng Mỹ Đình 2 / MHDI | — | — | name only |
+| Sân bóng B5 Mai Dịch | Mai Dịch, Cầu Giấy | — | area only |
+| Sân bóng Phúc Thành | — | — | name only |
 
 ## Worth Adding Later
 
