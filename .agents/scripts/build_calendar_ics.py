@@ -6,7 +6,8 @@ Each calendar note contributes one event, in one of two shapes:
 - One-off: Title from the note's H1 (falls back to the filename without the
   date prefix). Date from the first `Due:` line, e.g. `Due: 2026-07-15` or
   `Due: 2026-07-15 14:30` (falls back to the filename's YYYY-MM-DD prefix).
-  Date-only becomes an all-day event; a time makes a 1-hour timed event.
+  Date-only becomes an all-day event; a time makes a 1-hour timed event. An
+  optional `Remind:` line adds a VALARM that many days before the date.
 
 - Recurring weekly: Title from the H1. Day/time from an `Every:` line, e.g.
   `Every: Tuesday 17:30`. Produces a weekly-recurring event at that day/time.
@@ -99,6 +100,16 @@ def build_event(path: Path) -> list[str] | None:
         lines += [
             f"DTSTART;VALUE=DATE:{date.strftime('%Y%m%d')}",
             f"DTEND;VALUE=DATE:{next_day.strftime('%Y%m%d')}",
+        ]
+
+    remind = REMIND_RE.search(text)
+    if remind:
+        lines += [
+            "BEGIN:VALARM",
+            "ACTION:DISPLAY",
+            f"DESCRIPTION:{escape(title)}",
+            f"TRIGGER:-P{int(remind.group(1))}D",
+            "END:VALARM",
         ]
     lines.append("END:VEVENT")
     return lines
