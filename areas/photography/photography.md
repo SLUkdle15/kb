@@ -18,6 +18,10 @@ Maintain and improve photography, camera handling, image workflow, and visual ta
 
 Review monthly, or weekly when practicing actively.
 
+## Current Actions
+
+- [[next/next-actions/2026-08-26 - Examine the GoPro|Examine the GoPro]]
+
 ## Current Projects
 
 - 

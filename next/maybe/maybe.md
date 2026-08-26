@@ -22,6 +22,7 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-08-09 - Order Techleague Jersey for Luong and Phi|Order Techleague Jersey for Luong and Phi]]
 - [[2026-08-09 - Fix the Microwave Küppersbusch MR6330.0S|Fix the Microwave Küppersbusch MR6330.0S]]
 - [[2026-08-16 - Schedule a Weekly Badminton with Girlfriend|Schedule a Weekly Badminton with Girlfriend]]
+- [[2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 - [[2026-08-17 - Spend 500k Voucher on Fast Food Coffee or Clothes|Spend 500k Voucher on Fast Food, Coffee or Clothes]]
 - [[2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]]
 - [[2026-08-21 - Start Investing|Start Investing]]

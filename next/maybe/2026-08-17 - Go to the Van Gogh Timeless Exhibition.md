@@ -8,4 +8,4 @@ First check the run dates, venue, ticket price, and whether tickets must be book
 
 ## Done When
 
-Been to the exhibition, or it closed before a date worked out.
+Decided whether to go; if yes, promote to `next/calendar` with a date. Undecided by the time it closes counts as a no by default, which is the risk of parking it here.
