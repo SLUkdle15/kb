@@ -92,5 +92,5 @@ Honest read on the timeline: a full band in both Writing and Speaking in 6.5 wee
 
 Contingencies, decided in advance so a bad result does not become a panic:
 
-- **One Skill Retake.** IELTS lets a single skill be re-sat within 60 days of the test at the same centre. If the result comes back with exactly one of Writing or Speaking below 6.5, that is the cheap fix — but confirm at booking that the chosen centre offers it, because it changes which centre to book.
+- **One Skill Retake.** IELTS lets a single skill be re-sat within 60 days of the test at the same centre. If the result comes back with exactly one of Writing or Speaking below 6.5, that is the cheap fix. Settled 2026-08-22: it is available at both the British Council and IDP for computer-delivered IELTS in Vietnam, so it does not constrain the centre choice — see [[next/next-actions/2026-08-19 - Book the IELTS Test for Mid-November|the booking action]] for the fee and the one confirmation still worth making on the booking page.
 - **A backup slot after the test.** If both Writing and Speaking miss, One Skill Retake does not help and a full retake is needed. Sessions run weekly in Vietnam, so this can wait until the result is known — though a miss in mid-November leaves much less room before the December window than an October miss would have.

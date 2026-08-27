@@ -36,4 +36,4 @@ Decide:
 
 One or two fields are chosen and written into [[projects/pursue-a-masters-degree/pursue-a-masters-degree|the project note]], with a sentence on why each survived.
 
-Give this two to three weeks, not two to three months. The December 2026 application deadline means step 5 (booking the English test) cannot start until this one closes.
+Give this two to three weeks, not two to three months. The December 2026 application deadline is what makes that pace matter: this step gates step 3 and then step 4, and step 4 is what confirms whether 7.0 with no band below 6.5 is the right IELTS target. Booking the test is not blocked — [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]] is already running ahead of step 4 — but the target it is aimed at stays unconfirmed until this one closes.

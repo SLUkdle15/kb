@@ -14,7 +14,7 @@ Decided 2026-08-17:
 
 ## Deadline
 
-Target: the Fall 2027 intake. US applications for that cycle typically close between December 2026 and February 2027, so the working deadline is **December 2026** — about four months out. Confirm the real per-program dates in step 4.
+Target: the Fall 2027 intake. US applications for that cycle typically close between December 2026 and February 2027, so the working deadline is **December 2026** — about three months out as of 2026-08-27. Confirm the real per-program dates in step 4.
 
 ## Definition of Done
 
@@ -28,7 +28,9 @@ Work these in order. Only the current step becomes a note in `next/next-actions`
 2. ~~**Set the constraints.**~~ Done 2026-08-17 — see Constraints above.
 3. **Shortlist three to five US programs** that fit the field, spread across reach and safety.
 4. **Check entrance requirements per shortlisted program.** TOEFL or IELTS, GRE if the program still requires it, transcripts, recommendation letters, statement of purpose, and each program's application deadline.
-5. **Book the required tests.** TOEFL/IELTS slots fill months ahead and scores take weeks to report, so book as soon as step 4 names the test — this is the step most likely to blow the December deadline. Started ahead of step 4 as its own project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]], working to a 7.0 / no-band-below-6.5 target and an early October retake. Step 4 has to confirm that target — it may revise it.
+5. **Book the required tests.** TOEFL/IELTS slots fill months ahead and scores take weeks to report, so book as soon as step 4 names the test — this is the step most likely to blow the December deadline. Started ahead of step 4 as its own project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]], working to a 7.0 / no-band-below-6.5 target and a **mid-November retake** — moved from early October by the baseline verdict on 2026-08-24, which found fluency rather than structure to be the binding constraint. Step 4 has to confirm that target — it may revise it.
+
+   The later date still reports in time: computer-delivered results land in 1–5 days, so a mid-November sitting scores by late November. What it removes is the slack. October left room for a full retake before December; mid-November does not, and One Skill Retake runs within 60 days of the test, which puts any single-skill fix in January. So mid-November is the outer limit rather than a contingency, and whether December is still the real deadline — or whether the per-program dates run into February — is now a question step 4 has to answer.
 6. **Gather the documents.** Transcripts, degree certificate, CV, and any translation or notarization the programs require.
 7. **Ask for recommendation letters.** Give referees at least a month and a copy of the statement of purpose.
 8. **Write the statement of purpose**, then adapt it per program.
