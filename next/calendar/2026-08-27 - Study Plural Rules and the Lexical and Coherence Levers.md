@@ -1,6 +1,6 @@
 # Study Plural Rules and the Lexical and Coherence Levers
 
-Due: 2026-08-27
+Due: 2026-08-28
 Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]]
 Area: [[areas/personal-development/personal-development|Personal Development]]
 

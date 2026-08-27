@@ -27,3 +27,4 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]]
 - [[2026-08-21 - Start Investing|Start Investing]]
 - [[2026-08-22 - Buy New Everyday Shoes|Buy New Everyday Shoes]]
+- [[2026-08-27 - Visit Quán Coffee Của Sự Lao Động Cần Cù|Visit Quán Coffee Của Sự Lao Động Cần Cù]] — maybe for Mid-Autumn Festival, 2026-09-25
