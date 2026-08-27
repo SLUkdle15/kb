@@ -27,3 +27,5 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-08-11 - Fill Gas for Car]] — 2026-09-02 (recurring every 3 weeks)
 - [[next/calendar/2026-08-26 - Watch the Endgame Encore Showing]] — 2026-09-25 (reminder 5 days before to book tickets)
 - [[next/calendar/2026-08-26 - Tell Khai I Am Not Continuing at CKH Academy]] — 2026-09-01 (decline the next CKH badminton course)
+- [[next/calendar/2026-08-27 - Bring Badminton Racket for Restringing]] — 2026-08-27
+- [[next/calendar/2026-08-30 - Print the Label for My Brother]] — 2026-08-30 (Sunday; coffee label going to the US with his friend)
