@@ -1,6 +1,6 @@
 # Viettel Technician Wifi Update
 
-Area: [[areas/home-maintenance/home-maintenance]]
+Area: [[areas/family/family|Family]]
 Due: 2026-07-29
 Event: 2026-07-29 17:00 — Viettel technician visit, window roughly 17:00-18:00
 

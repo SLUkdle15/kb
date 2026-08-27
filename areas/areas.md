@@ -35,7 +35,7 @@ Ask:
 - [[areas/badminton/badminton|Badminton]]
 - [[areas/photography/photography|Photography]]
 - [[areas/golf-training/golf-training|Golf Training]]
-- [[areas/home-maintenance/home-maintenance|Home Maintenance]]
+- [[areas/family/family|Family]]
 - [[areas/personal-development/personal-development|Personal Development]]
 - [[areas/personal-finance/personal-finance|Personal Finance]]
 - [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]

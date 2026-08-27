@@ -1,6 +1,6 @@
 # Fix the Sink Drain Cover
 
-Area: [[areas/home-maintenance/home-maintenance|Home Maintenance]]
+Area: [[areas/family/family|Family]]
 
 ## Action
 

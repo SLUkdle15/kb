@@ -1,6 +1,6 @@
 # Examine the Door
 
-Area: [[areas/home-maintenance/home-maintenance|Home Maintenance]]
+Area: [[areas/family/family|Family]]
 
 ## Action
 
