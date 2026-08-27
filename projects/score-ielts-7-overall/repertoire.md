@@ -143,7 +143,9 @@ A topic with all four blocks stocked can answer any of the five. A topic missing
 
 ## Travel and Culture
 
-**Collocations** —
+Overlaps with Environment — the 2026-08-19 baseline essay was international tourism versus local inhabitants and the environment, so material here often serves both.
+
+**Collocations** — from the baseline essay, in their corrected form: tourist services bring numerous benefits, depend heavily on tourism, one of the main contributors to its economy, reinvest the financial gain, tourism damages a country's environment, coral species revived in a protected environment, raise awareness of environmental issues
 
 **Causes** —
 
