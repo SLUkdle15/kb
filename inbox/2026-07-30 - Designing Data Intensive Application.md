@@ -23,4 +23,3 @@
 - [[resources/software-engineering/system-architecture/2026-08-27 - The Three Troubles of Distributed Systems|The Three Troubles of Distributed Systems]]
 - [[resources/software-engineering/system-architecture/2026-08-27 - Packet Switching Cannot Reserve Bandwidth|Packet Switching Cannot Reserve Bandwidth]]
 
-Still reading: unreliable clocks.
