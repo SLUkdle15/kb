@@ -80,6 +80,7 @@ Nothing about the plan changes — Phase 1 is the same work against either date.
 ## Next Actions
 
 - [[next/next-actions/2026-08-19 - Book the IELTS Test for Mid-November]]
+- [[next/calendar/2026-08-27 - Study Plural Rules and the Lexical and Coherence Levers]]
 
 Phase 0 closed 2026-08-24. Both baseline actions are archived — [[archives/next-actions/2026-08-22 - Pull the Baseline Bands and Make the Go-No-Go Call|the go/no-go call]] completed, and [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic|the Reading diagnostic]] obsolete. Phase 1 runs off the weekly template in [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]] rather than one note per session.
 
