@@ -24,11 +24,10 @@ Review monthly, or when a fix or a family commitment is pending.
 - [[next/next-actions/2026-08-09 - Examine the Door|Examine the Door]]
 - [[next/next-actions/2026-08-09 - Clean a Shelf for Mom|Clean a Shelf for Mom]]
 - [[next/next-actions/2026-08-20 - Go for a Walk with Mom|Go for a Walk with Mom]]
-- [[next/calendar/2026-08-30 - Print the Label for My Brother|Print the Label for My Brother]]
 
 ## Current Projects
 
-- 
+- [[projects/register-temporary-residence/register-temporary-residence|Register Temporary Residence]]
 
 ## Related Resources
 

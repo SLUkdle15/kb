@@ -4,6 +4,8 @@
 
 Temporary residence (tạm trú) registered at my current address, with the confirmation in hand.
 
+Area: [[areas/family/family|Family]]
+
 ## Definition of Done
 
 - The temporary residence card is filled in.
@@ -12,7 +14,7 @@ Temporary residence (tạm trú) registered at my current address, with the conf
 
 ## Next Actions
 
-- [[next/next-actions/2026-08-26 - Fill In the Temporary Residence Card|Fill In the Temporary Residence Card]]
+- [[next/next-actions/2026-08-27 - Find Out How to Register Temporary Residence|Find Out How to Register Temporary Residence]]
 
 ## Notes
 

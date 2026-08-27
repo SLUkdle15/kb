@@ -27,4 +27,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]]
 - [[2026-08-24 - Snapshot My Finances and Pick a Tracking Method|Snapshot My Finances and Pick a Tracking Method]]
 - [[2026-08-26 - Examine the GoPro|Examine the GoPro]]
-- [[2026-08-26 - Fill In the Temporary Residence Card|Fill In the Temporary Residence Card]]
+- [[2026-08-27 - Find Out How to Register Temporary Residence|Find Out How to Register Temporary Residence]]
