@@ -1,10 +1,13 @@
 # Agree a Weekly Time with Mom
 
 Area: [[areas/family/family|Family]]
+Due: 2026-08-30
 
 ## Action
 
 Settle one fixed weekly slot with mom — a day and a time, not an intention.
+
+Ask her over the weekend of 2026-08-29/30. The date here is for having the conversation, not the session itself.
 
 Two things have already failed here: badminton (too big an ask, two attempts fell through) and a walk with no fixed date ([[archives/next-actions/2026-08-20 - Go for a Walk with Mom|closed 2026-08-28]]). Both died the same way — nothing recurring surfaced them. The working example in this vault is [[next/calendar/2026-07-30 - Weekly Wednesday Walk with Girlfriend|Weekly Wednesday Walk with Girlfriend]]: same day, same time, no negotiation each week.
 

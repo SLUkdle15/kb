@@ -24,7 +24,7 @@ Review monthly, or when a fix or a family commitment is pending.
 
 - [[next/next-actions/2026-08-09 - Examine the Door|Examine the Door]]
 - [[next/next-actions/2026-08-09 - Clean a Shelf for Mom|Clean a Shelf for Mom]]
-- [[next/next-actions/2026-08-28 - Agree a Weekly Time with Mom|Agree a Weekly Time with Mom]]
+- [[next/calendar/2026-08-28 - Agree a Weekly Time with Mom|Agree a Weekly Time with Mom]]
 
 ## Current Projects
 
