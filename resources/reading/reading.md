@@ -10,13 +10,14 @@ Ongoing reading list: what I am reading now, what is queued, and what is finishe
 
 ## Currently Reading
 
-- *Designing Data-Intensive Applications* — Martin Kleppmann — [[inbox/2026-07-30 - Designing Data Intensive Application|reading notes]]
 - *Soccer IQ* — Dan Blank — cues land straight in [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]], no separate capture
 
 ## To Read
 
 Two reading programs feed this list: [[areas/personal-development/2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]] (argument, improv, mental models — running in its narrow form, *The Art of Thinking Clearly* only, with the rest deferred until after the IELTS test) and the still-parked [[next/maybe/2026-08-21 - Start Investing|Start Investing]] (the investing books).
 
+- *Learning Domain-Driven Design* — Vlad Khononov — **next on the architect path**; #4 in the [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|roadmap]]'s Starter Stack and the entry point to its Phase 3, boundaries and bounded contexts
+- *A Philosophy of Software Design* — John Ousterhout — #2 in the Starter Stack, skipped past on the way to DDIA
 - *The Blade Itself* — Joe Abercrombie
 - *A Rulebook for Arguments* — Anthony Weston — argument skeletons in ~100 pages; for making an argument hold up, not for filling a silence
 - *Thank You for Arguing* — Jay Heinrichs — rhetoric, and the concession move
@@ -35,3 +36,4 @@ Two reading programs feed this list: [[areas/personal-development/2026-08-21 - B
 
 - *Atomic Habits* — James Clear — distilled into [[resources/behavior-change/behavior-change|Behavior Change]]
 - *Self-Compassion* — Kristin Neff — distilled into [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]
+- *Designing Data-Intensive Applications* — Martin Kleppmann — stopped after Ch. 11; distilled into 18 notes in [[resources/software-engineering/system-architecture/system-architecture|System Architecture]], hubbed at [[resources/software-engineering/system-architecture/2026-07-30 - Designing Data-Intensive Applications|its reading notes]]
