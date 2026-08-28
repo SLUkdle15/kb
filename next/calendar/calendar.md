@@ -33,5 +33,4 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-08-28 - Write Her the 5-Year Anniversary Letter]] — 2026-08-28
 - [[next/calendar/2026-08-28 - Agree a Weekly Time with Mom]] — 2026-08-30 (ask her; the recurring slot follows)
 - [[next/calendar/2026-08-09 - Order Techleague Jersey for Luong and Phi]] — 2026-08-31 (moved from maybe)
-- [[next/calendar/2026-09-03 - Date Night at Son Yum Tha]] — 2026-09-03 18:30 (dinner, Uniqlo, Häagen-Dazs; rescheduled from 2026-08-27)
 - [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November]] — 2026-09-21 (backstop: last safe week to book for mid-November)

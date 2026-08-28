@@ -25,3 +25,4 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-08-22 - Buy New Everyday Shoes|Buy New Everyday Shoes]]
 - [[2026-08-27 - Visit Quán Coffee Của Sự Lao Động Cần Cù|Visit Quán Coffee Của Sự Lao Động Cần Cù]] — maybe for Mid-Autumn Festival, 2026-09-25
 - [[2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]]
+- [[2026-09-03 - Date Night at Son Yum Tha|Date Night at Son Yum Tha]] — dinner, Uniqlo, Häagen-Dazs; needs a date again

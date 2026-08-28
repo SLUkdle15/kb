@@ -25,4 +25,4 @@ The three stops are done, and Son Yum Tha has a restaurant note.
 
 ## Disposition
 
-Canceled 2026-08-27 — rescheduled, not dropped. Moved to [[next/calendar/2026-09-03 - Date Night at Son Yum Tha|next Thursday]].
+Canceled 2026-08-27 — rescheduled, not dropped. Moved to [[next/maybe/2026-09-03 - Date Night at Son Yum Tha|a rescheduled note]], which was itself parked in maybe on 2026-08-28.

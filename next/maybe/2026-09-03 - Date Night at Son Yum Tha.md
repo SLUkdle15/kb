@@ -2,9 +2,7 @@
 
 Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 Protocol: [[areas/romantic-relationship/take-her-out-for-weekday-dinner|Take Her Out for Weekday Dinner]]
-Due: 2026-09-03 18:30
-
-Rescheduled from [[archives/next-actions/2026-08-27 - Date Night at Son Yum Tha|2026-08-27]].
+Rescheduled from [[archives/next-actions/2026-08-27 - Date Night at Son Yum Tha|2026-08-27]] to 2026-09-03, then parked on 2026-08-28 with no date. Give it a day and time again to move it back to `next/calendar`.
 
 ## Action
 

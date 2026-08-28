@@ -6,12 +6,10 @@ Due: 2026-08-28
 
 ## Action
 
-The shape of tomorrow, Saturday 2026-08-29, is settled: **breakfast, then lunch**. What is still unknown is **where** — both places.
+The shape of tomorrow, Saturday 2026-08-29, is settled: **breakfast, then lunch**.
 
-So the whole job is two picks:
-
-- **Breakfast.** Where, and what time to leave to make it.
-- **Lunch.** Where, and how far it is from breakfast — the two should not fight each other on distance.
+- **Breakfast: Ổ Bánh Mì, 85C Nguyễn Văn Tuyết** (Đống Đa). Chosen over Nhất Cháo Quán — she was lukewarm on the porridge there, and bánh mì is lighter with a second meal a few hours behind it. No note on this place yet; write one after, with her reaction.
+- **Lunch: Khuraban Thai, maybe.** Not settled. No note on it in [[resources/restaurants/restaurants|Restaurants]] yet, so check where it actually is — breakfast anchors the morning in Đống Đa and lunch should be reachable from there. Worth knowing: the parked [[next/maybe/2026-09-03 - Date Night at Son Yum Tha|Date Night at Son Yum Tha]] is also Thai, so the two would land close together if that one gets a date again.
 - The stretch between the two meals is unplanned. It may not need a plan, but it is hours long, so decide whether it does.
 
 Draw candidates from [[resources/restaurants/restaurants|Restaurants]], which already holds the shortlist with area, price, parking, and date suitability on each note.
@@ -27,4 +25,4 @@ From the protocol, the parts that still apply on a Saturday:
 
 ## Done When
 
-Both places are chosen, the leaving time for breakfast is set, and anything that needs booking is booked.
+Lunch is chosen, the leaving time for breakfast is set, and anything that needs booking is booked.
