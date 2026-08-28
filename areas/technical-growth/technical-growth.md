@@ -29,6 +29,10 @@ Review monthly, or during a weekly review when technical work is under active pr
 - [[areas/technical-growth/make-an-architecture-decision|Make an Architecture Decision]]
 - [[areas/technical-growth/write-an-adr|Write an ADR]]
 
+## Current Actions
+
+- [[next/next-actions/2026-08-28 - Find Out What npm legacy-peer-deps Does|Find Out What npm legacy-peer-deps Does]]
+
 ## Current Projects
 
 - None.

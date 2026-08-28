@@ -28,7 +28,7 @@ Nothing improves until the diagnosis is real. Started 2026-08-19.
 
 - Read the official public band descriptors for Writing Task 2 and for Speaking, and read the 6 and 7 rows side by side. Twenty minutes, and it reframes everything after it.
 - Sit a baseline: one Task 2 in 40 minutes, one Task 1 in 20, one recorded full Speaking test. Self-score all of it. See [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2]], [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay]], [[archives/next-actions/2026-08-21 - Sit IELTS Task 1 and Record the Speaking Test]], [[archives/next-actions/2026-08-22 - Score the Speaking Baseline Recording]], and [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic]].
-- Book the test when ready. Not a blocker for anything below — the phases that follow work against any date. See [[next/next-actions/2026-08-19 - Book the IELTS Test for Mid-November]].
+- Book the test when ready. Not a blocker for anything below — the phases that follow work against any date. See [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November]].
 - ~~One timed Reading section to confirm it is still at 7.5 or above.~~ Settled without a sitting: Reading is near-full on a past official IELTS TRF, so it is not where the risk lives. Confirmation folds into the Saturday maintenance rotation rather than gating Phase 0. **Listening is now the untested skill** — it has never been baselined, so it takes the next Saturday alternating slot.
 - Start the error log with whatever the baseline exposes.
 

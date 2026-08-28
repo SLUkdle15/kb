@@ -2,6 +2,7 @@
 
 Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]]
 Area: [[areas/personal-development/personal-development|Personal Development]]
+Due: 2026-09-21
 
 ## Action
 
@@ -32,7 +33,7 @@ Close the loop:
 
 A paid booking confirmation exists with a named date and centre, the date is on the calendar, and the six-week plan has been shifted to match it.
 
-No deadline on this — deliberately. Study first, book when ready.
+Study first, book when ready — the date above is a backstop, not a target. Booking earlier is fine and probably better; 2026-09-21 is the point past which waiting stops being a choice, because September is the last month a booking still lands the test in mid-November.
 
 What booking later costs is the test date, not the project. A mid-November test reports by late November, which still clears the December application window in [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]]. That is now the outer limit rather than a contingency, so the slack that existed while October was the target is gone: booking that slips into October lands the test in December and misses the window.
 

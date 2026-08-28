@@ -6,7 +6,7 @@ Area: [[areas/work-systems/work-systems|Work Systems]]
 
 Review the guide on logging efficiently from Spring into Grafana, and note what applies to NCTool and FCM. NCTool already emits JSON logs after [[archives/next-actions/2026-08-10 - Refactor the Log for NCTool|refactoring its log]], so focus on what to log, at which level, and how to keep volume and cost sane.
 
-npm install --legacy-peer-deps
+Also cover how to find and search a log file from the Linux terminal, for when Grafana is not available or the log only exists on the box: locating the file, searching it, following it live, and reading rotated or compressed logs.
 
 https://katyella.com/blog/spring-boot-logging-best-practices/
 https://tayjava.com/technologies/logging-in-spring-boot-slf4j-logback-structured-logging-for-production
@@ -22,4 +22,5 @@ https://github.com/tkowalcz/tjahzi
 
 ## Done When
 
-I have a short set of logging practices I want to apply to NCTool and FCM, captured as a note or as a follow-up action.
+- I have a short set of logging practices I want to apply to NCTool and FCM, captured as a note or as a follow-up action.
+- I can search a log file from the Linux terminal without looking it up.

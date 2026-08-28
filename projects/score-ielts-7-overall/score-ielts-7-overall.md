@@ -8,7 +8,7 @@ A Test Report Form showing **7.0 overall with no band below 6.5**, from a retake
 
 Working test date: **mid-November 2026**, computer-delivered, not yet booked — moved from 3 October by the baseline verdict below on 2026-08-24. The October date is no longer the plan; mid-November is the outer limit that still reports in time for the December application window.
 
-**The date is not booked and booking is deliberately unscheduled** — see [[next/next-actions/2026-08-19 - Book the IELTS Test for Mid-November]]. Until it is booked, the date is a planning assumption, not a commitment, and every week booking waits moves the test about a week. Computer-delivered results land in 1–5 days versus 13 for paper, which is what keeps a November contingency open.
+**The date is not booked; booking is do-when-ready with a 2026-09-21 backstop** — see [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November]]. Until it is booked, the date is a planning assumption, not a commitment, and every week booking waits moves the test about a week. Computer-delivered results land in 1–5 days versus 13 for paper, which is what keeps a November contingency open.
 
 ## Definition of Done
 
@@ -80,7 +80,7 @@ Nothing about the plan changes — Phase 1 is the same work against either date.
 
 ## Next Actions
 
-- [[next/next-actions/2026-08-19 - Book the IELTS Test for Mid-November]]
+- [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November]]
 - [[next/calendar/2026-08-27 - Study Plural Rules and the Lexical and Coherence Levers]]
 
 Phase 0 closed 2026-08-24. Both baseline actions are archived — [[archives/next-actions/2026-08-22 - Pull the Baseline Bands and Make the Go-No-Go Call|the go/no-go call]] completed, and [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic|the Reading diagnostic]] obsolete. Phase 1 runs off the weekly template in [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]] rather than one note per session.
@@ -93,5 +93,5 @@ Honest read on the timeline: a full band in both Writing and Speaking in 6.5 wee
 
 Contingencies, decided in advance so a bad result does not become a panic:
 
-- **One Skill Retake.** IELTS lets a single skill be re-sat within 60 days of the test at the same centre. If the result comes back with exactly one of Writing or Speaking below 6.5, that is the cheap fix. Settled 2026-08-22: it is available at both the British Council and IDP for computer-delivered IELTS in Vietnam, so it does not constrain the centre choice — see [[next/next-actions/2026-08-19 - Book the IELTS Test for Mid-November|the booking action]] for the fee and the one confirmation still worth making on the booking page.
+- **One Skill Retake.** IELTS lets a single skill be re-sat within 60 days of the test at the same centre. If the result comes back with exactly one of Writing or Speaking below 6.5, that is the cheap fix. Settled 2026-08-22: it is available at both the British Council and IDP for computer-delivered IELTS in Vietnam, so it does not constrain the centre choice — see [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November|the booking action]] for the fee and the one confirmation still worth making on the booking page.
 - **A backup slot after the test.** If both Writing and Speaking miss, One Skill Retake does not help and a full retake is needed. Sessions run weekly in Vietnam, so this can wait until the result is known — though a miss in mid-November leaves much less room before the December window than an October miss would have.

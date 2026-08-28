@@ -36,7 +36,7 @@ Treat the band number it gives as noise. AI graders run generous and inconsisten
 
 Booking with the **British Council** unlocks IELTS Ready Premium free: 40 full scored practice tests plus AI feedback across all four skills, through the test-taker portal, until shortly after the test date. https://takeielts.britishcouncil.org/take-ielts/prepare/ielts-ready
 
-This is the mock source the plan's two checkpoints need, and it only exists after booking — which is an argument for booking early enough to study against it rather than after. See [[next/next-actions/2026-08-19 - Book the IELTS Test for Mid-November|Book the IELTS Test]].
+This is the mock source the plan's two checkpoints need, and it only exists after booking — which is an argument for booking early enough to study against it rather than after. See [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November|Book the IELTS Test]].
 
 ## What to Ignore
 
