@@ -12,3 +12,7 @@ Could also be folded into the date on 2026-08-29 instead — see [[next/calendar
 ## Done When
 
 Socks are bought for both of us.
+
+## Disposition
+
+Completed 2026-08-28.

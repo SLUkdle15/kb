@@ -6,11 +6,11 @@ Due: 2026-08-28
 
 ## Action
 
-The shape of tomorrow, Saturday 2026-08-29, is settled: **breakfast, then lunch**.
+Pushed to the afternoon (2026-08-28: tired, wanted a later start) — shape is **brunch, lunch now uncertain**.
 
-- **Breakfast: Ổ Bánh Mì, 85C Nguyễn Văn Tuyết** (Đống Đa). Chosen over Nhất Cháo Quán — she was lukewarm on the porridge there, and bánh mì is lighter with a second meal a few hours behind it. No note on this place yet; write one after, with her reaction.
-- **Lunch: Khuraban Thai, maybe.** Not settled. No note on it in [[resources/restaurants/restaurants|Restaurants]] yet, so check where it actually is — breakfast anchors the morning in Đống Đa and lunch should be reachable from there. Worth knowing: the parked [[next/maybe/2026-09-03 - Date Night at Son Yum Tha|Date Night at Son Yum Tha]] is also Thai, so the two would land close together if that one gets a date again.
-- The stretch between the two meals is unplanned. It may not need a plan, but it is hours long, so decide whether it does.
+- **Brunch: Ổ Bánh Mì, 85C Nguyễn Văn Tuyết** (Đống Đa). Chosen over Nhất Cháo Quán — she was lukewarm on the porridge there, and bánh mì is lighter with a second meal a few hours behind it. No note on this place yet; write one after, with her reaction.
+- **Lunch: maybe skipped.** Khuraban Thai was the candidate, but now leaning toward dropping it — a single brunch may be enough, and it leaves more room for dinner prep later. Decide day-of rather than settling now.
+- If lunch is dropped, the parked [[next/maybe/2026-09-03 - Date Night at Son Yum Tha|Date Night at Son Yum Tha]] (also Thai) stays the fallback for whenever Khuraban Thai-style food is wanted.
 
 Draw candidates from [[resources/restaurants/restaurants|Restaurants]], which already holds the shortlist with area, price, parking, and date suitability on each note.
 
@@ -21,7 +21,7 @@ From the protocol, the parts that still apply on a Saturday:
 - If I drive, check parking at both.
 - Log anywhere new in [[resources/restaurants/restaurants|resources/restaurants]].
 
-[[next/calendar/2026-08-28 - Buy Socks for Me and Her|Buying socks]] could be folded into the gap between the two meals instead of doing it today.
+~~[[archives/next-actions/2026-08-28 - Buy Socks for Me and Her|Buying socks]] could be folded into the gap between the two meals instead of doing it today.~~ Done already, 2026-08-28.
 
 ## Done When
 
