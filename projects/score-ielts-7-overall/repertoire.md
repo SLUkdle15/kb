@@ -194,6 +194,18 @@ Stolen from model answers on Fridays, then used in a real piece before earning a
 | `whereby` clause defining how a named measure works | Another effective measure is congestion charging, whereby drivers pay a fee to enter central areas during peak hours |
 | | |
 
+### Describing Data (Task 1)
+
+Task 1 has no topic bank of its own — a chart about transport and a chart about diet need the same trend and comparison language, not different arguments. Stocked from Friday's Task 1 reps, same rule as everywhere else: only after it survived a real timed piece.
+
+| Pattern | Example in use |
+| --- | --- |
+| Superlative across categories | Houston had the highest percentage of drivers across the two years |
+| Naming the largest single change | Amsterdam saw the largest percentage change of any city, as its share of cyclists rose by close to ten percentage points |
+| Range/floor statement | None of Amsterdam's figures fell below 15% across the two years |
+| Offsetting change | The slight fall in car use was offset by a rise in the other two modes of transport |
+| | |
+
 ### Cohesion Moves
 
 Referencing phrases to replace *First of all / Second*, which the baseline flagged as mechanical cohesion. Band 7 wants *this shift*, *such policies*, *the same pressure* — pointing back at the previous sentence instead of numbering.
