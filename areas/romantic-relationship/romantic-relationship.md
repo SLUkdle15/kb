@@ -41,6 +41,7 @@ Review monthly, or weekly when the relationship needs active attention.
 - [[next/calendar/2026-08-28 - Plan Tomorrow's Date|Plan Tomorrow's Date]]
 - [[next/calendar/2026-08-28 - Buy Socks for Me and Her|Buy Socks for Me and Her]]
 - [[next/calendar/2026-08-28 - Write Her the 5-Year Anniversary Letter|Write Her the 5-Year Anniversary Letter]]
+- [[next/next-actions/2026-08-16 - Schedule a Weekly Badminton with Girlfriend|Schedule a Weekly Badminton with Girlfriend]]
 
 ## Current Projects
 

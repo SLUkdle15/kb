@@ -12,4 +12,4 @@ Played badminton with mom.
 
 ## Disposition
 
-Canceled 2026-08-20. Badminton is too big an ask to start with — mom doesn't want to play. Superseded by [[next/next-actions/2026-08-20 - Go for a Walk with Mom|Go for a Walk with Mom]], a lower-effort starting point.
+Canceled 2026-08-20. Badminton is too big an ask to start with — mom doesn't want to play. Superseded by [[archives/next-actions/2026-08-20 - Go for a Walk with Mom|Go for a Walk with Mom]], a lower-effort starting point.

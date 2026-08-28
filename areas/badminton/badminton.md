@@ -26,6 +26,7 @@ Review monthly, or weekly when actively training.
 ## Current Actions
 
 - [[next/calendar/2026-08-26 - Tell Khai I Am Not Continuing at CKH Academy|Tell Khai I Am Not Continuing at CKH Academy]]
+- [[next/next-actions/2026-08-16 - Schedule a Weekly Badminton with Girlfriend|Schedule a Weekly Badminton with Girlfriend]]
 
 ## Current Projects
 

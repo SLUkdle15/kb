@@ -10,7 +10,7 @@ Weekday date night, in three stops:
 
 1. Dinner at Son Yum Tha, 18:30.
 2. Uniqlo.
-3. Häagen-Dazs — good chance to close [[next/next-actions/2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]].
+3. Häagen-Dazs — good chance to close [[next/maybe/2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]].
 
 ## Open from the Protocol
 

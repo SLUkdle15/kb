@@ -15,7 +15,7 @@ Ongoing reading list: what I am reading now, what is queued, and what is finishe
 
 ## To Read
 
-Two parked programs feed this list: [[next/maybe/2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]] (argument, improv, mental models) and [[next/maybe/2026-08-21 - Start Investing|Start Investing]] (the investing books).
+Two reading programs feed this list: [[areas/personal-development/2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]] (argument, improv, mental models — running in its narrow form, *The Art of Thinking Clearly* only, with the rest deferred until after the IELTS test) and the still-parked [[next/maybe/2026-08-21 - Start Investing|Start Investing]] (the investing books).
 
 - *The Blade Itself* — Joe Abercrombie
 - *A Rulebook for Arguments* — Anthony Weston — argument skeletons in ~100 pages; for making an argument hold up, not for filling a silence

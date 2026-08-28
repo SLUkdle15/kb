@@ -22,8 +22,10 @@ Reading alone does not build the pool; output does. Whatever form this takes, it
 
 Touches [[areas/personal-development/favorite-problems|Favorite Problems]] 1, 2, and 4.
 
-## Done When
+## Status
 
-Parked on purpose until after the October test. [[projects/score-ielts-7-overall/materials|IELTS Materials]] names collecting resources instead of writing essays as the failure mode, and six weeks has no room for a reading program. *The Art of Thinking Clearly* is the exception: 99 self-contained three-page chapters need no continuity, so three a night costs nothing and stopping mid-book loses nothing. The rule for it is one written line per chapter — the concept plus an example of my own, not the book's. Without that line it produces trivia, not fluency.
+**Active since 2026-08-21, in its narrow form.** *The Art of Thinking Clearly* is being read a few chapters at a time, one written line per chapter into [[resources/ideas/idea-pool|Idea Pool]], following [[areas/personal-development/distill-a-chapter-into-the-idea-pool|Distill a Chapter into the Idea Pool]]. 99 self-contained three-page chapters need no continuity, so a few a night costs nothing and stopping mid-book loses nothing. The written line is the deliverable — without it this produces trivia, not fluency.
 
-Revisit after the test result lands: promote to a project with a real practice loop, or drop it and keep the books as ordinary reading.
+**The wider program is still deferred** until after the IELTS test, now mid-November (retargeted from 3 October on 2026-08-24 — see [[projects/score-ielts-7-overall/score-ielts-7-overall|the project note]]). [[projects/score-ielts-7-overall/materials|IELTS Materials]] names collecting resources instead of writing essays as the failure mode, and the study plan has no room for a full reading program.
+
+Revisit after the test result lands: promote to a project with a real practice loop across all three ingredients, or keep the remaining books as ordinary reading and let the pool grow at this pace.

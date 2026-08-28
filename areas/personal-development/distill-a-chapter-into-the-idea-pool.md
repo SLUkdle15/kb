@@ -4,7 +4,7 @@ type: protocol
 
 # Distill a Chapter into the Idea Pool
 
-Source: [[next/maybe/2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]]
+Source: [[areas/personal-development/2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]]
 
 ## Checklist
 

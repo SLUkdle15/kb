@@ -11,6 +11,7 @@ Care for family and the home shared with them: time spent together, things done 
 ## Standard to Maintain
 
 - Time with family gets planned, not left to chance.
+- Time with mom is a standing weekly slot on the calendar, not a plan remade each week. Ad-hoc intentions have failed twice here; a recurring note is the only mechanism that has worked.
 - Things family asks for get a next action instead of lingering.
 - Broken fixtures get a next action instead of lingering.
 - Note recurring issues and fixes worth remembering.
@@ -23,7 +24,7 @@ Review monthly, or when a fix or a family commitment is pending.
 
 - [[next/next-actions/2026-08-09 - Examine the Door|Examine the Door]]
 - [[next/next-actions/2026-08-09 - Clean a Shelf for Mom|Clean a Shelf for Mom]]
-- [[next/next-actions/2026-08-20 - Go for a Walk with Mom|Go for a Walk with Mom]]
+- [[next/next-actions/2026-08-28 - Agree a Weekly Time with Mom|Agree a Weekly Time with Mom]]
 
 ## Current Projects
 

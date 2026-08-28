@@ -19,6 +19,10 @@ Maintain deliberate self-improvement: building good habits, breaking bad ones, s
 
 Review monthly, or during a weekly review when a habit is plateauing or slipping.
 
+## Plans
+
+- [[areas/personal-development/2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]] — running in its narrow form: one line per chapter into the bank
+
 ## Trigger Notes
 
 - [[areas/personal-development/favorite-problems|Favorite Problems]] — consult when capturing a note.
