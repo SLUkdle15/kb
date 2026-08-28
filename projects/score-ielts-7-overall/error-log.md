@@ -47,6 +47,10 @@ The most load-bearing note in the project. Its counterpart is [[projects/score-i
 | Subject-verb agreement | the Vietnam government make their employee to work at 7h30 am | the Vietnamese government makes its employees work at 7:30 am | 2026-08-26 |
 | Plural -s on countable nouns | make their employee to work at 7h30 am | make their employees work at 7:30 am | 2026-08-26 |
 | Plural -s on countable nouns | multiplies this fuel cost across thousand of vehicles | multiplies this fuel cost across thousands of vehicles | 2026-08-26 |
+| Plural -s on countable nouns | Houston started in 2010 with 88% of commuter using car | Houston started in 2010 with 88% of commuters using cars | 2026-08-28 |
+| Plural -s on countable nouns | Japan commuters in both year preferred public transport | Tokyo commuters in both years preferred public transport | 2026-08-28 |
+| City/country conflation | highest among three countries | highest among the three cities | 2026-08-28 |
+| City/country conflation | Japan commuters in both year preferred public transport | Tokyo's commuters in both years preferred public transport | 2026-08-28 |
 | Missing article | can burn twice fuel of driving at steady speed | can burn twice the fuel of driving at a steady speed | 2026-08-26 |
 | Demonstrative-noun number mismatch | fatal accidents to these type of users | fatal accidents to this type of user | 2026-08-26 |
 | Past tense for historical data | South Korea already has approximately 50% of household | South Korea already had approximately 50% of households | 2026-08-21 |
@@ -73,6 +77,7 @@ Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the ba
 | subside congestion | alleviate / ease congestion | *subside* is intransitive — things subside on their own, you can't subside something | 2026-08-26 |
 | enforce its worker to work | require its workers to work | *enforce* applies to rules, not to compelling a person directly | 2026-08-26 |
 | the Vietnam government | the Vietnamese government | need the adjective form for the country, not the noun | 2026-08-26 |
+| cyclers | cyclists | wrong noun form for people who cycle | 2026-08-28 |
 
 ## Pronunciation
 
