@@ -26,6 +26,10 @@ Review monthly, or weekly when actively training.
 
 - [[areas/soccer/midfielder-match-log|Midfielder Match Log]] — fill in at halftime and after the final whistle
 
+## Current Actions
+
+- [[next/next-actions/2026-08-29 - Investigate a Tactic Board|Investigate a Tactic Board]]
+
 ## Current Projects
 
 - None.

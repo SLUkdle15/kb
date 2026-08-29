@@ -27,3 +27,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-08-27 - Find Out How to Register Temporary Residence|Find Out How to Register Temporary Residence]]
 - [[2026-08-28 - Find Out What npm legacy-peer-deps Does|Find Out What npm legacy-peer-deps Does]]
 - [[2026-08-29 - Inventory Unseen Cambridge Tests|Inventory Unseen Cambridge Tests]]
+- [[2026-08-29 - Investigate a Tactic Board|Investigate a Tactic Board]]
