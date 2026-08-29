@@ -8,7 +8,7 @@ Short on purpose. The failure mode in IELTS self-study is collecting resources i
   - Writing, both tasks in one PDF: https://assets.ctfassets.net/unrdeg6se4ke/19SJoSvnUYjrHgVhWvuMnC/42f1b0cb0d7709646a1392d8418646d0/writingbanddescriptorstask1and2.pdf
   - Speaking: https://takeielts.britishcouncil.org/sites/default/files/ielts_speaking_band_descriptors.pdf
   - The fuller examiner-facing version of the writing criteria: https://www.ielts.org/news-and-insights/ielts-writing-band-descriptors-and-key-assessment-criteria
-- **Cambridge IELTS past paper books, 16 to 20 — in hand as of 2026-08-23.** Real retired tests. Free official samples, fewer of them, at https://ielts.org/take-a-test/preparation-resources/sample-test-questions . These are the only source of tasks worth timing yourself against; invented practice questions are subtly off in ways that matter. Use them for Reading and Listening sections too.
+- **Cambridge IELTS past paper books, 16 to 20 — in hand as of 2026-08-23.** Real retired tests. Free official samples, fewer of them, at https://ielts.org/take-a-test/preparation-resources/sample-test-questions . These are the only source of tasks worth timing yourself against; invented practice questions are subtly off in ways that matter. Use them for Reading and Listening sections too. Which tests have been spent is tracked in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]].
 - **A phone voice recorder.** The entire Speaking plan runs on it.
 
 ## Writing

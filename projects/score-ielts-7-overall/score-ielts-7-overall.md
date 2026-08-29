@@ -77,6 +77,7 @@ Nothing about the plan changes — Phase 1 is the same work against either date.
 - [[projects/score-ielts-7-overall/error-log|Error Log]] — running list of repeated mistakes. This is the single most load-bearing note in the project.
 - [[projects/score-ielts-7-overall/repertoire|Repertoire]] — the counterpart bank, arranged by topic: collocations, arguments, examples, and Part 2 stories worth reusing.
 - [[projects/score-ielts-7-overall/uncountable-nouns|Uncountable Nouns]] — the nouns that never take `-s`, checked before pluralising.
+- [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]] — which tests from books 16-20 are spent, and what stays unseen for the mocks.
 - [[projects/score-ielts-7-overall/materials|Materials]] — the short list of sources, and what to ignore.
 
 ## Next Actions
