@@ -39,8 +39,6 @@ Review monthly, or weekly when the relationship needs active attention.
 - [[next/calendar/2026-07-30 - Weekly Wednesday Walk with Girlfriend|Weekly Wednesday Walk with Girlfriend]]
 - [[next/maybe/2026-09-03 - Date Night at Son Yum Tha|Date Night at Son Yum Tha]]
 - [[next/calendar/2026-08-28 - Plan Tomorrow's Date|Plan Tomorrow's Date]]
-- [[next/calendar/2026-08-28 - Buy Socks for Me and Her|Buy Socks for Me and Her]]
-- [[next/calendar/2026-08-28 - Write Her the 5-Year Anniversary Letter|Write Her the 5-Year Anniversary Letter]]
 - [[next/next-actions/2026-08-16 - Schedule a Weekly Badminton with Girlfriend|Schedule a Weekly Badminton with Girlfriend]]
 
 ## Current Projects

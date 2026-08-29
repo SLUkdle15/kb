@@ -1,6 +1,6 @@
 # Error Log
 
-The most load-bearing note in the project. Its counterpart is [[projects/score-ielts-7-overall/repertoire|Repertoire]] — this note is what to stop doing, that one is what to reuse. Band 7 grammar is defined as *frequent error-free sentences*, and the fastest way to produce more of them is to stop making the same five mistakes rather than to learn new structures.
+The most load-bearing note in the project. Its counterpart is [[projects/score-ielts-7-overall/repertoire|Repertoire]] — this note is what to stop doing, that one is what to reuse. Plural nouns also have a rules note: [[projects/score-ielts-7-overall/uncountable-nouns|Uncountable Nouns]], for the wrongly-added-`-s` direction that corrected sentences alone do not fix. Band 7 grammar is defined as *frequent error-free sentences*, and the fastest way to produce more of them is to stop making the same five mistakes rather than to learn new structures.
 
 ## Rules
 
@@ -49,9 +49,13 @@ The most load-bearing note in the project. Its counterpart is [[projects/score-i
 | Plural -s on countable nouns | multiplies this fuel cost across thousand of vehicles | multiplies this fuel cost across thousands of vehicles | 2026-08-26 |
 | Plural -s on countable nouns | Houston started in 2010 with 88% of commuter using car | Houston started in 2010 with 88% of commuters using cars | 2026-08-28 |
 | Plural -s on countable nouns | Japan commuters in both year preferred public transport | Tokyo commuters in both years preferred public transport | 2026-08-28 |
+| Plural -s on countable nouns | adults playing video game and sport | adults playing video games and sport | 2026-08-29 |
+| Article on an uncountable noun | the chart above shows a data for three leisure activities | the chart above shows data on three leisure activities | 2026-08-29 |
+| Passive on an intransitive verb | this number was declined significantly | this number declined significantly | 2026-08-29 |
 | City/country conflation | highest among three countries | highest among the three cities | 2026-08-28 |
 | City/country conflation | Japan commuters in both year preferred public transport | Tokyo's commuters in both years preferred public transport | 2026-08-28 |
 | Missing article | can burn twice fuel of driving at steady speed | can burn twice the fuel of driving at a steady speed | 2026-08-26 |
+| Missing article | 42%, highest among three | 42%, the highest of the three | 2026-08-29 |
 | Demonstrative-noun number mismatch | fatal accidents to these type of users | fatal accidents to this type of user | 2026-08-26 |
 | Past tense for historical data | South Korea already has approximately 50% of household | South Korea already had approximately 50% of households | 2026-08-21 |
 | Past tense dropped in narrative | so we start on Friday night and end up around Sunday, return to Hanoi | so we started on Friday night and ended up around Sunday, returning to Hanoi | 2026-08-22 |
@@ -78,6 +82,9 @@ Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the ba
 | enforce its worker to work | require its workers to work | *enforce* applies to rules, not to compelling a person directly | 2026-08-26 |
 | the Vietnam government | the Vietnamese government | need the adjective form for the country, not the noun | 2026-08-26 |
 | cyclers | cyclists | wrong noun form for people who cycle | 2026-08-28 |
+| the decline trend | the downward trend | need the adjective form — third time this pattern has appeared, after *history movies* and *the Vietnam government* | 2026-08-29 |
+| that figure for sport activity raise slightly | the figure for sport rose slightly | *raise* is transitive, you raise something; *rise* is what a figure does on its own | 2026-08-29 |
+| recorded the significant in the percentages | recorded a significant increase in the percentages | the head noun is missing | 2026-08-29 |
 
 ## Pronunciation
 
@@ -101,6 +108,9 @@ The Task 1 entries are logged on first sighting, against the repeated-errors-onl
 | Other side never weighed in an *outweigh* question               | Task 2 baseline, conceded in half a clause and dropped | 2026-08-19 |
 | No overview sentence                                              | Task 1 baseline, paragraph 1 doubles as intro and never states the main trends | 2026-08-21 |
 | Closing paragraph restates a feature instead of adding one        | Task 1 baseline, Nigeria's 2020 low for the third time  | 2026-08-21 |
+| Under the 150-word minimum | Task 1 practice, roughly 125 words | 2026-08-29 |
+| No overview sentence | Task 1 practice, "a significant shift" names no figure and no direction | 2026-08-29 |
+| Figure misread from the chart | Task 1 practice, "declined by 20%" for a fall from 42% to 31% | 2026-08-29 |
 
 ## Fixed
 
