@@ -1,4 +1,4 @@
-# Schedule a Weekly Badminton with Girlfriend
+# Manage the Weekly Badminton Session with Girlfriend
 
 Area: [[areas/badminton/badminton|Badminton]]
 Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]

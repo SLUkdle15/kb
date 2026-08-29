@@ -58,6 +58,7 @@ Add restaurant links here as notes are created.
 - [[2026-08-20 - Long Wang Tho Nhuom|Long Wang - Thợ Nhuộm]]
 - [[2026-08-23 - Ashima Mushroom Hotpot Trieu Viet Vuong|Ashima Mushroom Hotpot - Triệu Việt Vương]]
 - [[2026-08-27 - Son Yum Tha|Son Yum Tha]]
+- [[2026-08-29 - Khrua Baan Thai|Khrua Baan Thai]]
 
 ## Decision Prompt
 

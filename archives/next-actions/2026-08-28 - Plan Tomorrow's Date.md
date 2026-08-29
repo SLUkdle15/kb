@@ -26,3 +26,7 @@ From the protocol, the parts that still apply on a Saturday:
 ## Done When
 
 Lunch is chosen, the leaving time for breakfast is set, and anything that needs booking is booked.
+
+## Disposition
+
+Completed 2026-08-29. Brunch at Ổ Bánh Mì, and lunch happened after all at Khuraban Thai.

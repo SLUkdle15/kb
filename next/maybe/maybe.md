@@ -12,7 +12,6 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 
 ## Items
 
-- [[2026-06-13 - Watch Ponyo on the Cliff by the Sea|Watch Ponyo on the Cliff by the Sea]]
 - [[2026-07-13 - Gift Idea Muji Multipurpose Cushion|Gift Idea: Muji Multipurpose Cushion]]
 - [[2026-07-15 - Build a Chat System Over This Vault|Build a Chat System Over This Vault]]
 - [[2026-07-15 - Examine Guitar|Examine Guitar]]
@@ -23,6 +22,7 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-08-17 - Spend 500k Voucher on Fast Food Coffee or Clothes|Spend 500k Voucher on Fast Food, Coffee or Clothes]]
 - [[2026-08-21 - Start Investing|Start Investing]]
 - [[2026-08-22 - Buy New Everyday Shoes|Buy New Everyday Shoes]]
+- [[2026-08-24 - Snapshot My Finances and Pick a Tracking Method|Snapshot My Finances and Pick a Tracking Method]]
 - [[2026-08-27 - Visit Quán Coffee Của Sự Lao Động Cần Cù|Visit Quán Coffee Của Sự Lao Động Cần Cù]] — maybe for Mid-Autumn Festival, 2026-09-25
 - [[2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]]
 - [[2026-09-03 - Date Night at Son Yum Tha|Date Night at Son Yum Tha]] — dinner, Uniqlo, Häagen-Dazs; needs a date again

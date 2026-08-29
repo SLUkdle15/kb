@@ -55,3 +55,4 @@ Move notes into the project folder only when they are project-specific working m
 - [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]]
 - [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]]
 - [[projects/register-temporary-residence/register-temporary-residence|Register Temporary Residence]]
+- [[projects/reorganize-resources-folder/reorganize-resources-folder|Reorganize the Resources Folder]]

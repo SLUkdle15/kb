@@ -18,3 +18,7 @@ Avoid the taken slots: Tuesday 17:30 soccer, Wednesday 21:00 walk, Sunday 20:00 
 ## Done When
 
 A day and time are agreed with her and promoted to a recurring note in `next/calendar`, the way the Wednesday walk is.
+
+## Disposition
+
+Canceled 2026-08-29 — doesn't make sense as framed.
