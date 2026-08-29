@@ -10,3 +10,7 @@ Write her the letter for our 5-year anniversary.
 ## Done When
 
 The letter is written and ready to give her.
+
+## Disposition
+
+Completed 2026-08-28.
