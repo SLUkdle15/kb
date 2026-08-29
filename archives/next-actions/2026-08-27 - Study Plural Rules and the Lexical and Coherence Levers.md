@@ -14,3 +14,7 @@ Two things surfaced from today's Task 2 rewrite session (traffic congestion, pro
 ## Done When
 
 Plural rule is clear enough to self-correct while writing, not just after. One concrete change identified for how to attack Lexical Resource or Coherence and Cohesion in the next session.
+
+## Disposition
+
+Completed 2026-08-29. The plural half produced [[projects/score-ielts-7-overall/uncountable-nouns|Uncountable Nouns]], a standing reference for the wrongly-added-`-s` direction.

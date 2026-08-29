@@ -13,7 +13,7 @@ A standing list, so a birthday or an anniversary does not start from a blank pag
 ## Beauty and Skincare
 
 - **Makeup.** Needs her actual brands and shades before buying — this is the category where guessing wrong is most visible. Ask, or go with her once and note what she picks.
-- **Sheet masks.** Low risk, easy to give in a set, easy to repeat.
+- **Sheet masks (mặt nạ giấy)** — the paper kind, not a clay or peel-off mask. Low risk, easy to give in a set, easy to repeat.
 - Lip balm or hand cream. The small ones that get used up and can be given again without ceremony.
 
 ## Things She Already Likes
