@@ -25,7 +25,17 @@ Every row above predates this note, and none of them can be traced to a book and
 
 ## Still Unseen
 
-Not yet tracked. Worth one pass through the five books to list which tests remain untouched, so the two mock checkpoints have material reserved.
+None of Books 16–20 have been opened yet — every row in **Used** above predates having the books (the three baselines) or is an invented chart (08-29), so all tests in all five books are still fully unseen.
+
+Assuming the standard 4 tests per book (confirm against each book's contents page — not verified here):
+
+- Book 16: Tests 1–4, unseen.
+- Book 17: Tests 1–4, unseen.
+- Book 18: Tests 1–4, unseen.
+- Book 19: Tests 1–4, unseen.
+- Book 20: Tests 1–4, unseen.
+
+**Reserved for the mocks:** Book 20 Test 4 and Book 19 Test 4 — held back untouched until the two mock checkpoints in [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]]. Swap these for a different pair if the actual per-book test count differs from 4.
 
 ## Revisit
 
