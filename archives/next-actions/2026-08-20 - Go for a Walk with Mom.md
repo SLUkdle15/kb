@@ -14,4 +14,4 @@ Been for a walk with mom.
 
 ## Status
 
-Closed 2026-08-28 without happening. Too vague to survive: "agree a time when you are both free" gave it no date, so nothing ever surfaced it — the same way badminton died from being too big an ask. Replaced by a fixed weekly slot, see [[next/calendar/2026-08-28 - Agree a Weekly Time with Mom|Agree a Weekly Time with Mom]].
+Closed 2026-08-28 without happening. Too vague to survive: "agree a time when you are both free" gave it no date, so nothing ever surfaced it — the same way badminton died from being too big an ask. Replaced by a fixed weekly slot, see [[archives/next-actions/2026-08-28 - Agree a Weekly Time with Mom|Agree a Weekly Time with Mom]].
