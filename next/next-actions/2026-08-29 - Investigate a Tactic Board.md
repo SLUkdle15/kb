@@ -12,6 +12,8 @@ Find out whether a tactic board is worth using for the weekly soccer match and f
 - Options: a phone/tablet app, a small physical magnetic board, or just a notebook diagram.
 - Which one fits how I actually use it — midfield positioning cues for soccer, doubles rotation for badminton.
 
+Also watch Rodri
+
 ## Done When
 
 I can say whether a tactic board earns its place, and if so, which one I am using for each sport.
