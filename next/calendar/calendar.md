@@ -30,3 +30,4 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-08-29 - Sit the Listening Baseline]] — 2026-08-29 (the one untested skill)
 - [[next/calendar/2026-08-09 - Order Techleague Jersey for Luong and Phi]] — 2026-08-31 (moved from maybe)
 - [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November]] — 2026-09-21 (backstop: last safe week to book for mid-November)
+- [[next/calendar/2026-08-30 - Ask Phi About His Software Job Role]] — 2026-08-31 (starting point for helping him find a job)
