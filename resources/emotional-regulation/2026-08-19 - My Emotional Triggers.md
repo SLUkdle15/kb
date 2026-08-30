@@ -25,6 +25,9 @@ When I feel hurt, lonely, angry, rejected, inferior, excluded, criticized, press
 	- my clothes with Mr. Thanh -> inferior, excluded
 	- my relationships with my parents or my relatives -> inferior
 	- my job with my high school class mate -> inferior
+- My dad asks me to find a job for Phi and pressures me into playing golf -> inferior
+- My mom asks me why I don't care about grandpa -> hurt
+- My girlfriend is sad because I forgot to show up on time -> hurt
 
 ## Questions This Answers
 
