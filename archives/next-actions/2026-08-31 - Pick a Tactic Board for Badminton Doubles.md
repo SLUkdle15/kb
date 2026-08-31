@@ -11,3 +11,7 @@ Decide whether a tactic board is worth using for badminton doubles rotation spec
 ## Done When
 
 I can say whether a tactic board earns its place for badminton, and if so, which one.
+
+## Disposition
+
+Completed 2026-08-31. **Decision: not worth it.** Dropped.
