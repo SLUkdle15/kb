@@ -3,3 +3,6 @@
 
 # Obsidian editor state (machine-specific, changes constantly).
 .obsidian/workspace.json
+
+# Image/binary attachments — kept local only, not tracked in git.
+attachments/
