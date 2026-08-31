@@ -20,6 +20,8 @@ This note exists for one reason: a paper can only be sat cold once. Track what h
 | — | — | Writing Task 2, traffic congestion | Rewrite session, three passes | 2026-08-26 |
 | — | — | Writing Task 1, commuter transport across three cities | Timed rep | 2026-08-28 |
 | — | — | Writing Task 1, three leisure activities | Timed rep | 2026-08-29 |
+| 16 | 1 | Writing Task 2 | Monday Task 2 practice | 2026-08-31 |
+| 16 | 1 | Listening | Listening baseline | 2026-08-31 |
 
 Every row above predates this note, and none of them can be traced to a book and test number now. The three baselines came before the books arrived on 2026-08-23 — the Task 2 baseline records itself as an official ielts.org sample — and the 2026-08-29 rep was an invented chart, which is exactly what the materials rule warns against. Fill in the book and test columns for the 08-26 and 08-28 rows if you remember where they came from; otherwise treat all six as spent and take everything from here on out of the books.
 
@@ -29,7 +31,7 @@ None of Books 16–20 have been opened yet — every row in **Used** above preda
 
 Assuming the standard 4 tests per book (confirm against each book's contents page — not verified here):
 
-- Book 16: Tests 1–4, unseen.
+- Book 16: Test 1 used 2026-08-31 (Writing Task 2). Tests 2–4 unseen.
 - Book 17: Tests 1–4, unseen.
 - Book 18: Tests 1–4, unseen.
 - Book 19: Tests 1–4, unseen.

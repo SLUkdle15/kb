@@ -49,7 +49,9 @@ Read down the columns: Lexical Resource and Grammatical Range and Accuracy are 5
 
 Pronunciation was an assumption when this verdict was written and was audio-verified the same day at the same band 5, so the table above stands as measured.
 
-Reading is near-full on a past official TRF — real evidence, historical format, not re-confirmed this cycle. Listening has never been baselined, which makes it the only completely untested skill in the exam.
+Reading is near-full on a past official TRF — real evidence, historical format, not re-confirmed this cycle. **Listening baselined 2026-08-31**: Cambridge IELTS Book 16, Test 1, 31/40 correct — **Band 7**, sat two days late (due 2026-08-29). See [[archives/next-actions/2026-08-29 - Sit the Listening Baseline|the baseline action]].
+
+This lands close to the assumption the Band Arithmetic table above was built on (7.0), so the plan does not change. It does mean the margin is thinner than it looks: with Writing and Speaking sitting exactly at the 6.5 floor, Reading has to clear 7.5 to reach the required 14.5 Reading+Listening sum — worth re-confirming Reading's actual band rather than resting on "near-full," since Listening no longer has slack to cover a shortfall there.
 
 ### Structural or Fluency
 
@@ -84,7 +86,6 @@ Nothing about the plan changes — Phase 1 is the same work against either date.
 ## Next Actions
 
 - [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November]]
-- [[next/calendar/2026-08-29 - Sit the Listening Baseline]]
 
 Phase 0 closed 2026-08-24. Both baseline actions are archived — [[archives/next-actions/2026-08-22 - Pull the Baseline Bands and Make the Go-No-Go Call|the go/no-go call]] completed, and [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic|the Reading diagnostic]] obsolete. Phase 1 runs off the weekly template in [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]] rather than one note per session.
 

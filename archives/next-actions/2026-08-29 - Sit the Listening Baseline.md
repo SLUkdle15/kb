@@ -17,3 +17,7 @@ Listening is the only one of the four skills with no baseline at all. [[projects
 ## Done When
 
 A raw score and its band are written into [[projects/score-ielts-7-overall/score-ielts-7-overall|the project note]], and the paper is logged as spent.
+
+## Disposition
+
+Completed 2026-08-31 (two days late). Sat Cambridge IELTS Book 16, Test 1, Listening — 31/40 correct, **Band 7**. Logged as used in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]]. Written into the Baseline Verdict in [[projects/score-ielts-7-overall/score-ielts-7-overall|the project note]].
