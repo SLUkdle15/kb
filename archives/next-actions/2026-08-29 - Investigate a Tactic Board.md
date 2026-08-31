@@ -17,3 +17,9 @@ Also watch Rodri
 ## Done When
 
 I can say whether a tactic board earns its place, and if so, which one I am using for each sport.
+
+## Disposition
+
+Completed 2026-08-31, for soccer only. **Decision: tactical-board.com**, a free web tactic board — used to diagram [[resources/soccer/2026-08-31 - Deep Pivot Build-Up Pattern|a build-up pattern]] watched from Rodri. Good enough for drawing formations and reviewing patterns after the fact.
+
+Badminton doubles rotation is still undecided — split off to [[next/next-actions/2026-08-31 - Pick a Tactic Board for Badminton Doubles|its own action]] rather than block soccer's answer on it.

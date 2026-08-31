@@ -25,6 +25,6 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-08-17 - Review the Efficient Spring Logging Guide in Grafana|Review the Efficient Spring Logging Guide in Grafana]]
 - [[2026-08-27 - Find Out How to Register Temporary Residence|Find Out How to Register Temporary Residence]]
 - [[2026-08-28 - Find Out What npm legacy-peer-deps Does|Find Out What npm legacy-peer-deps Does]]
-- [[2026-08-29 - Investigate a Tactic Board|Investigate a Tactic Board]]
 - [[2026-08-29 - Propose a Subfolder Structure for System Architecture|Propose a Subfolder Structure for System Architecture]]
 - [[2026-08-31 - Buy Battery|Buy Battery]]
+- [[2026-08-31 - Pick a Tactic Board for Badminton Doubles|Pick a Tactic Board for Badminton Doubles]]
