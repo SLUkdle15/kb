@@ -14,6 +14,7 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 
 - [[2026-07-15 - Build a Chat System Over This Vault|Build a Chat System Over This Vault]]
 - [[2026-07-15 - Examine Guitar|Examine Guitar]]
+- [[2026-08-09 - Examine the Door|Examine the Door]] — hits the wall when opened to max
 - [[2026-08-09 - Fix the Microwave Küppersbusch MR6330.0S|Fix the Microwave Küppersbusch MR6330.0S]]
 - [[2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 - [[2026-08-17 - Spend 500k Voucher on Fast Food Coffee or Clothes|Spend 500k Voucher on Fast Food, Coffee or Clothes]]

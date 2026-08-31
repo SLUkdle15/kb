@@ -29,7 +29,7 @@ Review monthly, or weekly when a migration or incident is active.
 
 ## Next Actions
 
-- [[next/next-actions/2026-08-17 - Review the Efficient Spring Logging Guide in Grafana|Review the Efficient Spring Logging Guide in Grafana]]
+- [[next/calendar/2026-08-17 - Review the Efficient Spring Logging Guide in Grafana|Review the Efficient Spring Logging Guide in Grafana]]
 
 ## Related Resources
 

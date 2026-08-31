@@ -59,6 +59,7 @@ Add restaurant links here as notes are created.
 - [[2026-08-23 - Ashima Mushroom Hotpot Trieu Viet Vuong|Ashima Mushroom Hotpot - Triệu Việt Vương]]
 - [[2026-08-27 - Son Yum Thai|Son Yum Thai]]
 - [[2026-08-29 - Khrua Baan Thai|Khrua Baan Thai]]
+- [[2026-08-31 - Banh Trang Thit Heo Giang My Signature|Bánh Tráng Thịt Heo Giang Mỹ Signature]]
 
 ## Decision Prompt
 

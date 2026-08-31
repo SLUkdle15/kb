@@ -1,4 +1,4 @@
-# Propose a Subfolder Structure for System Architecture
+ # Propose a Subfolder Structure for System Architecture
 
 Project: [[projects/reorganize-resources-folder/reorganize-resources-folder|Reorganize the Resources Folder]]
 

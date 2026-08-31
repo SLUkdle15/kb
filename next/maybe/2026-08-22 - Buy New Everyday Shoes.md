@@ -17,6 +17,10 @@ One specific pair, brand not noted in the capture:
 
 - Rebel V5 men's sneakers, white — https://www.footlocker.com.vn/rebel-v5-men-s-sneakers-white-9.html
 
+Brooks:
+
+- Adrenaline GTS 10 — https://www.brooksrunning.com/en_us/featured/unisex-lifestyle-shoes/adrenaline-gts-10/100058.html
+
 ## Done When
 
 A pair is bought, or the shortlist is dropped and this note is archived.
