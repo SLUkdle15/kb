@@ -22,7 +22,6 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-08-17 - Decide Master's Field of Study|Decide Master's Field of Study]]
 - [[2026-08-27 - Find Out How to Register Temporary Residence|Find Out How to Register Temporary Residence]]
 - [[2026-08-28 - Find Out What npm legacy-peer-deps Does|Find Out What npm legacy-peer-deps Does]]
-- [[2026-08-29 - Propose a Subfolder Structure for System Architecture|Propose a Subfolder Structure for System Architecture]]
 - [[2026-08-09 - Arrange Images From Desktop|Arrange Images From Desktop]]
 - [[2026-08-31 - Read Camera Manual and Learn Photography Basics|Read Camera Manual and Learn Photography Basics]]
 - [[2026-08-31 - Get a New FB Account and Sell the Comics|Get a New FB Account and Sell the Comics]]

@@ -18,7 +18,7 @@ None — this is upkeep, not time-bound.
 
 ## Next Actions
 
-- [[next/next-actions/2026-08-29 - Propose a Subfolder Structure for System Architecture]]
+- [[next/calendar/2026-08-29 - Propose a Subfolder Structure for System Architecture]]
 
 ## Notes
 
