@@ -10,7 +10,7 @@ Pushed to the afternoon (2026-08-28: tired, wanted a later start) — shape is *
 
 - **Brunch: Ổ Bánh Mì, 85C Nguyễn Văn Tuyết** (Đống Đa). Chosen over Nhất Cháo Quán — she was lukewarm on the porridge there, and bánh mì is lighter with a second meal a few hours behind it. No note on this place yet; write one after, with her reaction.
 - **Lunch: maybe skipped.** Khuraban Thai was the candidate, but now leaning toward dropping it — a single brunch may be enough, and it leaves more room for dinner prep later. Decide day-of rather than settling now.
-- If lunch is dropped, the parked [[next/maybe/2026-09-03 - Date Night at Son Yum Tha|Date Night at Son Yum Tha]] (also Thai) stays the fallback for whenever Khuraban Thai-style food is wanted.
+- If lunch is dropped, the parked [[2026-09-03 - Date Night at Son Yum Thai|Date Night at Son Yum Thai]] (also Thai) stays the fallback for whenever Khuraban Thai-style food is wanted.
 
 Draw candidates from [[resources/restaurants/restaurants|Restaurants]], which already holds the shortlist with area, price, parking, and date suitability on each note.
 

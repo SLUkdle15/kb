@@ -1,4 +1,4 @@
-# Date Night at Son Yum Tha
+# Date Night at Son Yum Thai
 
 Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 Protocol: [[areas/romantic-relationship/take-her-out-for-weekday-dinner|Take Her Out for Weekday Dinner]]
@@ -8,21 +8,21 @@ Due: 2026-08-27 18:30
 
 Weekday date night, in three stops:
 
-1. Dinner at Son Yum Tha, 18:30.
+1. Dinner at Son Yum Thai, 18:30.
 2. Uniqlo.
 3. Häagen-Dazs — good chance to close [[next/maybe/2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]].
 
 ## Open from the Protocol
 
-- [ ] Does Son Yum Tha need a reservation?
+- [ ] Does Son Yum Thai need a reservation?
 - [ ] Rain tonight? If so, bring a raincoat.
 - [ ] Driving? If so, plan to take her to work tomorrow morning.
-- [ ] Son Yum Tha is not in [[resources/restaurants/restaurants|resources/restaurants]] yet — log it after.
+- [ ] Son Yum Thai is not in [[resources/restaurants/restaurants|resources/restaurants]] yet — log it after.
 
 ## Done When
 
-The three stops are done, and Son Yum Tha has a restaurant note.
+The three stops are done, and Son Yum Thai has a restaurant note.
 
 ## Disposition
 
-Canceled 2026-08-27 — rescheduled, not dropped. Moved to [[next/maybe/2026-09-03 - Date Night at Son Yum Tha|a rescheduled note]], which was itself parked in maybe on 2026-08-28.
+Canceled 2026-08-27 — rescheduled, not dropped. Moved to [[2026-09-03 - Date Night at Son Yum Thaii|a rescheduled note]], which was itself parked in maybe on 2026-08-28.
