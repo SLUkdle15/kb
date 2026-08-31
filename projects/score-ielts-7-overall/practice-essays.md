@@ -23,3 +23,19 @@ Amsterdam across two years did not have any percentages that smaller that 15%. J
 ### Notes
 
 Errors already logged 2026-08-28 in [[projects/score-ielts-7-overall/error-log|Error Log]]: plural -s on countable nouns (commuter/commuters), city/country conflation (Amsterdam/Houston/Tokyo are cities, called "countries"), and "cyclers" for "cyclists". Left in this note verbatim, uncorrected, as raw rep material for the Phase 3 re-read.
+
+## 2026-08-31 — Task 1 Practice (Cambridge Book 16, Test 1)
+
+### Prompt
+
+The charts show the proportion of households owning a washing machine, a refrigerator, and a vacuum cleaner, and the average hours per week spent on housework, between 1920 and 2019.
+
+### Essay
+
+First, the percentages of households having each type of machines all increased with the fact that at 2019, all households in this country had vacuum cleaner and refrigerator. This number for the washing machine started in 1920 around 40%, the highest among 3, rose almost doubled in 2019, which was approximately 70%.
+
+Second, the number of doing housework decreased significantly during this period. In 1920, a household performed average of 50 hours per week. Then This number dropped massively in 1960 to only 20 hours per week before slightly subsided again in 2019 to 10%.
+
+### Notes
+
+~95 words, no overview, no intro, ends without a conclusion — timed to 20 minutes. Errors logged 2026-08-31 in [[projects/score-ielts-7-overall/error-log|Error Log]]: missing articles (twice), missing head noun ("hours"), plus the three structural repeats (under-length, no overview, wrong unit on the last figure — 10% instead of 10 hours). Left verbatim, uncorrected, for the Phase 3 re-read.

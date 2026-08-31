@@ -56,6 +56,8 @@ The most load-bearing note in the project. Its counterpart is [[projects/score-i
 | City/country conflation | Japan commuters in both year preferred public transport | Tokyo's commuters in both years preferred public transport | 2026-08-28 |
 | Missing article | can burn twice fuel of driving at steady speed | can burn twice the fuel of driving at a steady speed | 2026-08-26 |
 | Missing article | 42%, highest among three | 42%, the highest of the three | 2026-08-29 |
+| Missing article | the highest among 3 | the highest of the three | 2026-08-31 |
+| Missing article | a household performed average of 50 hours | a household performed an average of 50 hours | 2026-08-31 |
 | Demonstrative-noun number mismatch | fatal accidents to these type of users | fatal accidents to this type of user | 2026-08-26 |
 | Past tense for historical data | South Korea already has approximately 50% of household | South Korea already had approximately 50% of households | 2026-08-21 |
 | Past tense dropped in narrative | so we start on Friday night and end up around Sunday, return to Hanoi | so we started on Friday night and ended up around Sunday, returning to Hanoi | 2026-08-22 |
@@ -85,6 +87,7 @@ Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the ba
 | the decline trend | the downward trend | need the adjective form — third time this pattern has appeared, after *history movies* and *the Vietnam government* | 2026-08-29 |
 | that figure for sport activity raise slightly | the figure for sport rose slightly | *raise* is transitive, you raise something; *rise* is what a figure does on its own | 2026-08-29 |
 | recorded the significant in the percentages | recorded a significant increase in the percentages | the head noun is missing | 2026-08-29 |
+| the number of doing housework decreased | the number of hours spent on housework decreased | the head noun ("hours") is missing again, same pattern as 08-29 | 2026-08-31 |
 
 ## Pronunciation
 
@@ -111,6 +114,9 @@ The Task 1 entries are logged on first sighting, against the repeated-errors-onl
 | Under the 150-word minimum | Task 1 practice, roughly 125 words | 2026-08-29 |
 | No overview sentence | Task 1 practice, "a significant shift" names no figure and no direction | 2026-08-29 |
 | Figure misread from the chart | Task 1 practice, "declined by 20%" for a fall from 42% to 31% | 2026-08-29 |
+| Under the 150-word minimum | Task 1 practice, ~95 words — worse than the 08-29 miss, third occurrence | 2026-08-31 |
+| No overview sentence | Task 1 practice, jumped straight to "First," — no intro, no overview at all | 2026-08-31 |
+| Figure misread from the chart | Task 1 practice, "subsided again in 2019 to 10%" for a fall to 10 hours — swapped the unit, not just the number | 2026-08-31 |
 
 ## Fixed
 
