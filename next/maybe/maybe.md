@@ -12,7 +12,6 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 
 ## Items
 
-- [[2026-07-13 - Gift Idea Muji Multipurpose Cushion|Gift Idea: Muji Multipurpose Cushion]]
 - [[2026-07-15 - Build a Chat System Over This Vault|Build a Chat System Over This Vault]]
 - [[2026-07-15 - Examine Guitar|Examine Guitar]]
 - [[2026-08-09 - Fix the Microwave Küppersbusch MR6330.0S|Fix the Microwave Küppersbusch MR6330.0S]]

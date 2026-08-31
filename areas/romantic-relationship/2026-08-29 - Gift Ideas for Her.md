@@ -9,6 +9,7 @@ A standing list, so a birthday or an anniversary does not start from a blank pag
 - **Thermal bottle.** **Known-adjacent** — she has low blood pressure, so warm water and ginger tea through the day are practical, not decorative. The most useful thing on this list.
 - Warm socks, a small blanket, a scarf. Same reason: low blood pressure makes cold hands and cold feet a real daily thing rather than a preference.
 - A good umbrella. Hanoi rain, and the weekday-dinner protocol already has a raincoat line in it for a reason.
+- **Muji Đệm Ngồi Đa Năng** (multipurpose seat cushion), color Be Nhạt (light beige).
 
 ## Beauty and Skincare
 
