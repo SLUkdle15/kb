@@ -5,4 +5,4 @@ Open questions about passing angles and passing empathy — thinking about what 
 ## Routed / Distilled
 
 - Positioning and receiving/passing-foot cues (not yet settled — to test against *Soccer IQ* and match play) → [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]]
-- In-match protocol → [[next/maybe/2026-08-07 - Build an In-Match Soccer Protocol|Build an In-Match Soccer Protocol]]
+- In-match protocol → [[archives/next-actions/2026-08-07 - Build an In-Match Soccer Protocol|Build an In-Match Soccer Protocol]] (dropped 2026-08-31)

@@ -11,3 +11,7 @@ Not ready yet. [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playin
 ## Done When
 
 Promoted to a real protocol once there are enough cues and a settled log format, or dropped.
+
+## Disposition
+
+Dropped 2026-08-31.

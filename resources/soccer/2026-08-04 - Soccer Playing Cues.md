@@ -32,6 +32,10 @@ Cues from *Soccer IQ* (Dan Blank), which is still being read — expect more, an
 ### On the Ball
 
 - **Do not turn into pressure.** Turning away keeps your body between the ball and the opponent, which is what protects it. This is about dribbling to escape pressure and keep possession, not about beating anyone.
+- **Half-turn protocol.** The half turn is a tool to turn away from *known* pressure, not to turn through *unknown* pressure — when the press is coming from in front and you can see it, the half turn is much safer and often the right choice. Check your shoulders early, know where the pressure and space are before the ball arrives, and use your first touch to turn, rather than receiving square and needing a second touch to reorient. In order:
+  1. Look forward first — the vertical/penetrating pass.
+  2. If forward isn't on, switch or progress diagonally.
+  3. Only recycle/reset if nothing forward is available.
 - Don't be ashamed to employ the toe-poke.
 - Add a pre-fake to your game. Captured as a bare directive — what the pre-fake is meant to set up is not spelled out yet.
 
