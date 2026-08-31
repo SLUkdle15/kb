@@ -36,6 +36,8 @@ Cues from *Soccer IQ* (Dan Blank), which is still being read — expect more, an
   1. Look forward first — the vertical/penetrating pass.
   2. If forward isn't on, switch or progress diagonally.
   3. Only recycle/reset if nothing forward is available.
+
+  See [[areas/soccer/half-turn-under-pressure|Half-Turn Under Pressure]] for the in-the-moment checklist.
 - Don't be ashamed to employ the toe-poke.
 - Add a pre-fake to your game. Captured as a bare directive — what the pre-fake is meant to set up is not spelled out yet.
 

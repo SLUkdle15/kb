@@ -21,6 +21,7 @@ Review monthly, or weekly when actively training.
 ## Protocols
 
 - [[areas/soccer/decide-whether-to-cancel-weekly-soccer|Decide Whether to Cancel Weekly Soccer]]
+- [[areas/soccer/half-turn-under-pressure|Half-Turn Under Pressure]]
 
 ## Logs
 
