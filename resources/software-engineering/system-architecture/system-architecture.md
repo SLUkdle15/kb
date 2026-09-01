@@ -3,13 +3,13 @@
 Use this collection for reusable software architecture notes: roadmaps, architecture review templates, ADR templates, system design references, trade-off notes, architecture decision examples, and incident write-ups.
 
 Parent resource: [[resources/software-engineering/software-engineering|Software Engineering]]
-
+	
 Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 
 ## Notes
 
-- [[resources/software-engineering/system-architecture/adr/architecture-decision-records|Architecture Decision Records]]
-- [[2026-07-14 - What a Software Architect Needs to Do|What a Software Architect Needs to Do]]
+### Designing Data-Intensive Applications (book)
+
 - [[2026-07-31 - Reliability Scalability Maintainability|Reliability Scalability Maintainability]]
 - [[2026-07-31 - Document vs Relational Data Model|Document vs Relational Data Model]]
 - [[2026-08-03 - Declarative vs Imperative Query Languages|Declarative vs Imperative Query Languages]]
@@ -28,9 +28,16 @@ Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 - [[2026-08-28 - Log-Based Message Brokers|Log-Based Message Brokers]]
 - [[2026-08-28 - From Batch to Stream Processing|From Batch to Stream Processing]]
 - [[2026-08-28 - Change Data Capture and Derived Data Systems|Change Data Capture and Derived Data Systems]]
-- [[2026-07-30 - Designing Data-Intensive Applications|Designing Data-Intensive Applications]] — the book's reading hub, linking all of the notes above that came out of it
+
+### System overviews
+
 - [[2026-07-15 - FCM System Overview|FCM System Overview]]
 - [[2026-07-17 - AI Chat Bot System Overview|AI Chat Bot System Overview]]
+
+### Reference
+
+- [[2026-07-14 - What a Software Architect Needs to Do|What a Software Architect Needs to Do]]
+- [[resources/software-engineering/system-architecture/adr/architecture-decision-records|Architecture Decision Records]]
 - [[resources/software-engineering/system-architecture/incidents/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]]
 
 Related plan: [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]

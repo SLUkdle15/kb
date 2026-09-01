@@ -10,8 +10,6 @@ Ongoing reading list: what I am reading now, what is queued, and what is finishe
 
 ## Currently Reading
 
-- *Soccer IQ* — Dan Blank — cues land straight in [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]], no separate capture
-
 ## To Read
 
 Two reading programs feed this list: [[areas/personal-development/2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]] (argument, improv, mental models — running in its narrow form, *The Art of Thinking Clearly* only, with the rest deferred until after the IELTS test) and the still-parked [[next/maybe/2026-08-21 - Start Investing|Start Investing]] (the investing books).
@@ -34,6 +32,7 @@ Two reading programs feed this list: [[areas/personal-development/2026-08-21 - B
 
 ## Finished
 
+- *Soccer IQ* — Dan Blank — no separate capture, cues land straight in [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]]
 - *Atomic Habits* — James Clear — distilled into [[resources/behavior-change/behavior-change|Behavior Change]]
 - *Self-Compassion* — Kristin Neff — distilled into [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]
-- *Designing Data-Intensive Applications* — Martin Kleppmann — stopped after Ch. 11; distilled into 18 notes in [[resources/software-engineering/system-architecture/system-architecture|System Architecture]], hubbed at [[resources/software-engineering/system-architecture/2026-07-30 - Designing Data-Intensive Applications|its reading notes]]
+- *Designing Data-Intensive Applications* — Martin Kleppmann — read through Ch. 11 (Ch. 12 not read); distilled into 18 notes in [[resources/software-engineering/system-architecture/system-architecture|System Architecture]]

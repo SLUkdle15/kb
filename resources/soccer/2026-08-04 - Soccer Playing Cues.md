@@ -2,7 +2,7 @@
 
 Related area: [[areas/soccer/soccer|Soccer]]
 
-Cues from *Soccer IQ* (Dan Blank), which is still being read — expect more, and expect the open questions below to settle as it goes.
+Cues from *Soccer IQ* (Dan Blank), finished reading. Open questions below are still unsettled — expect them to settle through match testing, not further reading.
 
 ### Scanning and Decisions
 

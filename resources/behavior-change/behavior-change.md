@@ -8,6 +8,8 @@ Use this collection for reusable knowledge about building habits, breaking bad o
 
 ## Notes
 
+Distilled from James Clear, *Atomic Habits*.
+
 - [[resources/behavior-change/2026-07-23 - Habits Compound and Systems Beat Goals|Habits Compound and Systems Beat Goals]]
 - [[resources/behavior-change/2026-07-29 - Identity Change Drives Lasting Habits|Identity Change Drives Lasting Habits]]
 - [[resources/behavior-change/2026-07-29 - Four Laws of Behavior Change|Four Laws of Behavior Change]]

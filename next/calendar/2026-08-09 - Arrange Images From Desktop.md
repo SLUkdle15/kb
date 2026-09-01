@@ -1,5 +1,7 @@
 # Arrange Images From Desktop
 
+Due: 2026-09-02
+
 ## Action
 
 Arrange the images sitting on the desktop, including the VCAA ones, into proper folders.

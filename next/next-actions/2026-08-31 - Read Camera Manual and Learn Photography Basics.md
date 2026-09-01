@@ -8,4 +8,4 @@ Go through the camera's manual (or a beginner guide covering the same ground) to
 
 ## Done When
 
-The exposure triangle is understood well enough to explain it and to start experimenting in manual mode.
+The exposure triangle is understood well enough to explain it and to recognize what the camera is doing when shooting in auto mode.
