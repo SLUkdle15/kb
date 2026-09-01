@@ -2,6 +2,16 @@
 
 Check against these before the next Task 1 attempt. Distilled from [[projects/score-ielts-7-overall/error-log|the error log]] and the 08-31 self-score; grammar rules moved to [[projects/score-ielts-7-overall/grammar-article-rules|Article Rules]].
 
+## Three Families, One Toolkit Each
+
+Every Task 1 prompt is one of three families, and each wants a different toolkit — the trend language below does not transfer to the other two, and using it anyway is the most likely new mistake.
+
+1. **Chart/data** — line, bar, pie, table, and mixed combinations. Toolkit: everything below this section. Practiced repeatedly so far (household appliances, internet access, commuter transport, leisure activities).
+2. **Process** — a natural or man-made sequence. Toolkit: present simple throughout, passive voice for what's done to the material, sequencing language (*first / once this is complete / following this / at the final stage*) instead of trend words, overview names stage count plus start/end (or notes a repeating cycle). First encountered 2026-09-01.
+3. **Map** — two places, or the same place at two points in time. Toolkit: spatial/directional language (*north of, adjacent to, was replaced by*), contrast between the two points (past-vs-present or place-A-vs-place-B), overview names the single biggest change or difference. Not yet encountered in practice — a real coverage gap worth watching in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]].
+
+The rest of this note is the chart/data toolkit specifically.
+
 ## Intro: Paraphrase, Then Overview
 
 Two separate sentences, in this order:
