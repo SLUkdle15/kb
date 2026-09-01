@@ -78,16 +78,16 @@ Nothing about the plan changes — Phase 1 is the same work against either date.
 - [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]] — the long-turn and Part 3 mechanics, and the recording loop.
 - [[projects/score-ielts-7-overall/error-log|Error Log]] — running list of repeated mistakes. This is the single most load-bearing note in the project.
 - [[projects/score-ielts-7-overall/practice-essays|Practice Essays]] — running log of Phase 1+ reps, kept for the Phase 3 re-read.
-- [[projects/score-ielts-7-overall/2026-08-31 - Path from 5 to 7|Path from 5 to 7]] — what actually moves the band past 6, distilled from the 08-31 self-score.
 - [[projects/score-ielts-7-overall/repertoire|Repertoire]] — the counterpart bank, arranged by topic: collocations, arguments, examples, and Part 2 stories worth reusing.
-- [[projects/score-ielts-7-overall/uncountable-nouns|Uncountable Nouns]] — the nouns that never take `-s`, checked before pluralising.
+- [[projects/score-ielts-7-overall/grammar-uncountable-nouns|Uncountable Nouns]] — the nouns that never take `-s`, checked before pluralising.
+- [[projects/score-ielts-7-overall/grammar-article-rules|Article Rules]] — singular countable nouns and superlatives, checked before the next sentence.
+- [[projects/score-ielts-7-overall/task-1-writing-prep|Task 1 Writing Prep]] — intro structure, precise collocations, the chart-relationship sentence, and coherence, checked before the next Task 1 attempt.
 - [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]] — which tests from books 16-20 are spent, and what stays unseen for the mocks.
 - [[projects/score-ielts-7-overall/materials|Materials]] — the short list of sources, and what to ignore.
 
 ## Next Actions
 
 - [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November]]
-- [[next/calendar/2026-08-31 - Review Path from 5 to 7]]
 
 Phase 0 closed 2026-08-24. Both baseline actions are archived — [[archives/next-actions/2026-08-22 - Pull the Baseline Bands and Make the Go-No-Go Call|the go/no-go call]] completed, and [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic|the Reading diagnostic]] obsolete. Phase 1 runs off the weekly template in [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]] rather than one note per session.
 

@@ -31,5 +31,4 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November]] — 2026-09-21 (backstop: last safe week to book for mid-November)
 - [[next/calendar/2026-08-30 - Ask Phi About His Software Job Role]] — 2026-08-31 (starting point for helping him find a job)
 - [[next/calendar/2026-08-17 - Review the Efficient Spring Logging Guide in Grafana]] — 2026-09-03 (Thursday)
-- [[next/calendar/2026-08-31 - Review Path from 5 to 7]] — 2026-09-01 (Tuesday)
 - [[next/calendar/2026-08-29 - Propose a Subfolder Structure for System Architecture]] — 2026-09-01 (moved from next-actions)
