@@ -24,3 +24,5 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-08-27 - Visit Quán Coffee Của Sự Lao Động Cần Cù|Visit Quán Coffee Của Sự Lao Động Cần Cù]] — maybe for Mid-Autumn Festival, 2026-09-25
 - [[2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]]
 - [[2026-09-03 - Date Night at Son Yum Thai|Date Night at Son Yum Thai]] — dinner, Uniqlo, Häagen-Dazs; needs a date again
+- [[2026-09-01 - Buy Tripod for GoPro Phone and Camera|Buy Tripod for GoPro, Phone, and Camera]] — all-in-one, for [[projects/learn-photography/learn-photography|Learn Photography]]
+- [[2026-09-01 - Investigate Making Money from the Soc Son Land|Investigate Making Money from the Soc Son Land]] — idle asset, look for similar cases on YouTube

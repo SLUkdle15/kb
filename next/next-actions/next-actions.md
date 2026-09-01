@@ -25,3 +25,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-08-09 - Arrange Images From Desktop|Arrange Images From Desktop]]
 - [[2026-08-31 - Read Camera Manual and Learn Photography Basics|Read Camera Manual and Learn Photography Basics]]
 - [[2026-08-31 - Get a New FB Account and Sell the Comics|Get a New FB Account and Sell the Comics]]
+- [[2026-09-01 - Buy Shuttlecocks for the First Badminton Session|Buy Shuttlecocks for the First Badminton Session]] — due 2026-09-05
