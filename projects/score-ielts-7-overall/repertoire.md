@@ -10,19 +10,18 @@ It exists because the baseline put Lexical Resource and Grammatical Range at 5 i
 
 Task 2 has five question types — opinion, discuss both views, problem and solution, advantages and disadvantages, and the two-part question. Material is **not** stored per type; that would mean five copies of every topic. Each topic stores four argument blocks, and the types recombine them:
 
-| Essay type | Pulls |
-| --- | --- |
-| Problem and solution | Impacts + Solutions |
-| Two-part question | Causes + Solutions, or Impacts + Solutions |
-| Opinion | Impacts as the reasons, The other side as the concession |
-| Advantages and disadvantages | Impacts as the downside, The other side as the upside |
-| Discuss both views | Impacts as view one, The other side as view two |
+| Essay type                   | Pulls                                                    |
+| ---------------------------- | -------------------------------------------------------- |
+| Problem and solution         | Impacts + Solutions                                      |
+| Two-part question            | Causes + Solutions, or Impacts + Solutions               |
+| Opinion                      | Impacts as the reasons, The other side as the concession |
+| Advantages and disadvantages | Impacts as the downside, The other side as the upside    |
+| Discuss both views           | Impacts as view one, The other side as view two          |
 
 A topic with all four blocks stocked can answer any of the five. A topic missing **The other side** cannot do types 2 or 4, and that is the block most likely to be left empty, because it is the one that argues against what you believe.
 
 ## Rules
 
-- **Only what has been used.** Material earns a row after it has been written or said in a real timed piece, not when it is first admired. Untested material is a reading list, not a repertoire.
 - **Store the whole sentence, not the rule.** Rules in the abstract do not transfer. A sentence that already worked does.
 - **Collocations, not single words.** Band 7 Lexical Resource asks for less common items used *with awareness of collocation*. A rare noun with the wrong verb scores worse than a plain one with the right verb.
 - **Concrete examples are the scarce thing.** Arguments are easy to improvise under time; the specific example is what band 7 wants and what will not come when the clock is running. Bank those hardest.
@@ -35,27 +34,15 @@ A topic with all four blocks stocked can answer any of the five. A topic missing
 
 ## Urban Life and Transport
 
-**Collocations** — traffic congestion, heavy-duty transportation, at peak hours, cause significant economic damage, suffer delays in delivering goods, worsen air quality, idling engines, release harmful emissions, increase the risk of respiratory diseases, invest heavily in public transport, reliable buses and metro systems, leave their cars at home, congestion charging, pay a fee to enter central areas, revenue is reinvested in public transport
+**Collocations** —
 
 **Causes** —
 
-1. *(to write)*
-2. *(to write)*
-
 **Impacts** —
-
-1. *Economic.* It costs commuters their hours and companies their delivery times — an economic problem, not just an inconvenience. *Traffic congestion causes significant economic damage, as commuters waste hours in their vehicles and companies suffer delays in delivering goods.*
-2. *Health.* Stationary traffic pollutes more than moving traffic, and the people who live along the road absorb it. *Congested roads worsen air quality, since idling engines release harmful emissions that increase the risk of respiratory diseases among residents.*
 
 **Solutions** —
 
-1. *Supply a better alternative.* People leave the car when the alternative is actually reliable, so the spend has to be big enough to change the calculation. *Governments should invest heavily in public transport, since reliable buses and metro systems encourage commuters to leave their cars at home.*
-2. *Price the peak, and spend the proceeds on the alternative.* Charging for the scarce thing suppresses demand at the hour it is scarce, and the money funds solution 1 — the two connect rather than sitting side by side. *Another effective measure is congestion charging, whereby drivers pay a fee to enter central areas during peak hours, and the revenue is reinvested in public transport.*
-
 **The other side** —
-
-1. *(to write)*
-2. *(to write)*
 
 **Concrete examples** —
 
@@ -79,17 +66,29 @@ A topic with all four blocks stocked can answer any of the five. A topic missing
 
 ## Education
 
-**Collocations** —
+**Collocations** — civic responsibility, foster a sense of community, take a toll on academic performance, stress builds up over time, prove counterproductive, equitable access, from all walks of life, a one-size-fits-all approach, extracurricular commitments, hands-on experience, instill a sense of duty
 
 **Causes** —
 
+1. *(to write)*
+2. *(to write)*
+
 **Impacts** —
+
+1. *Wellbeing.* Compulsory service replaces stress-relieving leisure time with obligation, which takes a toll on academic performance rather than protecting it. *A student who would otherwise unwind through sport instead spends that time on unpaid labor, arriving at school more fatigued, not less.*
+2. *Fit.* A uniform requirement doesn't account for students already carrying demanding commitments. *A student on the school athletics team, required to also complete two hours of park cleanup, faces physical strain that undermines both obligations.*
 
 **Solutions** —
 
+1. *(to write)*
+2. *(to write)*
+
 **The other side** —
 
-**Concrete examples** —
+1. *Equity of exposure.* Left voluntary, participation skews toward students who are already motivated or well-supported at home, so the policy's goal quietly fails for everyone else. *A shy student who would never volunteer alone is placed in a program reading to elderly residents and discovers an interest they would never have found on their own.*
+2. *Skills leisure won't teach.* Free time defaults to entertainment; structured service forces responsibility for someone else's outcome. *A student assigned to tutor younger children learns patience and accountability that playing games never would.*
+
+**Concrete examples** — reading to residents at a care home, tutoring younger students, clearing litter from a local park
 
 **Part 2 stories that fit** —
 
