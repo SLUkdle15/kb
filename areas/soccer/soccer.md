@@ -25,7 +25,7 @@ Review monthly, or weekly when actively training.
 
 ## Current Actions
 
-- [[next/next-actions/2026-09-02 - Text the Guy to Change Weekly Soccer from Tuesday to Monday|Text the Guy to Change Weekly Soccer from Tuesday to Monday]]
+- [[next/maybe/2026-09-02 - Text the Guy to Change Weekly Soccer from Tuesday to Monday|Text the Guy to Change Weekly Soccer from Tuesday to Monday]] (someday/maybe)
 
 ## Current Projects
 
