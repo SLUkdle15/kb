@@ -1,6 +1,7 @@
 # Arrange Images From Desktop
 
 Due: 2026-09-02
+Status: done (completed 2026-09-02)
 
 ## Action
 

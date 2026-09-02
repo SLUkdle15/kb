@@ -47,6 +47,5 @@ Review monthly, or weekly when the relationship needs active attention.
 ## Related Resources
 
 - [[2026-07-15 - Promises to Her|Promises to Her]]
-- [[2026-06-05 - Love Rules|Love Rules]]
 - [[2026-08-29 - Gift Ideas for Her|Gift Ideas for Her]]
 - [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]

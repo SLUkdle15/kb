@@ -20,6 +20,7 @@ Review monthly, or before an upcoming trip.
 ## Protocols
 
 - [[areas/travel/drive-to-van-dinh|Drive to Van Dinh]]
+- [[areas/travel/drive-to-ho-anh-be|Drive to Ho Anh Be]]
 
 ## Current Projects
 

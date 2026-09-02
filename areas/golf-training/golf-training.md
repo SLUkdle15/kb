@@ -18,6 +18,10 @@ Maintain and improve golf skill, training, physical readiness, course strategy, 
 
 Review monthly, or weekly during active practice cycles.
 
+## Current Actions
+
+- [[next/calendar/2026-09-02 - Golf Session]]
+
 ## Current Projects
 
 - 

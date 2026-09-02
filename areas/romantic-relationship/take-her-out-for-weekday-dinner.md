@@ -6,6 +6,7 @@ type: protocol
 
 ## Checklist
 
+- [ ] Be on time: whatever time I tell her (e.g. 9:30) is the time — no changing it at the last moment.
 - [ ] Pick a restaurant close to where we're having the event, or near her work.
 - [ ] Ask yourself: does the restaurant need a reservation?
 - [ ] If rain, bring a raincoat.

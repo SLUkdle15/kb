@@ -20,7 +20,7 @@ Review monthly, or weekly when practicing actively.
 
 ## Current Actions
 
-- 
+- [[next/calendar/2026-09-02 - Monthly Sync Pictures]]
 
 ## Current Projects
 
