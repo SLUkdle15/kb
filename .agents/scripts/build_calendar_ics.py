@@ -10,10 +10,12 @@ Each calendar note contributes one event, in one of two shapes:
   optional `Remind:` line adds a VALARM that many days before the date.
 
 - Recurring weekly: Title from the H1. Day/time from an `Every:` line, e.g.
-  `Every: Tuesday 17:30`. Produces a weekly-recurring event at that day/time.
-  An optional `Remind:` line, e.g. `Remind: 3`, adds a VALARM that fires that
-  many days before each occurrence — change the number to change the lead
-  time; no script edit needed.
+  `Every: Tuesday 17:30`. Produces a weekly-recurring event at that day/time,
+  defaulting to a 1-hour duration. Give an explicit end time with
+  `Every: Saturday 15:00-17:00` for a longer session. An optional `Remind:`
+  line, e.g. `Remind: 3`, adds a VALARM that fires that many days before each
+  occurrence — change the number to change the lead time; no script edit
+  needed.
 
 Subscribe to the generated file from a phone calendar via its raw GitHub URL.
 Run after adding/removing calendar notes, then commit and push calendar.ics.
@@ -30,7 +32,8 @@ OUTPUT = VAULT / "calendar.ics"
 
 DUE_RE = re.compile(r"^Due:\s*(\d{4}-\d{2}-\d{2})(?:\s+(\d{1,2}:\d{2}))?", re.M)
 EVERY_RE = re.compile(
-    r"^Every:\s*(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+(\d{1,2}:\d{2})",
+    r"^Every:\s*(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+"
+    r"(\d{1,2}:\d{2})(?:-(\d{1,2}:\d{2}))?",
     re.M,
 )
 REMIND_RE = re.compile(r"^Remind:\s*(\d+)", re.M)
@@ -116,7 +119,7 @@ def build_event(path: Path) -> list[str] | None:
 
 
 def build_recurring_event(path: Path, title: str, every: re.Match) -> list[str]:
-    weekday_name, time_str = every.group(1), every.group(2)
+    weekday_name, time_str, end_time_str = every.group(1), every.group(2), every.group(3)
     target_weekday, byday = WEEKDAYS[weekday_name]
     hour, minute = (int(p) for p in time_str.split(":"))
 
@@ -126,7 +129,12 @@ def build_recurring_event(path: Path, title: str, every: re.Match) -> list[str]:
     start = datetime.datetime.combine(start_date, datetime.time(hour, minute))
     if days_ahead == 0 and start <= now:
         start += datetime.timedelta(days=7)
-    end = start + datetime.timedelta(hours=1)
+        start_date += datetime.timedelta(days=7)
+    if end_time_str:
+        end_hour, end_minute = (int(p) for p in end_time_str.split(":"))
+        end = datetime.datetime.combine(start_date, datetime.time(end_hour, end_minute))
+    else:
+        end = start + datetime.timedelta(hours=1)
 
     stamp = datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     uid = re.sub(r"[^a-z0-9]+", "-", path.stem.lower()).strip("-") + "@kb-vault"

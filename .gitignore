@@ -6,3 +6,6 @@
 
 # Image/binary attachments — kept local only, not tracked in git.
 attachments/
+
+# Python bytecode cache from running .agents/scripts/*.py.
+__pycache__/

@@ -1,4 +1,4 @@
-# Find Out How to Register Temporary Residence
+# Plan How to Register Temporary Residence
 
 Project: [[projects/register-temporary-residence/register-temporary-residence|Register Temporary Residence]]
 

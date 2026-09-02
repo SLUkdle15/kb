@@ -12,6 +12,6 @@ Comfortable shooting in auto mode, understanding what the camera is doing.
 
 ## Next Actions
 
-- [[next/next-actions/2026-08-31 - Read Camera Manual and Learn Photography Basics|Read Camera Manual and Learn Photography Basics]]
+- [[next/next-actions/2026-08-31 - Investigate What to Read to Learn Photography Basics|Investigate What to Read to Learn Photography Basics]]
 
 ## Notes

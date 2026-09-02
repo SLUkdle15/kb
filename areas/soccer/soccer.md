@@ -23,13 +23,9 @@ Review monthly, or weekly when actively training.
 - [[areas/soccer/decide-whether-to-cancel-weekly-soccer|Decide Whether to Cancel Weekly Soccer]]
 - [[areas/soccer/half-turn-under-pressure|Half-Turn Under Pressure]]
 
-## Logs
-
-- [[areas/soccer/midfielder-match-log|Midfielder Match Log]] — fill in at halftime and after the final whistle
-
 ## Current Actions
 
-- None.
+- [[next/next-actions/2026-09-02 - Text the Guy to Change Weekly Soccer from Tuesday to Monday|Text the Guy to Change Weekly Soccer from Tuesday to Monday]]
 
 ## Current Projects
 

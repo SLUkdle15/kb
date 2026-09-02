@@ -38,7 +38,7 @@ Review monthly, or weekly when the relationship needs active attention.
 
 - [[next/calendar/2026-07-30 - Weekly Wednesday Walk with Girlfriend|Weekly Wednesday Walk with Girlfriend]]
 - [[next/maybe/2026-09-03 - Date Night at Son Yum Thai|Date Night at Son Yum Thai]]
-- [[next/next-actions/2026-08-16 - Manage the Weekly Badminton Session with Girlfriend|Manage the Weekly Badminton Session with Girlfriend]]
+- [[next/calendar/2026-09-02 - Weekly Saturday Badminton|Weekly Saturday Badminton]]
 
 ## Current Projects
 

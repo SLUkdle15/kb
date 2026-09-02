@@ -26,15 +26,20 @@ Review monthly, or weekly when actively training.
 ## Current Actions
 
 - [[next/calendar/2026-08-26 - Tell Khai I Am Not Continuing at CKH Academy|Tell Khai I Am Not Continuing at CKH Academy]]
-- [[next/next-actions/2026-08-16 - Manage the Weekly Badminton Session with Girlfriend|Manage the Weekly Badminton Session with Girlfriend]]
+- [[next/calendar/2026-09-02 - Weekly Saturday Badminton|Weekly Saturday Badminton]]
 - [[next/next-actions/2026-09-01 - Buy Shuttlecocks for the First Badminton Session|Buy Shuttlecocks for the First Badminton Session]]
 
 ## Current Projects
 
 - 
 
+## Protocols
+
+- [[areas/badminton/run-a-weekly-recurring-group-session|Run a Weekly Recurring Group Session]] — line up players, promote to a recurring calendar action, retire if it stops.
+
 ## Related Resources
 
 - [[areas/badminton/courts-near-me|Courts Near Me]] — where to play, and what is still unconfirmed.
+- [[areas/badminton/monthly-cost-and-collection|Monthly Cost & Collection]] — court and shuttle cost, per-head collection at 6 or 7 players.
 - [[resources/badminton/2026-05-25 - Badminton Fundamentals and Doubles Positioning|Badminton Fundamentals and Doubles Positioning]]
 - [[areas/personal-development/favorite-problems|Favorite Problems]] — #5 is about competing across the sports I play

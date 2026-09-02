@@ -1,7 +1,6 @@
 # Build an Idea Pool for Conversation and Debate
 
 Area: [[areas/personal-development/personal-development|Personal Development]]
-Protocol: [[areas/personal-development/distill-a-chapter-into-the-idea-pool|Distill a Chapter into the Idea Pool]]
 Bank: [[resources/ideas/idea-pool|Idea Pool]]
 
 ## Action
@@ -24,7 +23,7 @@ Touches [[areas/personal-development/favorite-problems|Favorite Problems]] 1, 2,
 
 ## Status
 
-**Active since 2026-08-21, in its narrow form.** *The Art of Thinking Clearly* is being read a few chapters at a time, one written line per chapter into [[resources/ideas/idea-pool|Idea Pool]], following [[areas/personal-development/distill-a-chapter-into-the-idea-pool|Distill a Chapter into the Idea Pool]]. 99 self-contained three-page chapters need no continuity, so a few a night costs nothing and stopping mid-book loses nothing. The written line is the deliverable — without it this produces trivia, not fluency.
+**Active since 2026-08-21, in its narrow form.** *The Art of Thinking Clearly* is being read a few chapters at a time, one written line per chapter into [[resources/ideas/idea-pool|Idea Pool]]. 99 self-contained three-page chapters need no continuity, so a few a night costs nothing and stopping mid-book loses nothing. The written line is the deliverable — without it this produces trivia, not fluency.
 
 **The wider program is still deferred** until after the IELTS test, now mid-November (retargeted from 3 October on 2026-08-24 — see [[projects/score-ielts-7-overall/score-ielts-7-overall|the project note]]). [[projects/score-ielts-7-overall/materials|IELTS Materials]] names collecting resources instead of writing essays as the failure mode, and the study plan has no room for a full reading program.
 

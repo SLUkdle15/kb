@@ -5,7 +5,6 @@ type: distilled-note
 # Idea Pool
 
 Source: [[areas/personal-development/2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]]
-Protocol: [[areas/personal-development/distill-a-chapter-into-the-idea-pool|Distill a Chapter into the Idea Pool]]
 
 Running bank of retrievable positions — one line per chapter, concept plus my own example, logged as read. Not a summary of the books; stop once the line is written.
 
