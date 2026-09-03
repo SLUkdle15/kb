@@ -44,5 +44,4 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November]] — 2026-09-21 (backstop: last safe week to book for mid-November)
 - [[next/calendar/2026-08-17 - Review the Efficient Spring Logging Guide in Grafana]] — 2026-09-03 (Thursday)
 - [[next/calendar/2026-09-02 - Golf Session]] — 2026-09-04 (Friday)
-- [[next/calendar/2026-08-28 - Find Out What npm legacy-peer-deps Does]] — 2026-09-03 (moved from next-actions)
 - [[next/calendar/2026-09-03 - Review Six Weeks of Lower Back Tracking]] — 2026-10-15 (six-week checkpoint on the lower back routine; physio if no change)
