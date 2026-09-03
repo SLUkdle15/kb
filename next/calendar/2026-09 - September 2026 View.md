@@ -12,7 +12,6 @@ _Generated 2026-09-02._
 
 ## This Week
 
-- [[next/calendar/2026-08-17 - Review the Efficient Spring Logging Guide in Grafana|Review the Efficient Spring Logging Guide in Grafana]] — Thu 9/3
 
 ## Later This Month
 

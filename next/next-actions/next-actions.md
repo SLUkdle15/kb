@@ -23,3 +23,5 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-08-31 - Investigate What to Read to Learn Photography Basics|Investigate What to Read to Learn Photography Basics]]
 - [[2026-09-01 - Take Pics of the Comics to List|Take Pics of the Comics to List]]
 - [[2026-09-02 - Text the Guy to Change Weekly Soccer from Tuesday to Monday|Text the Guy to Change Weekly Soccer from Tuesday to Monday]]
+- [[2026-09-03 - Work Out Loki Label Cardinality Rules|Work Out Loki Label Cardinality Rules]]
+- [[2026-09-03 - Search a Log File from the Linux Terminal|Search a Log File from the Linux Terminal]]

@@ -19,7 +19,6 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 - [[2026-08-17 - Spend 500k Voucher on Fast Food Coffee or Clothes|Spend 500k Voucher on Fast Food, Coffee or Clothes]]
 - [[2026-08-21 - Start Investing|Start Investing]]
-- [[2026-08-22 - Buy New Everyday Shoes|Buy New Everyday Shoes]]
 - [[2026-08-24 - Snapshot My Finances and Pick a Tracking Method|Snapshot My Finances and Pick a Tracking Method]]
 - [[2026-08-27 - Visit Quán Coffee Của Sự Lao Động Cần Cù|Visit Quán Coffee Của Sự Lao Động Cần Cù]] — maybe for Mid-Autumn Festival, 2026-09-25
 - [[2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]]

@@ -29,8 +29,10 @@ Review monthly, or weekly when a migration or incident is active.
 
 ## Next Actions
 
-- [[next/calendar/2026-08-17 - Review the Efficient Spring Logging Guide in Grafana|Review the Efficient Spring Logging Guide in Grafana]]
+- [[next/next-actions/2026-09-03 - Work Out Loki Label Cardinality Rules|Work Out Loki Label Cardinality Rules]]
+- [[next/next-actions/2026-09-03 - Search a Log File from the Linux Terminal|Search a Log File from the Linux Terminal]]
 
 ## Related Resources
 
 - [[resources/software-engineering/infrastructure/2026-08-19 - NCTool and FCM on the New Infra|NCTool and FCM on the New Infra]] — where the migration stands, as of 2026-08-19
+- [[resources/software-engineering/logging/logging|Logging]] — what to log, at which level, and how it reaches Grafana

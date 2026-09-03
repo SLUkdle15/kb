@@ -18,6 +18,12 @@ Use this folder for date-specific or time-specific commitments.
 - General next actions without a real date.
 - Project plans.
 
+## Monthly Views
+
+Generated dashboards, not commitments. Rebuild with the `month` skill.
+
+- [[next/calendar/2026-09 - September 2026 View|September 2026 View]]
+
 ## Items
 
 ### Recurring — Weekly
@@ -42,6 +48,5 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-08-26 - Watch the Endgame Encore Showing]] — 2026-09-25 (reminder 5 days before to book tickets)
 - [[next/calendar/2026-08-09 - Order Techleague Jersey for Luong and Phi]] — 2026-08-31 (moved from maybe)
 - [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November]] — 2026-09-21 (backstop: last safe week to book for mid-November)
-- [[next/calendar/2026-08-17 - Review the Efficient Spring Logging Guide in Grafana]] — 2026-09-03 (Thursday)
 - [[next/calendar/2026-09-02 - Golf Session]] — 2026-09-04 (Friday)
 - [[next/calendar/2026-09-03 - Review Six Weeks of Lower Back Tracking]] — 2026-10-15 (six-week checkpoint on the lower back routine; physio if no change)
