@@ -66,9 +66,9 @@ A topic with all four blocks stocked can answer any of the five. A topic missing
 
 ## Education
 
-**Collocations** — civic responsibility, foster a sense of community, take a toll on academic performance, stress builds up over time, prove counterproductive, equitable access, from all walks of life, a one-size-fits-all approach, extracurricular commitments, hands-on experience, instill a sense of duty, a school of thought, penalize strong understanding, a fuller and more practically relevant set of skills, answer questions on the spot
-
 ### Compulsory Community Service
+
+**Collocations** — civic responsibility, foster a sense of community, take a toll on academic performance, stress builds up over time, prove counterproductive, equitable access, from all walks of life, a one-size-fits-all approach, extracurricular commitments, hands-on experience, instill a sense of duty
 
 **Impacts** —
 
@@ -81,6 +81,8 @@ A topic with all four blocks stocked can answer any of the five. A topic missing
 2. *Skills leisure won't teach.* Free time defaults to entertainment; structured service forces responsibility for someone else's outcome. *A student assigned to tutor younger children learns patience and accountability that playing games never would.*
 
 ### Exams as a Poor Assessment Method
+
+**Collocations** — a school of thought, penalize strong understanding, a fuller and more practically relevant set of skills, answer questions on the spot
 
 **Impacts** —
 
