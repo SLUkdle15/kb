@@ -24,3 +24,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-01 - Take Pics of the Comics to List|Take Pics of the Comics to List]]
 - [[2026-09-03 - Work Out Loki Label Cardinality Rules|Work Out Loki Label Cardinality Rules]]
 - [[2026-09-03 - Search a Log File from the Linux Terminal|Search a Log File from the Linux Terminal]]
+- [[2026-09-03 - Find a Golf Schedule and Lesson for Beginners|Find a Golf Schedule and Lesson for Beginners]]

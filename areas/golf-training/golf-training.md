@@ -20,11 +20,11 @@ Review monthly, or weekly during active practice cycles.
 
 ## Current Actions
 
-- [[next/calendar/2026-09-02 - Golf Session]]
+- 
 
 ## Current Projects
 
-- 
+- [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 
 ## Related Resources
 
