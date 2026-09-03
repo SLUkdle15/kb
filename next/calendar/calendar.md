@@ -26,7 +26,7 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-07-30 - Weekly Wednesday Walk with Girlfriend]] — recurring Wednesday 21:00
 - [[next/calendar/2026-08-19 - Weekly Sunday Vault Review]] — recurring Sunday 20:00 (run the `review` skill)
 - [[next/calendar/2026-09-02 - Weekly Saturday Badminton]] — recurring Saturday 15:00-17:00
-- [[next/calendar/2026-09-03 - Twice-Weekly Lower Back Routine]] — recurring Monday and Thursday 21:00
+- [[next/calendar/2026-09-03 - Twice-Weekly Lower Back Routine]] — recurring Monday and Thursday 21:00-21:15
 
 ### Recurring — Monthly
 

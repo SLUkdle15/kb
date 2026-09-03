@@ -1,6 +1,6 @@
 # Twice-Weekly Lower Back Routine
 
-Every: Monday and Thursday 21:00
+Every: Monday and Thursday 21:00-21:15
 
 ## Action
 

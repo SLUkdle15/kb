@@ -11,7 +11,8 @@ Each calendar note contributes one event, in one of two shapes:
 
 - Recurring weekly: Title from the H1. Day/time from an `Every:` line, e.g.
   `Every: Tuesday 17:30`. Produces a weekly-recurring event at that day/time,
-  defaulting to a 1-hour duration. Give an explicit end time with
+  defaulting to a 1-hour duration. List several days for a routine that repeats
+  more than once a week, e.g. `Every: Monday and Thursday 21:00`. Give an explicit end time with
   `Every: Saturday 15:00-17:00` for a longer session. An optional `Remind:`
   line, e.g. `Remind: 3`, adds a VALARM that fires that many days before each
   occurrence — change the number to change the lead time; no script edit
@@ -31,8 +32,10 @@ CALENDAR_DIR = VAULT / "next" / "calendar"
 OUTPUT = VAULT / "calendar.ics"
 
 DUE_RE = re.compile(r"^Due:\s*(\d{4}-\d{2}-\d{2})(?:\s+(\d{1,2}:\d{2}))?", re.M)
+DAY_NAMES = "Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday"
+DAY_NAME_RE = re.compile(DAY_NAMES)
 EVERY_RE = re.compile(
-    r"^Every:\s*(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+"
+    rf"^Every:\s*((?:{DAY_NAMES})(?:\s*(?:,|and)\s*(?:{DAY_NAMES}))*)\s+"
     r"(\d{1,2}:\d{2})(?:-(\d{1,2}:\d{2}))?",
     re.M,
 )
@@ -119,17 +122,23 @@ def build_event(path: Path) -> list[str] | None:
 
 
 def build_recurring_event(path: Path, title: str, every: re.Match) -> list[str]:
-    weekday_name, time_str, end_time_str = every.group(1), every.group(2), every.group(3)
-    target_weekday, byday = WEEKDAYS[weekday_name]
+    day_names = DAY_NAME_RE.findall(every.group(1))
+    time_str, end_time_str = every.group(2), every.group(3)
+    byday = ",".join(WEEKDAYS[name][1] for name in day_names)
     hour, minute = (int(p) for p in time_str.split(":"))
 
+    # DTSTART must land on the soonest upcoming listed day; the RRULE covers the rest.
     now = datetime.datetime.now()
-    days_ahead = (target_weekday - now.weekday()) % 7
-    start_date = now.date() + datetime.timedelta(days=days_ahead)
-    start = datetime.datetime.combine(start_date, datetime.time(hour, minute))
-    if days_ahead == 0 and start <= now:
-        start += datetime.timedelta(days=7)
-        start_date += datetime.timedelta(days=7)
+    candidates = []
+    for name in day_names:
+        days_ahead = (WEEKDAYS[name][0] - now.weekday()) % 7
+        date = now.date() + datetime.timedelta(days=days_ahead)
+        candidate = datetime.datetime.combine(date, datetime.time(hour, minute))
+        if candidate <= now:
+            candidate += datetime.timedelta(days=7)
+            date += datetime.timedelta(days=7)
+        candidates.append((candidate, date))
+    start, start_date = min(candidates)
     if end_time_str:
         end_hour, end_minute = (int(p) for p in end_time_str.split(":"))
         end = datetime.datetime.combine(start_date, datetime.time(end_hour, end_minute))
