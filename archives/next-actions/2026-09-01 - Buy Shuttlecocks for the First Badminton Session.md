@@ -10,3 +10,7 @@ Buy shuttlecocks before Saturday — first session of the [[next/calendar/2026-0
 ## Done When
 
 Shuttlecocks bought and ready for Saturday.
+
+## Disposition
+
+Completed 2026-09-03.

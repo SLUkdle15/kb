@@ -25,9 +25,7 @@ Review monthly, or weekly when actively training.
 
 ## Current Actions
 
-- [[next/calendar/2026-08-26 - Tell Khai I Am Not Continuing at CKH Academy|Tell Khai I Am Not Continuing at CKH Academy]]
 - [[next/calendar/2026-09-02 - Weekly Saturday Badminton|Weekly Saturday Badminton]]
-- [[next/next-actions/2026-09-01 - Buy Shuttlecocks for the First Badminton Session|Buy Shuttlecocks for the First Badminton Session]]
 
 ## Current Projects
 

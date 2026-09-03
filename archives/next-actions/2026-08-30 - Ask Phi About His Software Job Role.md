@@ -9,3 +9,7 @@ Ask Phi what his current software job position is like (role, level, responsibil
 ## Done When
 
 I know enough about Phi's current role to start looking for job opportunities that fit him.
+
+## Disposition
+
+Completed 2026-09-03.
