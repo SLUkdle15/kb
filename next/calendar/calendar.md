@@ -26,6 +26,7 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-07-30 - Weekly Wednesday Walk with Girlfriend]] — recurring Wednesday 21:00
 - [[next/calendar/2026-08-19 - Weekly Sunday Vault Review]] — recurring Sunday 20:00 (run the `review` skill)
 - [[next/calendar/2026-09-02 - Weekly Saturday Badminton]] — recurring Saturday 15:00-17:00
+- [[next/calendar/2026-09-03 - Twice-Weekly Lower Back Routine]] — recurring Monday and Thursday 21:00
 
 ### Recurring — Monthly
 
@@ -44,3 +45,4 @@ Use this folder for date-specific or time-specific commitments.
 - [[next/calendar/2026-08-17 - Review the Efficient Spring Logging Guide in Grafana]] — 2026-09-03 (Thursday)
 - [[next/calendar/2026-09-02 - Golf Session]] — 2026-09-04 (Friday)
 - [[next/calendar/2026-08-28 - Find Out What npm legacy-peer-deps Does]] — 2026-09-03 (moved from next-actions)
+- [[next/calendar/2026-09-03 - Review Six Weeks of Lower Back Tracking]] — 2026-10-15 (six-week checkpoint on the lower back routine; physio if no change)
