@@ -9,10 +9,8 @@ Review the guide on logging efficiently from Spring into Grafana, and note what 
 
 Also cover how to find and search a log file from the Linux terminal, for when Grafana is not available or the log only exists on the box: locating the file, searching it, following it live, and reading rotated or compressed logs.
 
-https://katyella.com/blog/spring-boot-logging-best-practices/
-https://tayjava.com/technologies/logging-in-spring-boot-slf4j-logback-structured-logging-for-production
-https://amigoscode.com/blogs/spring-boot-logging-guide
-https://medium.com/parallel-engine-technologies/mastering-slf4j-with-logback-the-ultimate-guide-to-logging-patterns-22ce89d31a40
+
+
 https://decodingtech.medium.com/logging-like-a-pro-mastering-slf4j-and-logback-for-effective-java-logging-aa4f3b61afa7
 https://grafana.com/docs/loki/latest/send-data/
 https://loki4j.github.io/loki-logback-appender/
@@ -25,3 +23,7 @@ https://github.com/tkowalcz/tjahzi
 
 - I have a short set of logging practices I want to apply to NCTool and FCM, captured as a note or as a follow-up action.
 - I can search a log file from the Linux terminal without looking it up.
+
+## Disposition
+
+Completed 2026-09-03. Captured as [[resources/software-engineering/logging/logging|the Logging collection]]. The Linux terminal half of the Done When was not covered.

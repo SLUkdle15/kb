@@ -24,3 +24,7 @@ Brooks:
 ## Done When
 
 A pair is bought, or the shortlist is dropped and this note is archived.
+
+## Disposition
+
+Completed 2026-09-03.

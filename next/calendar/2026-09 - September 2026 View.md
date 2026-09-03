@@ -5,18 +5,13 @@ _Generated 2026-09-02._
 ## Overdue
 
 - [[next/calendar/2026-08-09 - Order Techleague Jersey for Luong and Phi|Order Techleague Jersey for Luong and Phi]] — Mon 8/31
-- [[next/calendar/2026-08-30 - Ask Phi About His Software Job Role|Ask Phi About His Software Job Role]] — Mon 8/31
-- [[next/calendar/2026-08-26 - Tell Khai I Am Not Continuing at CKH Academy|Tell Khai I Am Not Continuing at CKH Academy]] — Tue 9/1
 
 ## Today
 
 - [[next/calendar/2026-08-11 - Every-3-Weeks Car Gas Fill-Up|Every-3-Weeks Car Gas Fill-Up]] — Wed 9/2
-- [[next/calendar/2026-09-01 - Buy Dao Keo at Sinh Tai|Buy Dao Keo at Sinh Tai]] — Wed 9/2
 
 ## This Week
 
-- [[next/calendar/2026-08-17 - Review the Efficient Spring Logging Guide in Grafana|Review the Efficient Spring Logging Guide in Grafana]] — Thu 9/3
-- [[next/next-actions/2026-09-01 - Buy Shuttlecocks for the First Badminton Session|Buy Shuttlecocks for the First Badminton Session]] — Sat 9/5
 
 ## Later This Month
 

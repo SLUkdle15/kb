@@ -1,6 +1,7 @@
 # Find Out What npm legacy-peer-deps Does
 
 Area: [[areas/technical-growth/technical-growth|Technical Growth]]
+Due: 2026-09-03
 
 ## Action
 
@@ -13,3 +14,7 @@ Find out what `npm install --legacy-peer-deps` actually does, and when reaching 
 ## Done When
 
 I can say what the flag does and decide, on a given conflict, whether to use it or fix the versions.
+
+## Disposition
+
+Completed 2026-09-03. Written up in [[resources/software-engineering/2026-09-03 - npm legacy-peer-deps Ignores Peer Dependencies|npm legacy-peer-deps Ignores Peer Dependencies]].

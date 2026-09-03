@@ -31,7 +31,7 @@ Review monthly, or during a weekly review when technical work is under active pr
 
 ## Current Actions
 
-- [[next/next-actions/2026-08-28 - Find Out What npm legacy-peer-deps Does|Find Out What npm legacy-peer-deps Does]]
+- None.
 
 ## Current Projects
 
