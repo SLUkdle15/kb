@@ -2,6 +2,26 @@
 
 Running log of Phase 1+ Task 1 and Task 2 practice reps, kept so [[projects/score-ielts-7-overall/six-week-plan|Phase 3]] can re-read every essay written so far in one sitting. Baselines live separately in [[projects/score-ielts-7-overall/writing-task-1-baseline|Writing Task 1 Baseline]] and [[projects/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2 Baseline]]. Errors from these essays are logged in [[projects/score-ielts-7-overall/error-log|Error Log]], not repeated here.
 
+## 2026-09-03 — Task 2 Opinion Practice
+
+### Prompt
+
+Some people believe that examinations are not the best way to assess a student's ability, and alternative forms of assessment would be better. To what extent do you agree or disagree?
+
+### Essay
+
+There is a school of thought a written exam is not the best way to assess a student's ability. I totally agree with this idea due to two reasons.
+
+First the proponents of this idea believe that there is no one-size-fit-all examination for all students. Some of them are not good with recalling test materials, scoring poorly despite real understanding. For example, a student may fully grasp why a chemical reaction occurs but freeze under exam trying to memorize the exact fomurlar. This mismatch means a student's true potential goes unrecognized, and closing doors to further study they are otherwise qualified for Therefore, these students may avoid traditional examination and prefer alternative forms.
+
+Second, personally presentation is a better form of assessment, which not only tests the content knowledge but also the ability to organize ideas and answer questions on the spot - skills a written exam never assesses. During the time of brainstorming, students can work with each other and spend time to study the content of the subject and creatively making power point using images and words. Then after presenting and entering Q and A session, they will learn from answering questions and discussing topic with others. These are precisely the skills employers value most making presentations a more realistic quality of future success than a written score.
+
+In conclusion, I agree the argument written exams are not best measure of ability since they penalize strong understanding delivered imperfectly on paper, while alternatives like presentations assess a fuller, more practically relevant set of skills.
+
+### Notes
+
+256 words. First draft ran short at ~190 words with a bare one-line conclusion; revised live by adding a "why it matters" sentence to each body paragraph and expanding the conclusion into a real restatement. Self-scored: Task Response ~6.5–7 (correct opinion shape, two developed reasons with concrete examples, real conclusion — a full band jump from the 08-19/08-24 baseline's 5.5–6). Coherence ~6 (still mechanical First/Second linkers, one run-on). Lexical Resource ~5.5 ("fomurlar" for *formula* still misspelled after a first failed correction attempt; "a more realistic quality of future success" is a wrong-word slip for *predictor/indicator*). Grammar ~5 — roughly 1 in 12 sentences fully clean, same error-free rate as the baseline despite the structural improvement. Confirms the baseline diagnosis: Task Response is the fast fix, grammar is the slow one. New/repeated errors logged in [[projects/score-ielts-7-overall/error-log|Error Log]].
+
 ## 2026-08-28 — Task 1 Practice
 
 ### Prompt

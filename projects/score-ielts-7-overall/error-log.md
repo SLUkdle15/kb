@@ -67,6 +67,9 @@ The most load-bearing note in the project. Its counterpart is [[projects/score-i
 | Possessive vs pronoun | I believe its advantages outweigh it disadvantages | I believe its advantages outweigh its disadvantages | 2026-08-19 |
 | Possessive vs pronoun | vehicles burn more fuel than it working capacity | vehicles burn more fuel than its normal operating capacity | 2026-08-26 |
 | Verb form after *be* | VN is heavily depend on tourism | Vietnam depends heavily on tourism | 2026-08-19 |
+| Subject-verb agreement | there is no one-size-fit-all examination | there is no one-size-fits-all examination | 2026-09-03 |
+| Missing complementizer *that* | There is a school of thought a written exam is not the best way | There is a school of thought **that** a written exam is not the best way | 2026-09-03 |
+| Missing complementizer *that* | I agree the argument written exams are not best measure of ability | I agree with the argument **that** written exams are not the best measure of ability | 2026-09-03 |
 
 Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the baseline rather than assume: articles (*a/an/the* and the zero article), plural `-s` on countable nouns, subject-verb agreement, past tense marking, prepositions after specific verbs, and word order in embedded questions.
 
