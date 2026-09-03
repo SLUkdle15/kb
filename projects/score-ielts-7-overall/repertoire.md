@@ -68,27 +68,36 @@ A topic with all four blocks stocked can answer any of the five. A topic missing
 
 **Collocations** — civic responsibility, foster a sense of community, take a toll on academic performance, stress builds up over time, prove counterproductive, equitable access, from all walks of life, a one-size-fits-all approach, extracurricular commitments, hands-on experience, instill a sense of duty, a school of thought, penalize strong understanding, a fuller and more practically relevant set of skills, answer questions on the spot
 
-**Causes** —
-
-1. *(to write)*
-2. *(to write)*
+### Compulsory Community Service
 
 **Impacts** —
 
-1. *Wellbeing (compulsory service).* Compulsory service replaces stress-relieving leisure time with obligation, which takes a toll on academic performance rather than protecting it. *A student who would otherwise unwind through sport instead spends that time on unpaid labor, arriving at school more fatigued, not less.*
-2. *Fit (compulsory service).* A uniform requirement doesn't account for students already carrying demanding commitments. *A student on the school athletics team, required to also complete two hours of park cleanup, faces physical strain that undermines both obligations.*
-3. *Fit (exams are a bad measure).* A single exam format doesn't capture every student's real ability. *A student may fully grasp why a chemical reaction occurs, yet freeze trying to recall the exact formula under exam pressure, scoring poorly despite real understanding.*
-4. *Broader skills (exams are a bad measure).* Alternative assessment forms test abilities a written exam never touches. *A presentation tests not just content knowledge but the ability to organize ideas and answer questions on the spot — skills employers value directly.*
+1. *Wellbeing.* Compulsory service replaces stress-relieving leisure time with obligation, which takes a toll on academic performance rather than protecting it. *A student who would otherwise unwind through sport instead spends that time on unpaid labor, arriving at school more fatigued, not less.*
+2. *Fit.* A uniform requirement doesn't account for students already carrying demanding commitments. *A student on the school athletics team, required to also complete two hours of park cleanup, faces physical strain that undermines both obligations.*
+
+**The other side** —
+
+1. *Equity of exposure.* Left voluntary, participation skews toward students who are already motivated or well-supported at home, so the policy's goal quietly fails for everyone else. *A shy student who would never volunteer alone is placed in a program reading to elderly residents and discovers an interest they would never have found on their own.*
+2. *Skills leisure won't teach.* Free time defaults to entertainment; structured service forces responsibility for someone else's outcome. *A student assigned to tutor younger children learns patience and accountability that playing games never would.*
+
+### Exams as a Poor Assessment Method
+
+**Impacts** —
+
+1. *Fit.* A single exam format doesn't capture every student's real ability. *A student may fully grasp why a chemical reaction occurs, yet freeze trying to recall the exact formula under exam pressure, scoring poorly despite real understanding.*
+2. *Broader skills.* Alternative assessment forms test abilities a written exam never touches. *A presentation tests not just content knowledge but the ability to organize ideas and answer questions on the spot — skills employers value directly.*
 
 **Solutions** —
 
 1. *(to write)*
 2. *(to write)*
 
-**The other side** —
+### Not Yet Stocked
 
-1. *Equity of exposure.* Left voluntary, participation skews toward students who are already motivated or well-supported at home, so the policy's goal quietly fails for everyone else. *A shy student who would never volunteer alone is placed in a program reading to elderly residents and discovers an interest they would never have found on their own.*
-2. *Skills leisure won't teach.* Free time defaults to entertainment; structured service forces responsibility for someone else's outcome. *A student assigned to tutor younger children learns patience and accountability that playing games never would.*
+**Causes** —
+
+1. *(to write)*
+2. *(to write)*
 
 **Concrete examples** — reading to residents at a care home, tutoring younger students, clearing litter from a local park, freezing on a memorized formula despite understanding the underlying chemistry, a presentation's Q&A session testing on-the-spot thinking
 
