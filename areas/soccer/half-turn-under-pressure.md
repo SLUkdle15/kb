@@ -16,6 +16,8 @@ Use when receiving the ball with a defender pressing from in front, in view.
 - [ ] Look forward first: is the vertical/penetrating pass on?
 - [ ] If forward isn't on, switch or progress diagonally.
 - [ ] Only recycle/reset if nothing forward is available.
+- [ ] After the pass, move to support the receiver — the pass isn't finished until you've given him an option.
+- [ ] Pick the support position by asking: if I were him, where would I want the passer to be? Then go there.
 
 ## Notes
 
