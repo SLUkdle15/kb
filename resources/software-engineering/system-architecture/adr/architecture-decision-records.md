@@ -11,6 +11,7 @@ Protocol: [[areas/technical-growth/write-an-adr|Write an ADR]]
 ### [[resources/software-engineering/system-architecture/2026-07-15 - FCM System Overview|FCM]]
 
 - [[resources/software-engineering/system-architecture/adr/0001 - Use a modular monolith as a single WAR|Use a Modular Monolith as a Single WAR]]
+- [[resources/software-engineering/system-architecture/adr/0003 - Keep Temp-Staging and Mitigate the Dual Write|Keep Temp-Staging and Mitigate the Dual Write]]
 
 ### [[resources/software-engineering/system-architecture/2026-07-17 - AI Chat Bot System Overview|AI Chat Bot]]
 
