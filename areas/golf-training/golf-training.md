@@ -25,6 +25,7 @@ Review monthly, or weekly during active practice cycles.
 ## Current Actions
 
 - [[next/next-actions/2026-09-01 - Buy Tripod for GoPro Phone and Camera|Buy Tripod for GoPro, Phone, and Camera]]
+- [[next/next-actions/2026-09-04 - Pick One YouTube Coach to Follow|Pick One YouTube Coach to Follow]]
 
 ## Current Projects
 

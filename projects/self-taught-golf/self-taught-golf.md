@@ -12,6 +12,7 @@ Comfortable enough to go play a full round of 18 holes.
 ## Next Actions
 
 - [[next/next-actions/2026-09-01 - Buy Tripod for GoPro Phone and Camera|Buy Tripod for GoPro, Phone, and Camera]]
+- [[next/next-actions/2026-09-04 - Pick One YouTube Coach to Follow|Pick One YouTube Coach to Follow]]
 
 ## Notes
 
