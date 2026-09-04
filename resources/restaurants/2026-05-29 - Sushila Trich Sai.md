@@ -18,7 +18,7 @@ Map:
 
 ## Past Experience
 
-Visited: 2026-05-29
+### 2026-05-29
 
 Ordered:
 - Mix set
@@ -34,3 +34,13 @@ Ratings:
 
 Notes:
 - View to West Lake, but compact.
+
+### 2026-09-04
+
+Ordered:
+- Mixed set
+- Salad rau sira
+- Com ca saba
+
+Notes:
+- The com ca saba was the weak one; the mixed set and the salad held up.
