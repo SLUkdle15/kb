@@ -10,3 +10,7 @@ Find a beginner-friendly class or lesson to set stance, grip, and swing fundamen
 ## Done When
 
 A specific beginner lesson is identified, or the decision is made to skip lessons and self-teach from the range.
+
+## Disposition
+
+Completed 2026-09-04.

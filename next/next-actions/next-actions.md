@@ -23,6 +23,5 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-01 - Take Pics of the Comics to List|Take Pics of the Comics to List]]
 - [[2026-09-01 - Buy Tripod for GoPro Phone and Camera|Buy Tripod for GoPro, Phone, and Camera]]
 - [[2026-09-03 - Search a Log File from the Linux Terminal|Search a Log File from the Linux Terminal]]
-- [[2026-09-03 - Find a Beginner Golf Lesson|Find a Beginner Golf Lesson]]
 - [[2026-09-04 - Shoot Candid Street Photos This Week|Shoot Candid Street Photos This Week]]
 - [[2026-09-04 - Set Up a Daily News Habit|Set Up a Daily News Habit]]
