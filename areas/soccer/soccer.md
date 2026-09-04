@@ -26,6 +26,7 @@ Review monthly, or weekly when actively training.
 ## Current Actions
 
 - [[next/maybe/2026-09-02 - Text the Guy to Change Weekly Soccer from Tuesday to Monday|Text the Guy to Change Weekly Soccer from Tuesday to Monday]] (someday/maybe)
+- [[next/next-actions/2026-09-04 - Stretch for Lower Back Pain After Heavy Soccer Sessions|Stretch for Lower Back Pain After Heavy Soccer Sessions]]
 
 ## Current Projects
 

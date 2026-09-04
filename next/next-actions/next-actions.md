@@ -26,3 +26,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-04 - Shoot Candid Street Photos This Week|Shoot Candid Street Photos This Week]]
 - [[2026-09-04 - Set Up a Daily News Habit|Set Up a Daily News Habit]]
 - [[2026-09-04 - Pick One YouTube Coach to Follow|Pick One YouTube Coach to Follow]]
+- [[2026-09-04 - Stretch for Lower Back Pain After Heavy Soccer Sessions|Stretch for Lower Back Pain After Heavy Soccer Sessions]]
