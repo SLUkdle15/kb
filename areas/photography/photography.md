@@ -24,7 +24,7 @@ Review monthly, or weekly when practicing actively.
 
 ## Current Projects
 
-- 
+- [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]]
 
 ## Related Resources
 

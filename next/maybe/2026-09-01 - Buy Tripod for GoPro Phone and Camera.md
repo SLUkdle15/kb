@@ -1,6 +1,6 @@
 # Buy Tripod for GoPro, Phone, and Camera
 
-Project: [[projects/learn-photography/learn-photography]]
+Project: [[projects/self-taught-photography/self-taught-photography]]
 
 ## Action
 

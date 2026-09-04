@@ -20,7 +20,7 @@ Each note should describe a clear next action. If it requires multiple steps and
 
 - [[2026-08-17 - Decide Master's Field of Study|Decide Master's Field of Study]]
 - [[2026-08-27 - Plan How to Register Temporary Residence|Plan How to Register Temporary Residence]]
-- [[2026-08-31 - Investigate What to Read to Learn Photography Basics|Investigate What to Read to Learn Photography Basics]]
 - [[2026-09-01 - Take Pics of the Comics to List|Take Pics of the Comics to List]]
 - [[2026-09-03 - Search a Log File from the Linux Terminal|Search a Log File from the Linux Terminal]]
 - [[2026-09-03 - Find a Golf Schedule and Lesson for Beginners|Find a Golf Schedule and Lesson for Beginners]]
+- [[2026-09-04 - Shoot Candid Street Photos This Week|Shoot Candid Street Photos This Week]]

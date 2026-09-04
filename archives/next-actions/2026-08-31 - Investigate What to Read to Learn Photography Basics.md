@@ -1,6 +1,6 @@
 # Investigate What to Read to Learn Photography Basics
 
-Project: [[projects/learn-photography/learn-photography|Learn Photography]]
+Project: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]]
 
 ## Action
 
