@@ -18,6 +18,10 @@ Maintain and improve golf skill, training, physical readiness, course strategy, 
 
 Review monthly, or weekly during active practice cycles.
 
+## Protocols
+
+- [[areas/golf-training/run-a-beginner-range-session|Run a Beginner Range Session]]
+
 ## Current Actions
 
 - [[next/next-actions/2026-09-01 - Buy Tripod for GoPro Phone and Camera|Buy Tripod for GoPro, Phone, and Camera]]
