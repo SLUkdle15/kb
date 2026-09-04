@@ -15,6 +15,7 @@ Comfortable shooting in manual mode and editing the results, setting exposure by
 ## Next Actions
 
 - [[next/next-actions/2026-09-04 - Shoot Candid Street Photos This Week|Shoot Candid Street Photos This Week]]
+- [[next/next-actions/2026-09-01 - Buy Tripod for GoPro Phone and Camera|Buy Tripod for GoPro, Phone, and Camera]]
 
 ## Notes
 

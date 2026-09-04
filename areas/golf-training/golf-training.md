@@ -20,7 +20,8 @@ Review monthly, or weekly during active practice cycles.
 
 ## Current Actions
 
-- 
+- [[next/next-actions/2026-09-03 - Find a Beginner Golf Lesson|Find a Beginner Golf Lesson]]
+- [[next/next-actions/2026-09-01 - Buy Tripod for GoPro Phone and Camera|Buy Tripod for GoPro, Phone, and Camera]]
 
 ## Current Projects
 
