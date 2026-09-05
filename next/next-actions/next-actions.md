@@ -27,3 +27,5 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-04 - Set Up a Daily News Habit|Set Up a Daily News Habit]]
 - [[2026-09-04 - Pick One YouTube Coach to Follow|Pick One YouTube Coach to Follow]]
 - [[2026-09-04 - Stretch for Lower Back Pain After Heavy Soccer Sessions|Stretch for Lower Back Pain After Heavy Soccer Sessions]]
+- [[2026-09-05 - Get the Broken Gas Cap Fixed|Get the Broken Gas Cap Fixed]]
+- [[2026-09-05 - Clean the Smelly Helmet|Clean the Smelly Helmet]]
