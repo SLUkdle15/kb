@@ -70,6 +70,12 @@ The most load-bearing note in the project. Its counterpart is [[projects/score-i
 | Subject-verb agreement | there is no one-size-fit-all examination | there is no one-size-fits-all examination | 2026-09-03 |
 | Missing complementizer *that* | There is a school of thought a written exam is not the best way | There is a school of thought **that** a written exam is not the best way | 2026-09-03 |
 | Missing complementizer *that* | I agree the argument written exams are not best measure of ability | I agree with the argument **that** written exams are not the best measure of ability | 2026-09-03 |
+| Missing relative pronoun before verb | a student never needed to collaborate with peers may struggle with teamwork | a student **who** never needed to collaborate with peers may struggle with teamwork | 2026-09-05 |
+| Subject-verb agreement | thinking abilities which is organizing ideas | thinking abilities which **are** organizing ideas | 2026-09-05 |
+| Subject-verb agreement | a task that require not only thinking abilities | a task that **requires** not only thinking abilities | 2026-09-05 |
+| Missing article | froze in a job interview because he was put to answer unfamiliar problem | froze in a job interview because he was asked to solve **an** unfamiliar problem | 2026-09-05 |
+| Missing article | struggle when real job required judgment | struggle when **a** real job **requires** judgment | 2026-09-05 |
+| Plural -s on countable nouns | incorporate presentations with group project | incorporate presentations with group **projects** | 2026-09-05 |
 
 Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the baseline rather than assume: articles (*a/an/the* and the zero article), plural `-s` on countable nouns, subject-verb agreement, past tense marking, prepositions after specific verbs, and word order in embedded questions.
 
@@ -87,6 +93,8 @@ Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the ba
 | enforce its worker to work | require its workers to work | *enforce* applies to rules, not to compelling a person directly | 2026-08-26 |
 | the Vietnam government | the Vietnamese government | need the adjective form for the country, not the noun | 2026-08-26 |
 | cyclers | cyclists | wrong noun form for people who cycle | 2026-08-28 |
+| oppositions | opponents / critics | "opposition" as a group holding a view is not normally pluralized | 2026-09-05 |
+| subsize | mitigate / reduce | not an English word — likely a blend of "subsidize" and "minimize" | 2026-09-05 |
 | the decline trend | the downward trend | need the adjective form — third time this pattern has appeared, after *history movies* and *the Vietnam government* | 2026-08-29 |
 | that figure for sport activity raise slightly | the figure for sport rose slightly | *raise* is transitive, you raise something; *rise* is what a figure does on its own | 2026-08-29 |
 | recorded the significant in the percentages | recorded a significant increase in the percentages | the head noun is missing | 2026-08-29 |
@@ -120,6 +128,7 @@ The Task 1 entries are logged on first sighting, against the repeated-errors-onl
 | Under the 150-word minimum | Task 1 practice, ~95 words — worse than the 08-29 miss, third occurrence | 2026-08-31 |
 | No overview sentence | Task 1 practice, jumped straight to "First," — no intro, no overview at all | 2026-08-31 |
 | Figure misread from the chart | Task 1 practice, "subsided again in 2019 to 10%" for a fall to 10 hours — swapped the unit, not just the number | 2026-08-31 |
+| Wrong essay-type framing — importing another type's rhetorical convention | Discuss-both-views compulsory-service attempt (08-21) answered as pure opinion with no other view; Problem/Solution practice (09-05) opened a body paragraph with "The oppositions for this argument will argue," inventing a concession/rebuttal stance the question never asked for and contradicting the intro's own "I believe" | 2026-09-05 |
 
 ## Fixed
 
