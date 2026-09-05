@@ -9,6 +9,8 @@ Every: Monday and Thursday 21:00-21:15
 - Bird dog — 8 reps each side, 1 set
 - Hip flexor stretch — 30s each side, 1 set
 
+Also stretch after any heavy soccer session, not just on the Monday/Thursday schedule — treat it as standard cooldown (cat-cow, child's pose, seated spinal twist, hip flexor stretch), not something to do only once pain is already bad.
+
 ## Done When
 
 Recurring — stays here while the routine is on.

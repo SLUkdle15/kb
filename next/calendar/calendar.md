@@ -49,3 +49,4 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 - [[next/calendar/2026-08-09 - Order Techleague Jersey for Luong and Phi]] — 2026-08-31 (moved from maybe)
 - [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November]] — 2026-09-21 (backstop: last safe week to book for mid-November)
 - [[next/calendar/2026-09-03 - Review Six Weeks of Lower Back Tracking]] — 2026-10-15 (six-week checkpoint on the lower back routine; physio if no change)
+- [[next/calendar/2026-09-06 - Review Error Log for the Missing That Pattern]] — 2026-09-06 (Sunday rest-day error-log drill)
