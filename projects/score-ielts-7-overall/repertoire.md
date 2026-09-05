@@ -94,6 +94,20 @@ A topic with all four blocks stocked can answer any of the five. A topic missing
 1. *(to write)*
 2. *(to write)*
 
+### Schools Over-Teach Facts Over Life Skills
+
+**Collocations** — judgment rather than recall, negotiating roles and resolving disagreement, technical knowledge alone doesn't get the job done
+
+**Impacts** —
+
+1. *Thinking abilities gap.* A student who scores well by memorizing facts may struggle when a job or real situation requires judgment rather than recall. *A student who aces every exam freezes in a job interview that asks how they'd handle an unfamiliar problem, not what they know.*
+2. *Social skills gap.* Fact-based learning is usually solitary; a student never required to collaborate or negotiate with peers may struggle with teamwork or conflict at work. *Technical knowledge alone doesn't get the job done when a workplace disagreement needs resolving.*
+
+**Solutions** —
+
+1. *Presentations.* Replacing written exams with presentations forces students to organize ideas and answer questions on the spot, addressing the thinking-abilities gap directly.
+2. *Group projects.* Requiring students to negotiate roles and resolve disagreement in a group project builds the collaboration skills that solitary fact-based learning never touches.
+
 ### Not Yet Stocked
 
 **Causes** —
