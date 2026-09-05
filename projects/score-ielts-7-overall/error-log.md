@@ -76,6 +76,11 @@ The most load-bearing note in the project. Its counterpart is [[projects/score-i
 | Missing article | froze in a job interview because he was put to answer unfamiliar problem | froze in a job interview because he was asked to solve **an** unfamiliar problem | 2026-09-05 |
 | Missing article | struggle when real job required judgment | struggle when **a** real job **requires** judgment | 2026-09-05 |
 | Plural -s on countable nouns | incorporate presentations with group project | incorporate presentations with group **projects** | 2026-09-05 |
+| Missing complementizer *that* | a disadvantage is a student with social anxiety...may know the material | a disadvantage is **that** a student with social anxiety...may know the material | 2026-09-05 |
+| Missing complementizer *that* | one advantage is this format testing the knowledge directly | one advantage is **that** this format tests the knowledge directly | 2026-09-05 |
+| Subject-verb agreement | makes their potential go unrecognized and hinder their futures | makes their potential go unrecognized and **hinders** their futures | 2026-09-05 |
+| Plural -s on countable nouns | choose words and image to put on a slide | choose words and **images** to put on a slide | 2026-09-05 |
+| Verb form after *be* | students with social anxiety are often avoid it | students with social anxiety **often avoid** it | 2026-09-05 |
 
 Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the baseline rather than assume: articles (*a/an/the* and the zero article), plural `-s` on countable nouns, subject-verb agreement, past tense marking, prepositions after specific verbs, and word order in embedded questions.
 
@@ -99,6 +104,7 @@ Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the ba
 | that figure for sport activity raise slightly | the figure for sport rose slightly | *raise* is transitive, you raise something; *rise* is what a figure does on its own | 2026-08-29 |
 | recorded the significant in the percentages | recorded a significant increase in the percentages | the head noun is missing | 2026-08-29 |
 | the number of doing housework decreased | the number of hours spent on housework decreased | the head noun ("hours") is missing again, same pattern as 08-29 | 2026-08-31 |
+| tradition written exams | traditional written exams | need the adjective form — 4th occurrence of this pattern, after *history movies*, *the Vietnam government*, *the decline trend* | 2026-09-05 |
 
 ## Pronunciation
 
@@ -129,6 +135,7 @@ The Task 1 entries are logged on first sighting, against the repeated-errors-onl
 | No overview sentence | Task 1 practice, jumped straight to "First," — no intro, no overview at all | 2026-08-31 |
 | Figure misread from the chart | Task 1 practice, "subsided again in 2019 to 10%" for a fall to 10 hours — swapped the unit, not just the number | 2026-08-31 |
 | Wrong essay-type framing — importing another type's rhetorical convention | Discuss-both-views compulsory-service attempt (08-21) answered as pure opinion with no other view; Problem/Solution practice (09-05) opened a body paragraph with "The oppositions for this argument will argue," inventing a concession/rebuttal stance the question never asked for and contradicting the intro's own "I believe" | 2026-09-05 |
+| Under the 250-word minimum (Task 2) | Advantages/Disadvantages practice, 241 words — first Task 2 miss; Task 1 has missed length three times already | 2026-09-05 |
 
 ## Fixed
 

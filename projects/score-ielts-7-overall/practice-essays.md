@@ -79,3 +79,23 @@ In conclusion, I believe the argument above has 2 issues since without thinking 
 ### Notes
 
 266 words. Structural mistake: "The oppositions for this argument will argue that..." imports discuss-both-views/opinion framing into a Problem and Solution essay, which has no opposition to invoke — contradicts the intro's own "I believe" stance. Same root mistake (wrong essay-type convention) as the 08-21 compulsory-service attempt, now a repeat. Self-scored: Task Response ~6 (both named skill gaps — thinking, social — addressed specifically with matched solutions, undercut by the framing contradiction). Coherence ~6. Lexical Resource ~6 ("negotiating roles and resolving disagreement" reused correctly from the repertoire — the banking is paying off; "subsize" is not a word, likely meant *mitigate*). Grammar ~5–5.5, but genuinely improved: roughly 4 of 12 sentences fully clean (~33%), versus ~10-15% in the two prior essays — the first real movement on the binding constraint. New/repeated errors logged in [[projects/score-ielts-7-overall/error-log|Error Log]].
+
+## 2026-09-05 — Task 2 Advantages and Disadvantages Practice
+
+### Prompt
+
+An increasing number of schools are replacing traditional written exams with project-based and presentation assessments. Discuss the advantages and disadvantages of this change.
+
+### Essay
+
+There is a school of thought that more and more schools are choosing project-based and presentation assessments instead of traditional written exams. I will discuss and advantage and a disadvantage over this argument.
+
+The proponents of this view argue that traditional exams fail to capture every student's real ability. For example, a student may fully grasp why a chemical reaction occurs yet freeze trying to recall the exact formula despite real understanding. This penalizes students who understand but can't recall the needed knowledge, which makes their potential go unrecognized and hinder their futures. Project-based assessment avoids this by testing understanding directly rather than recall under pressure.
+
+In contrast, a disadvantage is a student with social anxiety or limited public-speaking experience may know the material yet scores worse simply because presenting live and fielding unplanned questions isn't a skill traditional teaching ever prepared them. For example, every student will have to sit down and organize ideas, choose words and image to put on a slide, also practice presenting on the fly. This penalizes these students who also understand but struggle to present Infront of people or spontaneous speech.
+
+In conclusion, the view of more schools is leaning to project-based and presentation assessments instead of tradition written exams assessment has both advantages and disadvantages. In this essay, I named one advantage is this format testing the knowledge directly instead of recall while one disadvantage is students with social anxiety are often avoid it.
+
+### Notes
+
+241 words — under the 250 minimum, a first for Task 2 (Task 1 has missed length three times already). Correctly avoided the previous essay's wrong-framing mistake: "proponents of this view argue" is appropriate here since no personal opinion is required by an Advantages/Disadvantages prompt, unlike the Problem/Solution essay's contradicted "I believe." Self-scored: Task Response ~5.5–6 (both sides genuinely well-developed — the advantage paragraph is the best-written paragraph of the day — but under-length is an explicit, real penalty per the plan). Coherence ~6 ("In contrast" is a real linking phrase, first time this week without mechanical First/Second — genuine improvement; conclusion's opening sentence is a run-on). Lexical Resource ~6 (banked language reused precisely; "tradition written exams" for "traditional" is a 4th occurrence of the adjective-form slip). Grammar ~5.5, ~4 of 11 sentences clean (~36%) — continues the day's upward trend (15% → 33% → 36%). Missing complementizer "that" dropped three times in this essay alone, now the single most-repeated specific pattern across all three of today's essays. New/repeated errors logged in [[projects/score-ielts-7-overall/error-log|Error Log]].
