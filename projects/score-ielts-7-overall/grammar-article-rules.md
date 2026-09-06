@@ -12,6 +12,8 @@ If the noun is singular and countable, it needs `a`, `an`, `the`, or a possessiv
 
 Scan habit: after writing a sentence, check every singular noun for an article or possessive right before it.
 
+**This "no exceptions" rule is singular-only.** Plural countable nouns can stand alone with zero article when generic — "**cars** are useful," "**students** prefer online learning" — the same zero-article option uncountable nouns have. A singular countable noun has no such option; it is the one case that always needs a determiner. See the generic-vs-specific rule below for when a plural or uncountable noun does need *the*.
+
 ## Superlatives Always Take *the*
 
 *The most, the least, the highest, the fastest* — a superlative names the one extreme out of three or more, so it is always definite.
