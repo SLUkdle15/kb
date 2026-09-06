@@ -17,3 +17,4 @@ Use this folder for things blocked by someone or something else.
 
 - [[next/waiting/2026-08-17 - TPBank Savings Term Matures|TPBank Savings Term Matures]] — follow up 2027-02-16 (6-month term at 6.2%, opened 2026-08-16)
 - [[next/waiting/2026-08-17 - Soccer Field Deposit of 2M VND|Soccer Field Deposit of 2M VND]] — my deposit as renter, returned when the field rental ends (no date; event trigger in the soccer area)
+- [[next/waiting/2026-09-06 - Badminton Costs I Owe|Badminton Costs I Owe]] — 840k court + 660k shuttlecocks, to hand over at the next Weekly Saturday Badminton session
