@@ -13,4 +13,4 @@ The "that"-drop pattern is reviewed and a few sentences corrected by hand. Not a
 
 ## Disposition
 
-Completed 2026-09-06. Pattern distilled into a standing rules note, [[projects/score-ielts-7-overall/grammar-complementizer-that|Missing Complementizer "That"]].
+Completed 2026-09-06. Pattern distilled into a standing rules note, since merged into [[projects/score-ielts-7-overall/grammar-other-patterns|Other Grammar Patterns]].

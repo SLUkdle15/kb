@@ -17,4 +17,4 @@ Plural rule is clear enough to self-correct while writing, not just after. One c
 
 ## Disposition
 
-Completed 2026-08-29. The plural half produced [[projects/score-ielts-7-overall/grammar-uncountable-nouns|Uncountable Nouns]], a standing reference for the wrongly-added-`-s` direction.
+Completed 2026-08-29. The plural half produced a standing reference for the wrongly-added-`-s` direction, since merged into [[projects/score-ielts-7-overall/grammar-countable-uncountable-nouns|Countable and Uncountable Nouns]].

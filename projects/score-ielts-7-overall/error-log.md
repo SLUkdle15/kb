@@ -1,6 +1,6 @@
 # Error Log
 
-The most load-bearing note in the project. Its counterpart is [[projects/score-ielts-7-overall/repertoire|Repertoire]] — this note is what to stop doing, that one is what to reuse. Plural nouns also have a rules note: [[projects/score-ielts-7-overall/grammar-uncountable-nouns|Uncountable Nouns]], for the wrongly-added-`-s` direction that corrected sentences alone do not fix. The missing-*that* pattern has its own note too: [[projects/score-ielts-7-overall/grammar-complementizer-that|Missing Complementizer "That"]]. Band 7 grammar is defined as *frequent error-free sentences*, and the fastest way to produce more of them is to stop making the same five mistakes rather than to learn new structures.
+The most load-bearing note in the project. Its counterpart is [[projects/score-ielts-7-overall/repertoire|Repertoire]] — this note is what to stop doing, that one is what to reuse. Plural nouns also have a rules note: [[projects/score-ielts-7-overall/grammar-countable-uncountable-nouns|Countable and Uncountable Nouns]], for the wrongly-added-`-s` direction that corrected sentences alone do not fix. Everything else that doesn't fit there or in [[projects/score-ielts-7-overall/grammar-article-rules|Article Rules]] — the missing-*that* pattern included — lives in [[projects/score-ielts-7-overall/grammar-other-patterns|Other Grammar Patterns]]. Band 7 grammar is defined as *frequent error-free sentences*, and the fastest way to produce more of them is to stop making the same five mistakes rather than to learn new structures.
 
 ## Rules
 

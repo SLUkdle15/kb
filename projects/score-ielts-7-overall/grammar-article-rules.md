@@ -1,22 +1,6 @@
 # Article Rules
 
-Check a sentence against these before moving to the next one. Repeat categories in [[projects/score-ielts-7-overall/error-log|the error log]], distilled from the 08-31 self-score and the 09-01 police-budget rep.
-
-## Quick Cards
-
-| Pattern | ❌ | ✅ | Rule |
-| --- | --- | --- | --- |
-| Generic group + relative clause | "the proportion of **the** cars ran through this road" | "the proportion of cars **that** ran through this road" | Generic group → no *the*. Connect noun to its clause with *that/which*. |
-
-## A Singular Countable Noun Cannot Stand Alone
-
-If the noun is singular and countable, it needs `a`, `an`, `the`, or a possessive/demonstrative in front of it — no exceptions.
-
-- ❌ "a household performed average of 50 hours" → ✅ "a household performed **an** average of 50 hours"
-- ❌ "I have chance to learn before" → ✅ "I have **a** chance to learn before"
-- ❌ "Second option is to ban heavy duty transportations" → ✅ "**A** second option is to ban heavy-duty transportation"
-
-Scan habit: after writing a sentence, check every singular noun for an article or possessive right before it.
+Check a sentence against these before moving to the next one. Repeat categories in [[projects/score-ielts-7-overall/error-log|the error log]], distilled from the 08-31 self-score and the 09-01 police-budget rep. Countable-noun and collective-noun article rules live in [[projects/score-ielts-7-overall/grammar-countable-uncountable-nouns|Countable and Uncountable Nouns]] instead.
 
 ## Superlatives Always Take *the*
 
@@ -37,7 +21,3 @@ The instinct to reach for countable/uncountable here is wrong. Both countable an
 - **Specific (needs *the*), either kind:** "There were 200 cars in the survey; the proportion of **the cars** that were red was 20%" — one exact, previously-named set.
 
 Fix for "the proportion of the cars ran through this road": drop *the* (generic group, not a pre-identified one) and add the missing relative pronoun — **"the proportion of cars *that* ran through this road."**
-
-## Collective Nouns Don't Take *-s*
-
-*Staff* (like *police*, *faculty*, *crew*) is a collective/group noun — never *staffs*. Say *"the staff are trained"* or use *staff members* for individuals. Same pattern as [[projects/score-ielts-7-overall/grammar-uncountable-nouns|Uncountable Nouns]]: looks like it should pluralise, doesn't.
