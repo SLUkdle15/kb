@@ -10,3 +10,7 @@ Due: 2026-09-06
 ## Done When
 
 The "that"-drop pattern is reviewed and a few sentences corrected by hand. Not a full new essay — today was the volume day, this is the rest day.
+
+## Disposition
+
+Completed 2026-09-06. Pattern distilled into a standing rules note, [[projects/score-ielts-7-overall/grammar-complementizer-that|Missing Complementizer "That"]].
