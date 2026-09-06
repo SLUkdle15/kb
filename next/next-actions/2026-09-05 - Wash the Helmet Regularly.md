@@ -1,4 +1,4 @@
-# Prevent the Helmet from Getting Smelly
+# Wash the Helmet Regularly
 
 ## Action
 
