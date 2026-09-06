@@ -1,6 +1,16 @@
 # Article Rules
 
-Check a sentence against these before moving to the next one. Repeat categories in [[projects/score-ielts-7-overall/error-log|the error log]], distilled from the 08-31 self-score and the 09-01 police-budget rep. Countable-noun and collective-noun article rules live in [[projects/score-ielts-7-overall/grammar-countable-uncountable-nouns|Countable and Uncountable Nouns]] instead.
+Check a sentence against these before moving to the next one. Repeat categories in [[projects/score-ielts-7-overall/error-log|the error log]], distilled from the 08-31 self-score and the 09-01 police-budget rep. Collective-noun and uncountable-noun rules live in [[projects/score-ielts-7-overall/grammar-countable-uncountable-nouns|Countable and Uncountable Nouns]] instead.
+
+## Singular Countable Nouns Need an Article
+
+If the noun is singular and countable, it needs `a`, `an`, `the`, or a possessive/demonstrative in front of it — no exceptions.
+
+- ❌ "a household performed average of 50 hours" → ✅ "a household performed **an** average of 50 hours"
+- ❌ "I have chance to learn before" → ✅ "I have **a** chance to learn before"
+- ❌ "Second option is to ban heavy duty transportations" → ✅ "**A** second option is to ban heavy-duty transportation"
+
+Scan habit: after writing a sentence, check every singular noun for an article or possessive right before it.
 
 ## Superlatives Always Take *the*
 

@@ -1,16 +1,6 @@
 # Countable and Uncountable Nouns
 
-Check a noun against this before writing the next sentence. Repeat categories in [[projects/score-ielts-7-overall/error-log|the error log]], distilled from the 08-27 through 09-01 self-scores.
-
-## Singular Countable Nouns Need an Article
-
-If the noun is singular and countable, it needs `a`, `an`, `the`, or a possessive/demonstrative in front of it — no exceptions.
-
-- ❌ "a household performed average of 50 hours" → ✅ "a household performed **an** average of 50 hours"
-- ❌ "I have chance to learn before" → ✅ "I have **a** chance to learn before"
-- ❌ "Second option is to ban heavy duty transportations" → ✅ "**A** second option is to ban heavy-duty transportation"
-
-Scan habit: after writing a sentence, check every singular noun for an article or possessive right before it.
+Check a noun against this before writing the next sentence. Repeat categories in [[projects/score-ielts-7-overall/error-log|the error log]], distilled from the 08-27 through 09-01 self-scores. Whether a singular countable noun needs an article is an article rule, not a countability rule — see [[projects/score-ielts-7-overall/grammar-article-rules|Article Rules]] instead.
 
 ## Uncountable Nouns Never Take *-s*
 

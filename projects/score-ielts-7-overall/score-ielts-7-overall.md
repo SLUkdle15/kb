@@ -80,8 +80,8 @@ Nothing about the plan changes — Phase 1 is the same work against either date.
 - [[projects/score-ielts-7-overall/error-log|Error Log]] — running list of repeated mistakes. This is the single most load-bearing note in the project.
 - [[projects/score-ielts-7-overall/practice-essays|Practice Essays]] — running log of Phase 1+ reps, kept for the Phase 3 re-read.
 - [[projects/score-ielts-7-overall/repertoire|Repertoire]] — the counterpart bank, arranged by topic: collocations, arguments, examples, and Part 2 stories worth reusing.
-- [[projects/score-ielts-7-overall/grammar-countable-uncountable-nouns|Countable and Uncountable Nouns]] — articles on countable nouns, the never-take-`-s` list, and collective nouns.
-- [[projects/score-ielts-7-overall/grammar-article-rules|Article Rules]] — superlatives and generic vs. specific *the*, checked before the next sentence.
+- [[projects/score-ielts-7-overall/grammar-countable-uncountable-nouns|Countable and Uncountable Nouns]] — the never-take-`-s` list, singular-verb rule, and collective nouns.
+- [[projects/score-ielts-7-overall/grammar-article-rules|Article Rules]] — singular countable nouns, superlatives, and generic vs. specific *the*, checked before the next sentence.
 - [[projects/score-ielts-7-overall/grammar-other-patterns|Other Grammar Patterns]] — the missing-*that* complementizer and verb + preposition collocations.
 - [[projects/score-ielts-7-overall/task-1-writing-prep|Task 1 Writing Prep]] — intro structure, precise collocations, the chart-relationship sentence, and coherence, checked before the next Task 1 attempt.
 - [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]] — which tests from books 16-20 are spent, and what stays unseen for the mocks.
