@@ -12,3 +12,7 @@ Watch a few candidates on one topic — the grip, say — and pick the one that 
 ## Done When
 
 One channel is chosen, and one reference swing from it is saved somewhere retrievable to compare films against.
+
+## Progress
+
+Channel chosen: Danny Maude. Still need a saved reference swing from him before this is done.
