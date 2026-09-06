@@ -27,3 +27,4 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-02 - Text the Guy to Change Weekly Soccer from Tuesday to Monday|Text the Guy to Change Weekly Soccer from Tuesday to Monday]] — Area: [[areas/soccer/soccer|Soccer]]
 - [[2026-09-01 - Buy Tripod for GoPro Phone and Camera|Buy Tripod for GoPro, Phone, and Camera]] — Projects: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]], [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 - [[2026-09-06 - Check Metro Line 6 Progress|Check Metro Line 6 Progress]]
+- [[2026-09-06 - Put More Effort into Taking Care of the Tree|Put More Effort into Taking Care of the Tree]]
