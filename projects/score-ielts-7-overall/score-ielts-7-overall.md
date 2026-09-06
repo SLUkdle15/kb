@@ -82,6 +82,7 @@ Nothing about the plan changes — Phase 1 is the same work against either date.
 - [[projects/score-ielts-7-overall/repertoire|Repertoire]] — the counterpart bank, arranged by topic: collocations, arguments, examples, and Part 2 stories worth reusing.
 - [[projects/score-ielts-7-overall/grammar-uncountable-nouns|Uncountable Nouns]] — the nouns that never take `-s`, checked before pluralising.
 - [[projects/score-ielts-7-overall/grammar-article-rules|Article Rules]] — singular countable nouns and superlatives, checked before the next sentence.
+- [[projects/score-ielts-7-overall/grammar-complementizer-that|Missing Complementizer "That"]] — noun + defining-clause and *is that* patterns, checked before the next sentence.
 - [[projects/score-ielts-7-overall/task-1-writing-prep|Task 1 Writing Prep]] — intro structure, precise collocations, the chart-relationship sentence, and coherence, checked before the next Task 1 attempt.
 - [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]] — which tests from books 16-20 are spent, and what stays unseen for the mocks.
 - [[projects/score-ielts-7-overall/materials|Materials]] — the short list of sources, and what to ignore.
