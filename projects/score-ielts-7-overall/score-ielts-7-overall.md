@@ -74,6 +74,7 @@ Nothing about the plan changes — Phase 1 is the same work against either date.
 ## Plan
 
 - [[projects/score-ielts-7-overall/six-week-plan|Six-Week Plan]] — week-by-week schedule and the one-hour daily template.
+- [[projects/score-ielts-7-overall/2026-09-06 - Week of 2026-09-07 Prep Plan|Week of 2026-09-07 Prep Plan]] — this week's template instance, day by day.
 - [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] — what actually separates a 5.5 essay from a 6.5 one, plus the self-scoring pass.
 - [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]] — the long-turn and Part 3 mechanics, and the recording loop.
 - [[projects/score-ielts-7-overall/error-log|Error Log]] — running list of repeated mistakes. This is the single most load-bearing note in the project.
