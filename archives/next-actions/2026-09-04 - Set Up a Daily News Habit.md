@@ -14,3 +14,7 @@ Checking against [[areas/personal-development/favorite-problems|Favorite Problem
 ## Done When
 
 Sources are chosen, the cue is written as "I will [read X] at [TIME] in [LOCATION]" or stacked on an existing habit, a two-minute version of the rep is defined, and the first rep is done.
+
+## Disposition
+
+Completed 2026-09-04. Cue: "After I have morning coffee, I will read the news" (stacked). Sources: all three — tech, business, and world, as one read rather than a single narrowed category. First rep done. Flagged but not resolved: reading all three risks running past the two-minute cap and blurring the single identity this note said the choice should set — worth revisiting if the rep starts creeping past two minutes. Marked as a top-priority habit, so reps should be logged.
