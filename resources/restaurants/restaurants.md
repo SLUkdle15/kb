@@ -60,6 +60,7 @@ Add restaurant links here as notes are created.
 - [[2026-08-27 - Son Yum Thai|Son Yum Thai]]
 - [[2026-08-29 - Khrua Baan Thai|Khrua Baan Thai]]
 - [[2026-08-31 - Banh Trang Thit Heo Giang My Signature|Bánh Tráng Thịt Heo Giang Mỹ Signature]]
+- [[2026-09-06 - Lau Ga La E Thai Ha|Lẩu Gà Lá É - Thái Hà]]
 
 ## Decision Prompt
 
