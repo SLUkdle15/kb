@@ -25,5 +25,6 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-04 - Shoot Candid Street Photos This Week|Shoot Candid Street Photos This Week]]
 - [[2026-09-04 - Set Up a Daily News Habit|Set Up a Daily News Habit]]
 - [[2026-09-04 - Pick One YouTube Coach to Follow|Pick One YouTube Coach to Follow]]
+- [[2026-09-06 - Go to the Range and Run a Contact Tally Session|Go to the Range and Run a Contact Tally Session]]
 - [[2026-09-05 - Get the Broken Gas Cap Fixed|Get the Broken Gas Cap Fixed]]
 - [[2026-09-05 - Prevent the Helmet from Getting Smelly|Prevent the Helmet from Getting Smelly]]

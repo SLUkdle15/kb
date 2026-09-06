@@ -25,6 +25,7 @@ Review monthly, or weekly during active practice cycles.
 ## Current Actions
 
 - [[next/next-actions/2026-09-04 - Pick One YouTube Coach to Follow|Pick One YouTube Coach to Follow]]
+- [[next/next-actions/2026-09-06 - Go to the Range and Run a Contact Tally Session|Go to the Range and Run a Contact Tally Session]]
 
 ## Current Projects
 
