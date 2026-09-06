@@ -2,7 +2,7 @@
 
 ## Action
 
-Clean the helmet's interior padding now, then set up a habit to stop the smell from coming back — e.g. air it out and let padding dry fully after every ride, wipe padding with an antibacterial/odor spray regularly, and store it somewhere ventilated rather than sealed up.
+Wash the helmet's interior padding now, then set up a habit of washing it regularly so the smell doesn't come back.
 
 ## Done When
 
