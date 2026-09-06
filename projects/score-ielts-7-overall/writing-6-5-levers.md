@@ -32,6 +32,7 @@ That last line is the most useful sentence in the whole descriptor set. Band 7 g
 - **The overview sentence is mandatory.** No overview means Task Achievement cannot pass 5. Write it second, right after the paraphrased introduction, and start it with a plain "Overall,".
 - **Select, do not list.** Band 6 describes every number; band 7 selects the key features and compares them. Two or three body sentences with the biggest contrast beats an exhaustive tour of the data.
 - **Twenty minutes, hard stop.** Task 1 is worth a third of the Writing score. Running to 30 minutes trades a small Task 1 gain for a large Task 2 loss.
+- **Use *that of* / *those of* to compare without repeating the noun.** "The population of City A was higher than **that of** City B" (singular noun compared) or "exports from Country A exceeded **those of** Country B" (plural noun compared) — cleaner than repeating "the population of" or "the exports of," and it reads as deliberate cohesion rather than mechanical repetition.
 
 ## Timing on the Day
 

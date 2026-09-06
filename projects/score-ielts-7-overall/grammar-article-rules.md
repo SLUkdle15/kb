@@ -33,3 +33,13 @@ The instinct to reach for countable/uncountable here is wrong. Both countable an
 - **Specific (needs *the*), either kind:** "There were 200 cars in the survey; the proportion of **the cars** that were red was 20%" — one exact, previously-named set.
 
 Fix for "the proportion of the cars ran through this road": drop *the* (generic group, not a pre-identified one) and add the missing relative pronoun — **"the proportion of cars *that* ran through this road."**
+
+## *The* vs. *This/These* vs. *That/Those*
+
+*The* carries no sense of near or far — just "specific and already identified," for singular, plural, or uncountable alike: *the chart*, *the data*, *the cars*.
+
+*This/these* point near — just introduced, or physically close: "The chart shows three categories. **These** categories differ across income groups."
+
+*That/those* point far — mentioned a while back, or set in contrast to something closer: "By 2020 housing spending had risen; food spending stayed close to **those** 1990 levels."
+
+*This/these/that/those* also work as determiners in front of a noun (like *a/an/the*, per the singular-countable-noun rule above) or stand alone as pronouns.
