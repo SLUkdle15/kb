@@ -29,7 +29,7 @@ Review monthly, or weekly when a migration or incident is active.
 
 ## Next Actions
 
-- [[next/next-actions/2026-09-03 - Search a Log File from the Linux Terminal|Search a Log File from the Linux Terminal]]
+- 
 
 ## Related Resources
 
