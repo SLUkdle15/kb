@@ -40,6 +40,7 @@ Review monthly, or weekly when the relationship needs active attention.
 - [[next/maybe/2026-09-03 - Date Night at Son Yum Thai|Date Night at Son Yum Thai]]
 - [[next/calendar/2026-09-02 - Weekly Saturday Badminton|Weekly Saturday Badminton]]
 - [[next/maybe/2026-09-07 - Follow Event News Like VnExpress for Date Ideas|Follow Event News Like VnExpress for Date Ideas]]
+- [[next/calendar/2026-09-07 - Hand Her Tuoi Tho Du Doi|Hand Her Tuoi Tho Du Doi]]
 
 ## Current Projects
 
