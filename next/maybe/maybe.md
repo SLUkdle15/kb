@@ -28,3 +28,4 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-01 - Buy Tripod for GoPro Phone and Camera|Buy Tripod for GoPro, Phone, and Camera]] — Projects: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]], [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 - [[2026-09-06 - Check Metro Line 6 Progress|Check Metro Line 6 Progress]]
 - [[2026-09-06 - Put More Effort into Taking Care of the Tree|Put More Effort into Taking Care of the Tree]]
+- [[2026-09-07 - Follow Event News Like VnExpress for Date Ideas|Follow Event News Like VnExpress for Date Ideas]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
