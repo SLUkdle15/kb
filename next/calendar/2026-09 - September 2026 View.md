@@ -4,7 +4,7 @@ _Generated 2026-09-02._
 
 ## Overdue
 
-- [[next/calendar/2026-08-09 - Order Techleague Jersey for Luong and Phi|Order Techleague Jersey for Luong and Phi]] — Mon 8/31
+- [[archives/next-actions/2026-08-09 - Order Techleague Jersey for Luong and Phi|Order Techleague Jersey for Luong and Phi]] — Mon 8/31
 
 ## Today
 
