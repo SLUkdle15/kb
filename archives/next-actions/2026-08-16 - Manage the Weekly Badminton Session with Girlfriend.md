@@ -15,7 +15,7 @@ Slot is set: [[next/calendar/2026-09-02 - Weekly Saturday Badminton|Weekly Satur
 - **Players.** Nobody lined up yet. A rented court needs enough people to be worth playing.
 - **A manager.** No one is gathering players or collecting the fee. Either find someone to do it or accept doing it myself.
 - **Rotation.** How players get shuffled across the court — who plays, who sits, how pairs rotate — so the session runs without someone arbitrating it every week.
-- **Money.** Solved — see [[areas/badminton/monthly-cost-and-collection|Monthly Cost & Collection]]: court + shuttles run 375,000/session, collected at 63,000/head (6 players) or 54,000/head (7 players).
+- **Money.** Solved — see [[archives/monthly-cost-and-collection|Monthly Cost & Collection]]: court + shuttles run 375,000/session, collected at 63,000/head (6 players) or 54,000/head (7 players).
 
 ## Done When
 
