@@ -29,3 +29,4 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-06 - Check Metro Line 6 Progress|Check Metro Line 6 Progress]]
 - [[2026-09-06 - Put More Effort into Taking Care of the Tree|Put More Effort into Taking Care of the Tree]]
 - [[2026-09-07 - Follow Event News Like VnExpress for Date Ideas|Follow Event News Like VnExpress for Date Ideas]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
+- [[2026-09-07 - Get a Lower Back MRI at Tam Anh|Get a Lower Back MRI at Tam Anh]] — hold until the six-week checkpoint on 2026-10-15
