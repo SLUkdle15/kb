@@ -99,3 +99,43 @@ In conclusion, the view of more schools is leaning to project-based and presenta
 ### Notes
 
 241 words — under the 250 minimum, a first for Task 2 (Task 1 has missed length three times already). Correctly avoided the previous essay's wrong-framing mistake: "proponents of this view argue" is appropriate here since no personal opinion is required by an Advantages/Disadvantages prompt, unlike the Problem/Solution essay's contradicted "I believe." Self-scored: Task Response ~5.5–6 (both sides genuinely well-developed — the advantage paragraph is the best-written paragraph of the day — but under-length is an explicit, real penalty per the plan). Coherence ~6 ("In contrast" is a real linking phrase, first time this week without mechanical First/Second — genuine improvement; conclusion's opening sentence is a run-on). Lexical Resource ~6 (banked language reused precisely; "tradition written exams" for "traditional" is a 4th occurrence of the adjective-form slip). Grammar ~5.5, ~4 of 11 sentences clean (~36%) — continues the day's upward trend (15% → 33% → 36%). Missing complementizer "that" dropped three times in this essay alone, now the single most-repeated specific pattern across all three of today's essays. New/repeated errors logged in [[projects/score-ielts-7-overall/error-log|Error Log]].
+
+## 2026-09-07 — Task 2 Discuss Both Views Practice
+
+### Prompt
+
+Some people think that a sense of competition in children should be encouraged. Others believe that children who are taught to co-operate rather than compete become more useful adults. Discuss both these views and give your own opinion.
+
+### Plan
+
+5-minute plan, recorded before the timed write:
+
+1. **View 1 — competition is good.** It carries over into later life. Example: young people who went through gifted-student programs go on to more success.
+2. **View 2 — cooperation is good.** Traditional schooling does not teach it. Example: group-based projects teach social skills.
+3. **Own opinion — leans cooperation.**
+
+First discuss-both-views rep of Phase 1. The plan has the shape the prompt requires: both views given their own paragraph, plus a stated personal position — unlike the 09-05 Problem/Solution essay, where "the oppositions for this argument will argue" imported an opposition the prompt never asked for. Here the opposition is the task.
+
+### Essay
+
+There a school of thought that whether teaching students to be competitive or cooperative should be more beneficial. I will present both view but lean toward the later point of view.
+
+Those who favor teaching competitive argue that children will be more successful in life because of the desire to be on top. For example, students who went through gifted school was exposed to competitive environment early in their development phase and thus remained competitive in their study performance. This reveals their best potential and opens the door for going to top universities. This also carries to working place where they always strike to be the most successful individuals.
+
+Despite of the advantage of the teaching view above, I lean to the latter view because of having technical knowledge does not always translate to being success, but students also need to know how to cooperate with others. These social abilities is not taught in traditional schools, where they prefer the written exams format over group projects. For example, students who ace every exams still struggle to work in group projects, which they will see often in many professional jobs.
+
+In conclusion, despite both views that whether students should be taught a sense of competition or cooperation are beneficial, I prefer the second view due to its important.
+
+### Notes
+
+217 words — under the 250 minimum, the second consecutive Task 2 miss after 09-05's 241 and the shortest Task 2 yet. Written on the compressed two-body shape decided before the clock started.
+
+**The structural lesson landed.** For the first time the wrong-essay-type framing at the Structural table's 08-21/09-05 entry did not appear: both views are present, "Those who favor teaching competitive argue" frames view 1 as somebody else's argument rather than the writer's, and the position is stated in the intro and restated in the conclusion. That clears both traps at once — 08-21 collapsed a discuss-both-views prompt into pure opinion with no other view, 09-05 invented an opposition a Problem/Solution prompt never asked for. Missing complementizer *that* also did not recur, having been the single most-repeated pattern on 09-05 with three occurrences in one essay.
+
+**The language regressed.** Roughly 1 of 10 sentences is fully clean (~10%), against the 15% → 33% → 36% climb across 09-03 and the two 09-05 essays — and the one clean sentence ("This reveals their best potential and opens the door for going to top universities") is scored generously. Two subject-verb agreement failures, a missing copula in the opening words, and four wrong-form or wrong-word slips: *teaching competitive* for *teaching competitiveness*, *working place* for *workplace*, *strike* for *strive*, *being success* for *success*, and *due to its important* for *importance* — the fifth occurrence of the adjective/noun-form pattern, this time in the reverse direction from *tradition written exams*.
+
+**Probable cause, worth testing on Wednesday.** This is the first Task 2 on a topic with nothing stocked in [[projects/score-ielts-7-overall/repertoire|Repertoire]]. The 09-05 essays reused banked education-and-exams language and scored Lexical Resource ~6 on it; here nothing was available to reuse — *negotiate roles and resolve disagreement* was sitting in the Education section and went unused — and the language fell back to roughly the baseline rate. If that reading is right, the banked language was carrying the language bands, and the fix is to stock the topic before the rewrite rather than to write more essays cold.
+
+Self-scored: Task Response ~5.5–6 (correct type, both views given, position held throughout — but the intro's "a school of thought that whether... should be more beneficial" garbles the debate into a question a school of thought cannot hold, body 2's example is asserted rather than concrete, and the conclusion adds nothing beyond "due to its important"). Coherence ~6 ("Despite of the advantage of the teaching view above" is a genuine backward-referencing pivot of the kind the Cohesion Moves table wants in place of *First/Second*, even though the phrase itself is wrong; the conclusion is a single garbled sentence). Lexical Resource ~5. Grammar ~5.
+
+Four first-sighting slips are deliberately **not** in the Error Log, per its repeated-errors-only rule — logged here so the rewrite can watch for them and so a second occurrence has something to point back at: missing *be* ("There a school of thought"), the *that whether* complementizer doubling (twice — intro and conclusion), *Despite of* for *Despite*, and *because of* followed by a clause instead of a noun. New and repeated errors logged 2026-09-07 in [[projects/score-ielts-7-overall/error-log|Error Log]]. Essay left verbatim, uncorrected, for the Phase 3 re-read.

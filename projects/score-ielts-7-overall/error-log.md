@@ -81,6 +81,11 @@ The most load-bearing note in the project. Its counterpart is [[projects/score-i
 | Subject-verb agreement | makes their potential go unrecognized and hinder their futures | makes their potential go unrecognized and **hinders** their futures | 2026-09-05 |
 | Plural -s on countable nouns | choose words and image to put on a slide | choose words and **images** to put on a slide | 2026-09-05 |
 | Verb form after *be* | students with social anxiety are often avoid it | students with social anxiety **often avoid** it | 2026-09-05 |
+| Subject-verb agreement | students who went through gifted school was exposed | students who went through gifted schools **were** exposed | 2026-09-07 |
+| Subject-verb agreement | These social abilities is not taught in traditional schools | These social abilities **are** not taught in traditional schools | 2026-09-07 |
+| Missing article | was exposed to competitive environment early in their development phase | was exposed to **a** competitive environment early in their development | 2026-09-07 |
+| Plural -s on countable nouns | I will present both view | I will present both **views** | 2026-09-07 |
+| Plural -s after *every* | students who ace every exams | students who ace every **exam** | 2026-09-07 |
 
 Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the baseline rather than assume: articles (*a/an/the* and the zero article), plural `-s` on countable nouns, subject-verb agreement, past tense marking, prepositions after specific verbs, and word order in embedded questions.
 
@@ -105,6 +110,11 @@ Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the ba
 | recorded the significant in the percentages | recorded a significant increase in the percentages | the head noun is missing | 2026-08-29 |
 | the number of doing housework decreased | the number of hours spent on housework decreased | the head noun ("hours") is missing again, same pattern as 08-29 | 2026-08-31 |
 | tradition written exams | traditional written exams | need the adjective form — 4th occurrence of this pattern, after *history movies*, *the Vietnam government*, *the decline trend* | 2026-09-05 |
+| due to its important | due to its importance | 5th occurrence of the wrong-word-form pattern, and the first in reverse — the noun form is needed here, not the adjective | 2026-09-07 |
+| teaching competitive | teaching competitiveness / teaching children to be competitive | the head noun is missing again, same pattern as 08-29 and 08-31 | 2026-09-07 |
+| working place | workplace | one word, same pattern as *wild life* | 2026-09-07 |
+| strike to be the most successful individuals | strive to be the most successful individuals | *strike* for *strive* | 2026-09-07 |
+| translate to being success | translate into success | wrong preposition after *translate*, and *success* is the noun — *being success* is neither the noun nor the adjective form | 2026-09-07 |
 
 ## Pronunciation
 
@@ -136,6 +146,9 @@ The Task 1 entries are logged on first sighting, against the repeated-errors-onl
 | Figure misread from the chart | Task 1 practice, "subsided again in 2019 to 10%" for a fall to 10 hours — swapped the unit, not just the number | 2026-08-31 |
 | Wrong essay-type framing — importing another type's rhetorical convention | Discuss-both-views compulsory-service attempt (08-21) answered as pure opinion with no other view; Problem/Solution practice (09-05) opened a body paragraph with "The oppositions for this argument will argue," inventing a concession/rebuttal stance the question never asked for and contradicting the intro's own "I believe" | 2026-09-05 |
 | Under the 250-word minimum (Task 2) | Advantages/Disadvantages practice, 241 words — first Task 2 miss; Task 1 has missed length three times already | 2026-09-05 |
+| Under the 250-word minimum (Task 2) | Discuss-both-views practice, 217 words — second consecutive Task 2 miss and the shortest Task 2 yet | 2026-09-07 |
+| Examples asserted, not concrete — no figure, place, or mechanism | Discuss-both-views practice, body 2's "students who ace every exams still struggle to work in group projects" names no person, setting, or mechanism | 2026-09-07 |
+| The body paragraph carrying the position is developed less than the opposing one | Discuss-both-views practice, body 2 runs 3 sentences to body 1's 4 and is the thinner of the two, so the stated lean is not reflected in where the words went | 2026-09-07 |
 
 ## Fixed
 

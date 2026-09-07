@@ -108,6 +108,26 @@ A topic with all four blocks stocked can answer any of the five. A topic missing
 1. *Presentations.* Replacing written exams with presentations forces students to organize ideas and answer questions on the spot, addressing the thinking-abilities gap directly.
 2. *Group projects.* Requiring students to negotiate roles and resolve disagreement in a group project builds the collaboration skills that solitary fact-based learning never touches.
 
+### Competition vs. Cooperation in Children
+
+First hit 2026-09-07 by the discuss-both-views prep prompt — see [[projects/score-ielts-7-overall/practice-essays|Practice Essays]]. Headers only; the blocks below are to fill by hand. Per the mapping table above, a discuss-both-views prompt on this topic pulls **Impacts** as the competition view and **The other side** as the cooperation view.
+
+**Collocations** —
+
+**Impacts** —
+
+1. *(to write)*
+2. *(to write)*
+
+**The other side** —
+
+1. *(to write)*
+2. *(to write)*
+
+**Concrete examples** —
+
+**Part 2 stories that fit** —
+
 ### Not Yet Stocked
 
 **Causes** —
