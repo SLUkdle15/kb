@@ -54,6 +54,19 @@ Where a prompt gives two sides, the opening names both as claims. The prompt its
 
 Split the two positions across two clauses instead of compressing them into one noun phrase. Whatever the wording, the test is: can each half be read as a claim somebody holds?
 
+### How Far the Paraphrase Has to Go
+
+Sentence 1 is a paraphrase, and that is the whole of its job. What examiners discount is copied **wording**, not the act of restating. Two tests for whether a restatement has travelled far enough:
+
+1. **Change the structure, not just the synonyms.** The 09-05 problem/solution prompt is passive — *a great deal of time is spent teaching facts*. The opener above flips it active: *schools devote far more classroom time to transmitting facts*. Same meaning, different sentence, not a thesaurus pass over the original.
+2. **Scan for any run of three or more consecutive words shared with the prompt.** Those runs are the lifts. Against that same prompt — *skills needed in later life, such as thinking abilities and social skills* versus *the judgment and social skills students need after they leave* — the longest shared run is *social skills*, two words and a fixed term. That passes.
+
+**Do not paraphrase the topic nouns.** *Schools*, *exams*, *children*, *self-employed* stay as they are; there is no synonym for the subject matter, and reaching for one is what produces *cyclers* for cyclists and *subsize* for mitigate, both already in [[projects/score-ielts-7-overall/error-log|Error Log]]. The verbs and the sentence shape carry the paraphrase; the subject matter is left alone.
+
+**Sentence 1 earns nothing on its own.** It orients the reader and demonstrates the prompt was parsed, and that is all. At 217 and 241 words it is the sentence to compress — never the reasons.
+
+A practical way to keep it honest: read the prompt, look away, then write sentence 1 from the meaning. Writing it while looking at the prompt is how the wording gets lifted.
+
 ## Sentence 2 — The Position, With the Reasons Named
 
 Name the reasons rather than counting them. The upgrade is visible against 09-03's own opening pair:
@@ -66,6 +79,24 @@ Two things went wrong here on 09-07, both fixable without new language:
 
 - **Name the side; don't point at it.** *lean toward the later point of view* makes the reader hold the ordering in mind to know what the position even is, and it is what produced the *later*/*latter* slip. Naming cooperation outright costs one word and cannot be misread.
 - **Don't announce the mechanics.** *I will present both view*, and *I will discuss and advantage and a disadvantage over this argument* on 09-05, spend a whole sentence saying nothing arguable — while both essays came in under the 250-word minimum (241, then 217).
+
+### Worked Sentence 2, by Type
+
+A position appears only where the prompt asks for one; the named content appears either way. The pivot word — *though*, *but*, *and* — joins the two halves the prompt asked for.
+
+**Problem and solution** (09-05 prompt), no position:
+
+> Many schools devote far more classroom time to transmitting facts than to the judgment and social skills students need after they leave. **This leaves students unable to handle situations that call for judgment rather than recall, and unpractised at working with others — though a shift towards group projects and presentations would address both.**
+
+Problems named, solutions named, no *I believe*. Against what was actually written on 09-05 — *I believe this will have 2 issues, and I will provide 2 solutions corresponding to 2 skills* — this both drops the announcement and removes the asserted position that body 1 then contradicted with *The oppositions for this argument will argue*. Taking the position out of sentence 2 removes the thing there was to contradict.
+
+**Advantages and disadvantages** (09-05 prompt), no verdict, because the prompt said *discuss* rather than *outweigh*:
+
+> A growing number of schools now assess students through projects and presentations rather than written examinations. **This tests understanding directly rather than the ability to recall it under pressure, but it disadvantages students whose grasp of the material is strong and whose confidence in front of an audience is not.**
+
+Had that prompt asked *do the advantages outweigh the disadvantages*, sentence 2 gains a verdict clause: *…and is not, and on balance the first of these matters more, since an assessment that misreads what a student knows fails at its basic purpose.*
+
+**Two-part question**, one answer per part — the worked pair is in the two-part section below. Where a part asks for a view rather than a fact (*is this a positive development?*), that half becomes a verdict: *…and on balance the trade is worth making for those who can absorb the income risk.*
 
 ## The Two-Part Question, Since It Has Not Come Up Yet
 
@@ -93,6 +124,8 @@ Sentence 1 paraphrases the situation. Sentence 2 answers both parts with the con
 
 - [ ] The opener matches the prompt's shape — T1 for a belief, T2 for a situation.
 - [ ] Every position the prompt raises appears in sentence 1 as a claim, not as a question.
+- [ ] No run of three or more consecutive words is shared with the prompt.
+- [ ] The topic nouns are left alone — the verbs and the sentence shape carry the paraphrase.
 - [ ] Sentence 2 names the reasons rather than counting them.
 - [ ] The position names its side outright, not *the latter* or *the second view*.
 - [ ] No sentence announces what the essay is about to do.
