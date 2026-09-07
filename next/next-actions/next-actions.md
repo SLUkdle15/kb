@@ -27,3 +27,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-06 - Go to the Range and Run a Contact Tally Session|Go to the Range and Run a Contact Tally Session]]
 - [[2026-09-05 - Get the Broken Gas Cap Fixed|Get the Broken Gas Cap Fixed]]
 - [[2026-09-05 - Wash the Helmet|Wash the Helmet]]
+- [[2026-09-07 - Check In on the Self-Compassion Protocols|Check In on the Self-Compassion Protocols]]
