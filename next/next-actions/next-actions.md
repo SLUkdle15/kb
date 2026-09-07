@@ -28,3 +28,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-05 - Get the Broken Gas Cap Fixed|Get the Broken Gas Cap Fixed]]
 - [[2026-09-05 - Wash the Helmet|Wash the Helmet]]
 - [[2026-09-07 - Check In on the Self-Compassion Protocols|Check In on the Self-Compassion Protocols]]
+- [[2026-09-07 - Build a Protocol for Picking a Place and Photos to Mimic|Build a Protocol for Picking a Place and Photos to Mimic]]
