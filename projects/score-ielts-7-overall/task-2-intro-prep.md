@@ -56,7 +56,24 @@ Split the two positions across two clauses instead of compressing them into one 
 
 ### How Far the Paraphrase Has to Go
 
-Sentence 1 is a paraphrase, and that is the whole of its job. What examiners discount is copied **wording**, not the act of restating. Two tests for whether a restatement has travelled far enough:
+Sentence 1 is a paraphrase, and that is the whole of its job. What examiners discount is copied **wording**, not the act of restating.
+
+**Four steps, in order.**
+
+1. **Find the spine.** Strip the prompt to who does what to what, ignoring its wording. *The best way to solve traffic and transportation problems is to encourage people to live in cities rather than suburbs or countryside* has the spine: [encouraging urban living] is [the best solution] to [traffic problems].
+2. **Change the spine's shape, not just its words.** Three moves are always available: copular to passive (*the best way to solve X is to do Y* becomes *X is best solved by doing Y*), noun to verb (*the encouragement of* becomes *encouraging*), and reversing the order so the problem leads instead of the solution.
+3. **Replace the verbs and the abstract nouns, and leave the topic nouns alone.** *Solve* to tackle, relieve, ease; *problems* to pressures, strain; *encourage* to persuade, draw; *live in* to settle in, concentrate in. Traffic, transport, cities, suburbs, countryside all stay.
+4. **Run the two checks below.**
+
+Worked on that prompt, an opinion type, so T1:
+
+> It is often argued that congestion and the strain on transport networks are best relieved by drawing the population into cities instead of the suburbs and rural areas.
+
+Spine flipped to passive, *solve* to *relieve*, *problems* to *strain*, and *encourage people to live in* to *drawing the population into*. Longest run shared with the prompt is two words, and no topic noun was touched.
+
+**Keep the position out of sentence 1.** *It is often argued that* holds it neutral. Writing *cities are clearly the best answer to congestion* collapses sentences 1 and 2 into one and the paraphrase is gone — the mirror image of what the 09-07 intro did by putting a question where a claim belonged.
+
+Two checks for whether a restatement has travelled far enough:
 
 1. **Change the structure, not just the synonyms.** The 09-05 problem/solution prompt is passive — *a great deal of time is spent teaching facts*. The opener above flips it active: *schools devote far more classroom time to transmitting facts*. Same meaning, different sentence, not a thesaurus pass over the original.
 2. **Scan for any run of three or more consecutive words shared with the prompt.** Those runs are the lifts. Against that same prompt — *skills needed in later life, such as thinking abilities and social skills* versus *the judgment and social skills students need after they leave* — the longest shared run is *social skills*, two words and a fixed term. That passes.
