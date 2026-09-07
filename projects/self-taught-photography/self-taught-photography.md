@@ -14,8 +14,8 @@ Comfortable shooting in manual mode and editing the results, setting exposure by
 
 ## Next Actions
 
-- [[next/next-actions/2026-09-04 - Shoot Candid Street Photos This Week|Shoot Candid Street Photos This Week]]
 - [[next/next-actions/2026-09-07 - Build a Protocol for Picking a Place and Photos to Mimic|Build a Protocol for Picking a Place and Photos to Mimic]]
+- [[next/next-actions/2026-08-31 - Investigate What to Read to Learn Photography Basics|Investigate What to Read to Learn Photography Basics]]
 
 ## Notes
 

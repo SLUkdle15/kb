@@ -10,3 +10,7 @@ Shoot only candid street shots this week. Don't ask anyone — observe and captu
 ## Done When
 
 A week of candid street shots is taken and reviewed for what worked on timing and composition.
+
+## Disposition
+
+Completed 2026-09-07.

@@ -16,3 +16,7 @@ One channel is chosen, and one reference swing from it is saved somewhere retrie
 ## Progress
 
 Channel chosen: Danny Maude. Still need a saved reference swing from him before this is done.
+
+## Disposition
+
+Completed 2026-09-07. Danny Maude is the single coach to follow. No reference swing saved from him yet — that part waits on having something to film with, and the contact tally stands in until then.
