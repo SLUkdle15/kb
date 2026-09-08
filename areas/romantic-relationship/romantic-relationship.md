@@ -42,6 +42,7 @@ Review monthly, or weekly when the relationship needs active attention.
 - [[next/maybe/2026-09-07 - Follow Event News Like VnExpress for Date Ideas|Follow Event News Like VnExpress for Date Ideas]]
 - [[next/calendar/2026-09-10 - Hand Her Tuoi Tho Du Doi|Hand Her Tuoi Tho Du Doi]]
 - [[next/next-actions/2026-09-08 - Do the MOOC for Her|Do the MOOC for Her]]
+- [[next/next-actions/2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 
 ## Current Projects
 

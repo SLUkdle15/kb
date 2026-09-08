@@ -1,5 +1,7 @@
 # Go to the Van Gogh Timeless Exhibition
 
+Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
+
 ## Action
 
 Go to the Van Gogh Timeless exhibition.
