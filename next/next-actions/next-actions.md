@@ -24,7 +24,6 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-01 - Find a Place to Take the Comics|Find a Place to Take the Comics]]
 - [[2026-09-05 - Get the Broken Gas Cap Fixed|Get the Broken Gas Cap Fixed]]
 - [[2026-09-05 - Wash the Helmet|Wash the Helmet]]
-- [[2026-09-07 - Check In on the Self-Compassion Protocols|Check In on the Self-Compassion Protocols]]
 - [[2026-09-07 - Create a Cue-Based Protocol for Parking the Car|Create a Cue-Based Protocol for Parking the Car]]
 - [[2026-09-08 - Do the MOOC for Her|Do the MOOC for Her]]
 - [[2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
