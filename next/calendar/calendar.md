@@ -40,7 +40,7 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 ### Recurring — Other
 
-- [[next/calendar/2026-08-11 - Every-3-Weeks Car Gas Fill-Up]] — 2026-09-02 (recurring every 3 weeks)
+- [[next/calendar/2026-09-23 - Every-3-Weeks Car Gas Fill-Up]] — 2026-09-23 (recurring every 3 weeks)
 
 ### One-Off
 

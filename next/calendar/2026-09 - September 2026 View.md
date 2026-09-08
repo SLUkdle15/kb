@@ -8,7 +8,6 @@ _Generated 2026-09-02._
 
 ## Today
 
-- [[next/calendar/2026-08-11 - Every-3-Weeks Car Gas Fill-Up|Every-3-Weeks Car Gas Fill-Up]] — Wed 9/2
 
 ## This Week
 
@@ -16,6 +15,7 @@ _Generated 2026-09-02._
 ## Later This Month
 
 - [[next/calendar/2026-08-19 - Book the IELTS Test for Mid-November|Book the IELTS Test for Mid-November]] — Mon 9/21
+- [[next/calendar/2026-09-23 - Every-3-Weeks Car Gas Fill-Up|Every-3-Weeks Car Gas Fill-Up]] — Wed 9/23
 - [[next/calendar/2026-08-26 - Watch the Endgame Encore Showing|Watch the Endgame Encore Showing]] — Fri 9/25
 - [[next/calendar/2026-09-02 - Monthly Sync Pictures|Monthly Sync Pictures]] — Wed 9/30
 
