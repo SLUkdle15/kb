@@ -33,7 +33,7 @@ Review monthly, or weekly when actively training.
 
 ## Protocols
 
-- [[areas/badminton/run-a-weekly-recurring-group-session|Run a Weekly Recurring Group Session]] — line up players, promote to a recurring calendar action, retire if it stops.
+- 
 
 ## Related Resources
 
