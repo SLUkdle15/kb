@@ -15,3 +15,4 @@ Meet one in the heated moment with [[areas/personal-development/respond-to-an-em
 ## Notes
 
 - [[resources/emotional-regulation/triggers/2026-09-08 - Badminton Mate's New Racket|Badminton Mate's New Racket]]
+- [[resources/emotional-regulation/triggers/2026-09-08 - Colleagues on Higher-Profile Projects|Colleagues on Higher-Profile Projects]]
