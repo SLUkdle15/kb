@@ -26,5 +26,6 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-05 - Wash the Helmet|Wash the Helmet]]
 - [[2026-09-07 - Create a Cue-Based Protocol for Parking the Car|Create a Cue-Based Protocol for Parking the Car]]
 - [[2026-09-08 - Do the MOOC for Her|Do the MOOC for Her]]
+- [[2026-09-08 - Finish Building the Soccer Tactics Board|Finish Building the Soccer Tactics Board]]
 - [[2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 - [[2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]] — seasonal, Mid-Autumn 2026-09-25

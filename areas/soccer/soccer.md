@@ -25,6 +25,7 @@ Review monthly, or weekly when actively training.
 
 ## Current Actions
 
+- [[next/next-actions/2026-09-08 - Finish Building the Soccer Tactics Board|Finish Building the Soccer Tactics Board]]
 - [[next/maybe/2026-09-02 - Text the Guy to Change Weekly Soccer from Tuesday to Monday|Text the Guy to Change Weekly Soccer from Tuesday to Monday]] (someday/maybe)
 - [[next/waiting/2026-09-07 - Techleague Jerseys from Tam Ta|Techleague Jerseys from Tam Ta]] (waiting)
 
