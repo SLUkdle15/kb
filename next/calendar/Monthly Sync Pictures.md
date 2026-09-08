@@ -1,8 +1,7 @@
 # Monthly Sync Pictures
 
 Area: [[areas/photography/photography]]
-Due: 2026-09-30
-Recurs: monthly (last day of month — create the next month's dated instance when this is completed)
+Every: month 1
 
 ## Action
 

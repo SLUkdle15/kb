@@ -42,4 +42,4 @@ write to file: > z.txt
 
 ## Disposition
 
-Completed 2026-09-07. Distilled into [[resources/software-engineering/logging/2026-09-07 - Grep Narrows a Log File, Sed Widens It|Grep Narrows a Log File, Sed Widens It]]. Following a log live and reading rotated or compressed logs were in the original scope and were not covered; neither was time-range filtering, which the capture deferred explicitly.
+Completed 2026-09-07. Distilled into [[resources/software-engineering/logging/2026-09-07 - Grep Narrows a Log File, Then Read Around the Hit|Grep Narrows a Log File, Then Read Around the Hit]]. Following a log live and reading rotated or compressed logs were in the original scope and were not covered; neither was time-range filtering, which the capture deferred explicitly.

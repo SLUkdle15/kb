@@ -3,6 +3,7 @@
 Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 Area: [[areas/golf-training/golf-training|Golf Training]]
 Protocol: [[areas/golf-training/run-a-beginner-range-session|Run a Beginner Range Session]]
+Due: 2026-09-12
 
 ## Action
 

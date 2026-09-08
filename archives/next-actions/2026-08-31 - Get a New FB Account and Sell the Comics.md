@@ -11,4 +11,4 @@ Get a new Facebook account, then use it to sell or give away the comics.
 
 ## Status
 
-Superseded 2026-09-01. FB account is set up; comics aren't listed yet — that step split off into [[next/next-actions/2026-09-01 - Take Pics of the Comics to List|Take Pics of the Comics to List]].
+Superseded 2026-09-01. FB account is set up; comics aren't listed yet — that step split off into [[next/next-actions/2026-09-01 - Find a Place to Take the Comics|Find a Place to Take the Comics]].

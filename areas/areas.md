@@ -42,4 +42,5 @@ Ask:
 - [[areas/soccer/soccer|Soccer]]
 - [[areas/technical-growth/technical-growth|Technical Growth]]
 - [[areas/travel/travel|Travel]]
+- [[areas/vehicles/vehicles|Vehicles]]
 - [[areas/work-systems/work-systems|Work Systems]]

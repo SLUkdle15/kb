@@ -8,4 +8,4 @@ Text the field/group organizer to move the weekly soccer session from Tuesday to
 
 ## Done When
 
-Confirmed with him and [[next/calendar/2026-07-29 - Weekly Tuesday Soccer|Weekly Tuesday Soccer]] updated to Monday.
+Confirmed with him and [[next/calendar/Weekly Tuesday Soccer|Weekly Tuesday Soccer]] updated to Monday.

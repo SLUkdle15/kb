@@ -24,7 +24,7 @@ Reproduce from the pod log:
 grep 'WARN' logs-from-nc-tool-job-in-nc-tool-job-84676fc49c-hzj9m.log | tail -10
 ```
 
-Widen around a hit with `sed -n` to see what the job did before the warning — see [[resources/software-engineering/logging/2026-09-07 - Grep Narrows a Log File, Sed Widens It|Grep Narrows a Log File, Sed Widens It]].
+Read around a hit to see what the job did before the warning — see [[resources/software-engineering/logging/2026-09-07 - Grep Narrows a Log File, Then Read Around the Hit|Grep Narrows a Log File, Then Read Around the Hit]].
 
 ## Done When
 

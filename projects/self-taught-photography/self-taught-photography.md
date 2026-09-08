@@ -14,11 +14,10 @@ Comfortable shooting in manual mode and editing the results, setting exposure by
 
 ## Next Actions
 
-- [[next/next-actions/2026-09-07 - Build a Protocol for Picking a Place and Photos to Mimic|Build a Protocol for Picking a Place and Photos to Mimic]]
 - [[next/next-actions/2026-08-31 - Investigate What to Read to Learn Photography Basics|Investigate What to Read to Learn Photography Basics]]
 
 ## Notes
 
-Approach: pick a place, search photos of it, and mimic them. Pick a style to study — street or portrait.
+Approach: pick a place, search photos of it, and mimic them — places already scouted are in [[areas/photography/2026-09-08 - Places I Have Looked At|Places I Have Looked At]]. Pick a style to study — street or portrait.
 
 Photographers to study: Vivian Maier, Steve McCurry, Gregory Halpern.

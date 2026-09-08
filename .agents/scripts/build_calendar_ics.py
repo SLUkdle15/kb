@@ -9,6 +9,11 @@ Each calendar note contributes one event, in one of two shapes:
   Date-only becomes an all-day event; a time makes a 1-hour timed event. An
   optional `Remind:` line adds a VALARM that many days before the date.
 
+- Recurring monthly: Title from the H1. Day-of-month from an `Every:` line of
+  the form `Every: month 15`, optionally with a time, e.g. `Every: month 15
+  20:00` or `Every: month 15 20:00-21:00`. Days 29 to 31 are skipped in months
+  that are too short, so prefer a day at the start of the month.
+
 - Recurring weekly: Title from the H1. Day/time from an `Every:` line, e.g.
   `Every: Tuesday 17:30`. Produces a weekly-recurring event at that day/time,
   defaulting to a 1-hour duration. List several days for a routine that repeats
@@ -37,6 +42,11 @@ DAY_NAME_RE = re.compile(DAY_NAMES)
 EVERY_RE = re.compile(
     rf"^Every:\s*((?:{DAY_NAMES})(?:\s*(?:,|and)\s*(?:{DAY_NAMES}))*)\s+"
     r"(\d{1,2}:\d{2})(?:-(\d{1,2}:\d{2}))?",
+    re.M,
+)
+EVERY_MONTH_RE = re.compile(
+    r"^Every:\s*month\s+(\d{1,2})"
+    r"(?:\s+(\d{1,2}:\d{2})(?:-(\d{1,2}:\d{2}))?)?\s*$",
     re.M,
 )
 REMIND_RE = re.compile(r"^Remind:\s*(\d+)", re.M)
@@ -69,6 +79,10 @@ def build_event(path: Path) -> list[str] | None:
         title = name_match.group(2)
     else:
         title = path.stem
+
+    every_month = EVERY_MONTH_RE.search(text)
+    if every_month:
+        return build_monthly_event(path, title, every_month)
 
     every = EVERY_RE.search(text)
     if every:
@@ -119,6 +133,74 @@ def build_event(path: Path) -> list[str] | None:
         ]
     lines.append("END:VEVENT")
     return lines
+
+
+def build_monthly_event(path: Path, title: str, every: re.Match) -> list[str] | None:
+    day = int(every.group(1))
+    if not 1 <= day <= 31:
+        print(f"skip (bad day of month): {path.name}", file=sys.stderr)
+        return None
+    time_str, end_time_str = every.group(2), every.group(3)
+
+    # DTSTART must land on the soonest upcoming occurrence; the RRULE covers the rest.
+    today = datetime.date.today()
+    start_date = today.replace(day=day) if day >= today.day else next_month_day(today, day)
+
+    stamp = datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    uid = re.sub(r"[^a-z0-9]+", "-", path.stem.lower()).strip("-") + "@kb-vault"
+
+    lines = [
+        "BEGIN:VEVENT",
+        f"UID:{uid}",
+        f"DTSTAMP:{stamp}",
+        f"SUMMARY:{escape(title)}",
+    ]
+    if time_str:
+        hour, minute = (int(p) for p in time_str.split(":"))
+        start = datetime.datetime.combine(start_date, datetime.time(hour, minute))
+        if end_time_str:
+            end_hour, end_minute = (int(p) for p in end_time_str.split(":"))
+            end = datetime.datetime.combine(start_date, datetime.time(end_hour, end_minute))
+        else:
+            end = start + datetime.timedelta(hours=1)
+        lines += [
+            f"DTSTART:{start.strftime('%Y%m%dT%H%M%S')}",
+            f"DTEND:{end.strftime('%Y%m%dT%H%M%S')}",
+        ]
+    else:
+        next_day = start_date + datetime.timedelta(days=1)
+        lines += [
+            f"DTSTART;VALUE=DATE:{start_date.strftime('%Y%m%d')}",
+            f"DTEND;VALUE=DATE:{next_day.strftime('%Y%m%d')}",
+        ]
+    lines.append(f"RRULE:FREQ=MONTHLY;BYMONTHDAY={day}")
+
+    remind = REMIND_RE.search(path.read_text(encoding="utf-8"))
+    if remind:
+        lines += [
+            "BEGIN:VALARM",
+            "ACTION:DISPLAY",
+            f"DESCRIPTION:{escape(title)}",
+            f"TRIGGER:-P{int(remind.group(1))}D",
+            "END:VALARM",
+        ]
+
+    lines.append("END:VEVENT")
+    return lines
+
+
+def next_month_day(today: datetime.date, day: int) -> datetime.date:
+    """The given day of month, in the first following month that has it."""
+    year, month = today.year, today.month
+    for _ in range(12):
+        month += 1
+        if month == 13:
+            year, month = year + 1, 1
+        try:
+            return datetime.date(year, month, day)
+        except ValueError:
+            continue
+    raise ValueError(f"no month has day {day}")
 
 
 def build_recurring_event(path: Path, title: str, every: re.Match) -> list[str]:

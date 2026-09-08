@@ -12,6 +12,8 @@ YYYY-MM-DD - Note Title.md
 
 Keep the note's H1 clean and readable without the date prefix.
 
+`next/calendar` is the exception, and the prefix there answers one question: does this file hold a date that is maintained by hand? A note with a `Due:` line does — prefix it with the date the thing happens, not the date it was captured, and re-date the file when the date moves. That covers recurring items the weekly feed cannot express, such as every three weeks or monthly: they stay dated one-offs, and the prefix is what makes a stale one visible in the folder listing. A note with an `Every:` line does not — its schedule regenerates itself, so nothing would keep a prefix current and it gets none.
+
 Use `next` for GTD-style commitments that are more actionable than inbox captures but not necessarily full projects:
 
 - `next/next-actions` for concrete standalone actions to do soon.
@@ -21,7 +23,7 @@ Use `next` for GTD-style commitments that are more actionable than inbox capture
 
 ## Projects
 
-Every active project must have a `Next Actions` section with at least one linked note from `next/next-actions`. Project next-action notes must link back to the project.
+Every active project must have a `Next Actions` section with at least one linked action note. That note normally lives in `next/next-actions`, but a `next/calendar` note counts too — committing the action to a date is a stronger commitment than leaving it undated, not a weaker one. Project action notes must link back to the project.
 
 If no next action is known, do not create an active project; leave it in `next/maybe` or clarify the next action first.
 

@@ -5,7 +5,7 @@ Due: 2026-09-05
 
 ## Action
 
-Buy shuttlecocks before Saturday — first session of the [[next/calendar/2026-09-02 - Weekly Saturday Badminton|weekly badminton session with girlfriend]].
+Buy shuttlecocks before Saturday — first session of the [[next/calendar/Weekly Saturday Badminton|weekly badminton session with girlfriend]].
 
 ## Done When
 

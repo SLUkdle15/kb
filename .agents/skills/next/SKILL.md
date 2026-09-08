@@ -61,7 +61,7 @@ Waiting on:
 4. Check the owning area's index note for a `## Protocols` section. If a protocol covers the activity behind the action:
    - Add a `Protocol:` link to the protocol note in the action note.
    - Read the protocol's checklist and surface unmet items as extra suggested actions (for example, a dinner action matching the weekday-dinner protocol also suggests logging the restaurant in `resources/restaurants`).
-5. Create a dated note using `YYYY-MM-DD - Action Title.md`.
+5. Create a dated note using `YYYY-MM-DD - Action Title.md`. For `next/calendar`, the prefix is the date the thing happens, not today; a note whose schedule lives in an `Every:` line gets no date prefix at all.
 6. Put the note in the routed folder.
 7. Link back to the project or area when provided.
 8. If linked to an active project, make sure the project note links to this next action.

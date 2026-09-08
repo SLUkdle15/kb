@@ -22,10 +22,10 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-08-27 - Plan How to Register Temporary Residence|Plan How to Register Temporary Residence]]
 - [[2026-08-31 - Investigate What to Read to Learn Photography Basics|Investigate What to Read to Learn Photography Basics]]
 - [[2026-09-01 - Find a Place to Take the Comics|Find a Place to Take the Comics]]
-- [[2026-09-06 - Go to the Range and Run a Contact Tally Session|Go to the Range and Run a Contact Tally Session]]
 - [[2026-09-05 - Get the Broken Gas Cap Fixed|Get the Broken Gas Cap Fixed]]
 - [[2026-09-05 - Wash the Helmet|Wash the Helmet]]
 - [[2026-09-07 - Check In on the Self-Compassion Protocols|Check In on the Self-Compassion Protocols]]
-- [[2026-09-07 - Build a Protocol for Picking a Place and Photos to Mimic|Build a Protocol for Picking a Place and Photos to Mimic]]
 - [[2026-09-07 - Create a Cue-Based Protocol for Parking the Car|Create a Cue-Based Protocol for Parking the Car]]
 - [[2026-09-08 - Do the MOOC for Her|Do the MOOC for Her]]
+- [[2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
+- [[2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]] — seasonal, Mid-Autumn 2026-09-25

@@ -1,7 +1,7 @@
 # Review Six Weeks of Lower Back Tracking
 
 Due: 2026-10-15
-Routine: [[next/calendar/2026-09-03 - Twice-Weekly Lower Back Routine|Twice-Weekly Lower Back Routine]]
+Routine: [[next/calendar/Twice-Weekly Lower Back Routine|Twice-Weekly Lower Back Routine]]
 
 ## Action
 

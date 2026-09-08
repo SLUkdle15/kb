@@ -4,7 +4,7 @@ Area: [[areas/badminton/badminton|Badminton]]
 
 Archived 2026-09-07: someone else in the group now handles cost and collection.
 
-Cost basis for the [[next/calendar/2026-09-02 - Weekly Saturday Badminton|Weekly Saturday Badminton]] session, 4 sessions a month.
+Cost basis for the [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]] session, 4 sessions a month.
 
 ## Cost
 

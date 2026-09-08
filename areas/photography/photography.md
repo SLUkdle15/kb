@@ -20,7 +20,7 @@ Review monthly, or weekly when practicing actively.
 
 ## Current Actions
 
-- [[next/calendar/2026-09-02 - Monthly Sync Pictures]]
+- [[next/calendar/Monthly Sync Pictures]]
 
 ## Current Projects
 
@@ -28,4 +28,4 @@ Review monthly, or weekly when practicing actively.
 
 ## Related Resources
 
-- 
+- [[areas/photography/2026-09-08 - Places I Have Looked At|Places I Have Looked At]] — places already scouted, and what to shoot there

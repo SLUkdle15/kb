@@ -1,5 +1,6 @@
 # Wash the Helmet
 
+Area: [[areas/vehicles/vehicles|Vehicles]]
 Due: 2026-09-13
 
 ## Action
