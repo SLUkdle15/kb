@@ -10,6 +10,6 @@ Related area: [[areas/soccer/soccer|Soccer]]
 
 ## Notes
 
-Distilled from Dan Blank, *Soccer IQ*.
-
-- [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]]
+- [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]] — distilled from Dan Blank, *Soccer IQ*.
+- [[resources/soccer/2026-08-31 - Deep Pivot Build-Up Pattern|Deep Pivot Build-Up Pattern]] — diagrammed from watching Rodri.
+- [[resources/soccer/2026-09-08 - Solo 30-Minute Session|Solo 30-Minute Session]] — pre-match sharpener that drills the cues still open above.
