@@ -6,7 +6,7 @@ type: protocol
 
 Source: Kristin Neff, *Self-Compassion*. Study material: [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]
 
-Use in the heated moment: hurt, inferior, rejected, excluded, criticized, pressured. The recurring ones: [[resources/emotional-regulation/2026-08-19 - My Emotional Triggers|My Emotional Triggers]].
+Use in the heated moment: hurt, inferior, rejected, excluded, criticized, pressured. The recurring ones: [[resources/emotional-regulation/triggers/triggers|Triggers]].
 
 ## Checklist
 
