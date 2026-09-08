@@ -41,6 +41,7 @@ Review monthly, or weekly when the relationship needs active attention.
 - [[next/calendar/2026-09-02 - Weekly Saturday Badminton|Weekly Saturday Badminton]]
 - [[next/maybe/2026-09-07 - Follow Event News Like VnExpress for Date Ideas|Follow Event News Like VnExpress for Date Ideas]]
 - [[next/calendar/2026-09-07 - Hand Her Tuoi Tho Du Doi|Hand Her Tuoi Tho Du Doi]]
+- [[next/next-actions/2026-09-08 - Do the MOOC for Her|Do the MOOC for Her]]
 
 ## Current Projects
 

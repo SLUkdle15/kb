@@ -29,3 +29,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-07 - Build a Protocol for Picking a Place and Photos to Mimic|Build a Protocol for Picking a Place and Photos to Mimic]]
 - [[2026-09-07 - Fix the AI Rule Warnings in NCTool|Fix the AI Rule Warnings in NCTool]]
 - [[2026-09-07 - Create a Cue-Based Protocol for Parking the Car|Create a Cue-Based Protocol for Parking the Car]]
+- [[2026-09-08 - Do the MOOC for Her|Do the MOOC for Her]]
