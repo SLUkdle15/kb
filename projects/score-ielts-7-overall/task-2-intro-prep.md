@@ -10,17 +10,31 @@ Two sentences, for every one of the five types. What changes between types is no
 
 **Sentence 2 — answer the question actually asked, with the content named.** Not *I will discuss two advantages*; the two advantages, named. This is the sentence the whole essay is then held to.
 
-| Type | Sentence 1 carries | Sentence 2 carries |
-| --- | --- | --- |
-| Opinion (agree/disagree) | the claim being judged | your position, plus the reasons named |
-| Discuss both views | both views, each as a claim | your position, with the side named |
-| Problem and solution | the situation | the problems named, and the solutions that answer them |
-| Advantages and disadvantages | the change or situation | the advantage and the disadvantage, named |
-| Two-part question | the situation | a direct answer to each of the two parts |
+| Type                         | Sentence 1 carries          | Sentence 2 carries                                     |
+| ---------------------------- | --------------------------- | ------------------------------------------------------ |
+| Opinion (agree/disagree)     | the claim being judged      | your position, plus the reasons named                  |
+| Discuss both views           | both views, each as a claim | your position, with the side named                     |
+| Problem and solution         | the situation               | the problems named, and the solutions that answer them |
+| Advantages and disadvantages | the change or situation     | the advantage and the disadvantage, named              |
+| Two-part question            | the situation               | a direct answer to each of the two parts               |
 
 About 45 words, against a budget of two bodies at ~85 each — roughly 255, which clears the 250 minimum with nothing to spare. Both recent essays came in under (241, 217), and the intro is where words go to announcements instead of arguments.
 
 The shape cannot rescue the wrong type: answering one part of a two-part question caps Task Response at 5 whatever the intro looks like. Naming the type correctly is still the first move.
+
+## Step-by-Step, In Order
+
+1. **Name the type.** One of the five above. Get this wrong and nothing downstream can fix it.
+2. **Pick the opener.** Belief → T1, attribute it. Situation → T2, just state it. (*Two Openers, Not One*, below.)
+3. **Find the spine of sentence 1.** Strip the prompt to who does what to what.
+4. **Change the spine's shape.** Copular↔passive, noun↔verb, or reorder so a different part leads — not just synonyms.
+5. **Swap verbs and abstract nouns only.** Leave topic nouns (schools, cities, celebrities, exams…) exactly as the prompt states them.
+6. **Run the two checks.** Structure actually changed, and no run of three-plus words shared with the prompt.
+7. **Write sentence 1 inside the opener frame, position-neutral.** No *I believe*, no verdict — sentence 1 orients, it doesn't argue.
+8. **Generate the reasons before writing sentence 2.** For Opinion, work the position questions: did this person choose the situation or was it forced on them; where's the line between their public role and their private life; who actually gets hurt, and how badly; would an ordinary person be treated the same way? Two of the answers become the two named reasons. For the other types, pull the content straight from the table in *The Shape* — both views, the problems and their solutions, the advantage and disadvantage, both answers — content, not a count.
+9. **Write sentence 2: position + reasons named**, one complete sentence — no dash-appended fragments, and check subject-verb agreement on the reason clause before moving on. No *I will discuss/present*.
+10. **Count words.** Target ~45 for the intro; every word over is a word the bodies needed.
+11. **Run the Checklist** at the bottom before calling the intro done.
 
 ## Two Openers, Not One
 
