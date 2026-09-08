@@ -46,7 +46,7 @@ Swap vague verbs for exact ones — a wrong collocation costs more in Lexical Re
 - Falling: *fell, declined, dropped sharply*
 - **Never "subsided"** for a shrinking number — wrong register, already flagged once.
 
-Add any newly corrected pair to [[projects/score-ielts-7-overall/repertoire|Repertoire]] so it gets reused, not just corrected once.
+Bank any newly corrected pair so it gets reused, not just corrected once.
 
 ## State the Chart Relationship Explicitly
 

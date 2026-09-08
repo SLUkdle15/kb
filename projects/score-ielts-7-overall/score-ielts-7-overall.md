@@ -79,6 +79,7 @@ Nothing about the plan changes — Phase 1 is the same work against either date.
 - [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]] — the long-turn and Part 3 mechanics, and the recording loop.
 - [[projects/score-ielts-7-overall/error-log|Error Log]] — running list of repeated mistakes. This is the single most load-bearing note in the project.
 - [[projects/score-ielts-7-overall/practice-essays|Practice Essays]] — running log of Phase 1+ reps, kept for the Phase 3 re-read.
+- [[projects/score-ielts-7-overall/repertoire|Repertoire]] — the counterpart to the error log: lenses and plain-English questions for generating content on any topic, plus the anchor-example bank.
 - [[projects/score-ielts-7-overall/grammar-countable-uncountable-nouns|Countable and Uncountable Nouns]] — the never-take-`-s` list, singular-verb rule, and collective nouns.
 - [[projects/score-ielts-7-overall/grammar-article-rules|Article Rules]] — singular countable nouns, superlatives, and generic vs. specific *the*, checked before the next sentence.
 - [[projects/score-ielts-7-overall/grammar-other-patterns|Other Grammar Patterns]] — the missing-*that* complementizer and verb + preposition collocations.
