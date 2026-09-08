@@ -1,10 +1,30 @@
 # Task 2 Introduction Prep
 
-Check against these before the next Task 2 attempt. Distilled from the four Task 2 reps in [[projects/score-ielts-7-overall/practice-essays|Practice Essays]] and the 09-07 self-score; the shared two-in-one-out shape and the per-type table are in [[projects/score-ielts-7-overall/task-2-intro-conclusion-prep|Task 2 Intro and Conclusion Prep]].
+Check against these before the next Task 2 attempt. Distilled from the four Task 2 reps in [[projects/score-ielts-7-overall/practice-essays|Practice Essays]] and the 09-07 self-score; the band-level reasoning behind it is levers 1, 2, and 4 in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]].
+
+## The Shape
+
+Two sentences, for every one of the five types. What changes between types is not the shape — it is what counts as an answer.
+
+**Sentence 1 — paraphrase the prompt.** The situation, in different words. No opinion, no reason, no new information. Where the prompt raises two sides, both go here, each as a claim somebody holds.
+
+**Sentence 2 — answer the question actually asked, with the content named.** Not *I will discuss two advantages*; the two advantages, named. This is the sentence the whole essay is then held to.
+
+| Type | Sentence 1 carries | Sentence 2 carries |
+| --- | --- | --- |
+| Opinion (agree/disagree) | the claim being judged | your position, plus the reasons named |
+| Discuss both views | both views, each as a claim | your position, with the side named |
+| Problem and solution | the situation | the problems named, and the solutions that answer them |
+| Advantages and disadvantages | the change or situation | the advantage and the disadvantage, named |
+| Two-part question | the situation | a direct answer to each of the two parts |
+
+About 45 words, against a budget of two bodies at ~85 each — roughly 255, which clears the 250 minimum with nothing to spare. Both recent essays came in under (241, 217), and the intro is where words go to announcements instead of arguments.
+
+The shape cannot rescue the wrong type: answering one part of a two-part question caps Task Response at 5 whatever the intro looks like. Naming the type correctly is still the first move.
 
 ## Two Openers, Not One
 
-Prompts come in two shapes, and one opener cannot serve both. A prompt either hands over a **belief people hold** or a **situation in the world**.
+A prompt either hands over a **belief people hold** or a **situation in the world**, and one opener cannot serve both.
 
 | Prompt hands over | Types | Opener |
 | --- | --- | --- |
@@ -19,7 +39,7 @@ Prompts come in two shapes, and one opener cannot serve both. A prompt either ha
 
 Attribution bank, so the same three words do not open every essay: *It is often argued* · *Many people believe* · *Some argue … while others maintain* · *A common view holds*.
 
-**T2 — no frame at all: a clean declarative paraphrase of the situation.** For situation prompts the best opener is no opener — nothing memorised, nothing discounted, no words spent before the content starts.
+**T2 — no frame at all: a clean declarative paraphrase of the situation.** Nothing memorised, nothing discounted, no words spent before the content starts.
 
 Filled against the four prompts already written, plus the untried type:
 
@@ -31,7 +51,7 @@ Filled against the four prompts already written, plus the untried type:
 
 ## The One-Formula Problem
 
-All four Task 2 essays open with the same construction. Read them side by side, because the pattern is the diagnosis:
+All four essays open on the same construction:
 
 | Rep | Type | Opening sentence | Held? |
 | --- | --- | --- | --- |
@@ -40,102 +60,80 @@ All four Task 2 essays open with the same construction. Read them side by side, 
 | 09-05 | Adv/Disadv | *There is a school of thought that more and more schools are choosing project-based and presentation assessments instead of traditional written exams.* | Misfires — a trend, not a belief |
 | 09-07 | Discuss both views | *There a school of thought that whether teaching students to be competitive or cooperative should be more beneficial.* | **No** |
 
-The formula takes a **proposition**: *a school of thought that [X is the case]*. Discuss-both-views hands over two competing propositions and no single one to slot in — so the formula got forced, and *that whether … should be more beneficial* is what forcing it produces. A school of thought holds a claim; it cannot hold a question.
+The formula takes a **proposition**: *a school of thought that [X is the case]*. Discuss-both-views hands over two competing propositions and no single one to slot in, so the formula got forced — a school of thought holds a claim, not a question. Adv/Disadv fails the other way: schools replacing exams is a fact about the world, not a belief anyone holds. That is the split the two openers exist to handle.
 
-The Adv/Disadv row fails more quietly in the other direction: schools increasingly replacing exams is a fact about the world, not a belief anyone holds, so attributing it to a school of thought misdescribes it. That is the split the two openers above exist to handle.
+Four essays opening on an identical construction is itself the memorised-frame signal [[projects/score-ielts-7-overall/materials|Materials]] warns about. Two openers with a small attribution bank read as range; one frame four times reads as a template.
 
-This is not a grammar slip to correct in place. It is one template being asked to do a job it cannot do, which is why the same sentence broke again in the 09-07 conclusion.
+## How Far the Paraphrase Has to Go
 
-Worth noting separately: four essays opening on an identical construction is itself the memorised-frame signal [[projects/score-ielts-7-overall/materials|Materials]] warns about. Two openers with a small attribution bank read as range; one frame four times reads as a template.
+What examiners discount is copied **wording**, not the act of restating.
 
-## Sentence 1 — Paraphrase the Debate, Not a Verdict
-
-Where a prompt gives two sides, the opening names both as claims. The prompt itself is already built that way (*Some people think… Others believe…*), and body 1 of the 09-07 essay got the framing right — *Those who favor … argue that* — so the shape is already available; it just has not reached the intro yet.
-
-Split the two positions across two clauses instead of compressing them into one noun phrase. Whatever the wording, the test is: can each half be read as a claim somebody holds?
-
-### How Far the Paraphrase Has to Go
-
-Sentence 1 is a paraphrase, and that is the whole of its job. What examiners discount is copied **wording**, not the act of restating.
-
-**Four steps, in order.**
-
-1. **Find the spine.** Strip the prompt to who does what to what, ignoring its wording. *The best way to solve traffic and transportation problems is to encourage people to live in cities rather than suburbs or countryside* has the spine: [encouraging urban living] is [the best solution] to [traffic problems].
-2. **Change the spine's shape, not just its words.** Three moves are always available: copular to passive (*the best way to solve X is to do Y* becomes *X is best solved by doing Y*), noun to verb (*the encouragement of* becomes *encouraging*), and reversing the order so the problem leads instead of the solution.
-3. **Replace the verbs and the abstract nouns, and leave the topic nouns alone.** *Solve* to tackle, relieve, ease; *problems* to pressures, strain; *encourage* to persuade, draw; *live in* to settle in, concentrate in. Traffic, transport, cities, suburbs, countryside all stay.
-4. **Run the two checks below.**
+1. **Find the spine.** Strip the prompt to who does what to what. *The best way to solve traffic and transportation problems is to encourage people to live in cities rather than suburbs or countryside* → [encouraging urban living] is [the best solution] to [traffic problems].
+2. **Change the spine's shape, not just its words.** Copular to passive (*the best way to solve X is to do Y* → *X is best solved by doing Y*), noun to verb (*the encouragement of* → *encouraging*), or reverse the order so the problem leads.
+3. **Replace the verbs and the abstract nouns; leave the topic nouns alone.** *Solve* → tackle, relieve, ease; *problems* → pressures, strain; *encourage* → persuade, draw. Traffic, transport, cities, suburbs, countryside all stay.
+4. **Run the two checks.**
 
 Worked on that prompt, an opinion type, so T1:
 
 > It is often argued that congestion and the strain on transport networks are best relieved by drawing the population into cities instead of the suburbs and rural areas.
 
-Spine flipped to passive, *solve* to *relieve*, *problems* to *strain*, and *encourage people to live in* to *drawing the population into*. Longest run shared with the prompt is two words, and no topic noun was touched.
+Two checks:
 
-**Keep the position out of sentence 1.** *It is often argued that* holds it neutral. Writing *cities are clearly the best answer to congestion* collapses sentences 1 and 2 into one and the paraphrase is gone — the mirror image of what the 09-07 intro did by putting a question where a claim belonged.
+1. **Structure changed, not just synonyms.** The 09-05 problem/solution prompt is passive — *a great deal of time is spent teaching facts*. The opener above flips it active: *schools devote far more classroom time to transmitting facts*.
+2. **No run of three or more consecutive words shared with the prompt.** Against that prompt — *skills needed in later life, such as thinking abilities and social skills* versus *the judgment and social skills students need after they leave* — the longest shared run is *social skills*, two words and a fixed term.
 
-Two checks for whether a restatement has travelled far enough:
+**Do not paraphrase the topic nouns.** *Schools*, *exams*, *children*, *self-employed* stay as they are; reaching for a synonym is what produced *cyclers* for cyclists and *subsize* for mitigate, both in [[projects/score-ielts-7-overall/error-log|Error Log]].
 
-1. **Change the structure, not just the synonyms.** The 09-05 problem/solution prompt is passive — *a great deal of time is spent teaching facts*. The opener above flips it active: *schools devote far more classroom time to transmitting facts*. Same meaning, different sentence, not a thesaurus pass over the original.
-2. **Scan for any run of three or more consecutive words shared with the prompt.** Those runs are the lifts. Against that same prompt — *skills needed in later life, such as thinking abilities and social skills* versus *the judgment and social skills students need after they leave* — the longest shared run is *social skills*, two words and a fixed term. That passes.
+**Keep the position out of sentence 1.** *It is often argued that* holds it neutral. *Cities are clearly the best answer to congestion* collapses sentences 1 and 2 and the paraphrase is gone.
 
-**Do not paraphrase the topic nouns.** *Schools*, *exams*, *children*, *self-employed* stay as they are; there is no synonym for the subject matter, and reaching for one is what produces *cyclers* for cyclists and *subsize* for mitigate, both already in [[projects/score-ielts-7-overall/error-log|Error Log]]. The verbs and the sentence shape carry the paraphrase; the subject matter is left alone.
-
-**Sentence 1 earns nothing on its own.** It orients the reader and demonstrates the prompt was parsed, and that is all. At 217 and 241 words it is the sentence to compress — never the reasons.
-
-A practical way to keep it honest: read the prompt, look away, then write sentence 1 from the meaning. Writing it while looking at the prompt is how the wording gets lifted.
+Sentence 1 earns nothing on its own — it orients the reader and shows the prompt was parsed. At 217 and 241 words it is the sentence to compress, never the reasons. To keep it honest: read the prompt, look away, then write it from the meaning.
 
 ## Sentence 2 — The Position, With the Reasons Named
 
-Name the reasons rather than counting them. The upgrade is visible against 09-03's own opening pair:
+Name the reasons rather than counting them. Against 09-03's own opening pair:
 
 > *It is often argued that written examinations fail to capture what a student actually understands, and that other forms of assessment would serve better.* **I largely agree, both because a single timed paper penalises students whose understanding is sound but whose recall is not, and because formats such as presentations test skills an exam cannot reach.**
 
-Against 09-03's actual second sentence — *I totally agree with this idea due to two reasons* — the position is the same and the reasons go unnamed. Naming them fixes the essay's shape before the clock starts: the two reasons in sentence 2 become the two body topic sentences, which is what makes a position hard to drift from.
+09-03 actually wrote *I totally agree with this idea due to two reasons* — same position, reasons unnamed. Naming them fixes the essay's shape before the clock starts: the two reasons become the two body topic sentences.
 
-Two things went wrong here on 09-07, both fixable without new language:
+Two failures from 09-07 and 09-05:
 
-- **Name the side; don't point at it.** *lean toward the later point of view* makes the reader hold the ordering in mind to know what the position even is, and it is what produced the *later*/*latter* slip. Naming cooperation outright costs one word and cannot be misread.
-- **Don't announce the mechanics.** *I will present both view*, and *I will discuss and advantage and a disadvantage over this argument* on 09-05, spend a whole sentence saying nothing arguable — while both essays came in under the 250-word minimum (241, then 217).
-
-### Worked Sentence 2, by Type
-
-A position appears only where the prompt asks for one; the named content appears either way. The pivot word — *though*, *but*, *and* — joins the two halves the prompt asked for.
+- **Name the side; don't point at it.** *lean toward the later point of view* makes the reader hold the ordering in mind, and it is what produced the *later*/*latter* slip. Naming cooperation outright costs one word.
+- **Don't announce the mechanics.** *I will present both view*, and *I will discuss and advantage and a disadvantage over this argument*, spend a whole sentence saying nothing arguable — while both essays came in under 250 words.
 
 **Problem and solution** (09-05 prompt), no position:
 
 > Many schools devote far more classroom time to transmitting facts than to the judgment and social skills students need after they leave. **This leaves students unable to handle situations that call for judgment rather than recall, and unpractised at working with others — though a shift towards group projects and presentations would address both.**
 
-Problems named, solutions named, no *I believe*. Against what was actually written on 09-05 — *I believe this will have 2 issues, and I will provide 2 solutions corresponding to 2 skills* — this both drops the announcement and removes the asserted position that body 1 then contradicted with *The oppositions for this argument will argue*. Taking the position out of sentence 2 removes the thing there was to contradict.
+Problems named, solutions named, no *I believe*. What was written instead — *I believe this will have 2 issues, and I will provide 2 solutions corresponding to 2 skills* — announced the mechanics and asserted a position that body 1 then contradicted. Taking the position out removes the thing there was to contradict.
 
 **Advantages and disadvantages** (09-05 prompt), no verdict, because the prompt said *discuss* rather than *outweigh*:
 
 > A growing number of schools now assess students through projects and presentations rather than written examinations. **This tests understanding directly rather than the ability to recall it under pressure, but it disadvantages students whose grasp of the material is strong and whose confidence in front of an audience is not.**
 
-Had that prompt asked *do the advantages outweigh the disadvantages*, sentence 2 gains a verdict clause: *…and is not, and on balance the first of these matters more, since an assessment that misreads what a student knows fails at its basic purpose.*
+Had it asked *do the advantages outweigh the disadvantages*, sentence 2 gains a verdict clause: *…and on balance the first of these matters more, since an assessment that misreads what a student knows fails at its basic purpose.*
 
-**Two-part question**, one answer per part — the worked pair is in the two-part section below. Where a part asks for a view rather than a fact (*is this a positive development?*), that half becomes a verdict: *…and on balance the trade is worth making for those who can absorb the income risk.*
+The pivot word — *though*, *but*, *and* — joins the two halves the prompt asked for.
 
 ## The Two-Part Question, Since It Has Not Come Up Yet
 
-Three of the five types have been drilled and discuss-both-views was attempted on 09-07. This one has not appeared in any rep, which is exposure rather than rarity — four prompts written so far, all on education and exams.
+It asks **two separate questions** about one situation. No sides to weigh and no position required unless a part explicitly asks for one; answer question one, then question two, one body paragraph each. The parts pair up any way: *why is this happening / what can be done*, *why might this be the case / what are the disadvantages*, *what are the causes / is it a positive development*. What marks it out is the absence of the other four types' signals, leaving two direct questions as the last two sentences of the prompt.
 
-It asks **two separate questions** about one situation. No sides to weigh and no position required unless a part explicitly asks for one; answer question one, then question two, one body paragraph each. The parts can pair up any way: *why is this happening / what can be done*, *why might this be the case / what are the disadvantages*, *what are the causes / is it a positive development*. What marks it out is the absence of the other four types' signals — no *to what extent do you agree*, no *discuss both views*, no *advantages and disadvantages* — leaving two direct questions, usually as the last two sentences of the prompt.
-
-**Illustrative only — not traced to a book.** [[projects/score-ielts-7-overall/materials|Materials]] rules out invented prompts, and this one is widely reproduced in prep material as a reported exam question but has not been verified against Books 16–20. Use it to see the shape; take the actual drill prompt from a book and log it in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]].
+**Illustrative only — not traced to a book.** [[projects/score-ielts-7-overall/materials|Materials]] rules out invented prompts, and this one is widely reproduced as a reported exam question but not verified against Books 16–20. Take the actual drill prompt from a book and log it in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]].
 
 > Nowadays many people choose to be self-employed, rather than to work for a company. **Why might this be the case? What could be the disadvantages of being self-employed?**
 
-Part 1 wants a cause, part 2 wants a downside — two different questions, so two body paragraphs.
-
-The intro, on the same two sentences as every other type:
-
 > An increasing number of people now work for themselves rather than taking a job with a company. This shift is driven mainly by the flexibility of setting one's own hours, though it comes at the cost of a reliable income.
 
-Sentence 1 paraphrases the situation. Sentence 2 answers both parts with the content named — flexibility for the *why*, unreliable income for the *disadvantage* — rather than announcing that two questions are about to be answered.
+Sentence 2 answers both parts with the content named — flexibility for the *why*, unreliable income for the *disadvantage*. Where a part asks for a view rather than a fact (*is this a positive development?*), that half becomes a verdict.
 
-**The cap to watch.** Answering only one part holds Task Response at 5 however good the English is. This is the easiest type to walk into that cap on, because the second question sits at the end of the prompt and reads like a restatement of the first.
+**The cap to watch.** Answering only one part holds Task Response at 5 however good the English is, and this is the easiest type to walk into that cap on, because the second question sits at the end of the prompt and reads like a restatement of the first.
 
-**Finding a real one:** scan the Writing Task 2 prompts in Books 16–20 for a prompt ending in two question sentences. Worth doing before the type is drilled, and it settles whether the type shows up in retired papers at all.
+**Finding a real one:** scan the Writing Task 2 prompts in Books 16–20 for a prompt ending in two question sentences.
+
+## Open Question — How Far the Frame Rule Goes
+
+[[projects/score-ielts-7-overall/materials|Materials]], under What to Ignore, rules out "full essay templates with fixed opening phrases," on the grounds that examiners discount memorised language. This note assumes that targets fixed *phrasing* rather than a reusable decision about what content goes in which slot — a distinction Materials does not actually draw. Resolve it either way, since it decides how much of this note to trust.
 
 ## Checklist
 
