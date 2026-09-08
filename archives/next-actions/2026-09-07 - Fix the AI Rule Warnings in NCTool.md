@@ -29,3 +29,7 @@ Widen around a hit with `sed -n` to see what the job did before the warning — 
 ## Done When
 
 Each of the three is either fixed or knowingly accepted, and a WARN grep on a fresh log no longer shows this noise.
+
+## Disposition
+
+Completed 2026-09-08.
