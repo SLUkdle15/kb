@@ -2,7 +2,7 @@
 
 Area: [[areas/badminton/badminton|Badminton]]
 Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
-Protocol: [[areas/badminton/run-a-weekly-recurring-group-session|Run a Weekly Recurring Group Session]]
+Protocol: Run a Weekly Recurring Group Session (since dropped)
 
 ## Action
 

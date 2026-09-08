@@ -31,10 +31,6 @@ Review monthly, or weekly when actively training.
 
 - 
 
-## Protocols
-
-- 
-
 ## Related Resources
 
 - [[areas/badminton/courts-near-me|Courts Near Me]] — where to play, and what is still unconfirmed.

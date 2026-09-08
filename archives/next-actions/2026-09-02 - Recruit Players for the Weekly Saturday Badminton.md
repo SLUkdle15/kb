@@ -1,7 +1,7 @@
 # Recruit Players for the Weekly Saturday Badminton
 
 Area: [[areas/badminton/badminton|Badminton]]
-Protocol: [[areas/badminton/run-a-weekly-recurring-group-session|Run a Weekly Recurring Group Session]]
+Protocol: Run a Weekly Recurring Group Session (since dropped)
 
 ## Action
 
