@@ -147,6 +147,16 @@ It asks **two separate questions** about one situation. No sides to weigh and no
 
 Sentence 2 answers both parts with the content named — flexibility for the *why*, unreliable income for the *disadvantage*. Where a part asks for a view rather than a fact (*is this a positive development?*), that half becomes a verdict.
 
+**Worked, the verdict variant.** Also illustrative — not traced to a book; log the real drill prompt in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]].
+
+> People still value artists in the age of advanced science and technology. **What are the reasons? Are arts as important as science and technology?**
+
+> Even in an age of remarkable scientific and technological achievement, artists are still widely respected. That respect rests on art's ability to interpret experience rather than explain it, and the two fields matter equally, since technology extends life while art gives it something worth having.
+
+45 words. T2 opener leading with the contrast the prompt supplies, rather than *An increasing number of people* — a variation-bank move, since that phrase has already opened a two-part rep. Part 1 gets a named reason (art interprets experience rather than explaining it); part 2 gets a verdict (*matter equally*), and the verdict stands on its own ground — survival against worth — not on part 1's reason.
+
+**The verdict half needs its own reason.** Deriving it from the *why* — *this is also the reason why arts and science are equally important* — leaves body 2 restating body 1 with *equally* attached, because the two bodies of a two-part question are independent by design ([[projects/score-ielts-7-overall/task-2-body-prep|Task 2 Body Prep]], Linking Body 1 to Body 2). Both two-part reps so far have collapsed this way: the 09-09 drill's *how to improve* half rode its *why* mechanism, and the artists rep derived its verdict from its reason.
+
 **The cap to watch.** Answering only one part holds Task Response at 5 however good the English is, and this is the easiest type to walk into that cap on, because the second question sits at the end of the prompt and reads like a restatement of the first.
 
 **Finding a real one:** scan the Writing Task 2 prompts in Books 16–20 for a prompt ending in two question sentences.

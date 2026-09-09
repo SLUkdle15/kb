@@ -166,3 +166,29 @@ An increasing number of people now consume unhealthy food despite understanding 
 
 Errors logged 2026-09-09 in [[projects/score-ielts-7-overall/error-log|Error Log]]: missing article (*an* extra fee), *it's* for possessive *its*, and *that* + gerund after *is*. Left verbatim, uncorrected, for the Phase 3 re-read.
 
+
+## 2026-09-09 — Task 2 Two-Part Question Intro Drill, Verdict Variant
+
+Intro only, and the second two-part rep of the day — the first where one part asks for a view rather than a fact.
+
+### Prompt
+
+People still value artists in the age of advanced science and technology. What are the reasons? Are arts as important as science and technology?
+
+**Not traced to a book**, the second untraced two-part prompt. Log a real one in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]] — the intro note's standing instruction is to scan Books 16–20 for a prompt ending in two question sentences.
+
+### Intro
+
+artists are wildely recorgnized by people in the age of advance technology. This is mainly driven by how genuine a creative product is made by human and this is also the reason why arts and science and tech are equally important.
+
+### Notes
+
+41 words, inside the ~45 budget, and the shape held: type named correctly, T2 opener for a situation, both parts answered in one sentence, and *artists* left alone as a topic noun.
+
+**The verdict rides the part-1 reason.** *This is also the reason why arts and science and tech are equally important* — one reason doing both jobs. Since a two-part question gives each part its own body with no bridge between them ([[projects/score-ielts-7-overall/task-2-body-prep|Task 2 Body Prep]]), body 2 would restate body 1 with *equally* attached. This is the **second occurrence** of the same collapse: the earlier 09-09 drill's *how to improve* half rode its *why* mechanism. The rule and a worked verdict-variant intro are now in [[projects/score-ielts-7-overall/task-2-intro-prep|Task 2 Introduction Prep]].
+
+**Formula reuse, second occurrence too.** Sentence 2 opens *This is mainly driven by*, against the note's own example *This shift is driven mainly by* — the earlier drill lifted both sentences from that example verbatim, and sentence 2's frame carried over again here. The T2 variation bank protects sentence 1 only; nothing yet protects sentence 2's frame.
+
+**Part 1's reason names a property, not an effect.** *How genuine a creative product is made by human* identifies authenticity but does not say what it does for anyone, which leaves body 1 without a mechanism to develop in sentence 2 of the four-sentence shape.
+
+Language not marked in this session — errors to be logged in [[projects/score-ielts-7-overall/error-log|Error Log]] from the study session. Intro left verbatim, uncorrected, for the Phase 3 re-read.
