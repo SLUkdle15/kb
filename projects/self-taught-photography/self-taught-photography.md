@@ -14,7 +14,7 @@ Comfortable shooting in manual mode and editing the results, setting exposure by
 
 ## Next Actions
 
-- [[next/next-actions/2026-09-09 - Learn Aperture on the 6D Mark II|Learn Aperture on the 6D Mark II]]
+- [[next/next-actions/2026-09-09 - Find the Next Camera Concept to Follow|Find the Next Camera Concept to Follow]]
 
 ## Notes
 

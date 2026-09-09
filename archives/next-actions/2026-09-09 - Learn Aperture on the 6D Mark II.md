@@ -13,3 +13,7 @@ Write what comes out of it into [[projects/self-taught-photography/2026-09-09 - 
 ## Done When
 
 The aperture section of that note is filled in, and I can predict what changing the f-number will do before taking the shot.
+
+## Disposition
+
+Completed 2026-09-09.
