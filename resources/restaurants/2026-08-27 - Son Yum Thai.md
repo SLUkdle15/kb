@@ -18,7 +18,7 @@ Map:
 
 ## Past Experience
 
-Not visited yet. The dinner planned for 2026-08-27 was rescheduled to 2026-09-03 and then parked — see [[next/maybe/2026-09-03 - Date Night at Son Yum Thai|Date Night at Son Yum Thai]]. Everything below is still to fill in.
+Not visited yet. The dinner planned for 2026-08-27 was rescheduled to 2026-09-03 and then parked — see [[areas/romantic-relationship/2026-09-09 - Date Ideas for Us|Date Ideas for Us]]. Everything below is still to fill in.
 
 Visited:
 

@@ -37,10 +37,7 @@ Review monthly, or weekly when the relationship needs active attention.
 ## Current Actions
 
 - [[next/calendar/Weekly Wednesday Walk with Girlfriend|Weekly Wednesday Walk with Girlfriend]]
-- [[next/maybe/2026-09-03 - Date Night at Son Yum Thai|Date Night at Son Yum Thai]]
 - [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]]
-- [[next/maybe/2026-09-07 - Follow Event News Like VnExpress for Date Ideas|Follow Event News Like VnExpress for Date Ideas]]
-- [[next/maybe/2026-09-09 - Look into the Vinamilk Anniversary Run as a Date|Look into the Vinamilk Anniversary Run as a Date]]
 - [[next/calendar/2026-09-10 - Date Day at Suon 10 and Hang Ma|Date Day at Suon 10 and Hang Ma]]
 - [[next/next-actions/2026-09-08 - Do the MOOC for Her|Do the MOOC for Her]]
 - [[next/next-actions/2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
@@ -53,4 +50,5 @@ Review monthly, or weekly when the relationship needs active attention.
 
 - [[2026-07-15 - Promises to Her|Promises to Her]]
 - [[2026-08-29 - Gift Ideas for Her|Gift Ideas for Her]]
+- [[2026-09-09 - Date Ideas for Us|Date Ideas for Us]]
 - [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]
