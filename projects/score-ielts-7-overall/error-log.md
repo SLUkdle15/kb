@@ -86,6 +86,9 @@ The most load-bearing note in the project. Its counterpart is [[projects/score-i
 | Missing article | was exposed to competitive environment early in their development phase | was exposed to **a** competitive environment early in their development | 2026-09-07 |
 | Plural -s on countable nouns | I will present both view | I will present both **views** | 2026-09-07 |
 | Plural -s after *every* | students who ace every exams | students who ace every **exam** | 2026-09-07 |
+| Missing article | the solution is that charging extra fee for shipping deliveries | the solution is to charge **an** extra fee for delivery | 2026-09-09 |
+| Possessive vs pronoun | people now consume unhealthy food despite understanding it's harmful effects | despite understanding **its** harmful effects | 2026-09-09 |
+| *that* + gerund after *is* | the solution is that charging extra fee | the solution is **to charge** an extra fee | 2026-09-09 |
 
 Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the baseline rather than assume: articles (*a/an/the* and the zero article), plural `-s` on countable nouns, subject-verb agreement, past tense marking, prepositions after specific verbs, and word order in embedded questions.
 

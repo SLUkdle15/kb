@@ -139,3 +139,30 @@ In conclusion, despite both views that whether students should be taught a sense
 Self-scored: Task Response ~5.5–6 (correct type, both views given, position held throughout — but the intro's "a school of thought that whether... should be more beneficial" garbles the debate into a question a school of thought cannot hold, body 2's example is asserted rather than concrete, and the conclusion adds nothing beyond "due to its important"). Coherence ~6 ("Despite of the advantage of the teaching view above" is a genuine backward-referencing pivot of the kind the Cohesion Moves table wants in place of *First/Second*, even though the phrase itself is wrong; the conclusion is a single garbled sentence). Lexical Resource ~5. Grammar ~5.
 
 Four first-sighting slips are deliberately **not** in the Error Log, per its repeated-errors-only rule — logged here so the rewrite can watch for them and so a second occurrence has something to point back at: missing *be* ("There a school of thought"), the *that whether* complementizer doubling (twice — intro and conclusion), *Despite of* for *Despite*, and *because of* followed by a clause instead of a noun. New and repeated errors logged 2026-09-07 in [[projects/score-ielts-7-overall/error-log|Error Log]]. Essay left verbatim, uncorrected, for the Phase 3 re-read.
+
+## 2026-09-09 — Task 2 Two-Part Question Intro Drill
+
+Intro only, not a full essay — the first run of the walkthrough in [[projects/score-ielts-7-overall/task-2-intro-prep|Task 2 Introduction Prep]], and the first attempt at the two-part type.
+
+### Prompt
+
+Many people like to eat unhealthy food even though they know it's bad for them. Why is this? What is an effective way to improve people's healthy eating habits?
+
+**Not traced to a book.** Log the real drill prompt in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]] when one is taken from Books 16–20.
+
+### Intro
+
+An increasing number of people now consume unhealthy food despite understanding it's harmful effects. This shift is driven mainly by the convenience of shipping, and the solution is that charging extra fee for shipping deliveries.
+
+### Notes
+
+~33 words, inside the ~45 budget, and the mechanics of the shape held: type named correctly (two questions at the end, no sides to weigh), T2 opener for a situation rather than a belief, *unhealthy food* left alone as a topic noun, and the longest run shared with the prompt is two words. Sentence 2 answers both parts in one sentence.
+
+**Where it broke was content, not shape.** The *why* rests on a single cause — delivery convenience — which is thin for an 85-word body, and the *how to improve* half then rides the same mechanism, so a delivery surcharge answers "reduce deliveries" rather than the question asked, "improve people's healthy eating habits". Both bodies would argue one idea.
+
+**Both sentences were lifted verbatim from this note's own two-part-question example** (*An increasing number of people now…* / *This shift is driven mainly by…*) — the One-Formula Problem again with a new formula, which is what the T2 variation bank was added to prevent.
+
+**Walkthrough feedback, which is why the list was cut from 11 steps to 6.** Steps 3 and 4 (find the spine, change its shape) could not be executed, and steps 5 and 6 (swap verbs and abstract nouns, run the two checks) were not understood — all four being the paraphrase mechanics, which the note stated abstractly in the numbered list and again with worked examples further down. The list now defers to the worked section.
+
+Errors logged 2026-09-09 in [[projects/score-ielts-7-overall/error-log|Error Log]]: missing article (*an* extra fee), *it's* for possessive *its*, and *that* + gerund after *is*. Left verbatim, uncorrected, for the Phase 3 re-read.
+

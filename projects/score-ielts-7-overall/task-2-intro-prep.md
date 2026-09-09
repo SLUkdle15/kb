@@ -26,15 +26,12 @@ The shape cannot rescue the wrong type: answering one part of a two-part questio
 
 1. **Name the type.** One of the five above. Get this wrong and nothing downstream can fix it.
 2. **Pick the opener.** Belief → T1, attribute it. Situation → T2, just state it. (*Two Openers, Not One*, below.)
-3. **Find the spine of sentence 1.** Strip the prompt to who does what to what.
-4. **Change the spine's shape.** Copular↔passive, noun↔verb, or reorder so a different part leads — not just synonyms.
-5. **Swap verbs and abstract nouns only.** Leave topic nouns (schools, cities, celebrities, exams…) exactly as the prompt states them.
-6. **Run the two checks.** Structure actually changed, and no run of three-plus words shared with the prompt.
-7. **Write sentence 1 inside the opener frame, position-neutral.** No *I believe*, no verdict — sentence 1 orients, it doesn't argue.
-8. **Generate the reasons before writing sentence 2.** For Opinion, work the position questions: did this person choose the situation or was it forced on them; where's the line between their public role and their private life; who actually gets hurt, and how badly; would an ordinary person be treated the same way? Two of the answers become the two named reasons. For the other types, pull the content straight from the table in *The Shape* — both views, the problems and their solutions, the advantage and disadvantage, both answers — content, not a count.
-9. **Write sentence 2: position + reasons named**, one complete sentence — no dash-appended fragments, and check subject-verb agreement on the reason clause before moving on. No *I will discuss/present*.
-10. **Count words.** Target ~45 for the intro; every word over is a word the bodies needed.
-11. **Run the Checklist** at the bottom before calling the intro done.
+3. **Paraphrase the prompt into sentence 1, inside the opener frame and position-neutral.** The four moves — find the spine, change its shape, swap only the verbs and abstract nouns, run the two checks — are worked with examples in *How Far the Paraphrase Has to Go* below. Do them there, not from memory. No *I believe*, no verdict: sentence 1 orients, it doesn't argue.
+4. **Generate the content for sentence 2 before writing it.** For Opinion, work the position questions: did this person choose the situation or was it forced on them; where's the line between their public role and their private life; who actually gets hurt, and how badly; would an ordinary person be treated the same way? Two of the answers become the two named reasons. For the other types, pull the content straight from the table in *The Shape* — both views, the problems and their solutions, the advantage and disadvantage, both answers — content, not a count.
+5. **Write sentence 2: position + reasons named**, one complete sentence — no dash-appended fragments, and check subject-verb agreement on the reason clause before moving on. No *I will discuss/present*.
+6. **Count words, then run the Checklist** at the bottom. Target ~45 for the intro; every word over is a word the bodies needed.
+
+Six steps, not eleven: the paraphrase mechanics used to be four separate steps here and four again under *How Far the Paraphrase Has to Go*, stated abstractly in the first place and with worked examples in the second. Running them from the abstract list is what stalls — do step 3 in that section.
 
 ## Two Openers, Not One
 
@@ -54,6 +51,15 @@ A prompt either hands over a **belief people hold** or a **situation in the worl
 Attribution bank, so the same three words do not open every essay: *It is often argued* · *Many people believe* · *Some argue … while others maintain* · *A common view holds*.
 
 **T2 — no frame at all: a clean declarative paraphrase of the situation.** Nothing memorised, nothing discounted, no words spent before the content starts.
+
+**T2 variation bank — three moves, not three phrases.** T1 has an attribution bank so the same three words do not open every essay; T2 needs the same protection, but as ways to build the sentence rather than a phrase to reuse. The prompt almost always hands over *many people [do X]*, and leaving that subject in place is what produces an identical opening every time. Change what leads:
+
+- **Quantify the trend.** *An increasing number of people now [do X].* The most natural swap for *many people*, and the one to spend carefully — it is a stock IELTS opening, so once across a set of essays, not every time.
+- **Passive, so the thing itself leads.** *[X] is widely [verb]ed by people who [know better].* — *Unhealthy food is widely eaten by people who are perfectly aware of the damage it does.*
+- **Noun-phrase subject, so the phenomenon leads.** *[The phenomenon] persists even among people who [understand it].* — *Poor diets persist even among people who understand exactly what they cost.*
+- **Lead with the contrast the prompt supplies.** *Despite [knowing X], many people [still do X].* — *Despite knowing the harm, many people continue to eat food they know to be unhealthy.* This one keeps *many people* from the prompt, which is fine: the paraphrase is carried by the structure, and the topic nouns were never the thing to change.
+
+All three carry the same content; they differ in what the reader meets first. Pick a different one from the last essay's.
 
 Filled against the four prompts already written, plus the untried type:
 
