@@ -14,10 +14,12 @@ Comfortable shooting in manual mode and editing the results, setting exposure by
 
 ## Next Actions
 
-- [[next/next-actions/2026-08-31 - Investigate What to Read to Learn Photography Basics|Investigate What to Read to Learn Photography Basics]]
+- [[next/next-actions/2026-09-09 - Learn Aperture on the 6D Mark II|Learn Aperture on the 6D Mark II]]
 
 ## Notes
 
 Approach: pick a place, search photos of it, and mimic them — places already scouted are in [[areas/photography/2026-09-08 - Places I Have Looked At|Places I Have Looked At]]. Pick a style to study — street or portrait.
 
 Photographers to study: Vivian Maier, Steve McCurry, Gregory Halpern.
+
+What the camera itself has taught so far — modes, shutter speed, and the rest of the exposure triangle as it gets covered — is in [[projects/self-taught-photography/2026-09-09 - Exposure Basics on the 6D Mark II|Exposure Basics on the 6D Mark II]].
