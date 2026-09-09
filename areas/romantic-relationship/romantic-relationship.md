@@ -40,10 +40,10 @@ Review monthly, or weekly when the relationship needs active attention.
 - [[next/maybe/2026-09-03 - Date Night at Son Yum Thai|Date Night at Son Yum Thai]]
 - [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]]
 - [[next/maybe/2026-09-07 - Follow Event News Like VnExpress for Date Ideas|Follow Event News Like VnExpress for Date Ideas]]
-- [[next/calendar/2026-09-10 - Date Day at Ba-Bat and Hang Ma|Date Day at Ba-Bat and Hang Ma]]
+- [[next/maybe/2026-09-09 - Look into the Vinamilk Anniversary Run as a Date|Look into the Vinamilk Anniversary Run as a Date]]
+- [[next/calendar/2026-09-10 - Date Day at Suon 10 and Hang Ma|Date Day at Suon 10 and Hang Ma]]
 - [[next/next-actions/2026-09-08 - Do the MOOC for Her|Do the MOOC for Her]]
 - [[next/next-actions/2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
-- [[next/next-actions/2026-09-09 - Ask Her Which She Likes Thit Tran or Banh Mi Sai Gon|Ask Her Which She Likes: Thit Tran or Banh Mi Sai Gon]]
 
 ## Current Projects
 

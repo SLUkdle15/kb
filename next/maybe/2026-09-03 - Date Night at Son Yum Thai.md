@@ -12,6 +12,8 @@ Weekday date night, in three stops:
 2. Uniqlo.
 3. Häagen-Dazs — good chance to close [[next/next-actions/2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]].
 
+Other dinner candidates: Thit Tran and Banh Mi Sai Gon — ask her which she likes, and swap stop 1 if she prefers one of them. Neither has a note in [[resources/restaurants/restaurants|resources/restaurants]] yet.
+
 ## Open from the Protocol
 
 - [ ] Does Son Yum Thai need a reservation?

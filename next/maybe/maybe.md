@@ -29,3 +29,4 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-07 - Follow Event News Like VnExpress for Date Ideas|Follow Event News Like VnExpress for Date Ideas]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 - [[2026-09-07 - Get a Lower Back MRI at Tam Anh|Get a Lower Back MRI at Tam Anh]] — hold until the six-week checkpoint on 2026-10-15
 - [[2026-09-07 - Drive Yourself Next Time to Thien Truong|Drive Yourself Next Time to Thien Truong]]
+- [[2026-09-09 - Look into the Vinamilk Anniversary Run as a Date|Look into the Vinamilk Anniversary Run as a Date]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
