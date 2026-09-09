@@ -1,20 +1,38 @@
+---
+type: area
+---
+
 # Reading
 
-Ongoing reading list: what I am reading now, what is queued, and what is finished.
+## Purpose
 
-## How To Use
+Keep reading a deliberate, continuous practice: know what is being read now, what is queued and why, and where each finished book ended up. The books themselves serve other areas — [[areas/technical-growth/technical-growth|Technical Growth]], [[areas/personal-development/personal-development|Personal Development]], [[areas/personal-finance/personal-finance|Personal Finance]] — so this area owns the queue, not the knowledge.
+
+## Standard to Maintain
 
 - One line per book: title, author, and a link to its reading-notes capture once one exists.
 - A book being read keeps a living capture note in `inbox` that grows while reading and gets distilled into resources along the way.
 - When a book is finished, move its line to Finished and point it at where its distilled notes ended up.
+- Finish or drop deliberately. A book that stopped being intended gets removed from To Read rather than left there.
+
+## Review Rhythm
+
+Review monthly, or during a weekly review when a reading program is stalled.
+
+Ask:
+
+- [ ] Is anything queued that I have stopped intending to read?
+- [ ] Is the current book still being captured, or has it gone quiet?
+- [ ] Did the last finished book actually get distilled anywhere?
 
 ## Currently Reading
+
+- *Learning Domain-Driven Design* — Vlad Khononov — #4 in the [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|roadmap]]'s Starter Stack and the entry point to its Phase 3, boundaries and bounded contexts; capture in [[inbox/2026-09-09 - Learning Domain-Driven Design|2026-09-09 - Learning Domain-Driven Design]]
 
 ## To Read
 
 Two reading programs feed this list: [[areas/personal-development/2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]] (argument, improv, mental models — running in its narrow form, *The Art of Thinking Clearly* only, with the rest deferred until after the IELTS test) and the still-parked [[next/maybe/2026-08-21 - Start Investing|Start Investing]] (the investing books).
 
-- *Learning Domain-Driven Design* — Vlad Khononov — **next on the architect path**; #4 in the [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|roadmap]]'s Starter Stack and the entry point to its Phase 3, boundaries and bounded contexts
 - *A Philosophy of Software Design* — John Ousterhout — #2 in the Starter Stack, skipped past on the way to DDIA
 - *The Blade Itself* — Joe Abercrombie
 - *A Rulebook for Arguments* — Anthony Weston — argument skeletons in ~100 pages; for making an argument hold up, not for filling a silence

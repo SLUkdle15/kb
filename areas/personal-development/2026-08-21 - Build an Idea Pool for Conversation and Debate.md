@@ -13,7 +13,7 @@ Three ingredients, and most reading only stocks the third:
 - **Lenses** — reusable ways to have an opinion about anything. *The Art of Thinking Clearly* (Dobelli), *The Great Mental Models Vol. 1* (Parrish), *Range* (Epstein).
 - **Examples** — citable specifics for the "for example" slot. *Factfulness* (Rosling).
 
-Queued in [[resources/reading/reading|Reading]]. Start with *The Art of Thinking Clearly* — the highest ratio of deployable ideas to pages, and the only format that survives a busy stretch.
+Queued in [[areas/reading/reading|Reading]]. Start with *The Art of Thinking Clearly* — the highest ratio of deployable ideas to pages, and the only format that survives a busy stretch.
 
 Books are the slow lane. The fast lane is 800–1,200 word argumentative journalism — Aeon, The Economist, The Conversation — where each piece is a position, two reasons, an example, and a concession. A book gives depth on one topic; twenty columns give twenty positions on twenty topics.
 

@@ -8,7 +8,7 @@ Learn enough to make an investing decision on purpose, then make it. Two steps, 
 
 **1. Learn the fundamentals.** Not stock picking. The parts that actually decide outcomes: time horizon, risk tolerance, diversification, fees, and why low-cost index funds beat active selection for most people. Enough to read a product sheet and know what is being sold.
 
-Reading, in order, queued in [[resources/reading/reading|Reading]]:
+Reading, in order, queued in [[areas/reading/reading|Reading]]:
 
 - *The Psychology of Money* (Housel) — **start here.** The first failure is behavioral, not analytical, and this is the one that gets finished.
 - *The Little Book of Common Sense Investing* (Bogle) — the actual mechanics and the fee argument. US examples, universal conclusion.

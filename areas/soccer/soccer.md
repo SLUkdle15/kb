@@ -42,5 +42,5 @@ Review monthly, or weekly when actively training.
 - [[areas/soccer/fields-near-me|Fields Near Me]] — candidate fields for when the current rental ends, still being collected.
 - [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]]
 - [[resources/soccer/2026-08-31 - Deep Pivot Build-Up Pattern|Deep Pivot Build-Up Pattern]]
-- [[resources/reading/reading|Reading]] — *Soccer IQ* queued in the to-read list
+- [[areas/reading/reading|Reading]] — *Soccer IQ* queued in the to-read list
 - [[areas/personal-development/favorite-problems|Favorite Problems]] — #5 is about competing across the sports I play
