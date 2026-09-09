@@ -19,13 +19,13 @@ Recurring — stays here while the routine is on.
 
 Note two things each Sunday during [[next/calendar/Weekly Sunday Vault Review|the weekly review]]: roughly how long the stiffness lasts when standing up after sitting, and whether the timer habit held that week.
 
-| Week | Stiffness lasts | Timer habit |
-| --- | --- | --- |
-| 1 — Sep 6 | | |
-| 2 — Sep 13 | | |
-| 3 — Sep 20 | | |
-| 4 — Sep 27 | | |
-| 5 — Oct 4 | | |
-| 6 — Oct 11 | | |
+| Week       | Stiffness lasts | Timer habit |
+| ---------- | --------------- | ----------- |
+| 1 — Sep 6  | check           |             |
+| 2 — Sep 13 |                 |             |
+| 3 — Sep 20 |                 |             |
+| 4 — Sep 27 |                 |             |
+| 5 — Oct 4  |                 |             |
+| 6 — Oct 11 |                 |             |
 
 Checkpoint after week 6: [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking|Review Six Weeks of Lower Back Tracking]] — if the stiffness has not noticeably shortened, take this record to a physiotherapist instead of continuing.
