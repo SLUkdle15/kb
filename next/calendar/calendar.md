@@ -50,6 +50,7 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 - [[next/calendar/2026-10-10 - Go to Temple and Eat Vegetarian]] — 2026-10-10 (first day of lunar month/September)
 - [[next/calendar/2026-09-25 - Watch the Endgame Encore Showing]] — 2026-09-25 (reminder 5 days before to book tickets)
+- [[next/calendar/2026-09-26 - Attend Phuc's Wedding]] — 2026-09-26 11:30 (Saturday)
 - [[next/calendar/2026-09-21 - Book the IELTS Test for Mid-November]] — 2026-09-21 (backstop: last safe week to book for mid-November)
 - [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking]] — 2026-10-15 (six-week checkpoint on the lower back routine; physio if no change)
 - [[next/calendar/2026-09-12 - Go to the Range and Run a Contact Tally Session]] — 2026-09-12 (Saturday)
