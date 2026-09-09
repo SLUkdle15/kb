@@ -29,3 +29,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-08 - Finish Building the Soccer Tactics Board|Finish Building the Soccer Tactics Board]]
 - [[2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 - [[2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]] — seasonal, Mid-Autumn 2026-09-25
+- [[2026-09-09 - Ask Her Which She Likes Thit Tran or Banh Mi Sai Gon|Ask Her Which She Likes: Thit Tran or Banh Mi Sai Gon]]
