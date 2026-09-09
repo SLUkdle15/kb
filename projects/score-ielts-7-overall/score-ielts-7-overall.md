@@ -84,6 +84,7 @@ Nothing about the plan changes — Phase 1 is the same work against either date.
 - [[projects/score-ielts-7-overall/grammar-article-rules|Article Rules]] — singular countable nouns, superlatives, and generic vs. specific *the*, checked before the next sentence.
 - [[projects/score-ielts-7-overall/grammar-other-patterns|Other Grammar Patterns]] — the missing-*that* complementizer and verb + preposition collocations.
 - [[projects/score-ielts-7-overall/task-2-intro-prep|Task 2 Introduction Prep]] — the two-sentence intro shape, the two openers, and what each of the five types needs in each slot, checked before the next Task 2 attempt.
+- [[projects/score-ielts-7-overall/task-2-body-prep|Task 2 Body Prep]] — the four-sentence body shape, the per-section word budget, and how two reasons fold into one idea.
 - [[projects/score-ielts-7-overall/task-1-writing-prep|Task 1 Writing Prep]] — intro structure, precise collocations, the chart-relationship sentence, and coherence, checked before the next Task 1 attempt.
 - [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]] — which tests from books 16-20 are spent, and what stays unseen for the mocks.
 - [[projects/score-ielts-7-overall/materials|Materials]] — the short list of sources, and what to ignore.

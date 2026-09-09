@@ -1,6 +1,6 @@
 # Task 2 Introduction Prep
 
-Check against these before the next Task 2 attempt. Distilled from the four Task 2 reps in [[projects/score-ielts-7-overall/practice-essays|Practice Essays]] and the 09-07 self-score; the band-level reasoning behind it is levers 1, 2, and 4 in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]].
+Check against these before the next Task 2 attempt. The bodies have their own note: [[projects/score-ielts-7-overall/task-2-body-prep|Task 2 Body Prep]]. Distilled from the four Task 2 reps in [[projects/score-ielts-7-overall/practice-essays|Practice Essays]] and the 09-07 self-score; the band-level reasoning behind it is levers 1, 2, and 4 in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]].
 
 ## The Shape
 
