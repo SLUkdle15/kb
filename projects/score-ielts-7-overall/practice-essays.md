@@ -160,7 +160,7 @@ An increasing number of people now consume unhealthy food despite understanding 
 
 **Where it broke was content, not shape.** The *why* rests on a single cause — delivery convenience — which is thin for an 85-word body, and the *how to improve* half then rides the same mechanism, so a delivery surcharge answers "reduce deliveries" rather than the question asked, "improve people's healthy eating habits". Both bodies would argue one idea.
 
-**Both sentences were lifted verbatim from this note's own two-part-question example** (*An increasing number of people now…* / *This shift is driven mainly by…*) — the One-Formula Problem again with a new formula, which is what the T2 variation bank was added to prevent.
+**Both sentences were lifted verbatim from this note's own two-part-question example** (*An increasing number of people now…* / *This shift is driven mainly by…*) — the same one-formula habit with a new formula, which is what the T2 variation bank was added to prevent.
 
 **Walkthrough feedback, which is why the list was cut from 11 steps to 6.** Steps 3 and 4 (find the spine, change its shape) could not be executed, and steps 5 and 6 (swap verbs and abstract nouns, run the two checks) were not understood — all four being the paraphrase mechanics, which the note stated abstractly in the numbered list and again with worked examples further down. The list now defers to the worked section.
 
@@ -175,7 +175,7 @@ Intro only, and the second two-part rep of the day — the first where one part 
 
 People still value artists in the age of advanced science and technology. What are the reasons? Are arts as important as science and technology?
 
-**Not traced to a book**, the second untraced two-part prompt. Log a real one in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]] — the intro note's standing instruction is to scan Books 16–20 for a prompt ending in two question sentences.
+**Not traced to a book**, the second untraced two-part prompt. Log a real one in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]]: scan Books 16–20 for a prompt ending in two question sentences.
 
 ### Intro
 
@@ -185,10 +185,37 @@ artists are wildely recorgnized by people in the age of advance technology. This
 
 41 words, inside the ~45 budget, and the shape held: type named correctly, T2 opener for a situation, both parts answered in one sentence, and *artists* left alone as a topic noun.
 
-**The verdict rides the part-1 reason.** *This is also the reason why arts and science and tech are equally important* — one reason doing both jobs. Since a two-part question gives each part its own body with no bridge between them ([[projects/score-ielts-7-overall/task-2-body-prep|Task 2 Body Prep]]), body 2 would restate body 1 with *equally* attached. This is the **second occurrence** of the same collapse: the earlier 09-09 drill's *how to improve* half rode its *why* mechanism. The rule and a worked verdict-variant intro are now in [[projects/score-ielts-7-overall/task-2-intro-prep|Task 2 Introduction Prep]].
+**The verdict rides the part-1 reason.** *This is also the reason why arts and science and tech are equally important* — one reason doing both jobs. Since a two-part question gives each part its own body with no bridge between them ([[projects/score-ielts-7-overall/task-2-body-prep|Task 2 Body Prep]]), body 2 would restate body 1 with *equally* attached. This is the **second occurrence** of the same collapse: the earlier 09-09 drill's *how to improve* half rode its *why* mechanism. The rule is now in [[projects/score-ielts-7-overall/task-2-body-prep|Task 2 Body Prep]], under Linking Body 1 to Body 2.
 
 **Formula reuse, second occurrence too.** Sentence 2 opens *This is mainly driven by*, against the note's own example *This shift is driven mainly by* — the earlier drill lifted both sentences from that example verbatim, and sentence 2's frame carried over again here. The T2 variation bank protects sentence 1 only; nothing yet protects sentence 2's frame.
 
 **Part 1's reason names a property, not an effect.** *How genuine a creative product is made by human* identifies authenticity but does not say what it does for anyone, which leaves body 1 without a mechanism to develop in sentence 2 of the four-sentence shape.
 
 Language not marked in this session — errors to be logged in [[projects/score-ielts-7-overall/error-log|Error Log]] from the study session. Intro left verbatim, uncorrected, for the Phase 3 re-read.
+
+
+## 2026-09-10 — Task 2 Opinion (Positive/Negative) Intro Drill
+
+Intro only, and the first rep of the opinion type where the prompt hands over a situation rather than a belief.
+
+### Prompt
+
+Nowadays young people are admiring media and sports stars, even though they do not set a good example. Do you think this is a positive or negative development?
+
+**Not traced to a book**, the third untraced prompt. Log a real one in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]].
+
+### Intro
+
+It is often argued that despite media and sports stars posses infamous images, they are widely respected by young people. I largely agree that this is a negative development, both because media and sports stars are just the products of advertisement, and because the real influencers who bring value to the countries are not get the deserved attention.
+
+### Notes
+
+58 words against the ~45 budget, and the reasons are named rather than counted — the fix the 09-03 rep was missing.
+
+**The opener misfired, the first T1/T2 error.** The prompt opens *Nowadays* and states the admiration as fact, so it hands over a situation and takes T2. *It is often argued that* recast a stated fact as a contested claim, and spent five words doing it. [[projects/score-ielts-7-overall/task-2-intro-prep|Task 2 Introduction Prep]] mapped Opinion to T1 unconditionally, which is what produced the error; that note now splits opinion into agree/disagree and positive/negative and lists the signal words that tell them apart.
+
+**Sentence 2 imported the wrong type's convention.** *I largely agree* answers an agree/disagree prompt, and nothing here was proposed to agree with. Third occurrence of the wrong-essay-type-framing entry in [[projects/score-ielts-7-overall/error-log|Error Log]].
+
+**Reason 1 names no harm.** *Media and sports stars are just the products of advertisement* is a claim about the stars, not a cost to anyone, so it leaves body 1 without a mechanism — the same shape as the artists rep's property-not-effect reason. The step 4 working had the stronger idea, that young people are hurt by copying what they admire, and it did not reach the sentence.
+
+Four first-sighting slips, deliberately **not** in the Error Log per its repeated-errors-only rule: *posses* for *possess*, *advertisement* for *advertising*, *influencers* for the people who actually contribute (the word names the stars, not their opposite), and *the countries* for *their countries*. Repeated errors logged 2026-09-10 in [[projects/score-ielts-7-overall/error-log|Error Log]]. Intro left verbatim, uncorrected, for the Phase 3 re-read.

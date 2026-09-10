@@ -38,7 +38,7 @@ That last line is the most useful sentence in the whole descriptor set. Band 7 g
 
 Do Task 2 first, then Task 1. Task 2 is worth double, and an unfinished conclusion damages Task Response directly, whereas a slightly thin Task 1 costs less. Cap Task 2 at 40 minutes even mid-sentence, then move.
 
-Minimums: 250 words for Task 2, 150 for Task 1. Under-length is penalised outright. The per-section sentence and word budget is in [[projects/score-ielts-7-overall/task-2-body-prep|Task 2 Body Prep]]. Learn what 250 words looks like in the computer-delivered word counter so it never needs counting.
+Minimums: 250 words for Task 2, 150 for Task 1. Under-length is penalised outright. Learn what 250 words looks like in the computer-delivered word counter so it never needs counting.
 
 ## The Self-Scoring Pass
 

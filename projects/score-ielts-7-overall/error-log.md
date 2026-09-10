@@ -89,6 +89,8 @@ The most load-bearing note in the project. Its counterpart is [[projects/score-i
 | Missing article | the solution is that charging extra fee for shipping deliveries | the solution is to charge **an** extra fee for delivery | 2026-09-09 |
 | Possessive vs pronoun | people now consume unhealthy food despite understanding it's harmful effects | despite understanding **its** harmful effects | 2026-09-09 |
 | *that* + gerund after *is* | the solution is that charging extra fee | the solution is **to charge** an extra fee | 2026-09-09 |
+| Preposition + clause instead of a noun phrase | despite media and sports stars posses infamous images | **despite the poor example they set** / **although they possess** | 2026-09-10 |
+| Verb form after *be* | the real influencers ... are not get the deserved attention | **do not get** the attention they deserve | 2026-09-10 |
 
 Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the baseline rather than assume: articles (*a/an/the* and the zero article), plural `-s` on countable nouns, subject-verb agreement, past tense marking, prepositions after specific verbs, and word order in embedded questions.
 
@@ -147,7 +149,7 @@ The Task 1 entries are logged on first sighting, against the repeated-errors-onl
 | Under the 150-word minimum | Task 1 practice, ~95 words — worse than the 08-29 miss, third occurrence | 2026-08-31 |
 | No overview sentence | Task 1 practice, jumped straight to "First," — no intro, no overview at all | 2026-08-31 |
 | Figure misread from the chart | Task 1 practice, "subsided again in 2019 to 10%" for a fall to 10 hours — swapped the unit, not just the number | 2026-08-31 |
-| Wrong essay-type framing — importing another type's rhetorical convention | Discuss-both-views compulsory-service attempt (08-21) answered as pure opinion with no other view; Problem/Solution practice (09-05) opened a body paragraph with "The oppositions for this argument will argue," inventing a concession/rebuttal stance the question never asked for and contradicting the intro's own "I believe" | 2026-09-05 |
+| Wrong essay-type framing — importing another type's rhetorical convention | Discuss-both-views compulsory-service attempt (08-21) answered as pure opinion with no other view; Problem/Solution practice (09-05) opened a body paragraph with "The oppositions for this argument will argue," inventing a concession/rebuttal stance the question never asked for and contradicting the intro's own "I believe"; positive/negative intro drill (09-10) answered with *I largely agree*, an agree/disagree convention on a prompt that proposes nothing to agree with | 2026-09-10 |
 | Under the 250-word minimum (Task 2) | Advantages/Disadvantages practice, 241 words — first Task 2 miss; Task 1 has missed length three times already | 2026-09-05 |
 | Under the 250-word minimum (Task 2) | Discuss-both-views practice, 217 words — second consecutive Task 2 miss and the shortest Task 2 yet | 2026-09-07 |
 | Examples asserted, not concrete — no figure, place, or mechanism | Discuss-both-views practice, body 2's "students who ace every exams still struggle to work in group projects" names no person, setting, or mechanism | 2026-09-07 |
