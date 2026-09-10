@@ -648,15 +648,6 @@
 
 ## [2026-09-10] lint | Vault health check
 
-- Indexed 354 notes
-- Broken wiki links: 0
-- Orphan notes: 0
-- Projects missing next actions: 0
-- Stale-claim candidates: 36
-- Report: /tmp/vault-lint/report.md
-
-## [2026-09-10] lint | Vault health check
-
 - Indexed 355 notes
 - Broken wiki links: 0
 - Orphan notes: 0
