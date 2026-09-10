@@ -13,24 +13,6 @@ One body paragraph, four sentences, in this order:
 
 Skipping sentence 2 is the common failure: the paragraph jumps from the claim to an example, and the example then has to carry the reasoning as well as illustrate it.
 
-## One Idea, Two Faces
-
-Two reasons in one body is the band-6 trap. But two reasons can usually be folded into one idea with sentence 2 carrying both as the *mechanism* of it.
-
-Worked, on *why do people eat unhealthy food even though they know it is bad for them*: cheapness and availability look like two reasons. They are two faces of one idea — unhealthy food is the path of least resistance — and both fit inside sentence 2.
-
-## Word and Sentence Budget
-
-| Section | Sentences | Words | Each sentence's job |
-| --- | --- | --- | --- |
-| Intro | 2 | 40-45 | paraphrase the situation; answer with the content named |
-| Body 1 | 4, or 5 | 85-100 | idea; why; example; consequence; (optional loop-closer) |
-| Body 2 | 4 | 85-95 | the same four, answering the second part or side |
-| Conclusion | 1-2 | 30-40 | both answers restated, no new idea |
-| **Total** | **11-13** | **255-275** | 250 is the minimum, aim ~265 |
-
-The conversion that makes this usable while writing: **about 20 words per sentence**, so 250 words is roughly 13 sentences and four sentences is roughly 85. The two Task 2 misses — 241 words on 09-05 and 217 on 09-07 — were 11 and 10 sentences: the sentences were the right size, there were not enough of them.
-
 ## Worked Body 1
 
 Prompt: *Many people like to eat unhealthy food even though they know it's bad for them. Why is this? What is an effective way to improve people's healthy eating habits?* Built 2026-09-09 from the drafting process in [[projects/score-ielts-7-overall/practice-essays|Practice Essays]], where the intro rep is logged.
@@ -62,3 +44,4 @@ Depends on the type, and for one type the link is a trap:
 
 - **Two-part question.** Two separate questions, one body each. There is nothing to weigh and no bridge to build — trying to write a transition here is what stalls the paragraph. Cohesion comes from referencing (lever 4): body 2 opens by pointing back, *Closing that gap is what any effective policy has to do*, with no *Moreover* and no *Secondly*.
 - **Opinion, discuss both views, advantages and disadvantages.** The two bodies do stand in relation, so the pivot belongs at the start of body 2 — *while*, *whereas*, or a backward reference to what body 1 established.
+- **Neither body borrows the other's idea.** The four-sentence shape develops one idea, so body 2 running on body 1's mechanism collapses them — twice now, the 09-09 *how to improve* half and the artists rep's verdict. Each body needs an idea that stands on its own ground.
