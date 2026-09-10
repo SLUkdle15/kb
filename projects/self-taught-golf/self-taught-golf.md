@@ -15,7 +15,7 @@ Comfortable enough to go play a full round of 18 holes.
 
 ## Notes
 
-No formal lessons. The beginner-lesson search closed 2026-09-04 in favor of self-teaching from the range, run as [[areas/golf-training/run-a-beginner-range-session|Run a Beginner Range Session]].
+No formal lessons. The beginner-lesson search closed 2026-09-04 in favor of self-teaching from the range, run as [[projects/self-taught-golf/2026-09-10 - Beginner Range Practice Session|Beginner Range Practice Session]].
 
 Self-teaching loop: film the swing, compare it against one reference swing, and let the gap between the two pick the next thing to work on. One reference swing and one teacher to follow, not a list — averaging contradictory sources is the way this goes nowhere.
 

@@ -2,12 +2,12 @@
 
 Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 Area: [[areas/golf-training/golf-training|Golf Training]]
-Protocol: [[areas/golf-training/run-a-beginner-range-session|Run a Beginner Range Session]]
+Session notes: [[projects/self-taught-golf/2026-09-10 - Beginner Range Practice Session|Beginner Range Practice Session]]
 Due: 2026-09-12
 
 ## Action
 
-Run the full range-session protocol, one club, ending with the Contact Tally section: count clean contact out of 20 balls, note strike location (toe/heel/thin/fat), and note ball flight direction. This is the interim measurement loop until a reference swing exists to film against.
+Run the full range session, one club, ending with the Contact Tally section: count clean contact out of 20 balls, note strike location (toe/heel/thin/fat), and note ball flight direction. This is the interim measurement loop until a reference swing exists to film against.
 
 ## Done When
 

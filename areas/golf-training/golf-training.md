@@ -20,7 +20,7 @@ Review monthly, or weekly during active practice cycles.
 
 ## Protocols
 
-- [[areas/golf-training/run-a-beginner-range-session|Run a Beginner Range Session]]
+- None yet. The range-session notes live in [[projects/self-taught-golf/2026-09-10 - Beginner Range Practice Session|Beginner Range Practice Session]] and are not a protocol yet.
 
 ## Current Actions
 
