@@ -1,10 +1,10 @@
 # Task 2 Introduction Prep
 
-Check against these before the next Task 2 attempt. The bodies have their own note: [[projects/score-ielts-7-overall/task-2-body-prep|Task 2 Body Prep]]. Distilled from the four Task 2 reps in [[projects/score-ielts-7-overall/practice-essays|Practice Essays]] and the 09-07 self-score; the band-level reasoning behind it is levers 1, 2, and 4 in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]].
+Check against these before the next Task 2 attempt. The bodies have their own note: [[projects/score-ielts-7-overall/task-2-body-prep|Task 2 Body Prep]]. Distilled from the four Task 2 reps of Phase 1 and the 09-07 self-score; the band-level reasoning behind it is levers 1, 2, and 4 in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]].
 
 ## The Shape
 
-Two sentences, for every one of the five types. What changes between types is not the shape — it is what counts as an answer.
+Two sentences, for every type below. What changes between types is not the shape — it is what counts as an answer.
 
 **Sentence 1 — paraphrase the prompt.** Whatever the prompt hands over — a situation, a change, or a belief — in different words. No opinion, no reason, no new information. Where the prompt raises two sides, both go here, each as a claim somebody holds.
 
@@ -16,6 +16,7 @@ Two sentences, for every one of the five types. What changes between types is no
 - Problem and solution
 - Advantages and disadvantages
 - Two-part question
+- Direct question — the same family with one question instead of two
 
 About 45 words, against a budget of two bodies at ~85 each — roughly 255, which clears the 250 minimum with nothing to spare. Both recent essays came in under (241, 217), and the intro is where words go to announcements instead of arguments.
 
@@ -25,7 +26,7 @@ The shape cannot rescue the wrong type: answering one part of a two-part questio
 
 Content first, then the sentence that reports it. The intro is written last because it has nothing to summarise until the two reasons exist as sentences — and both collapses so far would have been unmissable as two sentences side by side on a page.
 
-1. **Name the type.** One of the five above. Get this wrong and nothing can fix it.
+1. **Name the type.** One of those above. Get this wrong and nothing can fix it.
 2. **Write the two body topic sentences, in full.** Not notes, not *flexibility* — complete sentences, each naming an effect on somebody (*A Reason Names an Effect, Not a Property*, below). This is the step where the essay's content is decided.
 3. **Check the two are not one** (*One Reason Per Body*, below). Same noun doing the causal work, or one dying when the other is denied. Fix it here, where it costs a line rather than a paragraph.
 4. **Compress the pair into sentence 2.** Strip the frames, add the verdict the type owes (*What Each Type Commits To*), join the halves with the pivot, and pick a frame that is not the last essay's. One complete sentence — no dash-appended fragments, subject-verb agreement checked on the reason clauses, no *I will discuss/present*. Nothing is invented here; if something is, step 2 was not finished.
@@ -62,7 +63,7 @@ Reason one is body 1's only reason, reason two is body 2's. Sentence 2 says both
 
 **Pick a different arena and there is nothing to test.** Money, then time, habit, status, or law. What a person does, then what an institution does.
 
-**Two types bend this.** A two-part question gets no bridge at all: cover part 1's reason and part 2's answer must still stand. Problem and solution needs the shared topic, since the remedy is supposed to attack the cause — only the mechanism differs, body 1 why the cause bites and body 2 why the remedy changes what somebody does. A remedy that is the cause with a policy verb bolted on (*deliveries are convenient* → *charge for deliveries*) leaves body 2 nothing of its own.
+**Three types bend this.** A direct question asks once, so both bodies answer the same question and the pivot is back on — body 2 may open by pointing at what body 1 answered. What it must not do is answer the question a second time with body 1's reason. A two-part question gets no bridge at all: cover part 1's reason and part 2's answer must still stand. Problem and solution needs the shared topic, since the remedy is supposed to attack the cause — only the mechanism differs, body 1 why the cause bites and body 2 why the remedy changes what somebody does. A remedy that is the cause with a policy verb bolted on (*deliveries are convenient* → *charge for deliveries*) leaves body 2 nothing of its own.
 
 ## Sentence 2 — The Position, With the Reasons Named
 
@@ -78,6 +79,7 @@ Step 4: commit, then report the two topic sentences already on the page. Nothing
 | Problem and solution | the cause you will argue, and the remedy |
 | Advantages and disadvantages | the main advantage and the main disadvantage; which outweighs, only if asked |
 | Two-part question | an answer to each question, neither borrowing the other's reason |
+| Direct question | two answers to the one question asked, both named |
 
 *I agree* / *I disagree* belong to agree/disagree alone. Using them where nothing was proposed to agree with is the most-repeated framing error in [[projects/score-ielts-7-overall/error-log|Error Log]] — three occurrences, latest the 09-10 rep, which owed *this is a negative development*.
 
@@ -96,7 +98,7 @@ Both 09-09 reps lifted the frame from this note's own example (*This shift is dr
 
 ### Worked Pair
 
-Two drill prompts from [[projects/score-ielts-7-overall/practice-essays|Practice Essays]] rebuilt, planning line first.
+Two earlier drill prompts rebuilt, planning line first. New reps are logged in [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]].
 
 **Two-part question.** *Many people like to eat unhealthy food even though they know it's bad for them. Why is this? What is an effective way to improve people's healthy eating habits?*
 
@@ -129,7 +131,7 @@ A prompt either hands over a **belief people hold** or a **situation or change i
 | Prompt hands over | Types | Opener |
 | --- | --- | --- |
 | a belief | opinion (agree/disagree), discuss both views | **T1 — attribute it** |
-| a situation or a change | opinion (positive/negative), problem and solution, advantages and disadvantages, two-part question | **T2 — just state it** |
+| a situation or a change | opinion (positive/negative), problem and solution, advantages and disadvantages, two-part question, direct question | **T2 — just state it** |
 
 **Opinion takes either opener.** The type name does not decide it — what the prompt hands over does. The tell is in the prompt's first half:
 

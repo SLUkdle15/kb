@@ -78,13 +78,13 @@ Nothing about the plan changes — Phase 1 is the same work against either date.
 - [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] — what actually separates a 5.5 essay from a 6.5 one, plus the self-scoring pass.
 - [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]] — the long-turn and Part 3 mechanics, and the recording loop.
 - [[projects/score-ielts-7-overall/error-log|Error Log]] — running list of repeated mistakes. This is the single most load-bearing note in the project.
-- [[projects/score-ielts-7-overall/practice-essays|Practice Essays]] — running log of Phase 1+ reps, kept for the Phase 3 re-read.
 - [[projects/score-ielts-7-overall/repertoire|Repertoire]] — the counterpart to the error log: lenses and plain-English questions for generating content on any topic, plus the anchor-example bank.
 - [[projects/score-ielts-7-overall/grammar-countable-uncountable-nouns|Countable and Uncountable Nouns]] — the never-take-`-s` list, singular-verb rule, and collective nouns.
 - [[projects/score-ielts-7-overall/grammar-article-rules|Article Rules]] — singular countable nouns, superlatives, and generic vs. specific *the*, checked before the next sentence.
 - [[projects/score-ielts-7-overall/grammar-other-patterns|Other Grammar Patterns]] — the missing-*that* complementizer and verb + preposition collocations.
 - [[projects/score-ielts-7-overall/task-2-intro-prep|Task 2 Introduction Prep]] — the two-sentence intro shape, the two openers and how to pick between them, and the paraphrase test, checked before the next Task 2 attempt.
 - [[projects/score-ielts-7-overall/task-2-body-prep|Task 2 Body Prep]] — the four-sentence body shape, the structures to use, and how the two bodies relate.
+- [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]] — running log of planning-line reps: the prompt, the intro, and the two topic sentences as written.
 - [[projects/score-ielts-7-overall/task-1-writing-prep|Task 1 Writing Prep]] — intro structure, precise collocations, the chart-relationship sentence, and coherence, checked before the next Task 1 attempt.
 - [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]] — which tests from books 16-20 are spent, and what stays unseen for the mocks.
 - [[projects/score-ielts-7-overall/materials|Materials]] — the short list of sources, and what to ignore.

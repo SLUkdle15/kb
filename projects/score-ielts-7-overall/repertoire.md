@@ -17,7 +17,7 @@ The lenses are for finding an idea, not for wording it. Nothing here is a phrase
 
 ### Education
 
-All four Task 2 reps so far have been education or exams — see [[projects/score-ielts-7-overall/practice-essays|Practice Essays]] — so this is the family to be fastest on.
+All four Task 2 reps so far have been education or exams, so this is the family to be fastest on.
 
 **Lenses:** what it's meant to measure vs. what it measures, exams vs. life after school, who decides (school / parent / student), access and cost
 

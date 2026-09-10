@@ -15,7 +15,7 @@ Skipping sentence 2 is the common failure: the paragraph jumps from the claim to
 
 ## Worked Body 1
 
-Prompt: *Many people like to eat unhealthy food even though they know it's bad for them. Why is this? What is an effective way to improve people's healthy eating habits?* Built 2026-09-09 from the drafting process in [[projects/score-ielts-7-overall/practice-essays|Practice Essays]], where the intro rep is logged.
+Prompt: *Many people like to eat unhealthy food even though they know it's bad for them. Why is this? What is an effective way to improve people's healthy eating habits?* Built 2026-09-09 alongside the two-part question intro drill on the same prompt.
 
 1. *For most people, eating badly is now simply the path of least resistance.* (13)
 2. *Mass production keeps a filling fast-food meal cheaper than the fresh ingredients to cook one, and the outlets selling it sit on every busy street.* (25)
@@ -43,5 +43,6 @@ Lever 5 caps the ambition: four structures, used everywhere — a defining relat
 Depends on the type, and for one type the link is a trap:
 
 - **Two-part question.** Two separate questions, one body each. There is nothing to weigh and no bridge to build — trying to write a transition here is what stalls the paragraph. Cohesion comes from referencing (lever 4): body 2 opens by pointing back, *Closing that gap is what any effective policy has to do*, with no *Moreover* and no *Secondly*.
+- **Direct question.** The opposite case, and the one most easily confused with the above: asked once, it gets one question and two answers, so the two bodies are comparable and the pivot is back on — body 2 opens by pointing at what body 1 answered. The trap here is not the transition but answering twice with the same reason.
 - **Opinion, discuss both views, advantages and disadvantages.** The two bodies do stand in relation, so the pivot belongs at the start of body 2 — *while*, *whereas*, or a backward reference to what body 1 established.
 - **Neither body borrows the other's idea.** The four-sentence shape develops one idea, so body 2 running on body 1's mechanism collapses them — twice now, the 09-09 *how to improve* half and the artists rep's verdict. Each body needs an idea that stands on its own ground.
