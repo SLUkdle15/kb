@@ -54,4 +54,3 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 - [[next/calendar/2026-09-21 - Book the IELTS Test for Mid-November]] — 2026-09-21 (backstop: last safe week to book for mid-November)
 - [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking]] — 2026-10-15 (six-week checkpoint on the lower back routine; physio if no change)
 - [[next/calendar/2026-09-12 - Go to the Range and Run a Contact Tally Session]] — 2026-09-12 (Saturday)
-- [[next/calendar/2026-09-10 - Date Day at Suon 10 and Hang Ma]] — 2026-09-10 (Thursday)

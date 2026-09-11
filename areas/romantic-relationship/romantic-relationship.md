@@ -38,8 +38,6 @@ Review monthly, or weekly when the relationship needs active attention.
 
 - [[next/calendar/Weekly Wednesday Walk with Girlfriend|Weekly Wednesday Walk with Girlfriend]]
 - [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]]
-- [[next/calendar/2026-09-10 - Date Day at Suon 10 and Hang Ma|Date Day at Suon 10 and Hang Ma]]
-- [[next/next-actions/2026-09-09 - Check Whether Suon 10 Needs a Reservation|Check Whether Sườn 10 Needs a Reservation]]
 - [[next/next-actions/2026-09-08 - Do the MOOC for Her|Do the MOOC for Her]]
 - [[next/next-actions/2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 

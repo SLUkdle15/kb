@@ -77,4 +77,4 @@ Context:
 - Time:
 - Avoid:
 ```
-- [[2026-09-09 - Suon 10|Sườn 10]]
+- [[2026-09-09 - Suon Muoi|Sườn Mười]]

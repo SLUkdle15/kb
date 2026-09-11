@@ -15,3 +15,7 @@ Thinh, by Sunday 2026-09-13.
 ## Done When
 
 I have the ticket, or the concert is off.
+
+## Status
+
+Completed 2026-09-11 — Thinh has the ticket.

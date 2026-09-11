@@ -27,6 +27,5 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-08 - Finish Building the Soccer Tactics Board|Finish Building the Soccer Tactics Board]]
 - [[2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 - [[2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]] — seasonal, Mid-Autumn 2026-09-25
-- [[2026-09-09 - Check Whether Suon 10 Needs a Reservation|Check Whether Sườn 10 Needs a Reservation]] — before the dinner on 2026-09-10
 - [[2026-09-10 - Work Through Introduction to Photography|Work Through Introduction to Photography]] — Project: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]]
 - [[2026-09-10 - Find the Reading Questions for Learning Domain-Driven Design|Find the Reading Questions for Learning Domain-Driven Design]]

@@ -6,7 +6,7 @@ Due: 2026-09-10 (Thursday)
 
 ## Action
 
-1. Eat at Sườn 10 — [[resources/restaurants/2026-09-09 - Suon 10|restaurant note]], reservation being checked in [[next/next-actions/2026-09-09 - Check Whether Suon 10 Needs a Reservation|Check Whether Sườn 10 Needs a Reservation]].
+1. Eat at Sườn 10 — [[resources/restaurants/2026-09-09 - Suon Muoi|restaurant note]], reservation checked in [[archives/next-actions/2026-09-09 - Check Whether Suon 10 Needs a Reservation|Check Whether Sườn 10 Needs a Reservation]].
 2. Ride to 47 Hàng Lược and leave the motorbike there — someone watches it while we are on foot.
 3. Walk Hàng Mã for photo time.
 4. Hand her *Tuổi thơ dữ dội*. Put it on the bike before leaving, so it does not depend on remembering on the day.
@@ -16,3 +16,7 @@ Per the protocol: check whether Sườn 10 needs a reservation, and take a rainc
 ## Done When
 
 The evening happened and *Tuổi thơ dữ dội* is in her hands.
+
+## Status
+
+Completed 2026-09-11 — the evening happened.
