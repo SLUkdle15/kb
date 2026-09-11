@@ -25,4 +25,4 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-06 - Put More Effort into Taking Care of the Tree|Put More Effort into Taking Care of the Tree]]
 - [[2026-09-07 - Get a Lower Back MRI at Tam Anh|Get a Lower Back MRI at Tam Anh]] — hold until the six-week checkpoint on 2026-10-15
 - [[2026-09-07 - Drive Yourself Next Time to Thien Truong|Drive Yourself Next Time to Thien Truong]]
-- [[2026-09-10 - Buy Zero-Drop Wide-Toe-Box Shoes|Buy Zero-Drop Wide-Toe-Box Shoes]] — candidates named are not actually zero drop
+- [[2026-09-10 - Buy Zero-Drop Wide-Toe-Box Shoes|Buy Zero-Drop Wide-Toe-Box Shoes]] — candidates named (Gel-Kayano 14, Hoka Clifton 11 Wide) are not actually zero drop

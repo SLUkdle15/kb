@@ -29,7 +29,8 @@ Review monthly, or weekly when a migration or incident is active.
 
 ## Next Actions
 
-- None.
+- [[next/next-actions/2026-09-11 - Reschedule the NCTool Job Past the Two-Hour Assumption|Reschedule the NCTool Job Past the Two-Hour Assumption]]
+- [[next/next-actions/2026-09-11 - Add an Excel Online MCP Server to the AI Chatbot|Add an Excel Online MCP Server to the AI Chatbot]]
 
 ## Related Resources
 
