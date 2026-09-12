@@ -10,6 +10,8 @@ A third candidate spotted on 2026-09-11: the Hoka Clifton 11 Wide (Giày Chạy 
 
 The Gel-Kayano 14 was already on the shortlist in [[archives/next-actions/2026-08-22 - Buy New Everyday Shoes|Buy New Everyday Shoes]], which closed on 2026-09-03 — check what happened there before re-opening it.
 
+[Cửa hàng giày dép, quần áo & phụ kiện | Foot Locker VN](https://www.footlocker.com.vn/men.html?p=1&shoes=Gi%C3%A0y+th%C6%B0%E1%BB%9Dng+ng%C3%A0y&size=US+9.5)
+
 ## Done When
 
 A pair is bought, or the idea is dropped and this note is archived.
