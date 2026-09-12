@@ -10,3 +10,7 @@ Finish building the soccer tactics board.
 ## Done When
 
 The tactics board is complete and usable.
+
+## Status
+
+Done 2026-09-13.
