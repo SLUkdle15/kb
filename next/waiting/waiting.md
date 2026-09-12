@@ -19,3 +19,4 @@ Use this folder for things blocked by someone or something else.
 - [[next/waiting/2026-08-17 - Soccer Field Deposit of 2M VND|Soccer Field Deposit of 2M VND]] — my deposit as renter, returned when the field rental ends (no date; event trigger in the soccer area)
 - [[next/waiting/2026-09-06 - Badminton Costs Owed to Me|Badminton Costs Owed to Me]] — 840k court + 660k shuttlecocks I fronted, to be settled at the next Weekly Saturday Badminton session (someone else runs collection now)
 - [[next/waiting/2026-09-07 - Techleague Jerseys from Tam Ta|Techleague Jerseys from Tam Ta]] — order placed, Tam Ta has it; no delivery date yet
+- [[next/waiting/2026-09-12 - Stuff from the Guy Back from the US|Stuff from the Guy Back from the US]] — waiting for him to return, then pick a day to meet
