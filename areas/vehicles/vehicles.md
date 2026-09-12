@@ -25,7 +25,7 @@ Review monthly, or whenever something breaks or a service falls due.
 ## Current Actions
 
 - [[next/calendar/2026-09-23 - Every-3-Weeks Car Gas Fill-Up|Every-3-Weeks Car Gas Fill-Up]]
-- [[next/next-actions/2026-09-05 - Wash the Helmet|Wash the Helmet]]
+- [[next/waiting/2026-09-05 - Wash the Helmet|Wash the Helmet]]
 - [[next/next-actions/2026-09-07 - Create a Cue-Based Protocol for Parking the Car|Create a Cue-Based Protocol for Parking the Car]]
 
 ## Current Projects

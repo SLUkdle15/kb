@@ -1,6 +1,7 @@
 # Finish Building the Soccer Tactics Board
 
 Area: [[areas/soccer/soccer]]
+Due: 2026-09-13
 
 ## Action
 

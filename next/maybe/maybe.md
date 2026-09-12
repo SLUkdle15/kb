@@ -27,3 +27,5 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-07 - Drive Yourself Next Time to Thien Truong|Drive Yourself Next Time to Thien Truong]]
 - [[2026-09-10 - Buy Zero-Drop Wide-Toe-Box Shoes|Buy Zero-Drop Wide-Toe-Box Shoes]] — candidates named (Gel-Kayano 14, Hoka Clifton 11 Wide) are not actually zero drop
 - [[2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
+- [[2026-09-12 - Try Kayn Kindred Ekko Norra and TF|Try Kayn, Kindred, Ekko, Norra, and TF]]
+- [[2026-09-12 - Decide Between a 35mm and 85mm Lens|Decide Between a 35mm and 85mm Lens]] — Area: [[areas/photography/photography|Photography]], Project: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]]

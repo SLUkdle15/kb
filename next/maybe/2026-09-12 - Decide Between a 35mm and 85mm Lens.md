@@ -1,6 +1,7 @@
 # Decide Between a 35mm and 85mm Lens
 
 Area: [[areas/photography/photography|Photography]]
+Project: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]]
 
 ## Action
 
