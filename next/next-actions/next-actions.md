@@ -27,5 +27,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-10 - Find the Reading Questions for Learning Domain-Driven Design|Find the Reading Questions for Learning Domain-Driven Design]]
 - [[2026-09-11 - Reschedule the NCTool Job Past the Two-Hour Assumption|Reschedule the NCTool Job Past the Two-Hour Assumption]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-09-11 - Add an Excel Online MCP Server to the AI Chatbot|Add an Excel Online MCP Server to the AI Chatbot]] — Area: [[areas/work-systems/work-systems|Work Systems]]
-- [[2026-09-12 - Buy Groceries for Mom (Yogurt)|Buy Groceries for Mom (Yogurt)]] — Area: [[areas/family/family|Family]]
 - [[2026-09-12 - Send Vua Sach Cu a Message About the Comics|Send Vua Sach Cu a Message About the Comics]]

@@ -15,3 +15,7 @@ Check in once he's expected back, then lock a day to meet.
 ## Done When
 
 Stuff is received.
+
+## Status
+
+Done 2026-09-12.

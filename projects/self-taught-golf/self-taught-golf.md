@@ -11,7 +11,7 @@ Comfortable enough to go play a full round of 18 holes.
 
 ## Next Actions
 
-- [[next/calendar/2026-09-12 - Go to the Range and Run a Contact Tally Session|Go to the Range and Run a Contact Tally Session]]
+- [[next/calendar/2026-09-20 - Go to the Range and Run a Contact Tally Session|Go to the Range and Run a Contact Tally Session]]
 
 ## Notes
 
