@@ -29,6 +29,7 @@ Review monthly, or during a weekly review when a habit is plateauing or slipping
 
 ## Protocols
 
+- [[areas/personal-development/clean-your-shoes|Clean Your Shoes]]
 - [[areas/personal-development/start-a-new-habit|Start a New Habit]]
 - [[areas/personal-development/respond-to-an-emotional-trigger|Respond to an Emotional Trigger]] — use in the heated moment, when feeling hurt or inferior.
 - [[areas/personal-development/reflect-after-an-emotional-trigger|Reflect After an Emotional Trigger]] — use once the heat drops, or in the evening.

@@ -22,6 +22,7 @@ Examples:
 - [[resources/places/places|Places]]
 - [[resources/badminton/badminton|Badminton]]
 - [[resources/soccer/soccer|Soccer]]
+- [[resources/shoe-care/shoe-care|Shoe Care]]
 
 ## What Does Not Belong Here
 
