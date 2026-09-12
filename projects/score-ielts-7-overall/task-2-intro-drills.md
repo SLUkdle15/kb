@@ -15,3 +15,15 @@ Each entry is left verbatim and uncorrected, for the Phase 3 re-read. Repeated e
 **s1.** painters use their paintings to tell a story that came from their own experience.
 
 **s2.** writers use such ability to reflec unquie culture that they came form.
+
+## 2026-09-12 — Two-Part Question (Hard Work)
+
+**Prompt.** In education and employment, some people work harder than others. Why do some people work harder? Is it always a good thing to work hard?
+
+**Type**, logged only as "2 types" at the time: a **two-part question** — no bridge needed between the bodies, each answers its own part.
+
+**Intro.** Hard working is a characteristic that not uncommonly seen from the people in the field of edu and employment. This is rest on the motive which people want to get better outcome - though working hard for long time could completely empty their energy.
+
+**s1.** Working harder put people toward better outcome, reaching their full potentials.
+
+**s2.** Some people became exhausted because of working consistently for a long time.

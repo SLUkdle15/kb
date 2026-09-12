@@ -24,7 +24,7 @@ The shape cannot rescue the wrong type: answering one part of a two-part questio
 
 ## Step-by-Step, In Order
 
-Content first, then the sentence that reports it. The intro is written last because it has nothing to summarise until the two reasons exist as sentences — and both collapses so far would have been unmissable as two sentences side by side on a page.
+Content first, then the sentence that reports it. The intro is written last because it has nothing to summarize until the two reasons exist as sentences — and both collapses so far would have been unmissable as two sentences side by side on a page.
 
 1. **Name the type.** One of those above. Get this wrong and nothing can fix it.
 2. **Write the two body topic sentences, in full.** Not notes, not *flexibility* — complete sentences, each naming an effect on somebody (*A Reason Names an Effect, Not a Property*, below). This is the step where the essay's content is decided.
