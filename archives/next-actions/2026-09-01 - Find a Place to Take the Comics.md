@@ -9,3 +9,7 @@ Photos are done. Find a place to take the comics — a shop, buyer, or drop-off 
 ## Done When
 
 A place to take the comics is found.
+
+## Status
+
+Done 2026-09-12. Found https://vuasachcu.com/ — next step is [[next/next-actions/2026-09-12 - Send Vua Sach Cu a Message About the Comics|Send Vua Sach Cu a Message About the Comics]].

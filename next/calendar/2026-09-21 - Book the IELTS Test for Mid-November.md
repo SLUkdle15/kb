@@ -14,7 +14,7 @@ Decide the format:
 
 - [ ] **Academic**, not General Training. A master's application needs Academic.
 - [ ] **Computer-delivered**, not paper. Results land in 1 to 5 days instead of 13, which is what keeps a November retake possible if this one misses.
-- [ ] **One Skill Retake** — settled for Vietnam as of 2026-08-22: available at both the British Council and IDP for computer-delivered IELTS, so it does not constrain the centre choice. Fee 2,940,000 VND, within 60 days of the original test. Still worth one confirmation on the booking page rather than assuming.
+- [ ] **One Skill Retake** — settled for Vietnam as of 2026-09-12 (reconfirmed, no change since 2026-08-22): available at both the British Council and IDP for computer-delivered IELTS, so it does not constrain the centre choice. Fee 2,940,000 VND, within 60 days of the original test. Still worth one confirmation on the booking page rather than assuming.
 
 Book it:
 

@@ -22,7 +22,7 @@ Review monthly, or weekly when practicing actively.
 
 - [[next/calendar/Monthly Sync Pictures]]
 - [[next/next-actions/2026-09-10 - Work Through Introduction to Photography|Work Through Introduction to Photography]]
-- [[next/next-actions/2026-09-12 - Decide Between a 35mm and 85mm Lens|Decide Between a 35mm and 85mm Lens]]
+- [[next/maybe/2026-09-12 - Decide Between a 35mm and 85mm Lens|Decide Between a 35mm and 85mm Lens]]
 
 ## Current Projects
 
