@@ -2,6 +2,8 @@
 
 Area: [[areas/vehicles/vehicles|Vehicles]]
 
+Status: Completed 2026-09-13
+
 ## What Is Blocked
 
 Reinstalling the helmet's interior padding.
