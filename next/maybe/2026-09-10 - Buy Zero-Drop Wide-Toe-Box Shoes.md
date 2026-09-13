@@ -12,6 +12,8 @@ The Gel-Kayano 14 was already on the shortlist in [[archives/next-actions/2026-0
 
 [Cửa hàng giày dép, quần áo & phụ kiện | Foot Locker VN](https://www.footlocker.com.vn/men.html?p=1&shoes=Gi%C3%A0y+th%C6%B0%E1%BB%9Dng+ng%C3%A0y&size=US+9.5)
 
+salomon gore-tex or a Dr martens.
+
 ## Done When
 
 A pair is bought, or the idea is dropped and this note is archived.

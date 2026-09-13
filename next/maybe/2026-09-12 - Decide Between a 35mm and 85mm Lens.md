@@ -7,6 +7,7 @@ Project: [[projects/self-taught-photography/self-taught-photography|Self-Taught 
 
 Research whether a 35mm or 85mm lens is worth buying next, given current shooting style and gear.
 
+examine flash and filter.
 ## Done When
 
 A lens is chosen and bought, or the idea is dropped.
