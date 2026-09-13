@@ -27,3 +27,15 @@ Each entry is left verbatim and uncorrected, for the Phase 3 re-read. Repeated e
 **s1.** Working harder put people toward better outcome, reaching their full potentials.
 
 **s2.** Some people became exhausted because of working consistently for a long time.
+
+## 2026-09-13 — Opinion, Agree/Disagree (Parents Deciding Children's Futures)
+
+**Prompt.** Some parents try to decide their children's future careers and personal choices because they want them to become good citizens and successful adults. However, they often ignore their children's own opinions and interests. To what extent do you agree or disagree?
+
+**Type**, identified upfront: an **opinion (agree/disagree)** — disagree, with the prompt's own two-part reasoning (parents' motive vs. their neglect of the child's view) as the source for both bodies.
+
+**Intro.** It is often argued that children are not allowed to choose their careers, instead that is done by their parents. Two pressures do most of the work here: the children immediately fight back, and they follow their parent's path though not turning out to be successful.
+
+**s1.** when children's opinions are disregarded, they will fight back and stop perform well at school.
+
+**s2.** On the other hand, some children silently follow their parent's choices, but they don't achieve anything.
