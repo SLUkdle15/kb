@@ -39,3 +39,15 @@ Each entry is left verbatim and uncorrected, for the Phase 3 re-read. Repeated e
 **s1.** when children's opinions are disregarded, they will fight back and stop perform well at school.
 
 **s2.** On the other hand, some children silently follow their parent's choices, but they don't achieve anything.
+
+## 2026-09-13 — Two-Part Question (Working Hours Laws)
+
+**Prompt.** Some countries have introduced laws to limit working hours for employees. Why are these laws introduced? Do you think they are a positive or negative development?
+
+**Type**, identified upfront: a **two-part question** — no bridge needed, each body answers its own part (why introduced; positive or negative).
+
+**Intro.** laws of banning working overtime have introduced by several countries. This rests on the fact that over worked employees can be easily exhausted and on balance this is a negative development, because this law prevents worker to earn an extra income from the over time.
+
+**s1.** The laws existed simply because of the motive to stop employees from being out of energy/
+
+**s2.** Such laws, however, prevent workers who willing to work more time to make more money.
