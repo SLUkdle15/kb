@@ -12,4 +12,4 @@ A place to take the comics is found.
 
 ## Status
 
-Done 2026-09-12. Found https://vuasachcu.com/ — next step is [[next/next-actions/2026-09-12 - Send Vua Sach Cu a Message About the Comics|Send Vua Sach Cu a Message About the Comics]].
+Done 2026-09-12. Found https://vuasachcu.com/ — next step is [[archives/next-actions/2026-09-12 - Send Vua Sach Cu a Message About the Comics|Send Vua Sach Cu a Message About the Comics]].

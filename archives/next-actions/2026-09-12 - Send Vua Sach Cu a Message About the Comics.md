@@ -9,3 +9,7 @@ Message https://vuasachcu.com/ about taking the comics, via their Facebook page:
 ## Done When
 
 Message is sent and a reply is received.
+
+## Status
+
+Done 2026-09-14. Messaged them on https://www.facebook.com/TryenTranhHN and they replied — they want photos of the comics before taking them. Next step is [[next/next-actions/2026-09-14 - Send Truyen Tranh HN Photos of the Comics|Send Truyen Tranh HN Photos of the Comics]].

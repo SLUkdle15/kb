@@ -38,7 +38,6 @@ Review monthly, or weekly when the relationship needs active attention.
 
 - [[next/calendar/Weekly Wednesday Walk with Girlfriend|Weekly Wednesday Walk with Girlfriend]]
 - [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]]
-- [[next/next-actions/2026-09-08 - Do the MOOC for Her|Do the MOOC for Her]]
 - [[next/next-actions/2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 - [[next/maybe/2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] (someday/maybe)
 
