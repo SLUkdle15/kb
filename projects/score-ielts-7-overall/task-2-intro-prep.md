@@ -47,6 +47,8 @@ The reason that reaches the page is almost always a **property of the thing** �
    - *stars are products of advertising* → *because young people copy the behaviour of whoever they admire*
 3. **Check it can be denied.** *Fast food is convenient* invites no disagreement, so there is nothing to defend for 85 words. *Most people cannot plan a day around cooking* can be denied.
 
+**Passing step 2 does not mean step 3 passes too.** A sentence can already have a person as subject and an action verb — the step 2 shape — and still just report a fact nobody would dispute. *Many athletes trained on public facilities in their early days* (2026-09-14, athletic-facilities rep — see [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]]) names athletes doing something, but nobody would argue with it: there is no mechanism to defend, only an observation. That is exactly why step 3 is checked separately rather than folded into step 2 — a person-subject sentence still needs its own deniability check before it survives to the page.
+
 **Shorter is not the problem; abstract is.** *Because young people copy what they admire* is a word shorter than *because of the flexibility of fast food* and carries an actor and a verb where the other carries neither. Compress as hard as the budget needs — never back into a bare property noun.
 
 **Land it on the person the essay is about.** *Cheap to produce* is a fact about an industry; the eater feels *cheap to buy*. The same chaining [[projects/score-ielts-7-overall/task-2-body-prep|Task 2 Body Prep]] asks of the mechanism, done a sentence earlier so the body inherits it.

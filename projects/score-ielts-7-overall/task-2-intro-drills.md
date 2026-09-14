@@ -51,3 +51,15 @@ Each entry is left verbatim and uncorrected, for the Phase 3 re-read. Repeated e
 **s1.** The laws existed simply because of the motive to stop employees from being out of energy/
 
 **s2.** Such laws, however, prevent workers who willing to work more time to make more money.
+
+## 2026-09-14 — Opinion, Positive/Negative (Specialized Athletic Facilities)
+
+**Prompt.** Some countries achieve international success by building specialized facilities to train top athletes, instead of providing sports facilities that everyone can use. Do you think this is a positive or negative development?
+
+**Type**, identified upfront: an **opinion (positive/negative)** — a situation prompt, T2 opener, verdict names which side (negative).
+
+**s1, as first written.** Many athletes actually used public gym or sport uses in their early days of training.
+
+Caught at the planning-line check, before writing: as stated this is a fact nobody would dispute, not a deniable claim — nothing left to argue for 85 words. Revised toward the mechanism instead: coaching quality and personal discipline drive early development, not facility grade, which is why an athlete can reach elite level on public facilities.
+
+**s2.** Such favor puts a hidden expectation on the athletes because they are supported with better environments.
