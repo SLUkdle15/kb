@@ -1,6 +1,7 @@
 # Plan How to Register Temporary Residence
 
 Project: [[projects/register-temporary-residence/register-temporary-residence|Register Temporary Residence]]
+Due: 2026-09-15
 
 ## Action
 

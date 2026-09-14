@@ -1,6 +1,7 @@
 # Send Truyen Tranh HN Photos of the Comics
 
 Source: [[archives/next-actions/2026-09-12 - Send Vua Sach Cu a Message About the Comics|Send Vua Sach Cu a Message About the Comics]]
+Due: 2026-09-15
 
 ## Action
 

@@ -14,7 +14,7 @@ Area: [[areas/family/family|Family]]
 
 ## Next Actions
 
-- [[next/next-actions/2026-08-27 - Plan How to Register Temporary Residence|Plan How to Register Temporary Residence]]
+- [[next/calendar/2026-09-15 - Plan How to Register Temporary Residence|Plan How to Register Temporary Residence]]
 
 ## Notes
 
