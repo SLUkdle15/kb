@@ -24,14 +24,18 @@ The shape cannot rescue the wrong type: answering one part of a two-part questio
 
 ## A Split Claim Is Not Two Views
 
-A prompt that states *some do X, some don't* reads like two opposing camps — the same shape discuss-both-views hands over. Two tells settle it:
+A prompt that states *some do X, some don't* reads like two opposing camps — the same shape discuss-both-views hands over.
 
-- **Instruction line.** *Discuss both views and give your own opinion* vs. *to what extent do you agree or disagree* / *positive or negative* — the latter apply even when the claim has two halves.
-- **What the bodies do to each other.** Discuss-both-views' two bodies argue **against** each other. Every single-verdict type (agree/disagree, positive/negative, etc.) gets teammate bodies instead: both argue **for the same verdict**, via different mechanisms. If reason 1 and reason 2 don't disagree with each other, it was never discuss-both-views.
+The comms-tech access-gap prompt (caught 2026-09-15 — see [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]]), broken into its four possible verdicts, each drawing on its own reason pair — none of them interchangeable:
 
-Caught 2026-09-15 on a comms-tech access-gap prompt (see [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]]): the 1-good/1-bad reflex reached for a discuss-both-views answer and ran dry, because both reasons needed to support one side — the gap is real — not opposite ones.
+| Verdict | Reasons |
+| --- | --- |
+| Agree — the gap is real | access (no device/connection shuts someone out), skill (a connection without the literacy to use it) |
+| Negative — the gap is harmful | the same access and skill mechanisms, now read for harm rather than existence |
+| Disagree — the gap isn't significant | the access floor is lower than assumed (basic phones now carry messaging apps); the skill gap closes fast through informal peer teaching |
+| Positive — worth it anyway | value to the included (outsized gain for those who have it); diffusion over time (falling costs narrow the gap) |
 
-**Single-verdict types still ask different questions of the same phenomenon** — don't collapse them into one binary. Agree/disagree asks whether the gap is **real/significant** (factual); positive/negative asks whether the development is **good/bad given the gap** (evaluative). "The gap isn't significant" (disagree) reads as *positive*, not *negative* — conflating the two axes pairs the wrong reasons together. Check which question the instruction line asks before picking a reason pair.
+Agree and negative can share a reason pair here because proving the gap exists and proving it's harmful happen to lean on the same mechanisms — that's a coincidence of this prompt, not a rule. Disagree and positive don't share reasons with agree/negative at all: they're arguing the opposite premise (no real gap, or the gap doesn't matter), so they need their own mechanisms.
 
 ## Step-by-Step, In Order
 
