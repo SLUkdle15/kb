@@ -14,7 +14,7 @@ Area: [[areas/family/family|Family]]
 
 ## Next Actions
 
-- [[next/calendar/2026-09-15 - Plan How to Register Temporary Residence|Plan How to Register Temporary Residence]]
+- Blocked: [[next/waiting/2026-09-15 - Bich's Answer on How to Register Temporary Residence|Bich's Answer on How to Register Temporary Residence]] — no unblocked next action right now.
 
 ## Notes
 

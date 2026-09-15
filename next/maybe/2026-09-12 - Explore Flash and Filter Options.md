@@ -1,7 +1,6 @@
 # Explore Flash and Filter Options
 
 Area: [[areas/photography/photography|Photography]]
-Project: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]]
 
 ## Action
 

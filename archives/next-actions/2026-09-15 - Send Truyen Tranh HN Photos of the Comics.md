@@ -10,3 +10,7 @@ Send photos of the comics to the shop on Facebook: https://www.facebook.com/Trye
 ## Done When
 
 Photos are sent and they say whether they will take the comics.
+
+## Status
+
+Done 2026-09-15. Photos sent to https://www.facebook.com/TryenTranhHN. Their answer on taking the comics is still outstanding — tracked in [[next/waiting/2026-09-15 - Truyen Tranh HN Answer on Taking the Comics|Truyen Tranh HN Answer on Taking the Comics]].

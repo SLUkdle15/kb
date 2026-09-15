@@ -23,7 +23,9 @@ Use `next` for GTD-style commitments that are more actionable than inbox capture
 
 ## Projects
 
-Every active project must have a `Next Actions` section with at least one linked action note. That note normally lives in `next/next-actions`, but a `next/calendar` note counts too — committing the action to a date is a stronger commitment than leaving it undated, not a weaker one. Project action notes must link back to the project.
+Every active project must have a `Next Actions` section with at least one linked action note. That note normally lives in `next/next-actions`, but a `next/calendar` note counts too — committing the action to a date is a stronger commitment than leaving it undated, not a weaker one. A `next/waiting` note counts too, but only once the action that produced it has been done — delegating or ordering something is a completed action whose result is a wait, not a missing one. A project parked on a wait stays active; move it to `next/maybe` only when the outcome itself is no longer wanted.
+
+Project action notes must link back to the project.
 
 If no next action is known, do not create an active project; leave it in `next/maybe` or clarify the next action first.
 

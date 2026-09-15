@@ -21,11 +21,11 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-08-24 - Snapshot My Finances and Pick a Tracking Method|Snapshot My Finances and Pick a Tracking Method]]
 - [[2026-09-01 - Investigate Making Money from the Soc Son Land|Investigate Making Money from the Soc Son Land]] — idle asset, look for similar cases on YouTube
 - [[2026-09-02 - Text the Guy to Change Weekly Soccer from Tuesday to Monday|Text the Guy to Change Weekly Soccer from Tuesday to Monday]] — Area: [[areas/soccer/soccer|Soccer]]
-- [[2026-09-01 - Buy Tripod and Memory Card|Buy Tripod and Memory Card]] — Projects: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]], [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
+- [[2026-09-01 - Buy Tripod and Memory Card|Buy Tripod and Memory Card]] — Area: [[areas/photography/photography|Photography]], Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 - [[2026-09-06 - Put More Effort into Taking Care of the Tree|Put More Effort into Taking Care of the Tree]]
 - [[2026-09-07 - Get a Lower Back MRI at Tam Anh|Get a Lower Back MRI at Tam Anh]] — hold until the six-week checkpoint on 2026-10-15
 - [[2026-09-07 - Drive Yourself Next Time to Thien Truong|Drive Yourself Next Time to Thien Truong]]
 - [[2026-09-10 - Buy Zero-Drop Wide-Toe-Box Shoes|Buy Zero-Drop Wide-Toe-Box Shoes]] — candidates named (Gel-Kayano 14, Hoka Clifton 11 Wide) are not actually zero drop
 - [[2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 - [[2026-09-12 - Try Kayn Kindred Ekko Norra and TF|Try Kayn, Kindred, Ekko, Norra, and TF]]
-- [[2026-09-12 - Explore Flash and Filter Options|Explore Flash and Filter Options]] — Area: [[areas/photography/photography|Photography]], Project: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]]
+- [[2026-09-12 - Explore Flash and Filter Options|Explore Flash and Filter Options]] — Area: [[areas/photography/photography|Photography]]

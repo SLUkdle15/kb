@@ -1,6 +1,6 @@
 # Shoot Candid Street Photos This Week
 
-Project: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]]
+Project: [[archives/self-taught-photography/self-taught-photography|Self-Taught Photography]]
 Area: [[areas/photography/photography|Photography]]
 
 ## Action

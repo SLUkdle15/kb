@@ -4,6 +4,8 @@ Speaking is scored on four equally weighted criteria: Fluency and Coherence, Lex
 
 ## What Separates 6 from 7
 
+The full scale — what each criterion measures and the band 5 to 8 wording — is in [[resources/ielts/2026-09-15 - IELTS Band Descriptors|IELTS Band Descriptors]].
+
 - **Fluency and Coherence.** Band 6 is willing to speak at length but loses coherence through repetition, self-correction, and hesitation. Band 7 speaks at length without noticeable effort, and any hesitation is about finding *language*, not about finding something to say. The difference is mostly hesitation *type*, not hesitation *amount*.
 - **Lexical Resource.** Band 6 makes meaning clear despite inappropriate word choices and paraphrases with mixed success. Band 7 uses vocabulary flexibly and paraphrases effectively when the exact word will not come.
 - **Grammatical Range and Accuracy.** Band 6 makes frequent errors in complex structures. Band 7 produces **frequent error-free sentences**. Same sentence as in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]], same consequence: clean beats ambitious.

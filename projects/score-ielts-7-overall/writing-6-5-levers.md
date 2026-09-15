@@ -6,7 +6,7 @@ An essay sitting at 5.5 is almost never failing on all four. Find which one is d
 
 ## What Separates 6 from 7
 
-Paraphrased from the public band descriptors, which are worth reading in full once:
+Paraphrased from the public band descriptors, which are worth reading in full once. The full scale — what each criterion measures and the band 5 to 8 wording — is in [[resources/ielts/2026-09-15 - IELTS Band Descriptors|IELTS Band Descriptors]].
 
 - **Task Response.** Band 6 addresses all parts but the position becomes unclear or repetitive and some main ideas are underdeveloped. Band 7 holds a clear position *throughout* and extends and supports each main idea.
 - **Coherence and Cohesion.** Band 6 is coherent overall but cohesion is mechanical or faulty between sentences, and paragraphing is not always logical. Band 7 gives every paragraph one clear central topic and uses linking without over- or under-using it.

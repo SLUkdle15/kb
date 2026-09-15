@@ -48,8 +48,6 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 ### One-Off
 
-- [[next/calendar/2026-09-15 - Plan How to Register Temporary Residence]] — 2026-09-15
-- [[next/calendar/2026-09-15 - Send Truyen Tranh HN Photos of the Comics]] — 2026-09-15
 - [[next/calendar/2026-10-10 - Go to Temple and Eat Vegetarian]] — 2026-10-10 (first day of lunar month/September)
 - [[next/calendar/2026-09-25 - Watch the Endgame Encore Showing]] — 2026-09-25 (reminder 5 days before to book tickets)
 - [[next/calendar/2026-09-26 - Attend Phuc's Wedding]] — 2026-09-26 11:30 (Saturday)

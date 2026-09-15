@@ -1,6 +1,6 @@
 # Build a Protocol for Picking a Place and Photos to Mimic
 
-Project: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]]
+Project: [[archives/self-taught-photography/self-taught-photography|Self-Taught Photography]]
 Area: [[areas/photography/photography|Photography]]
 
 ## Action

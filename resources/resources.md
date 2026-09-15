@@ -24,6 +24,7 @@ Examples:
 - [[resources/soccer/soccer|Soccer]]
 - [[resources/shoe-care/shoe-care|Shoe Care]]
 - [[resources/foot-health/foot-health|Foot Health]]
+- [[resources/ielts/ielts|IELTS]]
 
 ## What Does Not Belong Here
 

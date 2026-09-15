@@ -1,6 +1,6 @@
 # Learn Aperture on the 6D Mark II
 
-Project: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]]
+Project: [[archives/self-taught-photography/self-taught-photography|Self-Taught Photography]]
 
 ## Action
 
@@ -8,7 +8,7 @@ Aperture is the next setting after shutter speed. Learn what the f-number does t
 
 Already noticed: faster shutter speeds mean wider apertures — for the same exposure and ISO, less time open has to be paid for with more light per instant, which is what Tv mode is doing when it picks the aperture itself. Confirm that this is the trade-off and learn which f-numbers count as wide.
 
-Write what comes out of it into [[projects/self-taught-photography/2026-09-09 - Exposure Basics on the 6D Mark II|Exposure Basics on the 6D Mark II]].
+Write what comes out of it into [[areas/photography/2026-09-09 - Exposure Basics on the 6D Mark II|Exposure Basics on the 6D Mark II]].
 
 ## Done When
 

@@ -1,6 +1,6 @@
 # Buy Tripod and Memory Card
 
-Project: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]]
+Area: [[areas/photography/photography|Photography]]
 Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 
 ## Action

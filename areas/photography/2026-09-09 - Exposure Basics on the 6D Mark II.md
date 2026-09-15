@@ -1,6 +1,6 @@
 # Exposure Basics on the 6D Mark II
 
-Project: [[projects/self-taught-photography/self-taught-photography|Self-Taught Photography]]
+Area: [[areas/photography/photography|Photography]]
 
 Working through the camera's modes and the exposure triangle one setting at a time, on the body itself rather than from a guide.
 

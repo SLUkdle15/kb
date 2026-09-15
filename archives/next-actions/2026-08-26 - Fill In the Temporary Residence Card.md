@@ -12,4 +12,4 @@ The card is filled in and ready to submit.
 
 ## Disposition
 
-Obsolete 2026-08-27. Not startable as written — there was no card to fill in yet, and no record of which route, form, or documents the ward needs. Superseded by [[next/calendar/2026-09-15 - Plan How to Register Temporary Residence|Plan How to Register Temporary Residence]]. Filling in the card stays in the project's Definition of Done and becomes an action again once the route is known.
+Obsolete 2026-08-27. Not startable as written — there was no card to fill in yet, and no record of which route, form, or documents the ward needs. Superseded by [[next/waiting/2026-09-15 - Bich's Answer on How to Register Temporary Residence|Bich's Answer on How to Register Temporary Residence]]. Filling in the card stays in the project's Definition of Done and becomes an action again once the route is known.
