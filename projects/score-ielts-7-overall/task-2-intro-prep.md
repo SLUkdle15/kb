@@ -44,6 +44,8 @@ Content first, then the sentence that reports it. The intro is written last beca
 5. **Write sentence 1 last.** Pick the opener — belief → T1, attribute it; situation → T2, just state it — and paraphrase the prompt inside it, position-neutral. The four moves are worked with examples in *How Far the Paraphrase Has to Go* below; do them there, not from memory. No *I believe*, no verdict: sentence 1 orients, it doesn't argue.
 6. **Count words, then run the Checklist** at the bottom. Target ~45 for the intro; every word over is a word the bodies needed.
 
+Cross-checked 2026-09-15 against outside IELTS-teaching sources (IELTS Podcast's 7-step plan, IELTSLiz's planning tips): body ideas developed before the introduction is standard advice, not just this project's convention.
+
 ## The Two Topic Sentences
 
 Steps 2 and 3, and the only place content is decided. Both are full sentences on the planning line before the intro exists.
