@@ -63,3 +63,19 @@ Each entry is left verbatim and uncorrected, for the Phase 3 re-read. Repeated e
 Caught at the planning-line check, before writing: as stated this is a fact nobody would dispute, not a deniable claim — nothing left to argue for 85 words. Revised toward the mechanism instead: coaching quality and personal discipline drive early development, not facility grade, which is why an athlete can reach elite level on public facilities.
 
 **s2.** Such favor puts a hidden expectation on the athletes because they are supported with better environments.
+
+## 2026-09-15 — Opinion, Agree/Disagree (Communications Technology Access Gap)
+
+**Prompt.** Some groups of people have benefited from modern communications technology but some people do not benefit at all. To what extent do you agree or disagree?
+
+**Type**, mistaken at first for discuss-both-views because the claim splits into two halves ("some benefit... some don't"), which reads like two opposing camps. It isn't: the instruction line is *to what extent do you agree or disagree*, not *discuss both views*, and the structural tell is that an agree/disagree essay's two bodies argue **for the same verdict**, while discuss-both-views' two bodies argue **against each other**. Rule logged generally in [[projects/score-ielts-7-overall/task-2-intro-prep|Task 2 Introduction Prep]].
+
+**Reason 1, as first reached for.** People can schedule online and meet anywhere — describes the benefit itself, not a mechanism for why the benefit is uneven. Reason 2 stalled immediately after: the usual 1-good/1-bad method (built for advantages/disadvantages or discuss-both-views) had nothing left to reach for, because both reasons here need to support one verdict, not opposite sides.
+
+**Reason 1, revised.** Access — no device or reliable connection shuts someone out of the same scheduling and video-calling tools that connectivity gives everyone else.
+
+**Reason 2.** Skill — even where a connection exists, an older or less-educated user often lacks the digital literacy to operate the tools, so access alone doesn't guarantee use.
+
+Access and skill are independent — either can fail without the other — so they pass the one-reason-per-body test.
+
+**Sanity check, a built prompt.** *Some people love eating vegetables, but some don't. To what extent do you agree or disagree?* Same shape, worked cold to confirm the method transfers: biology (bitter-taste sensitivity) and early exposure, two reasons for the same verdict, not two camps.

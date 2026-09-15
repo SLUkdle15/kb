@@ -22,6 +22,17 @@ About 45 words, against a budget of two bodies at ~85 each — roughly 255, whic
 
 The shape cannot rescue the wrong type: answering one part of a two-part question caps Task Response at 5 whatever the intro looks like. Naming the type correctly is still the first move.
 
+## A Split Claim Is Not Two Views
+
+A prompt that states *some do X, some don't* reads like two opposing camps — the same shape discuss-both-views hands over. Two tells settle it:
+
+- **Instruction line.** *Discuss both views and give your own opinion* vs. *to what extent do you agree or disagree* / *positive or negative* — the latter apply even when the claim has two halves.
+- **What the bodies do to each other.** Discuss-both-views' two bodies argue **against** each other. Every single-verdict type (agree/disagree, positive/negative, etc.) gets teammate bodies instead: both argue **for the same verdict**, via different mechanisms. If reason 1 and reason 2 don't disagree with each other, it was never discuss-both-views.
+
+Caught 2026-09-15 on a comms-tech access-gap prompt (see [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]]): the 1-good/1-bad reflex reached for a discuss-both-views answer and ran dry, because both reasons needed to support one side — the gap is real — not opposite ones.
+
+**Single-verdict types still ask different questions of the same phenomenon** — don't collapse them into one binary. Agree/disagree asks whether the gap is **real/significant** (factual); positive/negative asks whether the development is **good/bad given the gap** (evaluative). "The gap isn't significant" (disagree) reads as *positive*, not *negative* — conflating the two axes pairs the wrong reasons together. Check which question the instruction line asks before picking a reason pair.
+
 ## Step-by-Step, In Order
 
 Content first, then the sentence that reports it. The intro is written last because it has nothing to summarize until the two reasons exist as sentences — and both collapses so far would have been unmissable as two sentences side by side on a page.
@@ -73,15 +84,15 @@ Step 4: commit, then report the two topic sentences already on the page. Nothing
 
 ### What Each Type Commits To
 
-| Type | Sentence 2 commits to |
-| --- | --- |
-| Opinion (agree/disagree) | agree, disagree, or agree with a stated limit |
-| Opinion (positive/negative) | which of the two it is |
-| Discuss both views | your own side, named — the two views were sentence 1's job |
-| Problem and solution | the cause you will argue, and the remedy |
+| Type                         | Sentence 2 commits to                                                        |
+| ---------------------------- | ---------------------------------------------------------------------------- |
+| Opinion (agree/disagree)     | agree, disagree, or agree with a stated limit                                |
+| Opinion (positive/negative)  | which of the two it is                                                       |
+| Discuss both views           | your own side, named — the two views were sentence 1's job                   |
+| Problem and solution         | the cause you will argue, and the remedy                                     |
 | Advantages and disadvantages | the main advantage and the main disadvantage; which outweighs, only if asked |
-| Two-part question | an answer to each question, neither borrowing the other's reason |
-| Direct question | two answers to the one question asked, both named |
+| Two-part question            | an answer to each question, neither borrowing the other's reason             |
+| Direct question              | two answers to the one question asked, both named                            |
 
 *I agree* / *I disagree* belong to agree/disagree alone. Using them where nothing was proposed to agree with is the most-repeated framing error in [[projects/score-ielts-7-overall/error-log|Error Log]] — three occurrences, latest the 09-10 rep, which owed *this is a negative development*.
 
