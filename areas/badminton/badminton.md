@@ -26,7 +26,6 @@ Review monthly, or weekly when actively training.
 ## Current Actions
 
 - [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]]
-- [[next/next-actions/2026-09-14 - Create Badminton Tactics Board|Create Badminton Tactics Board]]
 
 ## Current Projects
 

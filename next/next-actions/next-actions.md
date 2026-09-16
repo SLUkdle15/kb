@@ -27,4 +27,3 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-11 - Add an Excel Online MCP Server to the AI Chatbot|Add an Excel Online MCP Server to the AI Chatbot]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-09-14 - Buy New Socks|Buy New Socks]]
 - [[2026-09-14 - Research How to Massage with the Theragun|Research How to Massage with the Theragun]]
-- [[2026-09-14 - Create Badminton Tactics Board|Create Badminton Tactics Board]] — Area: [[areas/badminton/badminton|Badminton]]
