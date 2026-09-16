@@ -33,7 +33,6 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 ### Recurring — Weekly
 
 - [[next/calendar/Weekly Tuesday Soccer]] — recurring Tuesday 17:30 (reminder 4 days before to decide on cancelling the field)
-- [[next/calendar/Weekly Wednesday Walk with Girlfriend]] — recurring Wednesday 21:00
 - [[next/calendar/Weekly Sunday Vault Review]] — recurring Sunday 20:00 (run the `review` skill)
 - [[next/calendar/Weekly Saturday Badminton]] — recurring Saturday 15:00-17:00
 - [[next/calendar/Twice-Weekly Lower Back Routine]] — recurring Monday and Thursday 21:00-21:15

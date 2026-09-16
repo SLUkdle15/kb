@@ -1,6 +1,6 @@
 # Task 2 Body Prep
 
-The counterpart to [[projects/score-ielts-7-overall/task-2-intro-prep|Task 2 Introduction Prep]]: that note gets the intro right, this one gets the two bodies right. The band-level reasoning is lever 3 in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] — one idea per paragraph, developed — and lever 5, never trade accuracy for ambition.
+The counterpart to [[projects/score-ielts-7-overall/task-2-intro-prep|Task 2 Introduction Prep]]: that note gets the intro right, this one gets the two bodies right. The band-level reasoning is lever 3 in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] — one idea per paragraph, developed — and lever 5, never trade accuracy for ambition. Collocations worth reusing go in [[projects/score-ielts-7-overall/vocabulary|Vocabulary]].
 
 ## The Four Sentences
 
