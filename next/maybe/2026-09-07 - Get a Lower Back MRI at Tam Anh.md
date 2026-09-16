@@ -1,5 +1,6 @@
 # Get a Lower Back MRI at Tam Anh
 
+Area: [[areas/health/health|Health]]
 Routine: [[next/calendar/Twice-Weekly Lower Back Routine|Twice-Weekly Lower Back Routine]]
 Checkpoint: [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking|Review Six Weeks of Lower Back Tracking]]
 

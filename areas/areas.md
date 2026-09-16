@@ -36,6 +36,7 @@ Ask:
 - [[areas/photography/photography|Photography]]
 - [[areas/reading/reading|Reading]]
 - [[areas/golf-training/golf-training|Golf Training]]
+- [[areas/health/health|Health]]
 - [[areas/ho-tay-walking/ho-tay-walking|Hồ Tây Walking]]
 - [[areas/family/family|Family]]
 - [[areas/personal-development/personal-development|Personal Development]]
