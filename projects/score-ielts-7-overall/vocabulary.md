@@ -18,4 +18,4 @@ Each entry: the collocation, the correction if one was needed, and one example s
 - **settle into [X] with far less disruption** — *settle into*, not "settle in education." *Children who start early tend to settle into formal education with far less disruption than those who begin later.*
 - **become familiar with** vs. **accustomed to** — near-synonyms, not interchangeable partners. *Familiar with* pairs naturally with routines, subjects, material; *accustomed to* pairs with conditions, settings, environments. *Children who are already accustomed to a structured setting become familiar with academic routines faster.*
 
-Reviewed alongside [[projects/score-ielts-7-overall/task-2-body-prep|Task 2 Body Prep]] before writing.
+Reviewed alongside [[projects/score-ielts-7-overall/task-2-writing-prep|Task 2 Writing Prep]] before writing.

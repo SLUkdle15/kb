@@ -1,6 +1,6 @@
 # Task 2 Intro Drills
 
-Planning-line reps for [[projects/score-ielts-7-overall/task-2-intro-prep|Task 2 Introduction Prep]]: the prompt, then the intro and the two body topic sentences as they were actually written.
+Planning-line reps for [[projects/score-ielts-7-overall/task-2-writing-prep|Task 2 Writing Prep]]: the prompt, then the intro and the two body topic sentences as they were actually written.
 
 Each entry is left verbatim and uncorrected, for the Phase 3 re-read. Repeated errors go to [[projects/score-ielts-7-overall/error-log|Error Log]], not here.
 
@@ -68,7 +68,7 @@ Caught at the planning-line check, before writing: as stated this is a fact nobo
 
 **Prompt.** Some groups of people have benefited from modern communications technology but some people do not benefit at all. To what extent do you agree or disagree?
 
-**Type**, mistaken at first for discuss-both-views because the claim splits into two halves ("some benefit... some don't"), which reads like two opposing camps. It isn't: the instruction line is *to what extent do you agree or disagree*, not *discuss both views*, and the structural tell is that an agree/disagree essay's two bodies argue **for the same verdict**, while discuss-both-views' two bodies argue **against each other**. Rule logged generally in [[projects/score-ielts-7-overall/task-2-intro-prep|Task 2 Introduction Prep]].
+**Type**, mistaken at first for discuss-both-views because the claim splits into two halves ("some benefit... some don't"), which reads like two opposing camps. It isn't: the instruction line is *to what extent do you agree or disagree*, not *discuss both views*, and the structural tell is that an agree/disagree essay's two bodies argue **for the same verdict**, while discuss-both-views' two bodies argue **against each other**. Rule logged generally in [[projects/score-ielts-7-overall/task-2-writing-prep|Task 2 Writing Prep]].
 
 **Reason 1, as first reached for.** People can schedule online and meet anywhere — describes the benefit itself, not a mechanism for why the benefit is uneven. Reason 2 stalled immediately after: the usual 1-good/1-bad method (built for advantages/disadvantages or discuss-both-views) had nothing left to reach for, because both reasons here need to support one verdict, not opposite sides.
 
