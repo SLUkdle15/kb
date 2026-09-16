@@ -37,6 +37,7 @@ Review monthly, or weekly when the relationship needs active attention.
 ## Current Actions
 
 - [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]]
+- [[next/calendar/2026-09-18 - Take Her Out for Roasted Duck Dinner|Take Her Out for Roasted Duck Dinner]] — Friday 2026-09-18
 - [[next/next-actions/2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 - [[next/maybe/2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] (someday/maybe)
 

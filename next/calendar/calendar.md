@@ -53,3 +53,5 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 - [[next/calendar/2026-09-21 - Book the IELTS Test for Mid-November]] — 2026-09-21 (backstop: last safe week to book for mid-November)
 - [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking]] — 2026-10-15 (six-week checkpoint on the lower back routine; physio if no change)
 - [[next/calendar/2026-09-20 - Go to the Range and Run a Contact Tally Session]] — 2026-09-20 (Sunday)
+- [[next/calendar/2026-09-18 - Take Her Out for Roasted Duck Dinner]] — 2026-09-18 (Friday)
+- [[next/calendar/2026-09-17 - Text Tam Ta About the Techleague Jerseys]] — 2026-09-17 (Thursday)
