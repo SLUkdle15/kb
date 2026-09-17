@@ -4,6 +4,17 @@ Area: [[areas/photography/photography|Photography]]
 
 Working through the camera's modes and the exposure triangle one setting at a time, on the body itself rather than from a guide.
 
+## Camera Body (DSLR)
+
+- A DSLR (digital single-lens reflex) uses a mirror to reflect the scene up into the optical viewfinder.
+- Pressing the shutter flips the mirror out of the way, briefly blocking the viewfinder, so light can reach the sensor.
+- Sensor size affects image quality: a full-frame sensor is bigger than a crop sensor, and a bigger sensor means less noise and a shallower depth of field at the same aperture.
+
+## Lens
+
+- The aperture lives in the lens; the shutter is in the camera body.
+- Focal length sets the field of view: a smaller focal length gives a wider field of view.
+
 ## Modes
 
 - **Tv (time value) is shutter priority.** I pick the shutter speed, the camera picks the aperture, and ISO can be set by hand or left on auto.

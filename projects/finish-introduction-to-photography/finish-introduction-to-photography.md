@@ -25,3 +25,4 @@ Courses 2 and 3 of the plan live in [[areas/photography/photography|Photography]
 ## Progress
 
 - 2026-09-15 — project created, course not started. Resume at: chapter 1, from the beginning.
+- 2026-09-16 — chapter 1 watched. DSLR mirror mechanism, sensor size, lens aperture, and focal length written into [[areas/photography/2026-09-09 - Exposure Basics on the 6D Mark II|Exposure Basics on the 6D Mark II]]. Resume at: chapter 2.
