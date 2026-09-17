@@ -26,7 +26,7 @@ Review monthly, or weekly when actively training.
 ## Current Actions
 
 - [[next/maybe/2026-09-02 - Text the Guy to Change Weekly Soccer from Tuesday to Monday|Text the Guy to Change Weekly Soccer from Tuesday to Monday]] (someday/maybe)
-- [[next/waiting/2026-09-07 - Techleague Jerseys from Tam Ta|Techleague Jerseys from Tam Ta]] (waiting)
+- [[next/calendar/2026-09-17 - Text Tam Ta About the Techleague Jerseys|Text Tam Ta About the Techleague Jerseys]] — Thursday 2026-09-17
 
 ## Current Projects
 

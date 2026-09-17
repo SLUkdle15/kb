@@ -1,5 +1,6 @@
 # Twice-Weekly Lower Back Routine
 
+Area: [[areas/health/health|Health]]
 Every: Monday and Thursday 21:00-21:15
 
 ## Action

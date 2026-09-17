@@ -33,7 +33,6 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 ### Recurring — Weekly
 
 - [[next/calendar/Weekly Tuesday Soccer]] — recurring Tuesday 17:30 (reminder 4 days before to decide on cancelling the field)
-- [[next/calendar/Weekly Wednesday Walk with Girlfriend]] — recurring Wednesday 21:00
 - [[next/calendar/Weekly Sunday Vault Review]] — recurring Sunday 20:00 (run the `review` skill)
 - [[next/calendar/Weekly Saturday Badminton]] — recurring Saturday 15:00-17:00
 - [[next/calendar/Twice-Weekly Lower Back Routine]] — recurring Monday and Thursday 21:00-21:15
@@ -54,3 +53,5 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 - [[next/calendar/2026-09-21 - Book the IELTS Test for Mid-November]] — 2026-09-21 (backstop: last safe week to book for mid-November)
 - [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking]] — 2026-10-15 (six-week checkpoint on the lower back routine; physio if no change)
 - [[next/calendar/2026-09-20 - Go to the Range and Run a Contact Tally Session]] — 2026-09-20 (Sunday)
+- [[next/calendar/2026-09-18 - Take Her Out for Roasted Duck Dinner]] — 2026-09-18 (Friday)
+- [[next/calendar/2026-09-17 - Text Tam Ta About the Techleague Jerseys]] — 2026-09-17 (Thursday)

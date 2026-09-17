@@ -1,5 +1,7 @@
 # Research How to Massage with the Theragun
 
+Area: [[areas/health/health|Health]]
+
 ## Action
 
 Look up how to actually use the Theragun for massage — which attachments, which areas, how long per spot, how much pressure.
