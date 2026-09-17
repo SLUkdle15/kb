@@ -1,6 +1,6 @@
 # Techleague Jerseys from Tam Ta
 
-Status: superseded 2026-09-16 — not waiting any longer, texting Tam Ta directly tomorrow: [[next/calendar/2026-09-17 - Text Tam Ta About the Techleague Jerseys|Text Tam Ta About the Techleague Jerseys]].
+Status: superseded 2026-09-16 — not waiting any longer, texting Tam Ta directly tomorrow: [[next/calendar/2026-09-18 - Text Tam Ta About the Techleague Jerseys|Text Tam Ta About the Techleague Jerseys]].
 
 Area: [[areas/soccer/soccer|Soccer]]
 
