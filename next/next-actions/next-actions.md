@@ -29,7 +29,6 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-16 - Prep and Take Comics to Truyen Tranh HN|Prep and Take Comics to Truyen Tranh HN]]
 - [[2026-09-18 - Find Out Why Grep on the Logs Fails|Find Out Why Grep on the Logs Fails]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-09-18 - Fix the 502 on the AI Chatbot Excel Export|Fix the 502 on the AI Chatbot Excel Export]] — Area: [[areas/work-systems/work-systems|Work Systems]]
-- [[2026-09-18 - Decide Whether NCTool Logs Keep the Seven-Hour Offset|Decide Whether NCTool Logs Keep the Seven-Hour Offset]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-09-18 - Move FIM onto the eContract Gateway|Move FIM onto the eContract Gateway]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-09-18 - List What Is Left for Chatbot Excel Support|List What Is Left for Chatbot Excel Support]] — Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]]
 - [[2026-09-18 - Save a Push Status for Records Sent to DSC|Save a Push Status for Records Sent to DSC]] — Area: [[areas/work-systems/work-systems|Work Systems]]
