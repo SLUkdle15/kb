@@ -12,3 +12,7 @@ First question to settle: whether an existing Excel Online / Microsoft Graph MCP
 ## Done When
 
 The chatbot can act on an Excel Online file through MCP, or the scope is re-cut into a project.
+
+## Disposition
+
+Completed 2026-09-18 — the open question resolved the second way. Excel support needs several pieces, so the scope was re-cut into [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]].

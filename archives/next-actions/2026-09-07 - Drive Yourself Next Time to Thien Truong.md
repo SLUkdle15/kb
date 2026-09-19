@@ -7,3 +7,7 @@ Next time going to Thien Truong, drive yourself instead of being driven — real
 ## Done When
 
 Drove there yourself.
+
+## Disposition
+
+Completed 2026-09-18.

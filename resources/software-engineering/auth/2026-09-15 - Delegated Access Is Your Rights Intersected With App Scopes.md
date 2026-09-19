@@ -23,4 +23,4 @@ The tenant admin is the only source of rights on content: a licensed account com
 
 What the app gets is a token carrying `scp`, the scopes you consented to delegate. That consent is a subset of your rights, never an extension of them.
 
-So effective access is the intersection: your ACL ∩ the app's consented scopes. Broad scopes on a token do not reach files you cannot open, and a wide ACL does not help an app you only consented to read with. Both have to allow the call — which is the model any Microsoft Graph client sits on, including an [[next/next-actions/2026-09-11 - Add an Excel Online MCP Server to the AI Chatbot|Excel Online MCP server]].
+So effective access is the intersection: your ACL ∩ the app's consented scopes. Broad scopes on a token do not reach files you cannot open, and a wide ACL does not help an app you only consented to read with. Both have to allow the call — which is the model any Microsoft Graph client sits on, including an [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Excel Online MCP server]].
