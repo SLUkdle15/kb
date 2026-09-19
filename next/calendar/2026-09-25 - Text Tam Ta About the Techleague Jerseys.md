@@ -1,7 +1,7 @@
 # Text Tam Ta About the Techleague Jerseys
 
 Area: [[areas/soccer/soccer|Soccer]]
-Due: 2026-09-18
+Due: 2026-09-25
 
 ## Action
 

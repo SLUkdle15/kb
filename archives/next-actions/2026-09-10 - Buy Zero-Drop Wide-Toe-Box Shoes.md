@@ -13,3 +13,7 @@ The Gel-Kayano 14 was already on the shortlist in [[archives/next-actions/2026-0
 ## Done When
 
 A pair is bought, or the idea is dropped and this note is archived.
+
+## Disposition
+
+Canceled 2026-09-19. Dropped.

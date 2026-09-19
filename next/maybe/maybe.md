@@ -24,8 +24,9 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-01 - Buy Tripod and Memory Card|Buy Tripod and Memory Card]] — Area: [[areas/photography/photography|Photography]], Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 - [[2026-09-06 - Put More Effort into Taking Care of the Tree|Put More Effort into Taking Care of the Tree]]
 - [[2026-09-07 - Get a Lower Back MRI at Tam Anh|Get a Lower Back MRI at Tam Anh]] — hold until the six-week checkpoint on 2026-10-15
-- [[2026-09-18 - Drive to Thien Truong on 10-10|Drive to Thien Truong on 10-10]] — possible trip 2026-10-10, same day as temple
-- [[2026-09-10 - Buy Zero-Drop Wide-Toe-Box Shoes|Buy Zero-Drop Wide-Toe-Box Shoes]] — candidates named (Gel-Kayano 14, Hoka Clifton 11 Wide) are not actually zero drop
 - [[2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 - [[2026-09-12 - Try Kayn Kindred Ekko Norra and TF|Try Kayn, Kindred, Ekko, Norra, and TF]]
 - [[2026-09-12 - Explore Flash and Filter Options|Explore Flash and Filter Options]] — Area: [[areas/photography/photography|Photography]]
+- [[2026-09-19 - Buy Derby Shoes|Buy Derby Shoes]] — for a classier look
+- [[2026-09-19 - Try Kohibito at Night in the Old Quarter|Try Kohibito at Night in the Old Quarter]]
+- [[2026-09-18 - Save a Push Status for Records Sent to DSC|Save a Push Status for Records Sent to DSC]] — Area: [[areas/work-systems/work-systems|Work Systems]]

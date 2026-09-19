@@ -31,4 +31,5 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-18 - Fix the 502 on the AI Chatbot Excel Export|Fix the 502 on the AI Chatbot Excel Export]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-09-18 - Move FIM onto the eContract Gateway|Move FIM onto the eContract Gateway]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-09-18 - List What Is Left for Chatbot Excel Support|List What Is Left for Chatbot Excel Support]] — Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]]
-- [[2026-09-18 - Save a Push Status for Records Sent to DSC|Save a Push Status for Records Sent to DSC]] — Area: [[areas/work-systems/work-systems|Work Systems]]
+- [[2026-09-19 - Top Up and Verify the ETC Account|Top Up and Verify the ETC Account]] — Area: [[areas/vehicles/vehicles|Vehicles]]
+- [[2026-09-19 - Change Hair Style|Change Hair Style]]

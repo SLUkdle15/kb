@@ -22,4 +22,4 @@ The front of the shoe shaped wide enough that toes can sit in their natural spla
 
 - Brands built around this combination (zero drop + wide toe box): Altra, Topo Athletic, Xero, Vivobarefoot.
 - Most cushioned running shoes (e.g. Hoka) are wide-fitting but not zero drop; most retro runners have a real heel-to-toe drop despite looking flat.
-- Relevant to [[next/maybe/2026-09-10 - Buy Zero-Drop Wide-Toe-Box Shoes|Buy Zero-Drop Wide-Toe-Box Shoes]].
+- Relevant to [[archives/next-actions/2026-09-10 - Buy Zero-Drop Wide-Toe-Box Shoes|Buy Zero-Drop Wide-Toe-Box Shoes]] (dropped 2026-09-19).

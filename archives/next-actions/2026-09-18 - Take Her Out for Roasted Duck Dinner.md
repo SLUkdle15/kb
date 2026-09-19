@@ -18,3 +18,7 @@ Take her out Friday 2026-09-18 for roasted duck.
 ## Done When
 
 Dinner happened, and the restaurant is logged in resources/restaurants.
+
+## Disposition
+
+Completed 2026-09-18. Went to [[resources/restaurants/2026-08-10 - Vit 34|Vịt 34]], logged the visit there.

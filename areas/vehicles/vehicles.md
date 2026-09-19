@@ -25,6 +25,7 @@ Review monthly, or whenever something breaks or a service falls due.
 ## Current Actions
 
 - [[next/calendar/2026-09-23 - Every-3-Weeks Car Gas Fill-Up|Every-3-Weeks Car Gas Fill-Up]]
+- [[next/next-actions/2026-09-19 - Top Up and Verify the ETC Account|Top Up and Verify the ETC Account]]
 
 ## Current Projects
 
