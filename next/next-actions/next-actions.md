@@ -32,4 +32,5 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-18 - List What Is Left for Chatbot Excel Support|List What Is Left for Chatbot Excel Support]] — Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]]
 - [[2026-09-19 - Top Up and Verify the ETC Account|Top Up and Verify the ETC Account]] — Area: [[areas/vehicles/vehicles|Vehicles]]
 - [[2026-09-19 - Change Hair Style|Change Hair Style]]
-- [[2026-09-19 - Review Anh and Car Cushion Seat|Review Anh and Car Cushion Seat]] — Area: [[areas/vehicles/vehicles|Vehicles]]
+- [[2026-09-19 - Find the Cushion Seat for Car|Find the Cushion Seat for Car]] — Area: [[areas/vehicles/vehicles|Vehicles]]
+- [[2026-09-19 - Review the Images I Have Shot|Review the Images I Have Shot]] — Area: [[areas/photography/photography|Photography]]
