@@ -29,4 +29,5 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-12 - Explore Flash and Filter Options|Explore Flash and Filter Options]] — Area: [[areas/photography/photography|Photography]]
 - [[2026-09-19 - Buy Derby Shoes|Buy Derby Shoes]] — for a classier look
 - [[2026-09-19 - Try Kohibito at Night in the Old Quarter|Try Kohibito at Night in the Old Quarter]]
+- [[2026-09-19 - Try Maison Marou or Colette French Bistro|Try Maison Marou or Colette French Bistro]]
 - [[2026-09-18 - Save a Push Status for Records Sent to DSC|Save a Push Status for Records Sent to DSC]] — Area: [[areas/work-systems/work-systems|Work Systems]]
