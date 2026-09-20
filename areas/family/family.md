@@ -15,6 +15,7 @@ Care for family and the home shared with them: time spent together, things done 
 - Things family asks for get a next action instead of lingering.
 - Broken fixtures get a next action instead of lingering.
 - Note recurring issues and fixes worth remembering.
+- When dropping your girlfriend at school (roughly once a week, varies) — her school is near grandpa's house, so swing by and visit while you're out that way.
 
 ## Review Rhythm
 

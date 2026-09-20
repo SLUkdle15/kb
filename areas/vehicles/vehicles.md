@@ -13,6 +13,7 @@ Keep the car and the motorbike running, fuelled, legal, and safe to use.
 - Fuel, servicing, and repairs happen before something becomes a problem, not after.
 - Gear that makes riding and driving safe — helmet, mirrors, lights — stays in working order.
 - Skills that only come from repetition, such as parking, get a protocol rather than a vague feel.
+- On days you drive to work (roughly twice a week, varies), use it as a chance to practice — check in on the [[areas/vehicles/parallel-park-the-car|Parallel Park the Car]] protocol.
 
 ## Review Rhythm
 
