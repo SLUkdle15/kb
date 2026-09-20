@@ -1,42 +1,6 @@
 # Task 2 Writing Prep
 
-Check against this before the next Task 2 attempt. Distilled from the four Task 2 reps of Phase 1 and the 09-07 self-score; the band-level reasoning behind it is levers 1 through 5 in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] — paraphrase and framing (1, 2) and referencing (4) for the intro; one idea per paragraph, developed (3), and never trading accuracy for ambition (5) for the bodies. Content is decided before it is announced: the two bodies are built first, the intro last, since it has nothing to summarize until the two reasons exist as sentences. Collocations worth reusing go in [[projects/score-ielts-7-overall/vocabulary|Vocabulary]]; reps are logged in [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]] and [[projects/score-ielts-7-overall/task-2-body-drills|Task 2 Body Drills]].
-
-## The Two Bodies
-
-### The Four Sentences
-
-One body paragraph, four sentences, in this order:
-
-1. **The idea.** One reason, stated plainly. Not a list, not two reasons joined by *and*.
-2. **Why it is true.** The mechanism. This is the slot most often skipped, and skipping it is what leaves an idea asserted.
-3. **One concrete example.** A place, a figure, or a mechanism — something specific enough that it could be wrong.
-4. **The consequence.** Why this matters for the question actually asked. Not a summary of the three sentences above.
-
-Skipping sentence 2 is the common failure: the paragraph jumps from the claim to an example, and the example then has to carry the reasoning as well as illustrate it.
-
-### Examples May Be Invented; Prompts May Not
-
-[[projects/score-ielts-7-overall/materials|Materials]] rules out invented practice *prompts*, because they are subtly off in ways that matter. It says nothing against invented examples inside an essay, and nothing needs to: no examiner fact-checks a statistic, and the descriptor asks only that the idea be extended and supported.
-
-- **A place beats a fake number.** *Examples asserted, not concrete* is a repeat entry in [[projects/score-ielts-7-overall/error-log|Error Log]], and a bare "30% more stores opened" does not fix it — a statistic with no mechanism attached is still an assertion. A named street with a countable thing on it is easier to write and harder to get wrong.
-- **No fake precision.** Invent the scene, not the decimal place.
-
-### The Structures to Use, and the One to Avoid
-
-Lever 5 caps the ambition: four structures, used everywhere — a defining relative clause, a conditional, a passive for processes, a contrast clause with *while* or *whereas*.
-
-- **Avoid front-position *not only*.** It forces inversion — *Not only **is** fast food convenient, but it is also cheap* — and getting it wrong costs an error rather than earning range. The flat form is safe: *Fast food is not only convenient but also cheap.*
-- **Chain the mechanism to the person.** *Cheap to produce* is a fact about an industry; the eater only feels *cheap to buy*. A mechanism sentence has to land on whoever the essay says is acting.
-
-### Linking Body 1 to Body 2
-
-Depends on the type, and for one type the link is a trap:
-
-- **Two-part question.** Two separate questions, one body each. There is nothing to weigh and no bridge to build — trying to write a transition here is what stalls the paragraph. Cohesion comes from referencing (lever 4): body 2 opens by pointing back, *Closing that gap is what any effective policy has to do*, with no *Moreover* and no *Secondly*.
-- **Direct question.** The opposite case, and the one most easily confused with the above: asked once, it gets one question and two answers, so the two bodies are comparable and the pivot is back on — body 2 opens by pointing at what body 1 answered. The trap here is not the transition but answering twice with the same reason.
-- **Opinion, discuss both views, advantages and disadvantages.** The two bodies do stand in relation, so the pivot belongs at the start of body 2 — *while*, *whereas*, or a backward reference to what body 1 established.
-- **Neither body borrows the other's idea.** The four-sentence shape develops one idea, so body 2 running on body 1's mechanism collapses them — twice now, the 09-09 *how to improve* half and the artists rep's verdict. Each body needs an idea that stands on its own ground.
+Check against this before the next Task 2 attempt. Distilled from the four Task 2 reps of Phase 1 and the 09-07 self-score; the band-level reasoning behind it is levers 1 through 5 in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] — paraphrase and framing (1, 2) and referencing (4) for the intro; one idea per paragraph, developed (3), and never trading accuracy for ambition (5) for the bodies. Content is decided before it is announced: when writing, the two bodies are built first and the intro last, since it has nothing to summarize until the two reasons exist as sentences — this note runs intro first, bodies second, since it's read as a check, not followed as a build sequence. Collocations worth reusing go in [[projects/score-ielts-7-overall/vocabulary|Vocabulary]]; reps are logged in [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]] and [[projects/score-ielts-7-overall/task-2-body-drills|Task 2 Body Drills]].
 
 ## The Introduction
 
@@ -60,11 +24,11 @@ About 45 words, against a budget of two bodies at ~85 each — roughly 255, whic
 
 The shape cannot rescue the wrong type: answering one part of a two-part question caps Task Response at 5 whatever the intro looks like. Naming the type correctly is still the first move.
 
-### A Split Claim Is Not Two Views
+#### A Split Claim Is Not Two Views
 
-A prompt that states *some do X, some don't* reads like two opposing camps — the same shape discuss-both-views hands over.
+A prompt that states *some do X, some don't* looks like discuss-both-views, but it isn't — commit to one verdict and defend it with two non-overlapping reasons, never one reason per camp.
 
-The comms-tech access-gap prompt (caught 2026-09-15 — see [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]]), broken into its four possible verdicts, each drawing on its own reason pair — none of them interchangeable:
+The comms-tech access-gap prompt (caught 2026-09-15 — see [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]]) has four possible verdicts, each with its own reason pair:
 
 | Verdict | Reasons |
 | --- | --- |
@@ -73,7 +37,7 @@ The comms-tech access-gap prompt (caught 2026-09-15 — see [[projects/score-iel
 | Disagree — the gap isn't significant | the access floor is lower than assumed (basic phones now carry messaging apps); the skill gap closes fast through informal peer teaching |
 | Positive — worth it anyway | value to the included (outsized gain for those who have it); diffusion over time (falling costs narrow the gap) |
 
-Agree and negative can share a reason pair here because proving the gap exists and proving it's harmful happen to lean on the same mechanisms — that's a coincidence of this prompt, not a rule. Disagree and positive don't share reasons with agree/negative at all: they're arguing the opposite premise (no real gap, or the gap doesn't matter), so they need their own mechanisms.
+Agree and negative happen to share a reason pair here — a coincidence of this prompt, not a rule. Disagree and positive argue the opposite premise, so they always need their own mechanisms.
 
 ### Step-by-Step, In Order
 
@@ -110,17 +74,17 @@ The reason that reaches the page is almost always a **property of the thing** �
 
 #### One Reason Per Body
 
-Reason one is body 1's only reason, reason two is body 2's. Sentence 2 says both, each body then repeats its own, and that repetition is correct. The fault is body 2 arguing body 1's reason — twice so far, the 09-09 delivery rep and the artists verdict, and it costs 85 words each time. Body 2 may point back to build the pivot (*Closing that gap*); a reference is not a second airing.
+Reason one is body 1's only reason, reason two is body 2's — sentence 2 states both, each body then repeats its own, and that repetition is correct. The fault is body 2 arguing body 1's reason instead (twice so far — the 09-09 delivery rep, the artists verdict — 85 words each time). Pointing back to build the pivot (*Closing that gap*) is not a second airing.
 
-**The test.** Write the *why is this true?* clause under each topic sentence. Two real reasons give two answers neither body could have borrowed:
+**The test.** Write the *why is this true?* clause under each topic sentence. Two real reasons answer differently:
 
-- **The same noun doing the causal work** — *delivery* twice, *genuineness* twice — is one reason.
-- **One dying when the other is denied** is one reason.
-- **Nothing available but a restatement** means the reason is still a property. Go back a subsection.
+- Same noun doing the causal work (*delivery* twice, *genuineness* twice) = one reason.
+- One dying when the other is denied = one reason.
+- Nothing left but a restatement = still a property — go back a subsection.
 
-**Pick a different arena and there is nothing to test.** Money, then time, habit, status, or law. What a person does, then what an institution does.
+**Different arena, nothing to test.** Money, then time, habit, status, or law; a person's action, then an institution's.
 
-**Three types bend this.** A direct question asks once, so both bodies answer the same question and the pivot is back on — body 2 may open by pointing at what body 1 answered. What it must not do is answer the question a second time with body 1's reason. A two-part question gets no bridge at all: cover part 1's reason and part 2's answer must still stand. Problem and solution needs the shared topic, since the remedy is supposed to attack the cause — only the mechanism differs, body 1 why the cause bites and body 2 why the remedy changes what somebody does. A remedy that is the cause with a policy verb bolted on (*deliveries are convenient* → *charge for deliveries*) leaves body 2 nothing of its own.
+**Three types bend this.** Direct question: one question, pivot back on, but body 2 still can't reuse body 1's reason. Two-part question: no bridge — part 1's reason and part 2's answer must each stand alone. Problem and solution: shared topic by design (the remedy attacks the cause), so only the mechanism differs — body 1 why the cause bites, body 2 why the remedy changes behavior; a remedy that's just the cause with a policy verb bolted on (*deliveries are convenient* → *charge for deliveries*) leaves body 2 empty.
 
 ### Sentence 2 — The Position, With the Reasons Named
 
@@ -212,7 +176,7 @@ Attribution bank, so the same three words do not open every essay: *It is often 
 - **Noun phrase, so the phenomenon leads.** *Poor diets persist even among people who understand exactly what they cost.*
 - **The prompt's own contrast.** *Despite knowing the harm, many people continue to eat food they know to be unhealthy.* Keeping *many people* is fine — the structure carries the paraphrase, and the topic nouns were never the thing to change.
 
-### How Far the Paraphrase Has to Go
+#### How Far the Paraphrase Has to Go
 
 Examiners discount copied **wording**, not the act of restating.
 
@@ -229,6 +193,43 @@ An opinion prompt built on a proposition, so T1:
 **Do not paraphrase the topic nouns.** Reaching for a synonym is what produced *cyclers* for cyclists and *subsize* for mitigate, both in [[projects/score-ielts-7-overall/error-log|Error Log]].
 
 To keep it honest: read the prompt, look away, write it from the meaning.
+
+## The Two Bodies
+
+### The Four Sentences
+
+One body paragraph, four sentences, in this order:
+
+1. **The idea.** One reason, stated plainly. Not a list, not two reasons joined by *and*.
+2. **Why it is true.** The mechanism. This is the slot most often skipped, and skipping it is what leaves an idea asserted.
+3. **One concrete example.** A place, a figure, or a mechanism — something specific enough that it could be wrong.
+4. **The consequence.** Why this matters for the question actually asked. Not a summary of the three sentences above.
+
+Skipping sentence 2 is the common failure: the paragraph jumps from the claim to an example, and the example then has to carry the reasoning as well as illustrate it.
+
+**Chain the mechanism to the person.** *Cheap to produce* is a fact about an industry; the eater only feels *cheap to buy*. Sentence 2 has to land on whoever the essay says is acting, not on a property of the thing itself.
+
+### Examples May Be Invented; Prompts May Not
+
+[[projects/score-ielts-7-overall/materials|Materials]] rules out invented practice *prompts*, because they are subtly off in ways that matter. It says nothing against invented examples inside an essay, and nothing needs to: no examiner fact-checks a statistic, and the descriptor asks only that the idea be extended and supported.
+
+- **A place beats a fake number.** *Examples asserted, not concrete* is a repeat entry in [[projects/score-ielts-7-overall/error-log|Error Log]], and a bare "30% more stores opened" does not fix it — a statistic with no mechanism attached is still an assertion. A named street with a countable thing on it is easier to write and harder to get wrong.
+- **No fake precision.** Invent the scene, not the decimal place.
+
+### The Structures to Use, and the One to Avoid
+
+Lever 5 caps the ambition: four structures, used everywhere — a defining relative clause, a conditional, a passive for processes, a contrast clause with *while* or *whereas*.
+
+**Avoid front-position *not only*.** It forces inversion — *Not only **is** fast food convenient, but it is also cheap* — and getting it wrong costs an error rather than earning range. The flat form is safe: *Fast food is not only convenient but also cheap.*
+
+### Linking Body 1 to Body 2
+
+Depends on the type, and for one type the link is a trap:
+
+- **Two-part question.** Two separate questions, one body each. There is nothing to weigh and no bridge to build — trying to write a transition here is what stalls the paragraph. Cohesion comes from referencing (lever 4): body 2 opens by pointing back, *Closing that gap is what any effective policy has to do*, with no *Moreover* and no *Secondly*.
+- **Direct question.** The opposite case, and the one most easily confused with the above: asked once, it gets one question and two answers, so the two bodies are comparable and the pivot is back on — body 2 opens by pointing at what body 1 answered. The trap here is not the transition but answering twice with the same reason.
+- **Opinion, discuss both views, advantages and disadvantages.** The two bodies do stand in relation, so the pivot belongs at the start of body 2 — *while*, *whereas*, or a backward reference to what body 1 established.
+- **Neither body borrows the other's idea.** The four-sentence shape develops one idea, so body 2 running on body 1's mechanism collapses them — twice now, the 09-09 *how to improve* half and the artists rep's verdict. Each body needs an idea that stands on its own ground.
 
 ## Checklist
 
