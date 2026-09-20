@@ -19,7 +19,6 @@ Each note should describe a clear next action. If it requires multiple steps and
 ## Current Actions
 
 - [[2026-08-17 - Decide Master's Field of Study|Decide Master's Field of Study]]
-- [[2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 - [[2026-08-22 - Try Haagen-Dazs Moonlight Quartet|Try Haagen-Dazs Moonlight Quartet]] — seasonal, Mid-Autumn 2026-09-25
 - [[2026-09-15 - Watch the Next Chapter of Introduction to Photography|Watch the Next Chapter of Introduction to Photography]] — Project: [[projects/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]]
 - [[2026-09-10 - Find the Reading Questions for Learning Domain-Driven Design|Find the Reading Questions for Learning Domain-Driven Design]]
@@ -29,8 +28,8 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-18 - Find Out Why Grep on the Logs Fails|Find Out Why Grep on the Logs Fails]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-09-18 - Fix the 502 on the AI Chatbot Excel Export|Fix the 502 on the AI Chatbot Excel Export]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-09-18 - Move FIM onto the eContract Gateway|Move FIM onto the eContract Gateway]] — Area: [[areas/work-systems/work-systems|Work Systems]]
-- [[2026-09-18 - List What Is Left for Chatbot Excel Support|List What Is Left for Chatbot Excel Support]] — Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]]
 - [[2026-09-19 - Top Up and Verify the ETC Account|Top Up and Verify the ETC Account]] — Area: [[areas/vehicles/vehicles|Vehicles]]
 - [[2026-09-19 - Change Hair Style|Change Hair Style]]
 - [[2026-09-19 - Find the Cushion Seat for Car|Find the Cushion Seat for Car]] — Area: [[areas/vehicles/vehicles|Vehicles]]
 - [[2026-09-19 - Review the Images I Have Shot|Review the Images I Have Shot]] — Area: [[areas/photography/photography|Photography]]
+- [[2026-09-20 - Examine the CT01 Form|Examine the CT01 Form]] — Project: [[projects/register-temporary-residence/register-temporary-residence|Register Temporary Residence]]

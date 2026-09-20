@@ -37,13 +37,13 @@ Review monthly, or weekly when the relationship needs active attention.
 ## Current Actions
 
 - [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]]
+- [[next/calendar/2026-09-25 - Go to the Mid-Autumn Festival|Go to the Mid-Autumn Festival]] — Friday 2026-09-25
 - [[next/calendar/2026-09-30 - 6-Month Anniversary|6-Month Anniversary]] — Wednesday 2026-09-30
-- [[next/next-actions/2026-08-17 - Go to the Van Gogh Timeless Exhibition|Go to the Van Gogh Timeless Exhibition]]
 - [[next/maybe/2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] (someday/maybe)
 
 ## Current Projects
 
-- 
+- [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]]
 
 ## Related Resources
 

@@ -8,6 +8,10 @@ Due: 2026-09-21
 
 Book an IELTS Academic slot for **mid-November 2026**. Retargeted from 3 October on 2026-08-24 by [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]], which found fluency rather than structure to be the binding constraint — the diagnosis is now in hand, so the remaining question is which mid-November date, not whether October is realistic.
 
+## Status
+
+As of 2026-09-20: not booked yet. Reconsidering early October instead of mid-November — weigh that against the 2026-08-24 baseline verdict's fluency finding before deciding, since that's what drove the retarget to November in the first place.
+
 ## Checklist
 
 Decide the format:

@@ -11,7 +11,7 @@ Comfortable enough to go play a full round of 18 holes.
 
 ## Next Actions
 
-- [[next/calendar/2026-09-20 - Go to the Range and Run a Contact Tally Session|Go to the Range and Run a Contact Tally Session]]
+- [[next/calendar/2026-09-27 - Go to the Range and Run an Hour Contact Tally Session|Go to the Range and Run an Hour Contact Tally Session]]
 
 ## Notes
 
@@ -22,3 +22,7 @@ Self-teaching loop: film the swing, compare it against one reference swing, and 
 The one teacher is Danny Maude, chosen 2026-09-07. The reference swing to film against still has to come from him.
 
 Filming itself is not the blocker: the GoPro and its own tripod cover it. What is missing is the reference swing to compare against, so run a contact tally in the meantime. Over 20 balls with one club, record how many made clean contact, where on the face the strike lands (toe, heel, thin, fat), and which way the ball tends to go. Three numbers, no camera, and still a real before.
+
+## Session Logs
+
+- [[projects/self-taught-golf/2026-09-20 - Range Session Log|2026-09-20]] — 5/20 clean contact; strike location and ball flight not recorded.

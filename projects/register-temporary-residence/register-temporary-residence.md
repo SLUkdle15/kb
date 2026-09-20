@@ -14,7 +14,7 @@ Area: [[areas/family/family|Family]]
 
 ## Next Actions
 
-- Blocked: [[next/waiting/2026-09-15 - Bich's Answer on How to Register Temporary Residence|Bich's Answer on How to Register Temporary Residence]] — no unblocked next action right now.
+- [[next/next-actions/2026-09-20 - Examine the CT01 Form|Examine the CT01 Form]]
 
 ## Notes
 

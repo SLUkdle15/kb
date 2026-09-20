@@ -10,4 +10,4 @@ Jerseys ordered.
 
 ## Status
 
-Completed 2026-09-07. Ordered through Tam Ta, who has the order now — delivery is tracked in [[next/waiting/2026-09-07 - Techleague Jerseys from Tam Ta|Techleague Jerseys from Tam Ta]].
+Completed 2026-09-07. Ordered through Tam Ta, who has the order now — delivery is tracked in [[archives/next-actions/2026-09-07 - Techleague Jerseys from Tam Ta|Techleague Jerseys from Tam Ta]].
