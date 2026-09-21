@@ -10,7 +10,7 @@ Book an IELTS Academic slot for **mid-November 2026**. Retargeted from 3 October
 
 ## Status
 
-As of 2026-09-20: not booked yet. Reconsidering early October instead of mid-November — weigh that against the 2026-08-24 baseline verdict's fluency finding before deciding, since that's what drove the retarget to November in the first place.
+As of 2026-09-21: not booked yet. Early October was reconsidered and set aside — the 2026-08-24 baseline verdict's fluency finding stands, and it is what retargeted this to November in the first place. Mid-November is the target; the open question is which date, not which month.
 
 ## Checklist
 
