@@ -1,7 +1,7 @@
 # Every-3-Weeks Car Gas Fill-Up
 
 Area: [[areas/vehicles/vehicles|Vehicles]]
-Due: 2026-09-23
+Due: 2026-09-30
 
 ## Action
 

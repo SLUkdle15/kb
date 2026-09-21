@@ -38,7 +38,7 @@ Review monthly, or weekly when the relationship needs active attention.
 
 - [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]]
 - [[next/calendar/2026-09-25 - Go to the Mid-Autumn Festival|Go to the Mid-Autumn Festival]] — Friday 2026-09-25
-- [[next/calendar/2026-09-30 - 6-Month Anniversary|6-Month Anniversary]] — Wednesday 2026-09-30
+- [[next/calendar/2026-09-28 - 6-Month Anniversary|6-Month Anniversary]] — observed Monday 2026-09-28, two days before the actual mark on 2026-09-30
 - [[next/maybe/2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] (someday/maybe)
 
 ## Current Projects

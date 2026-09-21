@@ -33,3 +33,5 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-19 - Find the Cushion Seat for Car|Find the Cushion Seat for Car]] — Area: [[areas/vehicles/vehicles|Vehicles]]
 - [[2026-09-19 - Review the Images I Have Shot|Review the Images I Have Shot]] — Area: [[areas/photography/photography|Photography]]
 - [[2026-09-20 - Examine the CT01 Form|Examine the CT01 Form]] — Project: [[projects/register-temporary-residence/register-temporary-residence|Register Temporary Residence]]
+- [[2026-09-20 - Pick and Book the Anniversary French Restaurant|Pick and Book the Anniversary French Restaurant]] — Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]]
+- [[2026-09-20 - Find a Gift for the Anniversary|Find a Gift for the Anniversary]] — Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]]
