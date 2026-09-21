@@ -39,7 +39,7 @@ Review monthly, or weekly when the relationship needs active attention.
 - [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]]
 - [[next/calendar/2026-09-25 - Have a Mid-Autumn Date|Have a Mid-Autumn Date]] — Friday 2026-09-25, where TBD
 - [[next/calendar/2026-09-21 - Plan Where to Go for the Mid-Autumn Date|Plan Where to Go for the Mid-Autumn Date]] — Monday 2026-09-21
-- [[next/calendar/2026-09-28 - 6-Month Anniversary|6-Month Anniversary]] — observed Monday 2026-09-28, two days before the actual mark on 2026-09-30
+- [[next/calendar/2026-10-02 - 6-Month Anniversary|6-Month Anniversary]] — Friday 2026-10-02, moved from 2026-09-28; actual mark 2026-09-30
 - [[next/maybe/2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] (someday/maybe)
 
 ## Current Projects

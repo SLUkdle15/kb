@@ -56,4 +56,4 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 - [[next/calendar/2026-09-21 - Implement Excel Clone Query and Token Handling]] — 2026-09-21 (Monday)
 - [[next/calendar/2026-09-21 - Plan Where to Go for the Mid-Autumn Date]] — 2026-09-21 (Monday). Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 - [[next/calendar/2026-09-22 - Find a Gift for the Anniversary]] — 2026-09-22 (Tuesday). Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]]
-- [[next/calendar/2026-09-28 - 6-Month Anniversary]] — 2026-09-28 (Monday, observed two days early; actual mark 2026-09-30. Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]])
+- [[next/calendar/2026-10-02 - 6-Month Anniversary]] — 2026-10-02 (Friday, moved from 2026-09-28; actual mark 2026-09-30. Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]])

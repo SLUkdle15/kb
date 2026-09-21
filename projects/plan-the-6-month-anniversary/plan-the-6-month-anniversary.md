@@ -8,14 +8,14 @@ The 6-month anniversary is marked with her: dinner at a chosen French restaurant
 
 ## Deadline
 
-2026-09-28 — [[next/calendar/2026-09-28 - 6-Month Anniversary|6-Month Anniversary]] (observed two days early; actual mark 2026-09-30)
+2026-10-02 — [[next/calendar/2026-10-02 - 6-Month Anniversary|6-Month Anniversary]] (moved from 2026-09-28; actual mark 2026-09-30)
 
 ## Definition of Done
 
 - Picked between [[areas/romantic-relationship/2026-09-09 - Date Ideas for Us|Maison Marou or Colette French Bistro and Wine Bar]] — neither has a note in [[resources/restaurants/restaurants|resources/restaurants]] yet.
 - Reservation made if the chosen place needs one.
 - A gift is found and ready, from [[areas/romantic-relationship/2026-08-29 - Gift Ideas for Her|Gift Ideas for Her]] or new.
-- Dinner had and gift given with her on 2026-09-28.
+- Dinner had and gift given with her on 2026-10-02.
 
 ## Next Actions
 
