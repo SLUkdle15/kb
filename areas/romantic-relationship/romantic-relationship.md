@@ -37,7 +37,8 @@ Review monthly, or weekly when the relationship needs active attention.
 ## Current Actions
 
 - [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]]
-- [[next/calendar/2026-09-25 - Go to the Mid-Autumn Festival|Go to the Mid-Autumn Festival]] — Friday 2026-09-25
+- [[next/calendar/2026-09-25 - Have a Mid-Autumn Date|Have a Mid-Autumn Date]] — Friday 2026-09-25, where TBD
+- [[next/calendar/2026-09-21 - Plan Where to Go for the Mid-Autumn Date|Plan Where to Go for the Mid-Autumn Date]] — Monday 2026-09-21
 - [[next/calendar/2026-09-28 - 6-Month Anniversary|6-Month Anniversary]] — observed Monday 2026-09-28, two days before the actual mark on 2026-09-30
 - [[next/maybe/2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] (someday/maybe)
 
@@ -51,3 +52,4 @@ Review monthly, or weekly when the relationship needs active attention.
 - [[2026-08-29 - Gift Ideas for Her|Gift Ideas for Her]]
 - [[2026-09-09 - Date Ideas for Us|Date Ideas for Us]]
 - [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]
+- [[2026-09-21 - Quick Note on What She Liked|Quick Note on What She Liked]] — she liked Cơm Dừa Bò Hầm; place still unconfirmed

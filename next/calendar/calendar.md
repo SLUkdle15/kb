@@ -48,10 +48,12 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 ### One-Off
 
 - [[next/calendar/2026-10-10 - Drive to Thien Truong]] — 2026-10-10 (same day as temple; check if it's one trip or two)
-- [[next/calendar/2026-09-25 - Go to the Mid-Autumn Festival]] — 2026-09-25 (Friday)
+- [[next/calendar/2026-09-25 - Have a Mid-Autumn Date]] — 2026-09-25 (Friday, where TBD)
 - [[next/calendar/2026-09-26 - Attend Phuc's Wedding]] — 2026-09-26 11:30 (Saturday)
 - [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking]] — 2026-10-15 (six-week checkpoint on the lower back routine; physio if no change)
 - [[next/calendar/2026-09-25 - Text Tam Ta About the Techleague Jerseys]] — 2026-09-25 (Friday, rescheduled from 2026-09-18)
 - [[next/calendar/2026-09-27 - Go to the Range and Run an Hour Contact Tally Session]] — 2026-09-27 (Sunday, expanded to an hour, bring tripod; reminder 2 days before to recheck session content)
 - [[next/calendar/2026-09-21 - Implement Excel Clone Query and Token Handling]] — 2026-09-21 (Monday)
+- [[next/calendar/2026-09-21 - Plan Where to Go for the Mid-Autumn Date]] — 2026-09-21 (Monday). Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
+- [[next/calendar/2026-09-22 - Find a Gift for the Anniversary]] — 2026-09-22 (Tuesday). Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]]
 - [[next/calendar/2026-09-28 - 6-Month Anniversary]] — 2026-09-28 (Monday, observed two days early; actual mark 2026-09-30. Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]])
