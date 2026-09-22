@@ -15,7 +15,7 @@ System: [[resources/software-engineering/system-architecture/2026-07-17 - AI Cha
 
 ## Next Actions
 
-- [[next/calendar/2026-09-21 - Implement Excel Clone Query and Token Handling|Implement Excel Clone, Query, and Token Handling]]
+- [[next/calendar/2026-09-23 - Implement Excel Query and Token Handling|Implement Excel Query and Token Handling]]
 
 ## Notes
 
@@ -33,3 +33,4 @@ That list came from the architecture note, not from a survey of the code. The fi
 
 - 2026-09-18 — project created from the Excel MCP server action, which is now complete.
 - 2026-09-20 — list checked against what is actually built; next piece to build is the Excel clone, query, and token handling.
+- 2026-09-22 — Excel clone implemented; query and token handling moved to 2026-09-23.
