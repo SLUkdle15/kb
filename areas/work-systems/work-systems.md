@@ -36,7 +36,6 @@ Review monthly, or weekly when a migration or incident is active.
 - [[next/next-actions/2026-09-11 - Reschedule the NCTool Job Past the Two-Hour Assumption|Reschedule the NCTool Job Past the Two-Hour Assumption]]
 - [[next/next-actions/2026-09-18 - Find Out Why Grep on the Logs Fails|Find Out Why Grep on the Logs Fails]]
 - [[next/next-actions/2026-09-18 - Fix the 502 on the AI Chatbot Excel Export|Fix the 502 on the AI Chatbot Excel Export]]
-- [[next/next-actions/2026-09-18 - Move FIM onto the eContract Gateway|Move FIM onto the eContract Gateway]]
 - [[next/maybe/2026-09-18 - Save a Push Status for Records Sent to DSC|Save a Push Status for Records Sent to DSC]] (someday/maybe)
 
 ## Related Resources
