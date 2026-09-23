@@ -23,6 +23,5 @@ Each entry: the collocation, the correction if one was needed, and one example s
 
 - **shut out of [X]** — names exclusion as an effect on a person, not just an absence of access. *Students without access to a laptop are shut out of online courses altogether.*
 - **classroom interaction** — attributive noun, no possessive; not *classroom's interaction*. *Students who value classroom interaction often lose interest once classes move online.*
-- **[System] assumes everyone can afford [Y], a cost that [group] cannot always absorb alongside [Z].** — a mechanism-sentence frame for access/cost arguments: names the assumption a system quietly bakes in, then the competing expense that prices a group out of it. *Online-only courses assume every student can afford a personal laptop and a stable connection at home, a cost that lower-income families cannot always absorb alongside rent and food.*
 
 Reviewed alongside [[projects/score-ielts-7-overall/task-2-writing-prep|Task 2 Writing Prep]] before writing.
