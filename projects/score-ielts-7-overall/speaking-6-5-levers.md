@@ -4,12 +4,11 @@ Speaking is scored on four equally weighted criteria: Fluency and Coherence, Lex
 
 ## What Separates 6 from 7
 
-The full scale — what each criterion measures and the band 5 to 8 wording — is in [[resources/ielts/2026-09-15 - IELTS Band Descriptors|IELTS Band Descriptors]].
+The band 5 to 8 wording for all four criteria is in [[resources/ielts/2026-09-15 - IELTS Band Descriptors|IELTS Band Descriptors]], rather than paraphrased here. Three things in it shape the fixes below:
 
-- **Fluency and Coherence.** Band 6 is willing to speak at length but loses coherence through repetition, self-correction, and hesitation. Band 7 speaks at length without noticeable effort, and any hesitation is about finding *language*, not about finding something to say. The difference is mostly hesitation *type*, not hesitation *amount*.
-- **Lexical Resource.** Band 6 makes meaning clear despite inappropriate word choices and paraphrases with mixed success. Band 7 uses vocabulary flexibly and paraphrases effectively when the exact word will not come.
-- **Grammatical Range and Accuracy.** Band 6 makes frequent errors in complex structures. Band 7 produces **frequent error-free sentences**. Same sentence as in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]], same consequence: clean beats ambitious.
-- **Pronunciation.** Band 6 is generally understood but mispronunciation reduces clarity at times. Band 7 is easy to understand throughout, and the L1 accent has minimal effect. Accent is not penalised. Unclear sounds are.
+- Hesitation is judged by *type*, not amount — hunting for language costs, running out of things to say does not.
+- Band 7 grammar is **frequent error-free sentences**. Same sentence as in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]], same consequence: clean beats ambitious.
+- Accent is not penalised. Unclear sounds are.
 
 ## The Five Things Worth Fixing First
 

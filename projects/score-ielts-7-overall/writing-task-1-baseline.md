@@ -30,7 +30,7 @@ Lastly, Nigeria has the lowest percentage of household user in 2020.
 
 ## Self-Score
 
-Scored 2026-08-21, against the self-scoring pass in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]].
+Scored 2026-08-21, against the self-scoring pass in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]], with the band wording taken from [[resources/ielts/2026-09-15 - IELTS Band Descriptors|IELTS Band Descriptors]].
 
 | Criterion | Band |
 | --- | --- |

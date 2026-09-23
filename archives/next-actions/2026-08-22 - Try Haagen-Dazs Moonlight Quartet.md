@@ -14,4 +14,4 @@ Tasted it, and the voucher was either used for it or ruled out.
 
 ## Outcome
 
-Canceled 2026-09-23. Dropped without trying it.
+Canceled 2026-09-23. Never tried — the Moonlight Quartet edition is no longer sold, so the window closed before the trip happened. Häagen-Dazs itself is still open, and the voucher question below is still unanswered.

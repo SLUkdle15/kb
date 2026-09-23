@@ -6,12 +6,7 @@ An essay sitting at 5.5 is almost never failing on all four. Find which one is d
 
 ## What Separates 6 from 7
 
-Paraphrased from the public band descriptors, which are worth reading in full once. The full scale — what each criterion measures and the band 5 to 8 wording — is in [[resources/ielts/2026-09-15 - IELTS Band Descriptors|IELTS Band Descriptors]].
-
-- **Task Response.** Band 6 addresses all parts but the position becomes unclear or repetitive and some main ideas are underdeveloped. Band 7 holds a clear position *throughout* and extends and supports each main idea.
-- **Coherence and Cohesion.** Band 6 is coherent overall but cohesion is mechanical or faulty between sentences, and paragraphing is not always logical. Band 7 gives every paragraph one clear central topic and uses linking without over- or under-using it.
-- **Lexical Resource.** Band 6 has enough vocabulary but errors in word choice and formation. Band 7 has enough range for flexibility and precision, with *some* less common items used with awareness of collocation.
-- **Grammatical Range and Accuracy.** Band 6 mixes simple and complex forms and makes errors that rarely impede. Band 7 produces **frequent error-free sentences** and good control of punctuation.
+The band 5 to 8 wording for all four criteria is in [[resources/ielts/2026-09-15 - IELTS Band Descriptors|IELTS Band Descriptors]] — worth reading in full once, rather than paraphrased here. Two phrases from it drive everything below: band 7 Task Response "presents a clear position throughout", and band 7 Grammatical Range and Accuracy "produces **frequent error-free sentences**".
 
 That last line is the most useful sentence in the whole descriptor set. Band 7 grammar is not about complexity, it is about frequent error-free sentences. Which means the fastest route up is writing sentences that are certainly correct, not sentences that are ambitiously complex. A short correct sentence outscores a long broken one, every time.
 

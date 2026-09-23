@@ -16,7 +16,7 @@ Uh, part one, warm up. Do you enjoy traveling? Why or why not? Uh, I do enjoy tr
 
 ## Self-Score
 
-Scored 2026-08-22 from the transcript above.
+Scored 2026-08-22 from the transcript above, against the band wording in [[resources/ielts/2026-09-15 - IELTS Band Descriptors|IELTS Band Descriptors]].
 
 | Criterion                      | Band |
 | ------------------------------ | ---- |

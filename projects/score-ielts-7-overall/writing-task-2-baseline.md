@@ -24,7 +24,7 @@ In conclusion, even though tourism often damage on a country environment, the be
 
 ## Self-Score
 
-Scored 2026-08-20 against the self-scoring pass in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]].
+Scored 2026-08-20 against the self-scoring pass in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]], with the band wording taken from [[resources/ielts/2026-09-15 - IELTS Band Descriptors|IELTS Band Descriptors]].
 
 | Criterion | Band |
 | --- | --- |
