@@ -25,6 +25,7 @@ Examples:
 - [[resources/shoe-care/shoe-care|Shoe Care]]
 - [[resources/foot-health/foot-health|Foot Health]]
 - [[resources/ielts/ielts|IELTS]]
+- [[resources/home-maintenance/home-maintenance|Home Maintenance]]
 
 ## What Does Not Belong Here
 
