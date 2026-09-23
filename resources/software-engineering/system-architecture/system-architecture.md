@@ -39,5 +39,6 @@ Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 - [[2026-07-14 - What a Software Architect Needs to Do|What a Software Architect Needs to Do]]
 - [[resources/software-engineering/system-architecture/adr/architecture-decision-records|Architecture Decision Records]]
 - [[resources/software-engineering/system-architecture/incidents/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]]
+- [[resources/software-engineering/system-architecture/incidents/2026-09-21 - NCTool Lost T-1 Data Incident|NCTool Lost T-1 Data Incident]]
 
 Related plan: [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]

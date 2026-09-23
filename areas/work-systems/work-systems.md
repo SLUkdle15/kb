@@ -36,10 +36,10 @@ Review monthly, or weekly when a migration or incident is active.
 - [[next/next-actions/2026-09-11 - Reschedule the NCTool Job Past the Two-Hour Assumption|Reschedule the NCTool Job Past the Two-Hour Assumption]]
 - [[next/calendar/2026-09-23 - Find Out Why Grep on the Logs Fails|Find Out Why Grep on the Logs Fails]] — Wednesday 2026-09-23
 - [[next/next-actions/2026-09-18 - Fix the 502 on the AI Chatbot Excel Export|Fix the 502 on the AI Chatbot Excel Export]]
-- [[next/next-actions/2026-09-22 - Record the NCTool Bug from Yesterday|Record the NCTool Bug from Yesterday]]
 - [[next/maybe/2026-09-18 - Save a Push Status for Records Sent to DSC|Save a Push Status for Records Sent to DSC]] (someday/maybe)
 
 ## Related Resources
 
 - [[resources/software-engineering/infrastructure/2026-08-19 - NCTool and FCM on the New Infra|NCTool and FCM on the New Infra]] — where the migration stands, as of 2026-08-19
+- [[resources/software-engineering/system-architecture/incidents/2026-09-21 - NCTool Lost T-1 Data Incident|NCTool Lost T-1 Data Incident]] — untested change assumed T-1 data CSOC does not have yet
 - [[resources/software-engineering/logging/logging|Logging]] — what to log, at which level, and how it reaches Grafana
