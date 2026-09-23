@@ -79,3 +79,17 @@ Caught at the planning-line check, before writing: as stated this is a fact nobo
 Access and skill are independent — either can fail without the other — so they pass the one-reason-per-body test.
 
 **Sanity check, a built prompt.** *Some people love eating vegetables, but some don't. To what extent do you agree or disagree?* Same shape, worked cold to confirm the method transfers: biology (bitter-taste sensitivity) and early exposure, two reasons for the same verdict, not two camps.
+
+## 2026-09-22 — Opinion, Positive/Negative (Online vs. Face-to-Face Teaching)
+
+**Prompt.** More and more universities are replacing face-to-face teaching with online courses. Do you think this is a positive or negative development?
+
+**Type**, identified upfront: an **opinion (positive/negative)** — a situation prompt, T2 opener, verdict names which side (negative).
+
+**Intro.** An increasing number of universities now choosing online teaching over the traditional way. On balance, I believe this is a negative development because students without having a laptop can't pick online courses and because those favor face-to-face interaction drop interest in studying.
+
+**s1.** students who don't have a access to laptop cant attend online courses
+
+**s2.** students who enjoy having classroom's interaction loses interest in study
+
+Caught at the check: sentence 2 reused the **Verdict-first** frame almost word-for-word from this note's own example and from the 09-13 working-hours rep — exactly what [[projects/score-ielts-7-overall/task-2-writing-prep#Frames, and Not Reusing One|Frames, and Not Reusing One]] warns against. Rebuilt with the new **Reason leads** frame instead: *Because students without access to a laptop are shut out of online courses altogether, and because those who value classroom interaction lose interest in studying without it, this is a negative development.*

@@ -116,6 +116,7 @@ Both 09-09 reps lifted the frame from this note's own example (*This shift is dr
 - **Cause as the subject.** *[Reason] explains most of it, and [remedy] is the response with any chance of working.*
 - **Two things, counted only by being listed.** *Two pressures do most of the work here: [reason], and [reason].*
 - **Weighing.** *The clearest gain is [reason], set against [reason].*
+- **Reason leads.** *Because [reason], and because [reason], [verdict or stated answer].* The only frame here that puts the *because* clauses first and the verdict last — reaches for this one when the last essay's frame put the verdict first, since the other four all close on the reasons or list them mid-sentence.
 
 #### Worked Pair
 

@@ -83,6 +83,7 @@ The most load-bearing note in the project. Its counterpart is [[projects/score-i
 | Verb form after *be* | students with social anxiety are often avoid it | students with social anxiety **often avoid** it | 2026-09-05 |
 | Subject-verb agreement | students who went through gifted school was exposed | students who went through gifted schools **were** exposed | 2026-09-07 |
 | Subject-verb agreement | These social abilities is not taught in traditional schools | These social abilities **are** not taught in traditional schools | 2026-09-07 |
+| Subject-verb agreement | students who enjoy having classroom's interaction loses interest in study | students who enjoy classroom interaction **lose** interest in studying | 2026-09-22 |
 | Missing article | was exposed to competitive environment early in their development phase | was exposed to **a** competitive environment early in their development | 2026-09-07 |
 | Plural -s on countable nouns | I will present both view | I will present both **views** | 2026-09-07 |
 | Plural -s after *every* | students who ace every exams | students who ace every **exam** | 2026-09-07 |
@@ -120,6 +121,7 @@ Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the ba
 | working place | workplace | one word, same pattern as *wild life* | 2026-09-07 |
 | strike to be the most successful individuals | strive to be the most successful individuals | *strike* for *strive* | 2026-09-07 |
 | translate to being success | translate into success | wrong preposition after *translate*, and *success* is the noun — *being success* is neither the noun nor the adjective form | 2026-09-07 |
+| drop interest | lose interest | *lose* is the standard collocation with *interest*; *drop* doesn't take it | 2026-09-22 |
 
 ## Pronunciation
 
