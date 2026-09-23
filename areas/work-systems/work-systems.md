@@ -41,5 +41,4 @@ Review monthly, or weekly when a migration or incident is active.
 ## Related Resources
 
 - [[resources/software-engineering/infrastructure/2026-08-19 - NCTool and FCM on the New Infra|NCTool and FCM on the New Infra]] — where the migration stands, as of 2026-08-19
-- [[resources/software-engineering/system-architecture/incidents/2026-09-21 - NCTool Lost T-1 Data Incident|NCTool Lost T-1 Data Incident]] — untested change assumed T-1 data CSOC does not have yet
 - [[resources/software-engineering/logging/logging|Logging]] — what to log, at which level, and how it reaches Grafana

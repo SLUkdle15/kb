@@ -12,4 +12,4 @@ The bug is recorded with enough detail to reproduce it, and either filed as a fi
 
 ## Outcome
 
-Recorded 2026-09-23 as [[resources/software-engineering/system-architecture/incidents/2026-09-21 - NCTool Lost T-1 Data Incident|NCTool Lost T-1 Data Incident]]. The change was reverted and a manual HTTP trigger was opened on production. No further fix action: the manual trigger covers a missed run.
+An untested change went to production assuming T-1 data that CSOC does not provide on the current day, so the job lost the T-1 day's data. The change was reverted and a manual HTTP trigger was opened on production. No further fix action: the manual trigger covers a missed run.
