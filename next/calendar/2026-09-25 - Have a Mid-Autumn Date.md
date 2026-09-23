@@ -5,7 +5,7 @@ Due: 2026-09-25
 
 ## Action
 
-Have a date with her for Mid-Autumn (Tết Trung Thu) — where depends on [[next/calendar/2026-09-22 - Plan Where to Go for the Mid-Autumn Date|Plan Where to Go for the Mid-Autumn Date]].
+Have a date with her for Mid-Autumn (Tết Trung Thu). She decided the plan — we are joining her friends and her brother.
 
 ## Done When
 

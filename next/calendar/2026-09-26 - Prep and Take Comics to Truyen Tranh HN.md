@@ -1,7 +1,7 @@
 # Prep and Take Comics to Truyen Tranh HN
 
 Source: [[archives/next-actions/2026-09-15 - Truyen Tranh HN Answer on Taking the Comics|Truyen Tranh HN Answer on Taking the Comics]]
-Due: 2026-09-24
+Due: 2026-09-26 09:00
 
 ## Action
 
