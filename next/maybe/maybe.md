@@ -32,3 +32,4 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-20 - Buy Cleaning Stuff for White Foam Shoes|Buy Cleaning Stuff for White Foam Shoes]] — Area: [[areas/personal-development/personal-development|Personal Development]]
 - [[2026-09-08 - Go to Temple and Eat Vegetarian|Go to Temple and Eat Vegetarian]] — first day of a lunar month; next is 2026-10-10
 - [[2026-08-26 - Watch the Endgame Encore Showing|Watch the Endgame Encore Showing]] — showing is 2026-09-25
+- [[2026-09-24 - Dissect the AI Chatbot Project|Dissect the AI Chatbot Project]] — Area: [[areas/technical-growth/technical-growth|Technical Growth]]

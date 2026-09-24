@@ -31,7 +31,7 @@ Review monthly, or during a weekly review when technical work is under active pr
 
 ## Current Actions
 
-- None.
+- [[next/maybe/2026-09-24 - Dissect the AI Chatbot Project|Dissect the AI Chatbot Project]] (someday/maybe)
 
 ## Current Projects
 
