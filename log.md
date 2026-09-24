@@ -726,3 +726,12 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 40
 - Report: /tmp/vault-lint/report.md
+
+## [2026-09-24] lint | Vault health check
+
+- Indexed 433 notes
+- Broken wiki links: 0
+- Orphan notes: 1
+- Projects missing next actions: 0
+- Stale-claim candidates: 42
+- Report: /tmp/claude-1000/-mnt-c-kb/b0164bc9-1159-4ecd-a2e9-dd4e513e1003/scratchpad/vault-lint/report.md
