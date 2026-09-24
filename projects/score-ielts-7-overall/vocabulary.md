@@ -32,3 +32,8 @@ Reviewed alongside [[projects/score-ielts-7-overall/task-2-writing-prep|Task 2 W
 - **a growing share of what [nations] eat** — a noun-phrase paraphrase of *a large amount of food*. It reworks the sentence structure rather than swapping in a synonym for *food*, so the topic noun stays available for the bodies. *A growing share of what many nations eat is now grown on other continents.*
 - **other continents** — paraphrase of *other parts of the world*.
 - **shipped in / shipped across borders** — paraphrase of *imported*. Passive, so the food is the subject. *Food is increasingly shipped across borders rather than grown at home.*
+
+## Environment / Waste
+
+- **reprocessed** — paraphrase of *recycled*. Use it in sentence 1 so the paraphrase doesn't repeat the prompt's verb; *recycling* is still fine in the bodies. *In many countries, much of the paper, glass and metal that is thrown away is never reprocessed.*
+- **rubbish / what is thrown away** — for *trash*. *Rubbish* (British) and *trash* (American) are both accepted, but pick one and use it throughout the essay. *What is thrown away* is a relative clause, useful when the sentence needs to put the action first. Avoid *stuff*, which is too informal. *Households put all their rubbish into one bag.*
