@@ -27,7 +27,7 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 - [[2026-09-12 - Try Kayn Kindred Ekko Norra and TF|Try Kayn, Kindred, Ekko, Norra, and TF]]
 - [[2026-09-12 - Explore Flash and Filter Options|Explore Flash and Filter Options]] — Area: [[areas/photography/photography|Photography]]
-- [[2026-09-19 - Buy Derby Shoes|Buy Derby Shoes]] — for a classier look
+- [[2026-09-19 - Ask Girlfriend to Shop for Derby Shoes|Ask Girlfriend to Shop for Derby Shoes]] — go buy derby shoes together, for a classier look
 - [[2026-09-18 - Save a Push Status for Records Sent to DSC|Save a Push Status for Records Sent to DSC]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-09-20 - Buy Cleaning Stuff for White Foam Shoes|Buy Cleaning Stuff for White Foam Shoes]] — Area: [[areas/personal-development/personal-development|Personal Development]]
 - [[2026-09-08 - Go to Temple and Eat Vegetarian|Go to Temple and Eat Vegetarian]] — first day of a lunar month; next is 2026-10-10
