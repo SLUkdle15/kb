@@ -5,6 +5,7 @@ Related: [[next/maybe/2026-08-09 - Examine the Door|Examine the Door]]
 
 **Board:** Key Automation CT202 (chip marked CT202K02).
 **Manual:** [[Key Automation CT202 Manual.pdf]] (580ISCT202 rev08, for 230 Vac motors)
+**Manual section:** [[Key Automation CT202 Manual.pdf#page=22|§4.5 Connecting the radio receiver]] — radio outputs: 1 = step-by-step, 2 = pedestrian, 3 = open, 4 = close.
 **Where:** the small white plug-in radio receiver module on the green control board, next to the "RADIO RECEIVER" silkscreen label. It has one button and a green LED.
 
 Everything happens on the receiver module. Leave the board's LCD, MENU, UP, DOWN, and SS buttons alone — skipping the menu means no risk of changing gate force, timing, or other settings.
