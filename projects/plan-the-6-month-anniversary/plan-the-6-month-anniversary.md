@@ -14,13 +14,12 @@ The 6-month anniversary is marked with her: dinner at a chosen French restaurant
 
 - Picked between [[areas/romantic-relationship/2026-09-09 - Date Ideas for Us|Maison Marou or Colette French Bistro and Wine Bar]] — neither has a note in [[resources/restaurants/restaurants|resources/restaurants]] yet.
 - Reservation made if the chosen place needs one.
-- A gift is found and ready, from [[areas/romantic-relationship/2026-08-29 - Gift Ideas for Her|Gift Ideas for Her]] or new.
+- A gift is found and ready, from [[areas/romantic-relationship/2026-08-29 - Gift Ideas for Her|Gift Ideas for Her]] or new. Done 2026-09-24 — [[archives/next-actions/2026-09-22 - Find a Gift for the Anniversary|Find a Gift for the Anniversary]].
 - Dinner had and gift given with her on 2026-10-02.
 
 ## Next Actions
 
 - [[2026-09-20 - Pick and Book the Anniversary French Restaurant|Pick and Book the Anniversary French Restaurant]]
-- [[next/calendar/2026-09-22 - Find a Gift for the Anniversary|Find a Gift for the Anniversary]]
 
 ## Notes
 
