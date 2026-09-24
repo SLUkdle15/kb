@@ -14,7 +14,7 @@ Area: [[areas/family/family|Family]]
 
 ## Next Actions
 
-- [[next/next-actions/2026-09-20 - Examine the CT01 Form|Examine the CT01 Form]]
+- [[2026-09-20 - Examine the CT01 Form|Examine the CT01 Form]]
 
 ## Notes
 

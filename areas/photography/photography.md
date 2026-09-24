@@ -21,9 +21,9 @@ Review monthly, or weekly when practicing actively.
 ## Current Actions
 
 - [[next/calendar/Monthly Sync Pictures]]
-- [[next/next-actions/2026-09-15 - Watch the Next Chapter of Introduction to Photography|Watch the Next Chapter of Introduction to Photography]]
+- [[2026-09-15 - Watch the Next Chapter of Introduction to Photography|Watch the Next Chapter of Introduction to Photography]]
 - [[next/maybe/2026-09-12 - Explore Flash and Filter Options|Explore Flash and Filter Options]]
-- [[next/next-actions/2026-09-19 - Review the Images I Have Shot|Review the Images I Have Shot]]
+- [[2026-09-19 - Review the Images I Have Shot|Review the Images I Have Shot]]
 
 ## Current Projects
 

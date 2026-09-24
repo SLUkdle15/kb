@@ -14,7 +14,7 @@ Area: [[areas/photography/photography|Photography]]
 
 ## Next Actions
 
-- [[next/next-actions/2026-09-15 - Watch the Next Chapter of Introduction to Photography|Watch the Next Chapter of Introduction to Photography]]
+- [[2026-09-15 - Watch the Next Chapter of Introduction to Photography|Watch the Next Chapter of Introduction to Photography]]
 
 ## Notes
 

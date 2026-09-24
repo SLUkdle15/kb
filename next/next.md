@@ -8,7 +8,7 @@ Use `next` for commitments and possible actions that are not yet project notes, 
 
 ## Sections
 
-- [[next/next-actions/next-actions]] for concrete actions to do soon.
+- [[next-actions]] for concrete actions to do soon.
 - [[next/calendar/calendar]] for date-specific or time-specific commitments.
 - [[next/maybe/maybe]] for someday/maybe ideas and possible future projects.
 - [[next/waiting/waiting]] for things blocked by someone or something else.

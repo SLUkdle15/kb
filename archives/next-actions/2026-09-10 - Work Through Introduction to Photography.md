@@ -11,7 +11,7 @@ Write what it teaches about the body into [[areas/photography/2026-09-09 - Expos
 
 ## Status
 
-Superseded 2026-09-15. Too big for one sitting, so it was a project wearing an action's clothes. Promoted to [[projects/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]], whose next action is [[next/next-actions/2026-09-15 - Watch the Next Chapter of Introduction to Photography|Watch the Next Chapter of Introduction to Photography]].
+Superseded 2026-09-15. Too big for one sitting, so it was a project wearing an action's clothes. Promoted to [[projects/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]], whose next action is [[2026-09-15 - Watch the Next Chapter of Introduction to Photography|Watch the Next Chapter of Introduction to Photography]].
 
 ## Done When
 

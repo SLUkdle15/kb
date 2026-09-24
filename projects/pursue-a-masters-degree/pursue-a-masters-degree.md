@@ -39,7 +39,7 @@ Work these in order. Only the current step becomes a note in `next/next-actions`
 
 ## Next Actions
 
-- [[next/next-actions/2026-08-17 - Decide Master's Field of Study]]
+- [[2026-08-17 - Decide Master's Field of Study]]
 
 ## Notes
 

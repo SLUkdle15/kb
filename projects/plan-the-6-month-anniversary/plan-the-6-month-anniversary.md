@@ -19,7 +19,7 @@ The 6-month anniversary is marked with her: dinner at a chosen French restaurant
 
 ## Next Actions
 
-- [[next/next-actions/2026-09-20 - Pick and Book the Anniversary French Restaurant|Pick and Book the Anniversary French Restaurant]]
+- [[2026-09-20 - Pick and Book the Anniversary French Restaurant|Pick and Book the Anniversary French Restaurant]]
 - [[next/calendar/2026-09-22 - Find a Gift for the Anniversary|Find a Gift for the Anniversary]]
 
 ## Notes

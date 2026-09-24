@@ -33,9 +33,9 @@ Review monthly, or weekly when a migration or incident is active.
 
 ## Next Actions
 
-- [[next/next-actions/2026-09-11 - Reschedule the NCTool Job Past the Two-Hour Assumption|Reschedule the NCTool Job Past the Two-Hour Assumption]]
+- [[2026-09-11 - Reschedule the NCTool Job Past the Two-Hour Assumption|Reschedule the NCTool Job Past the Two-Hour Assumption]]
 - [[next/calendar/2026-09-23 - Find Out Why Grep on the Logs Fails|Find Out Why Grep on the Logs Fails]] — Wednesday 2026-09-23
-- [[next/next-actions/2026-09-18 - Fix the 502 on the AI Chatbot Excel Export|Fix the 502 on the AI Chatbot Excel Export]]
+- [[2026-09-18 - Fix the 502 on the AI Chatbot Excel Export|Fix the 502 on the AI Chatbot Excel Export]]
 - [[next/maybe/2026-09-18 - Save a Push Status for Records Sent to DSC|Save a Push Status for Records Sent to DSC]] (someday/maybe)
 
 ## Related Resources

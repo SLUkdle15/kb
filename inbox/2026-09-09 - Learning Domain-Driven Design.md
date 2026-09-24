@@ -8,7 +8,7 @@ Living capture — grows while reading, gets distilled into `resources/software-
 
 The roadmap's question for this phase is: where should the boundaries be?
 
-Nothing else picked yet — [[next/next-actions/2026-09-10 - Find the Reading Questions for Learning Domain-Driven Design|Find the Reading Questions for Learning Domain-Driven Design]].
+Nothing else picked yet — [[2026-09-10 - Find the Reading Questions for Learning Domain-Driven Design|Find the Reading Questions for Learning Domain-Driven Design]].
 
 ## Notes
 

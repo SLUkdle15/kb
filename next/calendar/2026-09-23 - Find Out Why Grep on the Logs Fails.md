@@ -14,3 +14,4 @@ Reference: [[resources/software-engineering/logging/2026-09-07 - Grep Narrows a 
 ## Done When
 
 The failing grep is explained, and the note above is corrected if the reason is that its patterns no longer match the logs.
+Tài khoản đang bị khóa 
