@@ -10,3 +10,7 @@ Buy supplies to clean white foam-upper shoes — gentle cleaner and soft brush, 
 ## Done When
 
 Supplies bought.
+
+## Status
+
+Completed 2026-09-25 — supplies bought.
