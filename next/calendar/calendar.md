@@ -47,7 +47,6 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 ### One-Off
 
-- [[next/calendar/2026-09-28 - Reschedule the NCTool Job Past the Two-Hour Assumption]] — 2026-09-28 (Monday, moved from next-actions). Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[next/calendar/2026-10-10 - Drive to Thien Truong]] — 2026-10-10 (same day as temple; check if it's one trip or two)
 - [[next/calendar/2026-09-26 - Have a Mid-Autumn Date]] — 2026-09-26 (Saturday, moved from 2026-09-25; joining her friends and her brother)
 - [[next/calendar/2026-09-26 - Attend Phuc's Wedding]] — 2026-09-26 11:30 (Saturday)

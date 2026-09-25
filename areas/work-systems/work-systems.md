@@ -34,7 +34,6 @@ Review monthly, or weekly when a migration or incident is active.
 
 ## Next Actions
 
-- [[next/calendar/2026-09-28 - Reschedule the NCTool Job Past the Two-Hour Assumption|Reschedule the NCTool Job Past the Two-Hour Assumption]] — Monday 2026-09-28
 - [[next/waiting/2026-09-18 - Fix the 502 on the AI Chatbot Excel Export|Fix the 502 on the AI Chatbot Excel Export]] — waiting on the production deploy
 - [[next/maybe/2026-09-18 - Save a Push Status for Records Sent to DSC|Save a Push Status for Records Sent to DSC]] (someday/maybe)
 

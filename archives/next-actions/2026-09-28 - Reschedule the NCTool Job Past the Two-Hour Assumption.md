@@ -12,3 +12,7 @@ Decide which fix this is before changing the cron: a wider interval, or an overl
 ## Done When
 
 The schedule matches observed run time and no run overlaps its predecessor.
+
+## Status
+
+Completed 2026-09-25 — done ahead of the Monday date. The general rule this produced is written up in [[resources/software-engineering/practices/2026-09-25 - Make the Chain Dependency-Driven, Not Clock-Driven|Make the Chain Dependency-Driven, Not Clock-Driven]].
