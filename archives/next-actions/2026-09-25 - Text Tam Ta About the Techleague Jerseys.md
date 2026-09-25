@@ -10,3 +10,7 @@ Text Tam Ta directly for a status/delivery date on the techleague jerseys for Lu
 ## Done When
 
 Tam Ta has replied with a date, or the jerseys are in hand.
+
+## Status
+
+Completed 2026-09-25 — texted Tam Ta about the jerseys, rather than waiting for the next soccer session.
