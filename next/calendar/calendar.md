@@ -47,11 +47,11 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 ### One-Off
 
+- [[next/calendar/2026-09-28 - Reschedule the NCTool Job Past the Two-Hour Assumption]] — 2026-09-28 (Monday, moved from next-actions). Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[next/calendar/2026-10-10 - Drive to Thien Truong]] — 2026-10-10 (same day as temple; check if it's one trip or two)
 - [[next/calendar/2026-09-26 - Have a Mid-Autumn Date]] — 2026-09-26 (Saturday, moved from 2026-09-25; joining her friends and her brother)
 - [[next/calendar/2026-09-26 - Attend Phuc's Wedding]] — 2026-09-26 11:30 (Saturday)
 - [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking]] — 2026-10-15 (six-week checkpoint on the lower back routine; physio if no change)
 - [[next/calendar/2026-09-27 - Go to the Range and Run an Hour Contact Tally Session]] — 2026-09-27 (Sunday, expanded to an hour, bring tripod; reminder 2 days before to recheck session content)
-- [[next/calendar/2026-09-23 - Find Out Why Grep on the Logs Fails]] — 2026-09-23 (Wednesday, moved from next-actions). Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[next/calendar/2026-09-26 - Prep and Take Comics to Truyen Tranh HN]] — 2026-09-26 09:00 (Saturday morning, moved from 2026-09-24; before Phuc's wedding at 11:30)
 - [[next/calendar/2026-10-02 - 6-Month Anniversary]] — 2026-10-02 (Friday, moved from 2026-09-28; actual mark 2026-09-30. Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]])
