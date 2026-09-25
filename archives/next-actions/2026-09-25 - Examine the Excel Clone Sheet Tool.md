@@ -15,3 +15,7 @@ Also check the other half recorded there: `onedrive_copy_item` is async and retu
 ## Done When
 
 The gap is named — per-sheet clone is either scoped as work or explicitly cut, with the reason written into the gotchas note so it stays settled.
+
+## Status
+
+Obsolete 2026-09-25 — the question was already settled. The tool clones at file level through `onedrive_copy_item`, and that is the ceiling rather than a gap: a native per-sheet clone does not exist in Graph. Nothing left to examine.

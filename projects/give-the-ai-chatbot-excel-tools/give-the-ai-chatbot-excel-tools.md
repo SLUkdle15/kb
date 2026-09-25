@@ -17,7 +17,6 @@ Gotchas: [[projects/give-the-ai-chatbot-excel-tools/gotchas|Gotchas]]
 ## Next Actions
 
 - [[next/waiting/2026-09-25 - Excel Query and Token Handling Rollout|Excel Query and Token Handling Rollout]]
-- [[next/next-actions/2026-09-25 - Examine the Excel Clone Sheet Tool|Examine the Excel Clone Sheet Tool]]
 
 ## Notes
 
