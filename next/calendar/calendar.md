@@ -36,6 +36,7 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 - [[next/calendar/Weekly Sunday Vault Review]] — recurring Sunday 20:00 (run the `review` skill)
 - [[next/calendar/Weekly Saturday Badminton]] — recurring Saturday 15:00-17:00
 - [[next/calendar/Twice-Weekly Lower Back Routine]] — recurring Monday and Thursday 21:00-21:15
+- [[next/calendar/Twice-Weekly Master's Field Sessions]] — recurring Wednesday and Saturday 20:00-21:00 (one session of Decide Master's Field of Study per block. Project: [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]])
 
 ### Recurring — Monthly
 

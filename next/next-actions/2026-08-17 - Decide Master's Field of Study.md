@@ -9,25 +9,33 @@ Step 1 of the project. Narrow the master's field down to one or two candidates. 
 
 ## Checklist
 
-Frame the decision:
+One session per block in [[next/calendar/Twice-Weekly Master's Field Sessions|Twice-Weekly Master's Field Sessions]], each about an hour. Do the next unchecked session and nothing after it.
+
+Session 1: frame the decision
 
 - [ ] Write one sentence naming what the degree must give that the FPT job plus self-study cannot. If no sentence survives scrutiny, the honest answer may be "not a master's".
 - [ ] Read [[areas/personal-development/favorite-problems|Favorite Problems]] and mark which questions a field would advance — the technical-influence and intelligence-system questions are the closest ones.
 - [ ] Name what is being optimized: depth in the current craft, a pivot to a different field, or the move to the US itself. These three point at different degrees.
 
-Build the long list:
+Session 2: build the long list
 
 - [ ] List five to eight candidate fields with no filtering.
 - [ ] For each, name the specific role it opens that is not reachable from where the career sits now. A field with no such role drops out here.
 
-Cut it down:
+Sessions 3 and 4: read the curricula
 
-- [ ] For each surviving field, read the real course catalog of two US programs — the required-courses page, not the marketing page.
-- [ ] Check prerequisites against the undergrad transcript and note the gaps. US programs often assume specific coursework, and a gap means a bridge course before applying.
+- [ ] For each surviving field, read the real course catalog of two US programs — the required-courses page, not the marketing page. Split the fields across the two sessions.
 - [ ] Drop any field where reading the actual curriculum killed the interest.
-- [ ] Talk to two or three people who did that master's. Ask what it changed and what they would do differently.
 
-Decide:
+Session 5: check prerequisites
+
+- [ ] Check prerequisites against the undergrad transcript and note the gaps. US programs often assume specific coursework, and a gap means a bridge course before applying.
+
+Session 6: reach out
+
+- [ ] Find two or three people who did that master's and send each one a message. Ask what it changed and what they would do differently. Pending replies go to `next/waiting`; do not hold session 7 for them.
+
+Session 7: decide
 
 - [ ] Cut to one or two fields, and mark which is primary — step 3 shortlists against the primary.
 - [ ] Write one sentence per survivor on why it survived, into the project note.

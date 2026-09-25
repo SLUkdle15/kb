@@ -40,6 +40,7 @@ Work these in order. Only the current step becomes a note in `next/next-actions`
 ## Next Actions
 
 - [[2026-08-17 - Decide Master's Field of Study]]
+- [[next/calendar/Twice-Weekly Master's Field Sessions|Twice-Weekly Master's Field Sessions]] — Wednesday and Saturday 20:00-21:00, protected time for step 1
 
 ## Notes
 
