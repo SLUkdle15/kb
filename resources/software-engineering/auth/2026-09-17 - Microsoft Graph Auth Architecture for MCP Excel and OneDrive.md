@@ -26,7 +26,7 @@ The scope never grants access. It only lets the app use access the user already 
 
 `.All` is widely misread. Delegated, it does not mean "all files in the tenant" — it means the app is not restricted to one specific resource, and SharePoint still enforces the user's own ACL on top. Effective access is [[resources/software-engineering/auth/2026-09-15 - Delegated Access Is Your Rights Intersected With App Scopes|the intersection: app scope ∩ what that user can already open]]. The same string granted app-only has no such intersection, which is the entire difference in blast radius.
 
-Getting the grant is two separate things: [[resources/software-engineering/auth/2026-09-17 - Admin Consent Is Tenant-Wide, Not Per User|who the admin's one consent covers]], and [[resources/software-engineering/auth/2026-09-17 - client_id Selects the App on the Consent Screen|which registration the sign-in actually points at]].
+Getting the grant is two separate things: [[resources/software-engineering/auth/2026-09-17 - Consent Can Be Tenant-Wide or Per User|who the consent covers]], and [[resources/software-engineering/auth/2026-09-17 - client_id Selects the App on the Consent Screen|which registration the sign-in actually points at]].
 
 ## Where This Codebase Stands
 
