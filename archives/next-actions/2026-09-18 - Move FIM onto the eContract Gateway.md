@@ -9,7 +9,7 @@ FIM still goes through FCM's own eContract path; it should go through the shared
 
 Get the gateway URL right this time — pointing prod at the dev gateway is exactly what broke the callbacks in June.
 
-Reference: [[resources/software-engineering/infrastructure/2026-08-19 - NCTool and FCM on the New Infra|NCTool and FCM on the New Infra]] · [[resources/software-engineering/system-architecture/incidents/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]]
+Reference: [[resources/software-engineering/system-architecture/incidents/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]]
 
 ## Done When
 
