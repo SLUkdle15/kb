@@ -30,3 +30,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-20 - Examine the CT01 Form|Examine the CT01 Form]] — Project: [[projects/register-temporary-residence/register-temporary-residence|Register Temporary Residence]]
 - [[2026-09-20 - Pick and Book the Anniversary French Restaurant|Pick and Book the Anniversary French Restaurant]] — Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]]
 - [[2026-09-21 - Help Mom Pick the Vacuum|Help Mom Pick the Vacuum]] — Area: [[areas/family/family|Family]]
+- [[2026-09-25 - Examine the Excel Clone Sheet Tool|Examine the Excel Clone Sheet Tool]] — Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]]
