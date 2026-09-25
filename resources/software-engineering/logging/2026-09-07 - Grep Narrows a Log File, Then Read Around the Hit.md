@@ -33,7 +33,7 @@ One object per line is the part that matters: every line-based tool below still 
 grep 'WARN' "$f"
 ```
 
-Only when something else on the line carries the word is it worth spelling out the field — `grep -F '"level":"WARN"'`, where `-F` keeps the quotes and colon from being read as a regex. The nesting can be ignored either way: `level` sits inside `log` and the thread name inside `process.thread`, but a substring match never sees the structure.
+Only when something else on the line carries the word is it worth spelling out the field — `grep -F '"level":"WARN"'`, where `-F` keeps the quotes and colon from being read as a regex. The nesting can be ignored either way: `level` sits inside `log` and the thread name inside `process.thread`, but a substring match never sees the structure. What the structure costs is the reading, not the matching — the whole object prints back, and [[resources/software-engineering/logging/2026-09-25 - Grep Finds the JSON Log Line, jq Makes It Readable|`jq` is what makes the hit readable again]].
 
 ## Count First, Then Read the Recent Ones
 
@@ -101,4 +101,4 @@ grep ' ERROR ' "$f" > z.txt
 
 Worth doing before narrowing further — the filtered file is smaller to work with, and it survives the terminal scrollback.
 
-Time-range filtering needs a regex over the timestamp field and is not covered here.
+Time-range filtering needs a regex over the timestamp field, which is the point where the JSON file and `jq` are the shorter road.
