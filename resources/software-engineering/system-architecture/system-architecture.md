@@ -12,12 +12,12 @@ Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 
 ### System overviews
 
-- [[2026-07-15 - FCM System Overview|FCM System Overview]]
-- [[2026-07-17 - AI Chat Bot System Overview|AI Chat Bot System Overview]]
+- [[resources/software-engineering/system-architecture/2026-07-15 - FCM System Overview|FCM System Overview]]
+- [[resources/software-engineering/system-architecture/2026-07-17 - AI Chat Bot System Overview|AI Chat Bot System Overview]]
 
 ### Reference
 
-- [[2026-07-14 - What a Software Architect Needs to Do|What a Software Architect Needs to Do]]
+- [[resources/software-engineering/system-architecture/2026-07-14 - What a Software Architect Needs to Do|What a Software Architect Needs to Do]]
 - [[resources/software-engineering/system-architecture/adr/architecture-decision-records|Architecture Decision Records]]
 - [[resources/software-engineering/system-architecture/incidents/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]]
 

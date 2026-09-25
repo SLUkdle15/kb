@@ -8,4 +8,4 @@ Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 
 ## Notes
 
-- [[2026-07-05 - Integration Testing Principles|Integration Testing Principles]]
+- [[resources/software-engineering/testing/2026-07-05 - Integration Testing Principles|Integration Testing Principles]]
