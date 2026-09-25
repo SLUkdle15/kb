@@ -2,7 +2,7 @@
 
 Use for a single range session while stance, grip, and swing are still being built — the practice side of [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]].
 
-About 60 balls and an hour. *Lead* is the side facing the target (left for a right-handed player); *trail* is the other side.
+About 60 balls. Budget an hour, but the four blocks below actually run in about 45 minutes at a normal pace, so the leftover quarter hour is slack, not filler — spend it on setup reps or leave early. *Lead* is the side facing the target (left for a right-handed player); *trail* is the other side.
 
 ## Session Shape
 
@@ -42,3 +42,4 @@ About 60 balls and an hour. *Lead* is the side facing the target (left for a rig
 - One swing thought per session. Two swing thoughts is the same as none — pick the thing that was worst last time and leave everything else alone.
 - Clean contact comes before distance and before direction. A well-struck short shot is progress; a long one off the toe is not.
 - The tally is the actual output of the session. Balls hit without a number attached don't tell you whether anything changed.
+- Timed at about 45 minutes for the full 60 balls (2026-09-25). If a session runs much shorter than that, balls were being raked and hit rather than set up one at a time — the setup routine is the part that gets dropped first when the bucket is going fast.
