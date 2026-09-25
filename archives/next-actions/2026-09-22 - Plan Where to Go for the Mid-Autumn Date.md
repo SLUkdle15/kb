@@ -9,7 +9,7 @@ Decide where to take her for the Mid-Autumn date on 2026-09-25 — festival, din
 
 ## Done When
 
-Plan decided for [[next/calendar/2026-09-26 - Have a Mid-Autumn Date|Have a Mid-Autumn Date]].
+Plan decided for the Mid-Autumn date on 2026-09-26.
 
 ## Outcome
 

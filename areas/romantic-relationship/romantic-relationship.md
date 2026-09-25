@@ -37,7 +37,7 @@ Review monthly, or weekly when the relationship needs active attention.
 ## Current Actions
 
 - [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]]
-- [[next/calendar/2026-09-26 - Have a Mid-Autumn Date|Have a Mid-Autumn Date]] — Saturday 2026-09-26 (moved from 2026-09-25), joining her friends and her brother
+- [[next/calendar/2026-09-26 - Reserve Khrua Baan Thai Nguyen Van Loc|Reserve Khrua Baan Thai Nguyen Van Loc]] — Saturday 2026-09-26, Mid-Autumn outing
 - [[next/calendar/2026-10-02 - 6-Month Anniversary|6-Month Anniversary]] — Friday 2026-10-02, moved from 2026-09-28; actual mark 2026-09-30
 - [[next/maybe/2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] (someday/maybe)
 
