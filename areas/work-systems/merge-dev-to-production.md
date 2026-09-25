@@ -4,7 +4,7 @@ type: protocol
 
 # Merge Dev to Production
 
-Source: [[resources/software-engineering/2026-05-28 - JavaScript Dev to Main Merge Review|JavaScript Dev to Main Merge Review]]
+Source: [[resources/software-engineering/practices/2026-05-28 - JavaScript Dev to Main Merge Review|JavaScript Dev to Main Merge Review]]
 
 Use when merging `dev` into `main` for a production deploy.
 

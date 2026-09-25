@@ -53,4 +53,4 @@ Two reading programs feed this list: [[areas/personal-development/2026-08-21 - B
 - *Soccer IQ* — Dan Blank — no separate capture, cues land straight in [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]]
 - *Atomic Habits* — James Clear — distilled into [[resources/behavior-change/behavior-change|Behavior Change]]
 - *Self-Compassion* — Kristin Neff — distilled into [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]
-- *Designing Data-Intensive Applications* — Martin Kleppmann — read through Ch. 11 (Ch. 12 not read); distilled into 18 notes in [[resources/software-engineering/system-architecture/system-architecture|System Architecture]]
+- *Designing Data-Intensive Applications* — Martin Kleppmann — read through Ch. 11 (Ch. 12 not read); distilled into 18 notes in [[resources/software-engineering/database/database|Database]]

@@ -13,7 +13,7 @@ Grow technical judgment and turn it into influence and business value: decisions
 - Keep technical references (ADRs, incident write-ups, review templates) easy to reuse.
 - Capture lessons from decisions, reviews, and incidents.
 - Convert concrete outcomes into projects when there is a finish line.
-- Keep reusable references organized in [[resources/software-engineering/system-architecture/system-architecture|System Architecture resources]].
+- Keep reusable references organized in [[resources/software-engineering/system-architecture/system-architecture|System Architecture]] and [[resources/software-engineering/database/database|Database]] resources.
 - Serves [[areas/personal-development/favorite-problems|Favorite Problems]] #1 — turning strong technical work into influence and real business value.
 
 ## Review Rhythm
@@ -44,4 +44,5 @@ Review monthly, or during a weekly review when technical work is under active pr
 ## Related Resources
 
 - [[resources/software-engineering/system-architecture/system-architecture|System Architecture]]
+- [[resources/software-engineering/database/database|Database]]
 - [[resources/software-engineering/software-engineering|Software Engineering]]

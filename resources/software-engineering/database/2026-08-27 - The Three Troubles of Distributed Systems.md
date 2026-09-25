@@ -9,7 +9,7 @@ In a distributed system, there may well be some parts of the system that are bro
 Three things go wrong in a distributed system, and everything else follows from them:
 
 1. **Partial failure** — parts break unpredictably while the rest keeps working.
-2. **Unreliable networks** — packets can be lost, delayed, duplicated, or reordered, and [[resources/software-engineering/system-architecture/2026-08-27 - Packet Switching Cannot Reserve Bandwidth|bandwidth cannot be reserved]], so delay is unbounded.
+2. **Unreliable networks** — packets can be lost, delayed, duplicated, or reordered, and [[resources/software-engineering/database/2026-08-27 - Packet Switching Cannot Reserve Bandwidth|bandwidth cannot be reserved]], so delay is unbounded.
 3. **Unreliable clocks** — clocks on different machines disagree, so you cannot trust a timestamp to order events across nodes.
 
 ## Handling a fault is not the same as tolerating it

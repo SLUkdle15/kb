@@ -744,3 +744,18 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 42
 - Report: /tmp/claude-1000/-home-kng-Projects-kb/fd1f86fa-64a8-4fc1-b97d-570ac5d6a5f0/scratchpad/vault-lint/report.md
+
+## [2026-09-25] reorg | Move DDIA notes into database/, file loose notes into practices/
+
+- `resources/software-engineering/database/` — all 18 *Designing Data-Intensive Applications* notes, moved out of `system-architecture/`
+- `resources/software-engineering/practices/` — the three loose root-level notes
+- `system-architecture/` keeps system overviews, ADRs, and incidents
+
+## [2026-09-25] lint | Vault health check
+
+- Indexed 434 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 43
+- Report: /tmp/vault-lint/report.md

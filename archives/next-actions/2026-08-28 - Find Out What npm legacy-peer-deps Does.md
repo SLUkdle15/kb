@@ -17,4 +17,4 @@ I can say what the flag does and decide, on a given conflict, whether to use it 
 
 ## Disposition
 
-Completed 2026-09-03. Written up in [[resources/software-engineering/2026-09-03 - npm legacy-peer-deps Ignores Peer Dependencies|npm legacy-peer-deps Ignores Peer Dependencies]].
+Completed 2026-09-03. Written up in [[resources/software-engineering/practices/2026-09-03 - npm legacy-peer-deps Ignores Peer Dependencies|npm legacy-peer-deps Ignores Peer Dependencies]].
