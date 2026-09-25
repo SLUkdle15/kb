@@ -19,3 +19,4 @@ Use this folder for things blocked by someone or something else.
 - [[next/waiting/2026-08-17 - Soccer Field Deposit of 2M VND|Soccer Field Deposit of 2M VND]] — my deposit as renter, returned when the field rental ends (no date; event trigger in the soccer area)
 - [[next/waiting/2026-09-06 - Badminton Costs Owed to Me|Badminton Costs Owed to Me]] — 840k court + 660k shuttlecocks I fronted, to be settled at the next Weekly Saturday Badminton session (someone else runs collection now)
 - [[next/waiting/2026-09-25 - Excel Query and Token Handling Rollout|Excel Query and Token Handling Rollout]] — my half is implemented; waiting on others to implement and support their side (admin consent is the named piece)
+- [[next/waiting/2026-09-18 - Fix the 502 on the AI Chatbot Excel Export|Fix the 502 on the AI Chatbot Excel Export]] — fixed on dev; waiting on the production deploy to verify it there
