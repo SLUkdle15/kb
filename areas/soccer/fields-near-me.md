@@ -1,6 +1,6 @@
 # Fields Near Me
 
-Soccer fields within reach of home, for when the current rental ends and the [[next/waiting/2026-08-17 - Soccer Field Deposit of 2M VND|2M VND deposit]] comes back. Capture names as they come up, even bare ones — a street or venue name is a lead to confirm, not a booking.
+Soccer fields within reach of home, for when the current rental ends and the [[archives/next-actions/2026-08-17 - Soccer Field Deposit of 2M VND|2M VND deposit]] comes back (returned 2026-09-26). Capture names as they come up, even bare ones — a street or venue name is a lead to confirm, not a booking.
 
 Same handling as [[areas/badminton/courts-near-me|Courts Near Me]]: anything without an address stays marked unconfirmed.
 

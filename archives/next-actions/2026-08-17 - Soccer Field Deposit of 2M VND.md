@@ -1,5 +1,7 @@
 # Soccer Field Deposit of 2M VND
 
+Status: completed 2026-09-26 — deposit received back.
+
 Area: [[areas/soccer/soccer|Soccer]]
 
 ## Waiting On
