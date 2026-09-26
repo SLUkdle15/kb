@@ -28,3 +28,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-20 - Examine the CT01 Form|Examine the CT01 Form]] — Project: [[projects/register-temporary-residence/register-temporary-residence|Register Temporary Residence]]
 - [[2026-09-20 - Pick and Book the Anniversary French Restaurant|Pick and Book the Anniversary French Restaurant]] — Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]]
 - [[2026-09-25 - Clean the Electric Fan|Clean the Electric Fan]] — Area: [[areas/family/family|Family]]
+- [[2026-09-26 - Create a CIMB Bank Account for Dad|Create a CIMB Bank Account for Dad]] — Area: [[areas/family/family|Family]]

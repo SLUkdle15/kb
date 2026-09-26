@@ -24,6 +24,7 @@ Review monthly, or when a fix or a family commitment is pending.
 ## Current Actions
 
 - [[next/next-actions/2026-09-25 - Clean the Electric Fan|Clean the Electric Fan]]
+- [[next/next-actions/2026-09-26 - Create a CIMB Bank Account for Dad|Create a CIMB Bank Account for Dad]]
 - [[next/maybe/2026-08-09 - Examine the Door|Examine the Door]] (someday/maybe)
 - [[next/maybe/2026-08-09 - Fix the Microwave Küppersbusch MR6330.0S|Fix the Microwave Küppersbusch MR6330.0S]] (someday/maybe) — the door can run open, a safety issue
 
