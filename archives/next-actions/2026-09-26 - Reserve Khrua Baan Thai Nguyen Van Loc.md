@@ -12,3 +12,7 @@ Reserve a table at Khrua Baan Thai on Nguyễn Văn Lộc for the Mid-Autumn out
 ## Done When
 
 Table reserved.
+
+## Status
+
+Completed 2026-09-26 — table reserved.

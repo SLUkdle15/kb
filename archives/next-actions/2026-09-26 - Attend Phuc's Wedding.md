@@ -9,3 +9,7 @@ Attend Phuc's wedding on Saturday 2026-09-26, starting around 11:30.
 ## Done When
 
 Attended, or the invitation was declined.
+
+## Status
+
+Completed 2026-09-26 — attended.

@@ -10,3 +10,7 @@ Prep is done (comics gathered and boxed up). Take them to Truyen Tranh HN's loca
 ## Done When
 
 Comics are handed over and sold.
+
+## Status
+
+Completed 2026-09-26 — comics taken to Truyen Tranh HN.

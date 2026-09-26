@@ -48,10 +48,7 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 ### One-Off
 
-- [[next/calendar/2026-09-26 - Reserve Khrua Baan Thai Nguyen Van Loc]] — 2026-09-26 (Saturday; table for the Mid-Autumn outing with her friends and her brother)
 - [[next/calendar/2026-10-10 - Drive to Thien Truong]] — 2026-10-10 (same day as temple; check if it's one trip or two)
-- [[next/calendar/2026-09-26 - Attend Phuc's Wedding]] — 2026-09-26 11:30 (Saturday)
 - [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking]] — 2026-10-15 (six-week checkpoint on the lower back routine; physio if no change)
 - [[next/calendar/2026-09-27 - Go to the Range and Run an Hour Contact Tally Session]] — 2026-09-27 (Sunday, expanded to an hour, bring tripod; reminder 2 days before to recheck session content)
-- [[next/calendar/2026-09-26 - Prep and Take Comics to Truyen Tranh HN]] — 2026-09-26 09:00 (Saturday morning, moved from 2026-09-24; before Phuc's wedding at 11:30)
 - [[next/calendar/2026-10-02 - 6-Month Anniversary]] — 2026-10-02 (Friday, moved from 2026-09-28; actual mark 2026-09-30. Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]])
