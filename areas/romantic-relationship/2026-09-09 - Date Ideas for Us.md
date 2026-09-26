@@ -24,6 +24,16 @@ A standing list, so a free evening or a weekend does not start from a blank page
 
 - **Go to a spa together.** No place picked yet.
 
+## With a Group
+
+Ideas for going out with friends rather than just the two of us. No places picked yet.
+
+- **Bowling.**
+- **Card games.**
+- **Escape room.**
+- **Video games.**
+- **Karaoke.**
+
 ## Waiting on Something to Open
 
 - **Metro Line 6.** Riding it together when it opens closes "practice riding public transportation together" on [[areas/romantic-relationship/2026-07-15 - Promises to Her|Promises to Her]]. Progress and opening updates come from the Tuyến Tàu Điện Số 6 Facebook page: https://www.facebook.com/tuyentaudienso6
