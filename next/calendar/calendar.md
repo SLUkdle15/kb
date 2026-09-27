@@ -49,6 +49,7 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 ### One-Off
 
 - [[next/calendar/2026-09-27 - Create a CIMB Bank Account for Dad]] — 2026-09-27 (Sunday, moved from next actions; Dad, his phone and ID card must be there. Area: [[areas/family/family|Family]])
+- [[next/calendar/2026-09-28 - Check Her Potted Pine and See If It Can Be Saved]] — 2026-09-28 (Monday, moved from next actions; buy bánh bao on the same trip. Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]])
 - [[next/calendar/2026-09-28 - IELTS Task 2 Timed Essay]] — 2026-09-28 19:30 (Monday, Book 16 Test 2. Week plan: [[projects/score-ielts-7-overall/2026-09-28 - Week of 2026-09-28 Prep Plan|Week of 2026-09-28]])
 - [[next/calendar/2026-09-29 - IELTS Speaking Part 2 Recordings]] — 2026-09-29 20:00 (Tuesday, after soccer; three cue cards recorded to two minutes)
 - [[next/calendar/2026-09-30 - IELTS Rewrite Monday's Essay]] — 2026-09-30 18:30 (Wednesday, before the master's field session; the week's highest-value hour)

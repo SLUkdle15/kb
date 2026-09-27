@@ -26,6 +26,8 @@ Examples:
 - [[resources/foot-health/foot-health|Foot Health]]
 - [[resources/ielts/ielts|IELTS]]
 - [[resources/home-maintenance/home-maintenance|Home Maintenance]]
+- [[resources/movies/movies|Movies]]
+- [[resources/personal-admin/personal-admin|Personal Admin]]
 
 ## What Does Not Belong Here
 
