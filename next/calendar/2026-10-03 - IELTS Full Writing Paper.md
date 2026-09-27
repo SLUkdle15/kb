@@ -12,7 +12,7 @@ Remind: 1
 
 This is the week's alternation slot. Listening was baselined 2026-08-31 at band 7 and holds, so the slot goes to Writing.
 
-**Morning block on purpose.** Badminton is 15:00-17:00 and the master's field session is 20:00-21:00.
+**Morning block on purpose.** The master's field session is 20:00-21:00, and the booking has to happen first thing. Badminton left Saturday on 2026-09-27, so the afternoon is the fallback if the morning goes.
 
 ## Done When
 

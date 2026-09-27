@@ -10,7 +10,7 @@ Someone else in the group runs cost and collection now, so chasing the per-head 
 
 ## Waiting On
 
-Whoever now handles collection, at the next [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]] session.
+Whoever now handles collection, at the next [[next/calendar/Weekly Sunday Badminton|Weekly Sunday Badminton]] session.
 
 ## Follow Up
 

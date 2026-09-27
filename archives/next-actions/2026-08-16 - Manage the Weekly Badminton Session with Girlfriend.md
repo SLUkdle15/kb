@@ -8,7 +8,7 @@ Protocol: Run a Weekly Recurring Group Session (since dropped)
 
 Set up a recurring weekly badminton session to play with girlfriend, similar to the existing [[archives/next-actions/Weekly Wednesday Walk with Girlfriend|Weekly Wednesday Walk with Girlfriend]] arrangement.
 
-Slot is set: [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]], Saturday 15:00-17:00. Still open below.
+Slot is set: [[next/calendar/Weekly Sunday Badminton|Weekly Saturday Badminton]], Saturday 15:00-17:00. Still open below.
 
 **The court is rented — that's about 70% of the work.** What's left is the people side, not the venue:
 

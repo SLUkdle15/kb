@@ -25,7 +25,7 @@ Review monthly, or weekly when actively training.
 
 ## Current Actions
 
-- [[next/calendar/Weekly Saturday Badminton|Weekly Saturday Badminton]]
+- [[next/calendar/Weekly Sunday Badminton|Weekly Sunday Badminton]]
 
 ## Current Projects
 

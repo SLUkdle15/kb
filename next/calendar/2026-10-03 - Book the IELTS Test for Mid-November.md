@@ -7,7 +7,7 @@ Remind: 1
 
 ## Action
 
-Saturday 2026-10-03. The full Writing paper is the 09:00 block, badminton is 15:00-17:00 and the master's field session is 20:00-21:00 — do the booking first thing, before the writing paper, so it does not get squeezed out by a day that is already full.
+Saturday 2026-10-03. The full Writing paper is the 09:00 block and the master's field session is 20:00-21:00 — do the booking first thing, before the writing paper, so it does not get squeezed out.
 
 Book an IELTS Academic slot for **mid-November 2026**. Retargeted from 3 October on 2026-08-24 by [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]], which found fluency rather than structure to be the binding constraint — the diagnosis is now in hand, so the remaining question is which mid-November date, not whether October is realistic.
 

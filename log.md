@@ -817,3 +817,19 @@
 - `next/calendar/2026-10-03 - Book the IELTS Test for Mid-November.md` — renamed and re-dated; six referencing notes retargeted
 - Recorded the cost in the note's Status: 09-30 was the last day September could still land a mid-November test, so the booking page is now the first thing to check on Saturday
 - Wednesday 09-30 is the rewrite block only; Saturday 10-03 carries the booking ahead of the Writing paper
+
+## [2026-09-27] lint | Vault health check
+
+- Indexed 454 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 46
+- Report: /tmp/vault-lint/report.md
+
+## [2026-09-27] move | Weekly badminton moved from Saturday to Sunday for the month
+
+- `next/calendar/Weekly Sunday Badminton.md` — renamed, `Every: Sunday 15:00-17:00`; same time and venue
+- Month bound recorded in the note: recurring notes carry no end date, so end-of-October is the check that keeps this from becoming permanent by default
+- Court is still booked for the Saturday slot and the session is with girlfriend — both named in the note as unsettled
+- Saturday rationale lines in the IELTS notes corrected; archived notes keep their historical wording, paths retargeted
