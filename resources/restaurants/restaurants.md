@@ -83,3 +83,4 @@ Context:
 - [[2026-09-19 - Kohibito|Kohibito]]
 - [[2026-09-19 - Nuong Nau Coffee|Nương Náu Coffee]]
 - [[2026-09-19 - Pho Bung Hang Trong|Phở bưng Hàng Trống]]
+- [[2026-09-27 - Healthy Snacks Near Work|Healthy Snacks Near Work]] — Harper 7 Bagel and Sandwich, Cơm Tấm Tô Hiệu, Pasta Tô Hiệu
