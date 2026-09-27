@@ -864,3 +864,19 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 47
 - Report: /tmp/vault-lint/report.md
+
+## [2026-09-27] lint | Vault health check
+
+- Indexed 459 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 47
+- Report: /tmp/vault-lint/report.md
+
+## [2026-09-27] next | Badminton court rebooking closed and the note removed
+
+- Phúc Long (Lê Văn Thiêm) confirmed Sunday 15:00-17:00; Saturday slot released
+- `next/next-actions/2026-09-27 - Rebook the Badminton Court for Sunday.md` — deleted rather than archived; it was a note that should not have been generated. Recoverable from git at 5113ad1
+- Court claim corrected in `areas/badminton/courts-near-me.md`, `areas/badminton/badminton.md`, `next/calendar/Weekly Sunday Badminton.md`, `next/next-actions/next-actions.md`
+- `next/calendar/calendar.md` — the 2026-10-03 line still listed badminton in the Saturday afternoon; removed, the note itself was already corrected on the move
