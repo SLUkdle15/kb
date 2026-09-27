@@ -1,5 +1,7 @@
 # Decide Master's Field of Study
 
+Superseded 2026-09-27 — re-cut into [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]]. The seven sessions below are the project's steps now; `next` carries one small step at a time. Kept for the original wording.
+
 Project: [[projects/pursue-a-masters-degree/pursue-a-masters-degree]]
 Area: [[areas/personal-development/personal-development|Personal Development]]
 

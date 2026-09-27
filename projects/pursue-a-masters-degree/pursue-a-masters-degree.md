@@ -24,7 +24,7 @@ Enrolled in a master's program.
 
 Work these in order. Only the current step becomes a note in `next/next-actions`; promote the following one when it is done.
 
-1. **Decide the field of study.** Narrow to one or two fields worth two years of effort. Everything downstream depends on this.
+1. **Decide the field of study.** Narrow to one or two fields worth two years of effort. Everything downstream depends on this. Running as its own project since 2026-09-27 — it is seven sessions of work, not one action: [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]], targeting 2026-10-17.
 2. ~~**Set the constraints.**~~ Done 2026-08-17 — see Constraints above.
 3. **Shortlist three to five US programs** that fit the field, spread across reach and safety.
 4. **Check entrance requirements per shortlisted program.** TOEFL or IELTS, GRE if the program still requires it, transcripts, recommendation letters, statement of purpose, and each program's application deadline.
@@ -39,7 +39,9 @@ Work these in order. Only the current step becomes a note in `next/next-actions`
 
 ## Next Actions
 
-- [[2026-08-17 - Decide Master's Field of Study]]
+Step 1 runs in [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]]; its current action is the one that moves this project too.
+
+- [[next/next-actions/2026-09-27 - Name What the Master's Must Give|Name What the Master's Must Give]] — step 1
 - [[next/calendar/Twice-Weekly Master's Field Sessions|Twice-Weekly Master's Field Sessions]] — Wednesday and Saturday 20:00-21:00, protected time for step 1
 
 ## Notes

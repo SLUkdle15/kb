@@ -18,7 +18,7 @@ Each note should describe a clear next action. If it requires multiple steps and
 
 ## Current Actions
 
-- [[2026-08-17 - Decide Master's Field of Study|Decide Master's Field of Study]]
+- [[2026-09-27 - Name What the Master's Must Give|Name What the Master's Must Give]] — Project: [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]]
 - [[2026-09-15 - Watch the Next Chapter of Introduction to Photography|Watch the Next Chapter of Introduction to Photography]] — Project: [[projects/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]]
 - [[2026-09-10 - Find the Reading Questions for Learning Domain-Driven Design|Find the Reading Questions for Learning Domain-Driven Design]]
 - [[2026-09-14 - Research How to Massage with the Theragun|Research How to Massage with the Theragun]]

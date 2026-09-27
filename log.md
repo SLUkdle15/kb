@@ -848,3 +848,19 @@
 - `next/next-actions/2026-09-27 - Rebook the Badminton Court for Sunday.md` — call Phúc Long before 2026-10-04, the first Sunday session
 - Day change agreed with girlfriend, recorded in the session note and in `areas/romantic-relationship`; the court is the one dependency still open
 - Fallback named in the action: another court or another Sunday hour, not a silent return to Saturday
+
+## [2026-09-27] project | Decide Master's Field of Study re-cut from an action into a project
+
+- `projects/decide-masters-field-of-study/` — step 1 of Pursue a Master's Degree, seven sessions, target 2026-10-17
+- The old action note carried all seven sessions as one checklist; archived to `archives/next-actions/` with the original wording kept
+- `next` now holds one small step: `2026-09-27 - Name What the Master's Must Give` — one sentence, under ten minutes, not an hour session
+- Twice-Weekly Master's Field Sessions retargeted at the project; a step shorter than the hour ends the session early by design
+
+## [2026-09-27] lint | Vault health check
+
+- Indexed 457 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 47
+- Report: /tmp/vault-lint/report.md
