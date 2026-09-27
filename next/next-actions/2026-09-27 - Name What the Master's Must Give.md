@@ -9,7 +9,7 @@ Write one sentence naming what the degree must give that the FPT job plus self-s
 
 One sentence. Not a list, not a session — ten minutes at a desk. Everything else in the project waits behind this, because a field cannot be chosen before the thing it is supposed to buy is named.
 
-If no sentence survives scrutiny, the honest answer may be "not a master's". Write that down instead and stop; [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]] then gets reconsidered rather than continued.
+If no sentence survives scrutiny, the honest answer may be "not a master's". Write that down instead and stop; [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]] then gets reconsidered rather than continued.
 
 ## Done When
 

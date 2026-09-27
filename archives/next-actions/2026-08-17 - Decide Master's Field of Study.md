@@ -2,7 +2,7 @@
 
 Superseded 2026-09-27 — re-cut into [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]]. The seven sessions below are the project's steps now; `next` carries one small step at a time. Kept for the original wording.
 
-Project: [[projects/pursue-a-masters-degree/pursue-a-masters-degree]]
+Project: [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree]]
 Area: [[areas/personal-development/personal-development|Personal Development]]
 
 ## Action
@@ -44,7 +44,7 @@ Session 7: decide
 
 ## Done When
 
-One or two fields are chosen and written into [[projects/pursue-a-masters-degree/pursue-a-masters-degree|the project note]], with a sentence on why each survived.
+One or two fields are chosen and written into [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|the project note]], with a sentence on why each survived.
 
 Give this two to three weeks, not two to three months. The December 2026 application deadline is what makes that pace matter: this step gates step 3 and then step 4, and step 4 is what confirms whether 7.0 with no band below 6.5 is the right IELTS target. Booking the test is not blocked — [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]] is already running ahead of step 4 — but the target it is aimed at stays unconfirmed until this one closes.
 

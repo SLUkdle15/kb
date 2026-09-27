@@ -880,3 +880,10 @@
 - `next/next-actions/2026-09-27 - Rebook the Badminton Court for Sunday.md` — deleted rather than archived; it was a note that should not have been generated. Recoverable from git at 5113ad1
 - Court claim corrected in `areas/badminton/courts-near-me.md`, `areas/badminton/badminton.md`, `next/calendar/Weekly Sunday Badminton.md`, `next/next-actions/next-actions.md`
 - `next/calendar/calendar.md` — the 2026-10-03 line still listed badminton in the Saturday afternoon; removed, the note itself was already corrected on the move
+
+## [2026-09-27] project | Pursue a Master's Degree renamed to Apply for a Master's Degree
+
+- `projects/apply-for-a-masters-degree/` — folder and note renamed; eight referencing notes retargeted, archived notes keep their historical wording
+- Outcome and definition of done cut back to what the project controls: applications submitted to three to five US programs ahead of each deadline, not enrollment
+- Step 10 (offer, I-20, F-1 visa, resign, enroll) is no longer a step — it moved to an After This Project section and becomes its own project once an offer lands
+- Deadline line left as written, including the 2026-08-27 anchor

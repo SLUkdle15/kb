@@ -37,7 +37,7 @@ Review monthly, or during a weekly review when a habit is plateauing or slipping
 
 ## Current Projects
 
-- [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]]
+- [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]]
 - [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]]
 
 ## Related Resources

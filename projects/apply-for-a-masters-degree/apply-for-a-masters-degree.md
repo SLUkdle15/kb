@@ -1,8 +1,10 @@
-# Pursue a Master's Degree
+# Apply for a Master's Degree
+
+Renamed 2026-09-27 from "Pursue a Master's Degree". Pursuing has no finish line; submitting the applications does, and it is the part that is actually inside this project's control.
 
 ## Outcome
 
-Be accepted into and enrolled in a master's degree program. Field of study is not yet decided — narrowing it down is part of this project.
+Applications submitted to three to five US master's programs for the Fall 2027 intake, ahead of each program's deadline. Field of study is not yet decided — narrowing it down is part of this project.
 
 ## Constraints
 
@@ -18,7 +20,9 @@ Target: the Fall 2027 intake. US applications for that cycle typically close bet
 
 ## Definition of Done
 
-Enrolled in a master's program.
+Every shortlisted program has a submitted application, on or before its deadline.
+
+What happens after — offers, the I-20, the F-1 visa, resigning or arranging leave from FPT, enrolling — is real work but it is a different project, started once an offer lands. See After This Project.
 
 ## Steps
 
@@ -35,7 +39,14 @@ Work these in order. Only the current step becomes a note in `next/next-actions`
 7. **Ask for recommendation letters.** Give referees at least a month and a copy of the statement of purpose.
 8. **Write the statement of purpose**, then adapt it per program.
 9. **Submit the applications** ahead of each deadline from step 4.
-10. **Handle the outcome.** Accept an offer, request the I-20, apply for the F-1 visa, resign or arrange leave from FPT, enroll.
+
+## After This Project
+
+Not steps here — they start only once an offer arrives, and they carry their own clocks:
+
+- Accept an offer and request the I-20.
+- Apply for the F-1 visa. The interview wait is the clock that decides whether Fall 2027 is actually made.
+- Resign or arrange leave from FPT, and enroll.
 
 ## Next Actions
 
@@ -48,4 +59,4 @@ Step 1 runs in [[projects/decide-masters-field-of-study/decide-masters-field-of-
 
 Field is still open, which is why step 1 comes before any program research. Steps 5 through 8 can overlap once step 4 has produced concrete deadlines.
 
-Going full-time in the US means the timeline is driven by two clocks that are not the application deadline: the English test (book early, scores take weeks) and the F-1 visa interview after admission. Budget not being a constraint removes the funding search but not these.
+Going full-time in the US means the timeline is driven by two clocks that are not the application deadline. Only one of them falls inside this project: the English test, which has to be booked early because scores take weeks. The other, the F-1 visa interview after admission, sits in After This Project and is what decides whether Fall 2027 is actually made — worth knowing now, because it is the reason submitting early beats submitting on the deadline. Budget not being a constraint removes the funding search but not either clock.

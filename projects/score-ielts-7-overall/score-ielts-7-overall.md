@@ -105,7 +105,7 @@ Phase 0 closed 2026-08-24. Both baseline actions are archived — [[archives/nex
 
 ## Notes
 
-Feeds step 5 of [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]]. Note the ordering risk: step 4 of that project decides which programs, and therefore whether 7.0 with no band under 6.5 is even the right target. This project assumes it is. If step 4 comes back with a 6.5 requirement, the target drops and the plan gets easier; if it comes back with a 7.5 Writing requirement, this becomes a much longer project than 6.5 weeks.
+Feeds step 5 of [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]]. Note the ordering risk: step 4 of that project decides which programs, and therefore whether 7.0 with no band under 6.5 is even the right target. This project assumes it is. If step 4 comes back with a 6.5 requirement, the target drops and the plan gets easier; if it comes back with a 7.5 Writing requirement, this becomes a much longer project than 6.5 weeks.
 
 Honest read on the timeline: a full band in both Writing and Speaking in 6.5 weeks at one hour a day is at the optimistic edge of realistic. It is reachable when the cause is structural — not answering the whole question, no overview in Task 1, collapsing before two minutes in Part 2, grammar errors in most sentences — because those are fixable in weeks. It is not reachable in that time if the cause is raw fluency. The baseline told the two apart on 2026-08-24: fluency is binding, which is why the date moved. See the Baseline Verdict above.
 

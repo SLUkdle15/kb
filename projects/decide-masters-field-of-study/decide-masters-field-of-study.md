@@ -1,6 +1,6 @@
 # Decide Master's Field of Study
 
-Step 1 of [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]], cut out into its own project because it is seven sessions of work, not one action.
+Step 1 of [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]], cut out into its own project because it is seven sessions of work, not one action.
 
 Area: [[areas/personal-development/personal-development|Personal Development]]
 
@@ -14,7 +14,7 @@ Two to three weeks — **2026-10-17**. This gates step 3 and step 4 of the paren
 
 ## Definition of Done
 
-One or two fields written into [[projects/pursue-a-masters-degree/pursue-a-masters-degree|the parent project note]], with a sentence on why each survived, and the primary one marked.
+One or two fields written into [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|the parent project note]], with a sentence on why each survived, and the primary one marked.
 
 ## Steps
 

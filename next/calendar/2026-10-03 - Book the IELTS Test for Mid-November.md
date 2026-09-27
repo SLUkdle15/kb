@@ -15,7 +15,7 @@ Book an IELTS Academic slot for **mid-November 2026**. Retargeted from 3 October
 
 **Committed to 2026-10-03.** Moved from 2026-09-30 on 2026-09-27, at request, without a stated reason.
 
-Read what that move costs, because the 09-30 date was not arbitrary. Booking stopped being do-when-ready on 2026-09-27 — the 2026-09-21 backstop passed unbooked, which is why this note left `next/next-actions` for the calendar — and 09-30 was picked as the last day September could still land a mid-November test. 10-03 is in October. **On the reasoning recorded here, a booking made on 10-03 lands the test in December, not mid-November, and a December test misses the December application window in [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]].**
+Read what that move costs, because the 09-30 date was not arbitrary. Booking stopped being do-when-ready on 2026-09-27 — the 2026-09-21 backstop passed unbooked, which is why this note left `next/next-actions` for the calendar — and 09-30 was picked as the last day September could still land a mid-November test. 10-03 is in October. **On the reasoning recorded here, a booking made on 10-03 lands the test in December, not mid-November, and a December test misses the December application window in [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]].**
 
 That reasoning has never been checked against actual British Council slot availability — it is an inference, not a quoted lead time. So the first thing to do on 10-03 is open the booking page and look at what mid-November dates are genuinely still open. If one is, the move cost nothing and this paragraph should be deleted. If none is, the test date moves to December and the plan's outer limit moves with it, which is a decision to make deliberately rather than discover.
 
@@ -29,7 +29,7 @@ Three reasons, decided 2026-09-27 rather than drifted into:
 
 - **The unbooked date was costing study time, not buying it.** The stretch since 09-16 is the thinnest in the project. "Do when ready" carries no forcing function, and the logs show what that produces.
 - **Booking is what unlocks the mock bank.** A British Council booking gives IELTS Ready Premium free — 40 scored mocks, open until shortly after the test date (see [[projects/score-ielts-7-overall/materials|Materials]]). Both mock checkpoints in [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]] currently have nothing behind them but the two reserved Cambridge tests. Booking is a prerequisite for Phases 2 and 3, not a reward for clearing them.
-- **The downside is already costed.** One Skill Retake inside 60 days covers a single-skill miss, and the December application window it all points at is itself unconfirmed until step 4 of [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]] checks real per-program dates, which may run to February.
+- **The downside is already costed.** One Skill Retake inside 60 days covers a single-skill miss, and the December application window it all points at is itself unconfirmed until step 4 of [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]] checks real per-program dates, which may run to February.
 
 The live risk, named rather than buried: the baseline moved this off October because **fluency** was binding, and speaking is the gap with the least logged practice of anything in the project. Mid-November may return Speaking below 6.5. A real Test Report Form is still better diagnostic information than more self-scoring, and the retake path is priced — but that is the actual bet being made.
 
@@ -52,7 +52,7 @@ Close the loop:
 
 - [ ] Add the test date to [[next/calendar/calendar|Calendar]], with the Speaking date if it differs.
 - [ ] Write the confirmed date into [[projects/score-ielts-7-overall/score-ielts-7-overall|the project note]] and adjust [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]] to match it.
-- [ ] Note the results date and check it still clears the December 2026 application deadline in [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]].
+- [ ] Note the results date and check it still clears the December 2026 application deadline in [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]].
 
 ## Done When
 
@@ -60,7 +60,7 @@ A paid booking confirmation exists with a named date and centre, the date is on 
 
 Study first, book when ready is over. 2026-09-21 was the backstop and it passed unbooked, so this is a dated commitment — 2026-10-03 — rather than an undated action. It was 09-30 until 2026-09-27; see Status above for what the three days cost.
 
-What booking later costs is the test date, not the project. A mid-November test reports by late November, which still clears the December application window in [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]]. That is now the outer limit rather than a contingency, so the slack that existed while October was the target is gone: booking that slips into October lands the test in December and misses the window.
+What booking later costs is the test date, not the project. A mid-November test reports by late November, which still clears the December application window in [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]]. That is now the outer limit rather than a contingency, so the slack that existed while October was the target is gone: booking that slips into October lands the test in December and misses the window.
 
 What does erode with waiting is study material, and this is the reason to book with the **British Council** specifically. Booking there unlocks IELTS Ready Premium free — 40 full scored mock tests with AI feedback across all four skills, open until shortly after the test date. Both of the plan's mock checkpoints depend on having mocks to sit, so booking early enough to study *against* that bank is worth more than holding the date open. See [[projects/score-ielts-7-overall/materials|Materials]].
 

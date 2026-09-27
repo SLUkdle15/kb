@@ -52,8 +52,8 @@ Move notes into the project folder only when they are project-specific working m
 
 ## Active Projects
 
-- [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]]
-- [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]] — step 1 under Pursue a Master's Degree
+- [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]]
+- [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]] — step 1 under Apply for a Master's Degree
 - [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]]
 - [[projects/register-temporary-residence/register-temporary-residence|Register Temporary Residence]]
 - [[projects/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]] — course 1 under Self-Taught Photography

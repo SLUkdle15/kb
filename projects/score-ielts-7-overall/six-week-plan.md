@@ -92,6 +92,6 @@ The one phase that's genuinely date-bound, not milestone-gated: the final ~5–7
 ## After the Test
 
 - Results in 1–5 days for computer-delivered.
-- All four bands at target: this project is done, and step 5 of [[projects/pursue-a-masters-degree/pursue-a-masters-degree|Pursue a Master's Degree]] clears.
+- All four bands at target: this project is done, and step 5 of [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]] clears.
 - Exactly one of Writing or Speaking below 6.5: book the One Skill Retake inside the 60-day window.
 - Both below: book a full retake and rebuild the plan from the new score report, which will be far more specific than any self-scoring done here.
