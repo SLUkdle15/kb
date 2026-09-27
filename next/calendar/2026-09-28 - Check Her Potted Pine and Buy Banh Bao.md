@@ -1,4 +1,4 @@
-# Check Her Potted Pine and See If It Can Be Saved
+# Check Her Potted Pine and Buy Bánh Bao
 
 Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 Due: 2026-09-28

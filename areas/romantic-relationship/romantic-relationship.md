@@ -38,7 +38,7 @@ Review monthly, or weekly when the relationship needs active attention.
 
 - [[next/calendar/Weekly Sunday Badminton|Weekly Sunday Badminton]] — Sunday 15:00-17:00, moved from Saturday 2026-09-27 by agreement
 - [[next/calendar/2026-10-02 - 6-Month Anniversary|6-Month Anniversary]] — Friday 2026-10-02, moved from 2026-09-28; actual mark 2026-09-30
-- [[next/calendar/2026-09-28 - Check Her Potted Pine and See If It Can Be Saved|Check Her Potted Pine and See If It Can Be Saved]]
+- [[next/calendar/2026-09-28 - Check Her Potted Pine and Buy Banh Bao|Check Her Potted Pine and Buy Bánh Bao]]
 - [[next/maybe/2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] (someday/maybe)
 
 ## Current Projects
