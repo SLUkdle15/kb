@@ -29,3 +29,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-25 - Clean the Electric Fan|Clean the Electric Fan]] — Area: [[areas/family/family|Family]]
 - [[2026-09-27 - Record Golf Practice at Home|Record Golf Practice at Home]] — Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 - [[2026-09-27 - Rebook the Badminton Court for Sunday|Rebook the Badminton Court for Sunday]] — Area: [[areas/badminton/badminton|Badminton]], before 2026-10-04
+- [[2026-09-27 - Check Her Potted Pine and See If It Can Be Saved|Check Her Potted Pine and See If It Can Be Saved]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
