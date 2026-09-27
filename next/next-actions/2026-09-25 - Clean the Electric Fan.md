@@ -1,7 +1,6 @@
 # Clean the Electric Fan
 
 Area: [[areas/family/family|Family]]
-Due: 2026-10-04
 
 ## Action
 

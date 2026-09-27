@@ -57,7 +57,6 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 - [[next/calendar/2026-10-02 - 6-Month Anniversary]] — 2026-10-02 (Friday, moved from 2026-09-28; actual mark 2026-09-30. Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]])
 - [[next/calendar/2026-10-03 - Book the IELTS Test for Mid-November]] — 2026-10-03 (Saturday, moved from 2026-09-30; do it first thing. British Council, computer-delivered. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-10-03 - IELTS Full Writing Paper]] — 2026-10-03 09:00 (Saturday, morning block around the booking, badminton and the master's field session; Book 16 Test 3)
-- [[next/calendar/2026-10-04 - Clean the Electric Fan]] — 2026-10-04 (Sunday, moved from next actions. Area: [[areas/family/family|Family]])
 - [[next/calendar/2026-10-04 - Go to the Range and Run an Hour Contact Tally Session]] — 2026-10-04 (Sunday, weekly range session; stay on the 8 iron, bring tripod, record all three numbers)
 - [[next/calendar/2026-10-10 - Drive to Thien Truong]] — 2026-10-10 (same day as temple; check if it's one trip or two)
 - [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking]] — 2026-10-15 (six-week checkpoint on the lower back routine; physio if no change)
