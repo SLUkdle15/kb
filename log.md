@@ -786,3 +786,19 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 45
 - Report: /tmp/vault-lint/report.md
+
+## [2026-09-27] lint | Vault health check
+
+- Indexed 454 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 46
+- Report: /tmp/vault-lint/report.md
+
+## [2026-09-27] plan | Put the week of 2026-09-28 IELTS plan on the calendar
+
+- Six dated day notes in `next/calendar`, each with a time: Task 2 (Mon 19:30), Speaking Part 2 (Tue 20:00), rewrite (Wed 18:30), Speaking Part 3 (Thu 19:30), Task 1 (Fri 07:00), full Writing paper (Sat 09:00)
+- Week prep plan redesigned as a hub: tick list per day, rep count against the Phase 1 budget, conflicts named
+- Sunday left off the calendar — rest day, optional error-log reading
+- `calendar.ics` rebuilt: 20 events. Push before the phone will see them

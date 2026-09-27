@@ -49,8 +49,14 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 ### One-Off
 
 - [[next/calendar/2026-09-27 - Create a CIMB Bank Account for Dad]] — 2026-09-27 (Sunday, moved from next actions; Dad, his phone and ID card must be there. Area: [[areas/family/family|Family]])
+- [[next/calendar/2026-09-28 - IELTS Task 2 Timed Essay]] — 2026-09-28 19:30 (Monday, Book 16 Test 2. Week plan: [[projects/score-ielts-7-overall/2026-09-28 - Week of 2026-09-28 Prep Plan|Week of 2026-09-28]])
+- [[next/calendar/2026-09-29 - IELTS Speaking Part 2 Recordings]] — 2026-09-29 20:00 (Tuesday, after soccer; three cue cards recorded to two minutes)
 - [[next/calendar/2026-09-30 - Book the IELTS Test for Mid-November]] — 2026-09-30 (Wednesday, last day September can still land a mid-November test; British Council, computer-delivered. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
+- [[next/calendar/2026-09-30 - IELTS Rewrite Monday's Essay]] — 2026-09-30 18:30 (Wednesday, after the booking and before the master's field session; the week's highest-value hour)
+- [[next/calendar/2026-10-01 - IELTS Speaking Part 3 and Pronunciation]] — 2026-10-01 19:30 (Thursday, ends with a row in the error log's Pronunciation table)
+- [[next/calendar/2026-10-02 - IELTS Task 1 to Time]] — 2026-10-02 07:00 (Friday, morning block because the anniversary takes the evening)
 - [[next/calendar/2026-10-02 - 6-Month Anniversary]] — 2026-10-02 (Friday, moved from 2026-09-28; actual mark 2026-09-30. Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]])
+- [[next/calendar/2026-10-03 - IELTS Full Writing Paper]] — 2026-10-03 09:00 (Saturday, morning block around badminton and the master's field session; Book 16 Test 3)
 - [[next/calendar/2026-10-04 - Clean the Electric Fan]] — 2026-10-04 (Sunday, moved from next actions. Area: [[areas/family/family|Family]])
 - [[next/calendar/2026-10-04 - Go to the Range and Run an Hour Contact Tally Session]] — 2026-10-04 (Sunday, weekly range session; stay on the 8 iron, bring tripod, record all three numbers)
 - [[next/calendar/2026-10-10 - Drive to Thien Truong]] — 2026-10-10 (same day as temple; check if it's one trip or two)
