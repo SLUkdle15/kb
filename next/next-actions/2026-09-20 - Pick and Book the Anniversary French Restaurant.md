@@ -4,7 +4,7 @@ Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Pl
 
 ## Action
 
-Decide between Maison Marou and Colette French Bistro and Wine Bar, check whether it needs a reservation, and book for 2026-09-28. Log the chosen place in [[resources/restaurants/restaurants|resources/restaurants]].
+Decide between Maison Marou and Colette French Bistro and Wine Bar, check whether it needs a reservation, and book for 2026-10-02. Log the chosen place in [[resources/restaurants/restaurants|resources/restaurants]].
 
 ## Done When
 
