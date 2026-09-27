@@ -11,7 +11,8 @@ Comfortable enough to go play a full round of 18 holes.
 
 ## Next Actions
 
-- [[next/calendar/2026-09-27 - Go to the Range and Run an Hour Contact Tally Session|Go to the Range and Run an Hour Contact Tally Session]]
+- [[next/calendar/2026-10-04 - Go to the Range and Run an Hour Contact Tally Session|Go to the Range and Run an Hour Contact Tally Session]]
+- [[next/next-actions/2026-09-27 - Record Golf Practice at Home|Record Golf Practice at Home]]
 
 ## Notes
 
@@ -26,3 +27,4 @@ Filming itself is not the blocker: the GoPro and its own tripod cover it. What i
 ## Session Logs
 
 - [[projects/self-taught-golf/2026-09-20 - Range Session Log|2026-09-20]] — 5/20 clean contact; strike location and ball flight not recorded.
+- [[projects/self-taught-golf/2026-09-27 - Range Session Log|2026-09-27]] — 6/20 clean contact with an 8 iron at around 80 yards; strike location and ball flight not recorded.

@@ -24,7 +24,8 @@ Review monthly, or weekly during active practice cycles.
 
 ## Current Actions
 
-- [[next/calendar/2026-09-27 - Go to the Range and Run an Hour Contact Tally Session|Go to the Range and Run an Hour Contact Tally Session]]
+- [[next/calendar/2026-10-04 - Go to the Range and Run an Hour Contact Tally Session|Go to the Range and Run an Hour Contact Tally Session]]
+- [[next/next-actions/2026-09-27 - Record Golf Practice at Home|Record Golf Practice at Home]]
 
 ## Current Projects
 
