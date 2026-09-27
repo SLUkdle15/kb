@@ -802,3 +802,18 @@
 - Week prep plan redesigned as a hub: tick list per day, rep count against the Phase 1 budget, conflicts named
 - Sunday left off the calendar — rest day, optional error-log reading
 - `calendar.ics` rebuilt: 20 events. Push before the phone will see them
+
+## [2026-09-27] lint | Vault health check
+
+- Indexed 454 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 46
+- Report: /tmp/vault-lint/report.md
+
+## [2026-09-27] move | Booking moved from 2026-09-30 to 2026-10-03
+
+- `next/calendar/2026-10-03 - Book the IELTS Test for Mid-November.md` — renamed and re-dated; six referencing notes retargeted
+- Recorded the cost in the note's Status: 09-30 was the last day September could still land a mid-November test, so the booking page is now the first thing to check on Saturday
+- Wednesday 09-30 is the rewrite block only; Saturday 10-03 carries the booking ahead of the Writing paper
