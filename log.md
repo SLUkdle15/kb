@@ -833,3 +833,18 @@
 - Month bound recorded in the note: recurring notes carry no end date, so end-of-October is the check that keeps this from becoming permanent by default
 - Court is still booked for the Saturday slot and the session is with girlfriend — both named in the note as unsettled
 - Saturday rationale lines in the IELTS notes corrected; archived notes keep their historical wording, paths retargeted
+
+## [2026-09-27] lint | Vault health check
+
+- Indexed 455 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 46
+- Report: /tmp/vault-lint/report.md
+
+## [2026-09-27] next | Rebook the badminton court for Sunday
+
+- `next/next-actions/2026-09-27 - Rebook the Badminton Court for Sunday.md` — call Phúc Long before 2026-10-04, the first Sunday session
+- Day change agreed with girlfriend, recorded in the session note and in `areas/romantic-relationship`; the court is the one dependency still open
+- Fallback named in the action: another court or another Sunday hour, not a silent return to Saturday

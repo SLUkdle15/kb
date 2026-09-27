@@ -12,7 +12,7 @@ They cluster around Khương Đình, Thanh Xuân, and Đống Đa, which is the 
 | --- | --- | --- |
 | Khuong Dinh High School | Ngh. 29/78 P. Khương Hạ, Khương Đình, Hà Nội 120120 | address |
 | Sân cầu lông Phúc Long | Số 5 Lê Trọng Tấn | address |
-| Sân cầu lông Phúc Long (Lê Văn Thiêm) | Lê Văn Thiêm | booked Saturday 15:00-17:00; **Sunday slot not yet rebooked** for [[next/calendar/Weekly Sunday Badminton|Weekly Sunday Badminton]] (moved 2026-09-27) |
+| Sân cầu lông Phúc Long (Lê Văn Thiêm) | Lê Văn Thiêm | booked Saturday 15:00-17:00; **Sunday slot not yet rebooked** for [[next/calendar/Weekly Sunday Badminton|Weekly Sunday Badminton]] — see [[next/next-actions/2026-09-27 - Rebook the Badminton Court for Sunday|Rebook the Badminton Court for Sunday]] |
 | Sân Cầu Lông Trường Cấp 3 Quang Trung | — | name only |
 | Sân cầu Học viện Ngân hàng | Banking Academy — | name only |
 | Lê Văn Lương | — | street only |

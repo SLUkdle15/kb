@@ -36,7 +36,7 @@ Review monthly, or weekly when the relationship needs active attention.
 
 ## Current Actions
 
-- [[next/calendar/Weekly Sunday Badminton|Weekly Sunday Badminton]]
+- [[next/calendar/Weekly Sunday Badminton|Weekly Sunday Badminton]] — Sunday 15:00-17:00, moved from Saturday 2026-09-27 by agreement
 - [[next/calendar/2026-10-02 - 6-Month Anniversary|6-Month Anniversary]] — Friday 2026-10-02, moved from 2026-09-28; actual mark 2026-09-30
 - [[next/maybe/2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] (someday/maybe)
 

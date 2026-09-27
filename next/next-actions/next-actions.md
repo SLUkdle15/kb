@@ -27,3 +27,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-20 - Examine the CT01 Form|Examine the CT01 Form]] — Project: [[projects/register-temporary-residence/register-temporary-residence|Register Temporary Residence]]
 - [[2026-09-20 - Pick and Book the Anniversary French Restaurant|Pick and Book the Anniversary French Restaurant]] — Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]]
 - [[2026-09-27 - Record Golf Practice at Home|Record Golf Practice at Home]] — Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
+- [[2026-09-27 - Rebook the Badminton Court for Sunday|Rebook the Badminton Court for Sunday]] — Area: [[areas/badminton/badminton|Badminton]], before 2026-10-04
