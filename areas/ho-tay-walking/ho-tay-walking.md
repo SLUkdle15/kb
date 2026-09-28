@@ -11,7 +11,7 @@ Build a habit of walking loops and routes around Hồ Tây, and keep an honest c
 ## Standard to Maintain
 
 - After each walk, send the start/end (and any waypoint) coordinates or Google Maps links so it gets added to the tracker.
-- Keep the walk count and mapped routes in the tracker current — don't let walks pile up unrecorded.
+- Keep the walk count and mapped routes in the tracker current.
 
 ## Review Rhythm
 

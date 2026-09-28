@@ -2,7 +2,9 @@
 
 ## Action
 
-Figure out and follow through on better care for the tree (watering, feeding, pruning, or whatever it needs) instead of the current minimal upkeep.
+Figure out and follow through on better care for the trees in my garden — several of them, one a lemon tree — instead of the current minimal upkeep: watering, feeding, pruning, or whatever each needs.
+
+Not her potted pine, which is a separate, diagnosed problem — see [[next/calendar/2026-09-28 - Check Her Potted Pine and Buy Banh Bao|Check Her Potted Pine and Buy Bánh Bao]].
 
 ## Done When
 

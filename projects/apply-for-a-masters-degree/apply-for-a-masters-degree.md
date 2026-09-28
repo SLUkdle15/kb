@@ -16,7 +16,7 @@ Decided 2026-08-17:
 
 ## Deadline
 
-Target: the Fall 2027 intake. US applications for that cycle typically close between December 2026 and February 2027, so the working deadline is **December 2026** — about three months out as of 2026-08-27. Confirm the real per-program dates in step 4.
+Target: the Fall 2027 intake. US applications for that cycle typically close between December 2026 and February 2027, so the working deadline is **December 2026** — about two months out as of 2026-09-28. Confirm the real per-program dates in step 4.
 
 ## Definition of Done
 
