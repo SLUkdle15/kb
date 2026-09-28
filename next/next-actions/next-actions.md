@@ -18,8 +18,7 @@ Each note should describe a clear next action. If it requires multiple steps and
 
 ## Current Actions
 
-- [[2026-09-28 - Roll Out Excel Token Handling|Roll Out Excel Token Handling]] — Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]]
-- [[2026-09-28 - Implement the Refresh Token Flow for Excel|Implement the Refresh Token Flow for Excel]] — Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]]
+- [[2026-09-28 - Read Chapter 1 of Learning Domain-Driven Design|Read Chapter 1 of Learning Domain-Driven Design]] — Area: [[areas/reading/reading|Reading]]
 - [[2026-09-27 - Name What the Master's Must Give|Name What the Master's Must Give]] — Project: [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]]
 - [[2026-09-28 - Watch the Next Chapter of Introduction to Photography|Watch the Next Chapter of Introduction to Photography]] — Project: [[projects/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]]
 - [[2026-09-19 - Top Up and Verify the ETC Account|Top Up and Verify the ETC Account]] — Area: [[areas/vehicles/vehicles|Vehicles]]

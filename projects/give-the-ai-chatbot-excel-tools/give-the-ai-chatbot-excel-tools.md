@@ -16,8 +16,7 @@ Gotchas: [[projects/give-the-ai-chatbot-excel-tools/gotchas|Gotchas]]
 
 ## Next Actions
 
-- [[next/next-actions/2026-09-28 - Implement the Refresh Token Flow for Excel|Implement the Refresh Token Flow for Excel]]
-- [[next/next-actions/2026-09-28 - Roll Out Excel Token Handling|Roll Out Excel Token Handling]]
+- [[next/calendar/2026-09-29 - Implement the Refresh Token Flow for Excel|Implement the Refresh Token Flow for Excel]]
 - [[next/waiting/2026-09-25 - Excel Query Rollout|Excel Query Rollout]]
 
 ## Notes
@@ -30,7 +29,7 @@ The shape of the auth is already decided in [[resources/software-engineering/aut
 - **The workflow service's side** — the per-user OAuth connection, the encrypted refresh token, minting, and injecting the header on each call, with [[resources/software-engineering/auth/2026-09-17 - Proactive and Reactive OAuth Token Refresh|both halves of the refresh]]. The refresh token flow is mine: a hardcoded token stops working after 90 days, so it has to be built rather than left to someone else.
 - **The MCP server's side** — token never cached, never logged, `GRAPH_ACCESS_TOKEN` unset in production, and an auth failure that tells the user in Vietnamese to reconnect their Microsoft account.
 
-That list came from the architecture note, not from a survey of the code. It was checked against what is actually built on 2026-09-20, and the Excel clone and query are now implemented. On 2026-09-28 the token handling rollout and the refresh token flow moved to my side; admin consent and the rest of the list still belong to other people.
+That list came from the architecture note, not from a survey of the code. It was checked against what is actually built on 2026-09-20, and the Excel clone and query are now implemented. On 2026-09-28 the refresh token flow moved to my side; admin consent and the rest of the list still belong to other people.
 
 ## Progress
 
@@ -40,3 +39,4 @@ That list came from the architecture note, not from a survey of the code. It was
 - 2026-09-25 — Excel query and token handling implemented; the project is now parked on a wait for other people to implement and support their side.
 - 2026-09-28 — the hardcoded token will not last past 90 days, so the refresh token flow for Excel is now a next action.
 - 2026-09-28 — token handling rollout split out of the wait: it is mine to implement, so it is now a next action; the wait covers only the Excel query rollout on other people's side.
+- 2026-09-28 — token handling rollout action dropped as not needed; the refresh token flow, on the calendar for 2026-09-29, is my remaining piece.

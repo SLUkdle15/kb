@@ -10,8 +10,6 @@ Before paying, check whether the [[next/maybe/2026-08-17 - Spend 500k Voucher on
 
 Tasted it, and the voucher was either used for it or ruled out.
 
-![[Screenshot 2026-08-19 230400.png]]
-
 ## Outcome
 
 Canceled 2026-09-23. Never tried — the Moonlight Quartet edition is no longer sold, so the window closed before the trip happened. Häagen-Dazs itself is still open, and the voucher question below is still unanswered.
