@@ -18,7 +18,6 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-08-09 - Fix the Microwave Küppersbusch MR6330.0S|Fix the Microwave Küppersbusch MR6330.0S]]
 - [[2026-08-17 - Spend 500k Voucher on Fast Food Coffee or Clothes|Spend 500k Voucher on Fast Food, Coffee or Clothes]]
 - [[2026-08-21 - Start Investing|Start Investing]]
-- [[2026-08-24 - Snapshot My Finances and Pick a Tracking Method|Snapshot My Finances and Pick a Tracking Method]]
 - [[2026-09-01 - Investigate Making Money from the Soc Son Land|Investigate Making Money from the Soc Son Land]] — idle asset, look for similar cases on YouTube
 - [[2026-09-02 - Text the Guy to Change Weekly Soccer from Tuesday to Monday|Text the Guy to Change Weekly Soccer from Tuesday to Monday]] — Area: [[areas/soccer/soccer|Soccer]]
 - [[2026-09-01 - Buy Tripod and Memory Card|Buy Tripod and Memory Card]] — Area: [[areas/photography/photography|Photography]], Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]

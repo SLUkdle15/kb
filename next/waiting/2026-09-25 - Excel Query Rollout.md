@@ -1,11 +1,11 @@
-# Excel Query and Token Handling Rollout
+# Excel Query Rollout
 
 Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]]
 Area: [[areas/work-systems/work-systems|Work Systems]]
 
 ## Blocked
 
-Nothing on my side. Excel query and token handling are implemented, so the piece I owned is done — what is left is other people doing theirs.
+Excel query is implemented on my side. Token handling is mine to roll out and runs as its own action — [[next/next-actions/2026-09-28 - Roll Out Excel Token Handling|Roll Out Excel Token Handling]] — so this note waits only on the parts other people own.
 
 ## Waiting On
 
