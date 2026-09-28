@@ -1,6 +1,6 @@
 # IELTS Band Descriptors
 
-Source: the public band descriptors, jointly owned by the British Council, IDP: IELTS Australia and Cambridge English Language Assessment — [Writing Task 1 and 2](https://assets.ctfassets.net/unrdeg6se4ke/19SJoSvnUYjrHgVhWvuMnC/42f1b0cb0d7709646a1392d8418646d0/writingbanddescriptorstask1and2.pdf), [Speaking](https://assets.ctfassets.net/unrdeg6se4ke/4HClJPN2BGdO1fcc018Gz9/f5e625eb26d075a4d8b5151da0b90709/Speaking-Band-descriptors.pdf).
+Source: the public band descriptors, jointly owned by the British Council, IDP: IELTS Australia and Cambridge English Language Assessment — [Writing Task 1 and 2](https://ielts.org/cdn/Guides/ielts-writing-band-descriptors.pdf), [Speaking](https://ielts.org/cdn/ielts-guides/ielts-speaking-band-descriptors.pdf).
 
 What each criterion measures and the official wording for bands 5 to 8. This is the scale itself, not tactics for climbing it — for that see [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] and [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]].
 

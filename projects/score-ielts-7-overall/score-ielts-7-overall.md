@@ -35,6 +35,8 @@ Made 2026-08-24, closing Phase 0. Consolidated from [[projects/score-ielts-7-ove
 
 ### The Eight Bands
 
+Scored against [[resources/ielts/2026-09-15 - IELTS Band Descriptors|IELTS Band Descriptors]], which holds the official wording for bands 5 to 8.
+
 | Criterion | Writing | Speaking |
 | --- | --- | --- |
 | Task Response / Fluency and Coherence | 6 (Task 1: 5) | 5.5 |

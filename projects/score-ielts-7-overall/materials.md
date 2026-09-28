@@ -5,8 +5,9 @@ Short on purpose. The failure mode in IELTS self-study is collecting resources i
 ## Non-Negotiable
 
 - **The official public band descriptors** for Writing Task 1, Writing Task 2, and Speaking. Read the band 6 and band 7 rows side by side once, then keep them open during every self-scoring pass. Everything in this project is downstream of these.
-  - Writing, both tasks in one PDF: https://assets.ctfassets.net/unrdeg6se4ke/19SJoSvnUYjrHgVhWvuMnC/42f1b0cb0d7709646a1392d8418646d0/writingbanddescriptorstask1and2.pdf
-  - Speaking: https://takeielts.britishcouncil.org/sites/default/files/ielts_speaking_band_descriptors.pdf
+  - Writing, both tasks in one PDF: https://ielts.org/cdn/Guides/ielts-writing-band-descriptors.pdf
+  - Speaking: https://ielts.org/cdn/ielts-guides/ielts-speaking-band-descriptors.pdf
+  - Both are transcribed for bands 5 to 8 in [[resources/ielts/2026-09-15 - IELTS Band Descriptors|IELTS Band Descriptors]], which is faster to read than the PDFs during a self-scoring pass.
   - The fuller examiner-facing version of the writing criteria: https://www.ielts.org/news-and-insights/ielts-writing-band-descriptors-and-key-assessment-criteria
 - **Cambridge IELTS past paper books, 16 to 20 — in hand as of 2026-08-23.** Real retired tests. Free official samples, fewer of them, at https://ielts.org/take-a-test/preparation-resources/sample-test-questions . These are the only source of tasks worth timing yourself against; invented practice questions are subtly off in ways that matter. Use them for Reading and Listening sections too. Which tests have been spent is tracked in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]].
 - **A phone voice recorder.** The entire Speaking plan runs on it.
