@@ -2,6 +2,8 @@
 
 Area: [[areas/personal-finance/personal-finance|Personal Finance]]
 
+Outcome: the recurring outflows were snapshotted on 2026-09-28 and live in [[areas/personal-finance/personal-finance|Personal Finance]]. Balances, net position, the emergency-fund answer, and the tracking method were not done.
+
 ## Action
 
 One sitting, two halves. The snapshot first — the tracking method is unchoosable until there is something to track.
