@@ -12,23 +12,34 @@ This note exists for one reason: a paper can only be sat cold once. Track what h
 
 ## Used
 
+Only papers named by book and test belong here. A prompt that cannot be traced to one cannot be recognised if it comes round again, so listing it here would answer the note's question with "unknown" — those are kept separately below.
+
 | Book | Test | Task | Used for | Date |
 | --- | --- | --- | --- | --- |
-| — | — | Writing Task 2, tourism | [[archives/score-ielts-7-overall/writing-task-2-baseline|Task 2 baseline]] | 2026-08-19 |
-| — | — | Writing Task 1, household internet access | [[archives/score-ielts-7-overall/writing-task-1-baseline|Task 1 baseline]] | 2026-08-21 |
-| — | — | Speaking, full test on travel | [[archives/score-ielts-7-overall/speaking-baseline|Speaking baseline]] | 2026-08-21 |
-| — | — | Writing Task 2, traffic congestion | Rewrite session, three passes | 2026-08-26 |
-| — | — | Writing Task 1, commuter transport across three cities | Timed rep | 2026-08-28 |
-| — | — | Writing Task 1, three leisure activities | Timed rep | 2026-08-29 |
 | 16 | 1 | Writing Task 2 | Monday Task 2 practice | 2026-08-31 |
 | 16 | 1 | Listening | Listening baseline | 2026-08-31 |
 | 16 | 1 | Writing Task 1 | 30-min timed rep | 2026-08-31 |
 
-Every row above predates this note, and none of them can be traced to a book and test number now. The three baselines came before the books arrived on 2026-08-23 — the Task 2 baseline records itself as an official ielts.org sample — and the 2026-08-29 rep was an invented chart, which is exactly what the rule above rules out. Fill in the book and test columns for the 08-26 and 08-28 rows if you remember where they came from; otherwise treat all six as spent and take everything from here on out of the books.
+## Spent Prompts, Not Spent Papers
+
+Reps that were sat but cannot be traced to a book and test. They are a record of which **topics** have been used, so a topic does not get practised twice by accident. They are not reserve tracking: nothing here can be checked against a book, so none of it protects a mock.
+
+| Task | Used for | Date |
+| --- | --- | --- |
+| Writing Task 2, tourism | [[archives/score-ielts-7-overall/writing-task-2-baseline|Task 2 baseline]] | 2026-08-19 |
+| Writing Task 1, household internet access | [[archives/score-ielts-7-overall/writing-task-1-baseline|Task 1 baseline]] | 2026-08-21 |
+| Speaking, full test on travel | [[archives/score-ielts-7-overall/speaking-baseline|Speaking baseline]] | 2026-08-21 |
+| Writing Task 2, traffic congestion | Rewrite session, three passes | 2026-08-26 |
+| Writing Task 1, commuter transport across three cities | Timed rep | 2026-08-28 |
+| Writing Task 1, three leisure activities | Timed rep | 2026-08-29 |
+
+The three baselines came before the books arrived on 2026-08-23 — the Task 2 baseline records itself as an official ielts.org sample — and the 2026-08-29 rep was an invented chart, which is exactly what the rule at the top rules out. If you remember where the 08-26 or 08-28 prompt came from, move that row up into **Used** with its book and test.
+
+This section is closed. Everything from here on comes out of the books and gets logged above, with a book and test, the moment it is used.
 
 ## Still Unseen
 
-None of Books 16–20 have been opened yet — every row in **Used** above predates having the books (the three baselines) or is an invented chart (08-29), so all tests in all five books are still fully unseen.
+**Book 16 Test 1 is spent** — Writing Task 2, Writing Task 1 and Listening, all sat 2026-08-31. That is the whole of **Used**, so everything else in Books 16–20 is still unseen. Nothing in **Spent Prompts** changes that count: an untraceable prompt may well have come from one of these books, which is a risk carried rather than tracked.
 
 Assuming the standard 4 tests per book (confirm against each book's contents page — not verified here):
 

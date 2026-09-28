@@ -969,3 +969,19 @@
 - Band descriptor links live in the resources/ielts note; IELTS Ready Premium detail folded into the booking action
 - Band-9-vocabulary rule folded into vocabulary; phone recorder already covered by speaking-6-5-levers
 - Project folder now 13 notes / 1,204 lines, from 20 / 1,509
+
+## [2026-09-28] lint | Vault health check
+
+- Indexed 461 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 8
+- Report: /tmp/vault-lint/report.md
+
+## [2026-09-28] lint | Cleared four findings from the health check
+
+- cambridge-papers: Book 16 Test 1 recorded as spent, replacing the "all five books fully unseen" line it contradicted
+- cambridge-papers: Used now holds only papers named by book and test; the six untraceable reps moved to Spent Prompts, Not Spent Papers
+- Week of 09-28 rep table reconciled against cambridge-papers and the error log — Task 2 and Task 1 were each one short
+- Sat 10-03 dinner added to Around It; the 10-04 range session given 09:00-10:00 and calendar.ics rebuilt
