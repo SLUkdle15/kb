@@ -1,25 +1,17 @@
+---
+type: distilled-note
+---
+
 # Zero Drop, Toe Spring, and Toe Splay
 
-Shoe-fit concepts for feet, relevant to picking footwear that lets the foot function naturally.
+A shoe lets the foot work naturally when it sits level, keeps the toes on the ground, and leaves room for them to spread.
 
-## Zero Drop
+**Zero drop:** the heel and forefoot sit at the same height off the ground (0 mm heel-to-toe drop). Most conventional shoes raise the heel 8-12 mm above the forefoot, so a zero-drop shoe is closer to standing barefoot.
 
-The heel and forefoot sit at the same height off the ground (0 mm heel-to-toe drop). Most conventional shoes raise the heel 8-12 mm above the forefoot. A zero-drop shoe keeps the foot level, closer to standing barefoot.
+**Toe spring:** the upward curve at the front of a sole that lifts the toes off the ground. It's meant to help toe-off when walking, but a pronounced one restricts the toes' range of motion and leaves the foot's own muscles less work to do.
 
-## Toe Spring
+**Toe splay:** the toes spread naturally when weight goes on them, whether standing, walking or running, and a healthy gait needs room for it. A tapered or narrow toe box prevents it, which is the usual complaint with pointed dress shoes and many running shoes.
 
-The upward curve built into the front of a sole, lifting the toes off the ground. It's meant to assist toe-off during walking, but a pronounced toe spring can restrict the toes' natural range of motion and reduce how much work the foot's own muscles do.
+**Wide toe box:** the front of the shoe is shaped wide enough for the toes to sit in their splayed position instead of being squeezed together. This is what actually allows splay, as opposed to an interior that merely feels roomy.
 
-## Toe Splay
-
-The natural spreading of the toes when weight is applied — standing, walking, running. A healthy gait needs room for this. A tapered or narrow toe box prevents it, which is the usual complaint with pointed dress shoes and many running shoes.
-
-## Wide Toe Box
-
-The front of the shoe shaped wide enough that toes can sit in their natural splayed position rather than being squeezed together. This is what actually enables toe splay in a shoe, as opposed to just having a roomy-feeling interior.
-
-## Notes
-
-- Brands built around this combination (zero drop + wide toe box): Altra, Topo Athletic, Xero, Vivobarefoot.
-- Most cushioned running shoes (e.g. Hoka) are wide-fitting but not zero drop; most retro runners have a real heel-to-toe drop despite looking flat.
-- Relevant to [[archives/next-actions/2026-09-10 - Buy Zero-Drop Wide-Toe-Box Shoes|Buy Zero-Drop Wide-Toe-Box Shoes]] (dropped 2026-09-19).
+Altra, Topo Athletic, Xero and Vivobarefoot are built around zero drop plus a wide toe box. Most cushioned running shoes (Hoka, for example) fit wide but are not zero drop, and most retro runners have a real heel-to-toe drop despite looking flat.

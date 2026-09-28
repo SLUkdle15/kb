@@ -19,12 +19,10 @@ Review monthly, or weekly when actively training.
 
 ## Protocols
 
-- [[areas/soccer/decide-whether-to-cancel-weekly-soccer|Decide Whether to Cancel Weekly Soccer]]
 - [[areas/soccer/half-turn-under-pressure|Half-Turn Under Pressure]]
 
 ## Current Actions
 
-- [[next/maybe/2026-09-02 - Text the Guy to Change Weekly Soccer from Tuesday to Monday|Text the Guy to Change Weekly Soccer from Tuesday to Monday]] (someday/maybe)
 
 ## Current Projects
 

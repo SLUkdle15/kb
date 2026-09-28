@@ -7,7 +7,7 @@ Area: [[areas/photography/photography|Photography]]
 
 Work through [Introduction to Photography](https://www.linkedin.com/learning/introduction-to-photography/introduction?u=556470434) on LinkedIn Learning.
 
-Write what it teaches about the body into [[areas/photography/2026-09-09 - Exposure Basics on the 6D Mark II|Exposure Basics on the 6D Mark II]] — ISO is the gap there, and the course should close it.
+Write what it teaches about the body into [[areas/photography/2026-09-09 - Canon 6D Mark II|Exposure Basics on the 6D Mark II]] — ISO is the gap there, and the course should close it.
 
 ## Status
 
