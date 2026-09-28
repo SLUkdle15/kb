@@ -887,3 +887,12 @@
 - Outcome and definition of done cut back to what the project controls: applications submitted to three to five US programs ahead of each deadline, not enrollment
 - Step 10 (offer, I-20, F-1 visa, resign, enroll) is no longer a step — it moved to an After This Project section and becomes its own project once an offer lands
 - Deadline line left as written, including the 2026-08-27 anchor
+
+## [2026-09-28] lint | Vault health check
+
+- Indexed 463 notes
+- Broken wiki links: 2
+- Orphan notes: 1
+- Projects missing next actions: 0
+- Stale-claim candidates: 47
+- Report: /tmp/vault-lint/report.md

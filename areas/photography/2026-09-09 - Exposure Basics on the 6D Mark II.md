@@ -26,6 +26,7 @@ Shutter speed is the trade-off between exposure and motion.
 
 - A fast shutter - (short exposure), such as 1/1000 (one second split a thousand times), freezes fast motion and lets in less light.
 - A slow shutter lets in more light and gives motion blur.
+- Watch the shutter speed even in auto mode. Below roughly 1/60 handheld, camera shake starts to soften the shot, and in low light the camera will choose a slow speed without flagging it. The habit is to check what it picked and, if it is under 1/60, brace the body against something solid or put the camera on a tripod ([[next/maybe/2026-09-01 - Buy Tripod and Memory Card|not bought yet]]).
 
 ## Aperture
 

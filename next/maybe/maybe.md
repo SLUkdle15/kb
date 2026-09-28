@@ -33,3 +33,4 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-08-26 - Watch the Endgame Encore Showing|Watch the Endgame Encore Showing]] — showing is 2026-09-25
 - [[2026-09-24 - Dissect the AI Chatbot Project|Dissect the AI Chatbot Project]] — Area: [[areas/technical-growth/technical-growth|Technical Growth]]
 - [[2026-09-27 - Buy a Golf Bag to Go to the Range Alone|Buy a Golf Bag to Go to the Range Alone]] — own bag so weekday range sessions are possible. Area: [[areas/golf-training/golf-training|Golf Training]], Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
+- [[2026-09-28 - Discover What Movies I Can Watch on JFF|Discover What Movies I Can Watch on JFF]] — Japanese Film Festival streaming catalogue

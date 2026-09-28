@@ -11,3 +11,7 @@ Work from the book's own table of contents and from what Phase 3 of [[areas/tech
 ## Done When
 
 The Reading Questions section holds questions that were picked deliberately, and the generated ones are gone.
+
+## Disposition
+
+Done 2026-09-28. Five questions picked deliberately and written into [[inbox/2026-09-09 - Learning Domain-Driven Design|2026-09-09 - Learning Domain-Driven Design]], replacing the generated list. They cover when DDD earns its cost, bounded contexts against deployment boundaries, what is testable without a database, how the model and Ubiquitous Language are discovered, and aggregate size and consistency.
