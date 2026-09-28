@@ -1,6 +1,6 @@
 # Vocabulary
 
-Topic collocations captured while writing, not a "band 9 vocabulary" list. [[projects/score-ielts-7-overall/materials|Materials]] rules those out — forty to sixty collocations actually used in an essay beat a thousand reviewed flashcards.
+Topic collocations captured while writing, not a "band 9 vocabulary" list — rare words used imprecisely score *below* plain words used correctly. Forty to sixty collocations actually used in an essay beat a thousand reviewed flashcards, so this note is capped around there.
 
 Each entry: the collocation, the correction if one was needed, and one example sentence.
 

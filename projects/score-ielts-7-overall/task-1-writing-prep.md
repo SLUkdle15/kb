@@ -1,6 +1,6 @@
 # Task 1 Writing Prep
 
-Check against these before the next Task 1 attempt. Distilled from [[projects/score-ielts-7-overall/error-log|the error log]] and the 08-31 self-score; grammar rules moved to [[projects/score-ielts-7-overall/grammar-article-rules|Article Rules]].
+Check against these before the next Task 1 attempt. Distilled from [[projects/score-ielts-7-overall/error-log|the error log]] and the 08-31 self-score; grammar rules moved to [[projects/score-ielts-7-overall/grammar-patterns#Articles|Grammar Patterns]].
 
 ## Three Families, One Toolkit Each
 

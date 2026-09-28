@@ -9,7 +9,7 @@ Due: 2026-09-29 20:00
 
 60 min: three cue cards, each recorded to a full two minutes, then listen back to one. Use the four-slot frame in [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]]. Cards from IELTS Liz's bank, topics outside travel.
 
-These are turns 1, 2 and 3 against a Phase 1 budget of roughly twenty — not a resumption. Nothing has been recorded since the [[projects/score-ielts-7-overall/speaking-baseline|2026-08-21 baseline]], and Speaking is the wider gap: +1.5 against the 6.5 floor versus Writing's +1.0.
+These are turns 1, 2 and 3 against a Phase 1 budget of roughly twenty — not a resumption. Nothing has been recorded since the [[archives/score-ielts-7-overall/speaking-baseline|2026-08-21 baseline]], and Speaking is the wider gap: +1.5 against the 6.5 floor versus Writing's +1.0.
 
 Soccer is 17:30-18:30, so this sits after it.
 

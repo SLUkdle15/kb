@@ -10,7 +10,7 @@ Due: 2026-08-24
 
 ## Action
 
-Split off [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic|the Reading sitting]] so each piece fits its own one-hour slot. By the time this runs, all four baseline pieces exist: [[projects/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2]], [[projects/score-ielts-7-overall/writing-task-1-baseline|Writing Task 1]], [[projects/score-ielts-7-overall/speaking-baseline|Speaking]] (Pronunciation still an assumed 5, not audio-verified), and the Reading section from 08-23. Pull them into one verdict.
+Split off [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic|the Reading sitting]] so each piece fits its own one-hour slot. By the time this runs, all four baseline pieces exist: [[archives/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2]], [[archives/score-ielts-7-overall/writing-task-1-baseline|Writing Task 1]], [[archives/score-ielts-7-overall/speaking-baseline|Speaking]] (Pronunciation still an assumed 5, not audio-verified), and the Reading section from 08-23. Pull them into one verdict.
 
 ## Checklist
 

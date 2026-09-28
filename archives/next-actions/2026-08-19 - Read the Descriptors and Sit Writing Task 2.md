@@ -12,8 +12,8 @@ First slice of Week 0's baseline — sized to fit a one-hour window today. The r
 
 - [x] Download the official public band descriptors for Writing Task 1, Writing Task 2, and Speaking from ielts.org.
 - [x] Read the band 6 and band 7 rows side by side, criterion by criterion. Twenty minutes, and it reframes everything after it.
-- [x] Writing Task 2 in 40 minutes, from a real Cambridge past paper, under time. No dictionary, no pausing, no restarting. Write it in [[projects/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2 Baseline]].
+- [x] Writing Task 2 in 40 minutes, from a real Cambridge past paper, under time. No dictionary, no pausing, no restarting. Write it in [[archives/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2 Baseline]].
 
 ## Done When
 
-The descriptors have been read once, and a timed Task 2 essay exists in [[projects/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2 Baseline]], ready to self-score tomorrow.
+The descriptors have been read once, and a timed Task 2 essay exists in [[archives/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2 Baseline]], ready to self-score tomorrow.

@@ -1,6 +1,6 @@
-# Task 2 Intro Drills
+# Task 2 Drills
 
-Planning-line reps for [[projects/score-ielts-7-overall/task-2-writing-prep|Task 2 Writing Prep]]: the prompt, then the intro and the two body topic sentences as they were actually written.
+Reps for [[projects/score-ielts-7-overall/task-2-writing-prep|Task 2 Writing Prep]], one section per session: the prompt, then the planning line (intro and the two body topic sentences) and the four-sentence body chain (idea → mechanism → example → consequence) as they were actually built, wrong turns included. Not every session produces both.
 
 Each entry is left verbatim and uncorrected, for the Phase 3 re-read. Repeated errors go to [[projects/score-ielts-7-overall/error-log|Error Log]], not here.
 
@@ -79,6 +79,17 @@ Caught at the planning-line check, before writing: as stated this is a fact nobo
 Access and skill are independent — either can fail without the other — so they pass the one-reason-per-body test.
 
 **Sanity check, a built prompt.** *Some people love eating vegetables, but some don't. To what extent do you agree or disagree?* Same shape, worked cold to confirm the method transfers: biology (bitter-taste sensitivity) and early exposure, two reasons for the same verdict, not two camps.
+
+## 2026-09-16 — Discuss Both Views (Early vs. Late School Start)
+
+**Prompt.** Some people think that children should start school at a very early age, but others believe that children should go to school until they are older. Discuss both views and give your opinion.
+
+**Body 1 (early start).**
+
+1. **Idea.** Early exposure to the school environment.
+2. **Mechanism.** Exposure → children adapt faster, rather than adjusting to a new environment and new academic demands at once.
+3. **Example.** Vietnam — parents enrol children in preschool from as young as three.
+4. **Consequence, first draft.** *Children settle into formal education with far less disruption than those who begin later and must adapt to everything at once.* Caught as a restatement of sentence 2 — same causal claim ("adapt faster" / "less disruption... at once"), different words, not a new effect.
 
 ## 2026-09-22 — Opinion, Positive/Negative (Online vs. Face-to-Face Teaching)
 

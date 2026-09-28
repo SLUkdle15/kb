@@ -31,65 +31,29 @@ Two consequences that shape the whole plan:
 
 ## Baseline Verdict
 
-Made 2026-08-24, closing Phase 0. Consolidated from [[projects/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2]], [[projects/score-ielts-7-overall/writing-task-1-baseline|Writing Task 1]], and [[projects/score-ielts-7-overall/speaking-baseline|Speaking]].
+Made 2026-08-24, closing Phase 0. Detail archived in [[archives/score-ielts-7-overall/writing-task-2-baseline|Writing Task 2]], [[archives/score-ielts-7-overall/writing-task-1-baseline|Writing Task 1]], and [[archives/score-ielts-7-overall/speaking-baseline|Speaking]].
 
-### The Eight Bands
+**Writing ≈ 5.5, Speaking ≈ 5.0** — so **+1.0 on Writing and +1.5 on Speaking** against the 6.5 floor. Lexical Resource and Grammatical Range and Accuracy scored 5 in every place they appear, in both skills at once; Task Response and Coherence were already 6. Scored against [[resources/ielts/2026-09-15 - IELTS Band Descriptors|IELTS Band Descriptors]].
 
-Scored against [[resources/ielts/2026-09-15 - IELTS Band Descriptors|IELTS Band Descriptors]], which holds the official wording for bands 5 to 8.
+**Fluency is binding, not structure**, which is why the test moved off 3 October. The error-free sentence rate was 13% on Task 2 and 10% on Task 1 against a band 7 definition of *frequent* error-free sentences, and Speaking already does the structural things right — sustained two-minute answers, holds position — and still scored 5 on grammar and vocabulary alone. The mitigating fact, and the reason the project is not in trouble: every logged error sits in four high-frequency mechanical categories — subject-verb agreement, plural `-s`, articles, past-tense marking — which is drillable in a way raw fluency is not, just not in six weeks alongside everything else.
 
-| Criterion | Writing | Speaking |
-| --- | --- | --- |
-| Task Response / Fluency and Coherence | 6 (Task 1: 5) | 5.5 |
-| Coherence and Cohesion | 6 (Task 1: 5) | — |
-| Lexical Resource | 5 | 5 |
-| Grammatical Range and Accuracy | 5 (Task 1: 4) | 5 |
-| Pronunciation | — | 5 (audio-verified 2026-08-24) |
+**Listening baselined 2026-08-31**: Cambridge IELTS Book 16, Test 1, 31/40 — Band 7, close to the assumption the Band Arithmetic table was built on. Reading is near-full on a past official TRF but has not been re-confirmed this cycle. With Writing and Speaking sitting exactly at the 6.5 floor, Listening has no slack to cover a shortfall, so Reading has to clear 7.5 to reach the required 14.5 — worth re-confirming rather than resting on "near-full."
 
-Task 2 weighs double against Task 1, so **Writing ≈ 5.5** and **Speaking ≈ 5.0**. Against the 6.5 floor that is **+1.0 on Writing and +1.5 on Speaking**.
-
-Read down the columns: Lexical Resource and Grammatical Range and Accuracy are 5 in every place they appear. Task Response and Coherence are already 6 in Task 2 — half a band from target. The two language criteria are a full band and a half away, in both skills at once, and they are the same two criteria in each. That is the diagnosis.
-
-Pronunciation was an assumption when this verdict was written and was audio-verified the same day at the same band 5, so the table above stands as measured.
-
-Reading is near-full on a past official TRF — real evidence, historical format, not re-confirmed this cycle. **Listening baselined 2026-08-31**: Cambridge IELTS Book 16, Test 1, 31/40 correct — **Band 7**, sat two days late (due 2026-08-29). See [[archives/next-actions/2026-08-29 - Sit the Listening Baseline|the baseline action]].
-
-This lands close to the assumption the Band Arithmetic table above was built on (7.0), so the plan does not change. It does mean the margin is thinner than it looks: with Writing and Speaking sitting exactly at the 6.5 floor, Reading has to clear 7.5 to reach the required 14.5 Reading+Listening sum — worth re-confirming Reading's actual band rather than resting on "near-full," since Listening no longer has slack to cover a shortfall there.
-
-### Structural or Fluency
-
-**Both are present, but fluency is the binding constraint.**
-
-Structural failures are real and fast to fix: no Task 1 overview, examples asserted rather than concrete, the other side never weighed in an *outweigh* question, mechanical *First of all / Second* cohesion. Those account for the gap between Task Response 6 and 7, and weeks of work would close them.
-
-They are not what is holding the band down. The error-free sentence rate is 13% on Task 2 and 10% on Task 1, against a band 7 definition of *frequent* error-free sentences. And Speaking already does the structural things right — sustained two-minute answers, never gives up, holds position — and still scores 5 on grammar and vocabulary alone. That is precisely the case [[projects/score-ielts-7-overall/six-week-plan|the plan]] named as the slow problem.
-
-The mitigating fact, and the reason the project is not in trouble: every logged error sits in four high-frequency mechanical categories — subject-verb agreement, plural `-s`, articles, and past-tense marking. That is drillable in a way raw fluency is not. It is just not drillable in six weeks alongside everything else.
-
-### Go / No-Go
-
-**No-go on 3 October 2026. Plan for mid-November.**
-
-Lexical Resource and Grammatical Range and Accuracy sit at 5 everywhere they appear with an error-free sentence rate of 10–13%, and Speaking already does the structural things right and still scores 5 — so what remains is the slow problem rather than the fast one, and the rep budget confirms it: Phase 1 alone wants roughly twenty recorded Part 2 turns, four Task 2s written and rewritten, and two Task 1s, which at one hour a day runs five to six weeks and lands on top of 3 October with Phases 2 and 3 untouched.
-
-Nothing about the plan changes — Phase 1 is the same work against either date. What changes is that booking does not lock in October.
 
 ## Plan
 
 - [[projects/score-ielts-7-overall/six-week-plan|Six-Week Plan]] — week-by-week schedule and the one-hour daily template.
-- [[projects/score-ielts-7-overall/2026-09-28 - Week of 2026-09-28 Prep Plan|Week of 2026-09-28 Prep Plan]] — this week's template instance: a tick list, a rep count, and a link to each day's calendar block. Restarts the cadence after the week of 09-21 went unwritten; supersedes [[projects/score-ielts-7-overall/2026-09-14 - Week of 2026-09-14 Prep Plan|Week of 2026-09-14]], which is also the last instance written as a page rather than as dated commitments.
+- [[projects/score-ielts-7-overall/2026-09-28 - Week of 2026-09-28 Prep Plan|Week of 2026-09-28 Prep Plan]] — this week's template instance: a tick list, a rep count, and a link to each day's calendar block. Restarts the cadence after the week of 09-21 went unwritten. Earlier weeks ran as pages rather than dated commitments; the last of them is archived.
 - [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] — what actually separates a 5.5 essay from a 6.5 one, plus the self-scoring pass.
 - [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]] — the long-turn and Part 3 mechanics, and the recording loop.
 - [[projects/score-ielts-7-overall/error-log|Error Log]] — running list of repeated mistakes. This is the single most load-bearing note in the project.
 - [[projects/score-ielts-7-overall/repertoire|Repertoire]] — the counterpart to the error log: lenses and plain-English questions for generating content on any topic, plus the anchor-example bank.
-- [[projects/score-ielts-7-overall/grammar-countable-uncountable-nouns|Countable and Uncountable Nouns]] — the never-take-`-s` list, singular-verb rule, and collective nouns.
-- [[projects/score-ielts-7-overall/grammar-article-rules|Article Rules]] — singular countable nouns, superlatives, and generic vs. specific *the*, checked before the next sentence.
-- [[projects/score-ielts-7-overall/grammar-other-patterns|Other Grammar Patterns]] — the missing-*that* complementizer and verb + preposition collocations.
+- [[projects/score-ielts-7-overall/grammar-patterns|Grammar Patterns]] — the standing rules behind the error log's repeat categories: uncountable and collective nouns, articles and *the*, and the missing-*that* complementizer. Checked during the self-scoring pass.
 - [[projects/score-ielts-7-overall/task-2-writing-prep|Task 2 Writing Prep]] — the two-sentence intro shape and the four-sentence body shape in one place: openers, the paraphrase test, structures to use, and how the two bodies relate. Checked before the next Task 2 attempt.
-- [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]] — running log of planning-line reps: the prompt, the intro, and the two topic sentences as written.
-- [[projects/score-ielts-7-overall/task-2-body-drills|Task 2 Body Drills]] — running log of body-paragraph reps: the prompt and the four-sentence chain as actually built.
+- [[projects/score-ielts-7-overall/task-2-drills|Task 2 Drills]] — running log of reps, one section per session: the planning line as written, and the four-sentence body chain as actually built.
+- [[projects/score-ielts-7-overall/vocabulary|Vocabulary]] — topic collocations captured while writing, with the correction and one example sentence each. Read alongside Task 2 Writing Prep.
 - [[projects/score-ielts-7-overall/task-1-writing-prep|Task 1 Writing Prep]] — intro structure, precise collocations, the chart-relationship sentence, and coherence, checked before the next Task 1 attempt.
 - [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]] — which tests from books 16-20 are spent, and what stays unseen for the mocks.
-- [[projects/score-ielts-7-overall/materials|Materials]] — the short list of sources, and what to ignore.
 
 ## Next Actions
 

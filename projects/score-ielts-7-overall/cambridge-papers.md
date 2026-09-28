@@ -1,6 +1,6 @@
 # Cambridge Papers Used
 
-Practice tasks come from the **Cambridge IELTS past paper books 16 to 20**, in hand since 2026-08-23. [[projects/score-ielts-7-overall/materials|Materials]] makes this non-negotiable: invented practice questions are subtly off in ways that matter, so they are not used.
+Practice tasks come from the **Cambridge IELTS past paper books 16 to 20**, in hand since 2026-08-23 — real retired tests, and the only tasks worth timing yourself against. This is non-negotiable: invented practice questions are subtly off in ways that matter, so they are not used.
 
 This note exists for one reason: a paper can only be sat cold once. Track what has been used so a paper already seen does not get resat and hand back a flattering score.
 
@@ -14,9 +14,9 @@ This note exists for one reason: a paper can only be sat cold once. Track what h
 
 | Book | Test | Task | Used for | Date |
 | --- | --- | --- | --- | --- |
-| — | — | Writing Task 2, tourism | [[projects/score-ielts-7-overall/writing-task-2-baseline|Task 2 baseline]] | 2026-08-19 |
-| — | — | Writing Task 1, household internet access | [[projects/score-ielts-7-overall/writing-task-1-baseline|Task 1 baseline]] | 2026-08-21 |
-| — | — | Speaking, full test on travel | [[projects/score-ielts-7-overall/speaking-baseline|Speaking baseline]] | 2026-08-21 |
+| — | — | Writing Task 2, tourism | [[archives/score-ielts-7-overall/writing-task-2-baseline|Task 2 baseline]] | 2026-08-19 |
+| — | — | Writing Task 1, household internet access | [[archives/score-ielts-7-overall/writing-task-1-baseline|Task 1 baseline]] | 2026-08-21 |
+| — | — | Speaking, full test on travel | [[archives/score-ielts-7-overall/speaking-baseline|Speaking baseline]] | 2026-08-21 |
 | — | — | Writing Task 2, traffic congestion | Rewrite session, three passes | 2026-08-26 |
 | — | — | Writing Task 1, commuter transport across three cities | Timed rep | 2026-08-28 |
 | — | — | Writing Task 1, three leisure activities | Timed rep | 2026-08-29 |
@@ -24,7 +24,7 @@ This note exists for one reason: a paper can only be sat cold once. Track what h
 | 16 | 1 | Listening | Listening baseline | 2026-08-31 |
 | 16 | 1 | Writing Task 1 | 30-min timed rep | 2026-08-31 |
 
-Every row above predates this note, and none of them can be traced to a book and test number now. The three baselines came before the books arrived on 2026-08-23 — the Task 2 baseline records itself as an official ielts.org sample — and the 2026-08-29 rep was an invented chart, which is exactly what the materials rule warns against. Fill in the book and test columns for the 08-26 and 08-28 rows if you remember where they came from; otherwise treat all six as spent and take everything from here on out of the books.
+Every row above predates this note, and none of them can be traced to a book and test number now. The three baselines came before the books arrived on 2026-08-23 — the Task 2 baseline records itself as an official ielts.org sample — and the 2026-08-29 rep was an invented chart, which is exactly what the rule above rules out. Fill in the book and test columns for the 08-26 and 08-28 rows if you remember where they came from; otherwise treat all six as spent and take everything from here on out of the books.
 
 ## Still Unseen
 

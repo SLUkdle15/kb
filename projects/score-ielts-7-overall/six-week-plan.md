@@ -1,5 +1,15 @@
 # Study Plan
 
+## Where I Am
+
+**Phase 1 — Mechanics**, since 2026-08-24. Updated 2026-09-28.
+
+Five weeks in against a budget of roughly two weeks of reps — behind on reps, not past them. Task 1s to time are done (2 of 2); Task 2 essays are 2 of 4 written and 1 of 4 rewritten; **recorded Part 2 turns are 0 of ~20**, which is the binding gap and the reason [[projects/score-ielts-7-overall/2026-09-28 - Week of 2026-09-28 Prep Plan|this week]] weights toward speaking. Eight intro/planning drills sit outside the budget — useful, but they do not clear the bar.
+
+Of the five move-on criteria: essay-shape selection and the locked four-paragraph structure are holding, the error log has real repeat offenders, the Task 1 overview is untested since 08-31, and Part 2 cannot be assessed at all until there are recordings.
+
+Update this line when a phase changes or the rep count moves.
+
 Built for 5–7 hours a week — about an hour on weekdays and a longer block on Saturday. Phases advance on **pass criteria, not calendar weeks**: move to the next phase as soon as you hit the bar, even mid-week; stay in a phase past its rough budget if you haven't. "Six and a half weeks" was always an estimate built from the reps below, not a fixed schedule — the real constraint is the outer time limit (mid-November, see [[projects/score-ielts-7-overall/score-ielts-7-overall|the project note]]) and, once booked, the actual test date.
 
 The shape of it: fix mechanics, build volume with rewrites, rehearse under exam conditions, taper. Writing and Speaking alternate on weekdays so neither gets a week off. Reading and Listening get one Saturday section, purely to hold the band. Only Taper is genuinely date-bound — it's the final stretch before the actual test, not a skill milestone.
@@ -24,19 +34,8 @@ Wednesday is the highest-value hour in the week. Writing new essays raises volum
 
 ## Phase 0 — Baseline
 
-Nothing improves until the diagnosis is real. Started 2026-08-19.
+**Closed 2026-08-24**, started 2026-08-19 — see [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]] for the result and [[archives/score-ielts-7-overall/writing-task-2-baseline|the archived baselines]] for the working. Two things carry forward: **Listening was the untested skill** and has since been baselined at 7, and Reading rests on a past official TRF rather than a fresh sitting, so its confirmation lives in the Saturday maintenance rotation. Booking is no longer readiness-gated — it is a dated commitment for [[next/calendar/2026-10-03 - Book the IELTS Test for Mid-November|2026-10-03]], and the mock checkpoints in Phases 2 and 3 depend on the mock bank that booking unlocks.
 
-- Read the official public band descriptors for Writing Task 2 and for Speaking, and read the 6 and 7 rows side by side. Twenty minutes, and it reframes everything after it.
-- Sit a baseline: one Task 2 in 40 minutes, one Task 1 in 20, one recorded full Speaking test. Self-score all of it. See [[archives/next-actions/2026-08-19 - Read the Descriptors and Sit Writing Task 2]], [[archives/next-actions/2026-08-19 - Self-Score the Baseline Writing Task 2 Essay]], [[archives/next-actions/2026-08-21 - Sit IELTS Task 1 and Record the Speaking Test]], [[archives/next-actions/2026-08-22 - Score the Speaking Baseline Recording]], and [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic]].
-- ~~Book the test when ready.~~ Superseded 2026-09-27: booking is now a dated commitment for 2026-10-03 (set that day at 09-30, moved to 10-03 the same day), not readiness-gated. The phases below still work against any date, but the mock checkpoints in Phases 2 and 3 depend on the mock bank that booking unlocks. See [[next/calendar/2026-10-03 - Book the IELTS Test for Mid-November|Book the IELTS Test for Mid-November]].
-- ~~One timed Reading section to confirm it is still at 7.5 or above.~~ Settled without a sitting: Reading is near-full on a past official IELTS TRF, so it is not where the risk lives. Confirmation folds into the Saturday maintenance rotation rather than gating Phase 0. **Listening is now the untested skill** — it has never been baselined, so it takes the next Saturday alternating slot.
-- Start the error log with whatever the baseline exposes.
-
-**Move on when:** eight criterion-level bands are written down and the structural-vs-fluency call is made.
-
-**Closed 2026-08-24.** Both done — see [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]]. Writing ≈ 5.5, Speaking ≈ 5.0, with Lexical Resource and Grammatical Range and Accuracy at 5 in every place they appear. Fluency judged binding rather than structure, so the test moved from 3 October to mid-November. Phase 1 starts from here.
-
-Read the baseline honestly. Structural failures — no clear position, no Task 1 overview, Part 2 answers running dry at 50 seconds, under 250 words — are fixable in a few weeks. If instead the writing addresses the question fully and the speaking runs the full two minutes and it still scores 5.5 on grammar and vocabulary alone, that is a slower problem, and the right move is a November or December test date rather than a heroic October.
 
 ## Phase 1 — Mechanics
 

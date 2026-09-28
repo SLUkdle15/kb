@@ -10,7 +10,7 @@ Sit one full timed Listening section from Cambridge IELTS 16–20 and score it.
 
 Listening is the only one of the four skills with no baseline at all. [[projects/score-ielts-7-overall/six-week-plan|The plan]] gave it the next Saturday alternating slot after Reading was settled without a sitting; it has since been passed over. Until it is sat, the band arithmetic in the project note is resting on an assumption for a quarter of the test.
 
-- Use a paper from the books, not an online sample — see [[projects/score-ielts-7-overall/materials|Materials]].
+- Use a paper from the books, not an online sample — see [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]].
 - Log which book and test in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]] before starting, so it is not resat later.
 - Exam conditions: one play, no pausing, no rewinding.
 

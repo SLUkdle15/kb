@@ -10,7 +10,7 @@ Next slice of Week 0's baseline, after Task 2 was [[archives/next-actions/2026-0
 
 ## Checklist
 
-- [x] Writing Task 1 in 20 minutes, under time. No Cambridge book available — used an invented prompt instead, flagged as such in [[projects/score-ielts-7-overall/writing-task-1-baseline|the baseline note]].
+- [x] Writing Task 1 in 20 minutes, under time. No Cambridge book available — used an invented prompt instead, flagged as such in [[archives/score-ielts-7-overall/writing-task-1-baseline|the baseline note]].
 - [x] Run the self-scoring pass in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] on the Task 1 essay.
 - [x] A full Speaking test recorded on the phone: Part 1, one Part 2 cue card with one minute of preparation, and four Part 3 questions. No script, no retakes. Saved, scoring deferred to 2026-08-23 per plan.
 - [x] Add every repeated error from Task 1 to [[projects/score-ielts-7-overall/error-log|Error Log]].

@@ -1,6 +1,6 @@
 # Task 2 Writing Prep
 
-Check against this before the next Task 2 attempt. Distilled from the four Task 2 reps of Phase 1 and the 09-07 self-score; the band-level reasoning behind it is levers 1 through 5 in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] — paraphrase and framing (1, 2) and referencing (4) for the intro; one idea per paragraph, developed (3), and never trading accuracy for ambition (5) for the bodies. Content is decided before it is announced: when writing, the two bodies are built first and the intro last, since it has nothing to summarize until the two reasons exist as sentences — this note runs intro first, bodies second, since it's read as a check, not followed as a build sequence. Collocations worth reusing go in [[projects/score-ielts-7-overall/vocabulary|Vocabulary]]; reps are logged in [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]] and [[projects/score-ielts-7-overall/task-2-body-drills|Task 2 Body Drills]].
+Check against this before the next Task 2 attempt. Distilled from the four Task 2 reps of Phase 1 and the 09-07 self-score; the band-level reasoning behind it is levers 1 through 5 in [[projects/score-ielts-7-overall/writing-6-5-levers|Writing 6.5 Levers]] — paraphrase and framing (1, 2) and referencing (4) for the intro; one idea per paragraph, developed (3), and never trading accuracy for ambition (5) for the bodies. Content is decided before it is announced: when writing, the two bodies are built first and the intro last, since it has nothing to summarize until the two reasons exist as sentences — this note runs intro first, bodies second, since it's read as a check, not followed as a build sequence. Collocations worth reusing go in [[projects/score-ielts-7-overall/vocabulary|Vocabulary]]; reps are logged in [[projects/score-ielts-7-overall/task-2-drills|Task 2 Drills]].
 
 ## The Introduction
 
@@ -28,7 +28,7 @@ The shape cannot rescue the wrong type: answering one part of a two-part questio
 
 A prompt that states *some do X, some don't* looks like discuss-both-views, but it isn't — commit to one verdict and defend it with two non-overlapping reasons, never one reason per camp.
 
-The comms-tech access-gap prompt (caught 2026-09-15 — see [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]]) has four possible verdicts, each with its own reason pair:
+The comms-tech access-gap prompt (caught 2026-09-15 — see [[projects/score-ielts-7-overall/task-2-drills|Task 2 Drills]]) has four possible verdicts, each with its own reason pair:
 
 | Verdict | Reasons |
 | --- | --- |
@@ -66,7 +66,7 @@ The reason that reaches the page is almost always a **property of the thing** �
    - *stars are products of advertising* → *because young people copy the behaviour of whoever they admire*
 3. **Check it can be denied.** *Fast food is convenient* invites no disagreement, so there is nothing to defend for 85 words. *Most people cannot plan a day around cooking* can be denied.
 
-**Passing step 2 does not mean step 3 passes too.** A sentence can already have a person as subject and an action verb — the step 2 shape — and still just report a fact nobody would dispute. *Many athletes trained on public facilities in their early days* (2026-09-14, athletic-facilities rep — see [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]]) names athletes doing something, but nobody would argue with it: there is no mechanism to defend, only an observation. That is exactly why step 3 is checked separately rather than folded into step 2 — a person-subject sentence still needs its own deniability check before it survives to the page.
+**Passing step 2 does not mean step 3 passes too.** A sentence can already have a person as subject and an action verb — the step 2 shape — and still just report a fact nobody would dispute. *Many athletes trained on public facilities in their early days* (2026-09-14, athletic-facilities rep — see [[projects/score-ielts-7-overall/task-2-drills|Task 2 Drills]]) names athletes doing something, but nobody would argue with it: there is no mechanism to defend, only an observation. That is exactly why step 3 is checked separately rather than folded into step 2 — a person-subject sentence still needs its own deniability check before it survives to the page.
 
 **Shorter is not the problem; abstract is.** *Because young people copy what they admire* is a word shorter than *because of the flexibility of fast food* and carries an actor and a verb where the other carries neither. Compress as hard as the budget needs — never back into a bare property noun.
 
@@ -120,7 +120,7 @@ Both 09-09 reps lifted the frame from this note's own example (*This shift is dr
 
 #### Worked Pair
 
-Two earlier drill prompts rebuilt, planning line first. New reps are logged in [[projects/score-ielts-7-overall/task-2-intro-drills|Task 2 Intro Drills]].
+Two earlier drill prompts rebuilt, planning line first. New reps are logged in [[projects/score-ielts-7-overall/task-2-drills|Task 2 Drills]].
 
 **Two-part question.** *Many people like to eat unhealthy food even though they know it's bad for them. Why is this? What is an effective way to improve people's healthy eating habits?*
 
@@ -212,7 +212,7 @@ Skipping sentence 2 is the common failure: the paragraph jumps from the claim to
 
 ### Examples May Be Invented; Prompts May Not
 
-[[projects/score-ielts-7-overall/materials|Materials]] rules out invented practice *prompts*, because they are subtly off in ways that matter. It says nothing against invented examples inside an essay, and nothing needs to: no examiner fact-checks a statistic, and the descriptor asks only that the idea be extended and supported.
+[[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]] rules out invented practice *prompts*, because they are subtly off in ways that matter. It says nothing against invented examples inside an essay, and nothing needs to: no examiner fact-checks a statistic, and the descriptor asks only that the idea be extended and supported.
 
 - **A place beats a fake number.** *Examples asserted, not concrete* is a repeat entry in [[projects/score-ielts-7-overall/error-log|Error Log]], and a bare "30% more stores opened" does not fix it — a statistic with no mechanism attached is still an assertion. A named street with a countable thing on it is easier to write and harder to get wrong.
 - **No fake precision.** Invent the scene, not the decimal place.

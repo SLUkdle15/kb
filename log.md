@@ -928,3 +928,44 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 9
 - Report: /tmp/vault-lint/report.md
+
+## [2026-09-28] lint | Vault health check
+
+- Indexed 462 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 9
+- Report: /tmp/vault-lint/report.md
+
+## [2026-09-28] project | Score IELTS 7.0 Overall trimmed from 20 notes to 13
+
+- Archived the three Phase 0 baselines and the superseded 09-14 week plan to archives/score-ielts-7-overall
+- Baseline Verdict in the project note compressed from ~45 lines to 4 paragraphs; Phase 0 in the study plan collapsed to one
+- Merged three grammar notes into grammar-patterns, and the two Task 2 drill logs into task-2-drills
+- Vocabulary added to the Plan list, which went from 15 bullets to 12
+
+## [2026-09-28] lint | Vault health check
+
+- Indexed 461 notes
+- Broken wiki links: 5
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 8
+- Report: /tmp/vault-lint/report.md
+
+## [2026-09-28] lint | Vault health check
+
+- Indexed 461 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 8
+- Report: /tmp/vault-lint/report.md
+
+## [2026-09-28] project | Materials dropped from Score IELTS 7.0 Overall
+
+- Books are tracked in cambridge-papers, which now carries the no-invented-prompts rule directly
+- Band descriptor links live in the resources/ielts note; IELTS Ready Premium detail folded into the booking action
+- Band-9-vocabulary rule folded into vocabulary; phone recorder already covered by speaking-6-5-levers
+- Project folder now 13 notes / 1,204 lines, from 20 / 1,509
