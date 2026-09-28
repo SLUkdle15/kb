@@ -111,10 +111,55 @@ def strip_code(text: str) -> str:
     return INLINE_CODE_RE.sub("", text)
 
 
+DEFERRAL_HEADING_RE = re.compile(
+    r"worth adding later|how to use|decision prompt|done when|review rhythm|"
+    r"what belongs here|what does not belong here|belongs here|naming",
+    re.IGNORECASE,
+)
+SELF_DATED_RE = re.compile(r"\b\d{4}-\d{2}-\d{2}\b")
+AGEABLE_RE = re.compile(r"\d|https?://")
+SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+|\n")
+# Notes whose flagged terms are known-good and deliberately maintained.
+STALE_SUPPRESSED = {
+    "areas/technical-growth/2026-06-03 - Software Architect Roadmap.md",
+    "next/maybe/2026-08-24 - Snapshot My Finances and Pick a Tracking Method.md",
+}
+
+
+def strip_deferral_sections(text: str) -> str:
+    """Drop sections that describe what a note *may* hold rather than what it claims."""
+    kept: list[str] = []
+    skipping = False
+    for line in text.split("\n"):
+        heading = HEADING_RE.match(line)
+        if heading:
+            skipping = bool(DEFERRAL_HEADING_RE.search(heading.group(2)))
+        if not skipping:
+            kept.append(line)
+    return "\n".join(kept)
+
+
 def strip_template_noise(text: str) -> str:
     """Drop headings and 'Label:' prefixes so template scaffolding is not scanned as claims."""
+    text = strip_deferral_sections(text)
     text = HEADING_RE.sub("", text)
     return FIELD_LABEL_RE.sub(r"\1", text)
+
+
+def stale_terms(claim_prose: str, path_rel: str) -> list[str]:
+    """Time-sensitive terms that sit in a sentence which can actually go out of date.
+
+    A sentence is skipped when it carries its own YYYY-MM-DD stamp (it is audit-ready,
+    not stale) or when it holds nothing that can age - no number, no URL.
+    """
+    if path_rel in STALE_SUPPRESSED:
+        return []
+    found: list[str] = []
+    for sentence in SENTENCE_SPLIT_RE.split(claim_prose):
+        if SELF_DATED_RE.search(sentence) or not AGEABLE_RE.search(sentence):
+            continue
+        found.extend(m.group(1).lower() for m in TIME_SENSITIVE_RE.finditer(sentence))
+    return unique_sorted(found)
 
 
 def first_h1(text: str) -> str | None:
@@ -194,7 +239,7 @@ def extract_note(path: Path, vault: Path, text: str, aliases: dict[str, set[str]
         word_count=len(words),
         modified_time=datetime.fromtimestamp(path.stat().st_mtime, tz=timezone.utc).isoformat(),
         dates_mentioned=unique_sorted([m.group(0) for m in DATE_RE.finditer(prose)]),
-        time_sensitive_terms=unique_sorted([m.group(1).lower() for m in TIME_SENSITIVE_RE.finditer(claim_prose)]),
+        time_sensitive_terms=stale_terms(claim_prose, path_rel),
         unresolved_markers=unique_sorted([m.group(0) for m in UNRESOLVED_RE.finditer(prose)]),
         has_next_actions_section=any(h.lower() == "next actions" for h in headings),
         links_to_next_actions=unique_sorted([

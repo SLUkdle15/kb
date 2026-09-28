@@ -15,4 +15,4 @@ Compare savings programs offered by TPBank and BIDV (current banks in use) and r
 
 ## Outcome
 
-Registered at TPBank: 6-month term at 6.2%. Matures 2027-02-16 — tracked in [[next/waiting/2026-08-17 - TPBank Savings Term Matures|TPBank Savings Term Matures]].
+Registered at TPBank: 6-month term at 6.2%. Matures 2027-02-16 — the decision is committed to 2027-02-09 in [[next/calendar/2027-02-09 - Decide What to Do with the TPBank Deposit|Decide What to Do with the TPBank Deposit]].

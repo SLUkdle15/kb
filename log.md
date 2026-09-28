@@ -905,3 +905,17 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 46
 - Report: /tmp/vault-lint/report.md
+
+## [2026-09-28] lint | Vault health check
+
+- Indexed 465 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 46
+- Report: /tmp/vault-lint/report.md
+
+## [2026-09-28] lint | Stale-claim rules tightened
+
+- Added self-dated / ageable-sentence / deferral-section filters to build_index.py
+- Stale-claim candidates: 46 -> 9 (broken links 2, orphans 0 unchanged)

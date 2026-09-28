@@ -60,4 +60,5 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 - [[next/calendar/2026-10-03 - Dinner with the Bicycles Team]] — 2026-10-03 18:00 (Saturday, before the 20:00 master's field session; venue not picked yet)
 - [[next/calendar/2026-10-04 - Go to the Range and Run an Hour Contact Tally Session]] — 2026-10-04 (Sunday, weekly range session; stay on the 8 iron, bring tripod, record all three numbers)
 - [[next/calendar/2026-10-10 - Drive to Thien Truong]] — 2026-10-10 (same day as temple; check if it's one trip or two)
+- [[next/calendar/2027-02-09 - Decide What to Do with the TPBank Deposit]] — 2027-02-09 (a week before the 2027-02-16 maturity, so the roll-over decision is made rather than defaulted. Area: [[areas/personal-finance/personal-finance|Personal Finance]])
 - [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking]] — 2026-10-15 (six-week checkpoint on the lower back routine; physio if no change)

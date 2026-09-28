@@ -14,7 +14,9 @@ Whoever now handles collection, at the next [[next/calendar/Weekly Sunday Badmin
 
 ## Follow Up
 
-At the next session.
+**2026-10-04** — the first Sunday session after the slot moved off Saturday. "At the next session" has already come and gone several times since 2026-09-06 without settling, because a trigger that resets every week never expires.
+
+If it is not settled that day, stop waiting on the collection cycle and ask whoever runs it directly, by name, for the outstanding amount.
 
 ## Done When
 

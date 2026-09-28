@@ -50,5 +50,6 @@ Review monthly, or weekly when the relationship needs active attention.
 - [[2026-07-15 - Promises to Her|Promises to Her]]
 - [[2026-08-29 - Gift Ideas for Her|Gift Ideas for Her]]
 - [[2026-09-09 - Date Ideas for Us|Date Ideas for Us]]
+- [[areas/ho-tay-walking/ho-tay-walking|Hồ Tây Walking]] — standing walking challenge with her, one loop's worth of distance accumulated across walks
 - [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]
 - [[2026-09-21 - Quick Note on What She Liked|Quick Note on What She Liked]] — she liked Cơm Dừa Bò Hầm; place still unconfirmed

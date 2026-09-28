@@ -8,7 +8,7 @@ One sitting, two halves. The snapshot first — the tracking method is unchoosab
 
 **Calculate the position (~40 min).** Write down, in one place:
 
-- Every account and its balance — TPBank (including the 6-month term at 6.2% from [[next/waiting/2026-08-17 - TPBank Savings Term Matures|2026-08-16]]), CIMB, cash, anything else.
+- Every account and its balance — TPBank (including the 6-month term at 6.2% from [[next/calendar/2027-02-09 - Decide What to Do with the TPBank Deposit|2026-08-16]]), CIMB, cash, anything else.
 - Monthly income, net.
 - Recurring monthly outflows, listed individually rather than as one lump — the individual lines are the only part that is actionable later.
 - Any money owed in either direction.

@@ -6,7 +6,7 @@ type: area
 
 ## Purpose
 
-Build a habit of walking loops and routes around Hồ Tây, and keep an honest count of how many times it's been done. The goal is one full loop's worth of distance — Hồ Tây's shoreline is ≈17.35 km (OpenStreetMap) — accumulated across walks, not necessarily in one go.
+A standing challenge with her: walk loops and routes around Hồ Tây together, and keep an honest count of how many times it's been done. The goal is one full loop's worth of distance — Hồ Tây's shoreline is ≈17.35 km (OpenStreetMap) — accumulated across walks, not necessarily in one go.
 
 ## Standard to Maintain
 
@@ -31,4 +31,4 @@ Review whenever a new walk is logged, or monthly otherwise.
 
 ## Related Resources
 
-- 
+- [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]] — the challenge is shared with her; walks happen when we go together, which is what drives this area.
