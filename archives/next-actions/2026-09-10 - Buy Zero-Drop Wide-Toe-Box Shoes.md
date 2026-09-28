@@ -1,6 +1,6 @@
 # Buy Zero-Drop Wide-Toe-Box Shoes
 
-Resource: [[resources/foot-health/2026-09-13 - Zero Drop, Toe Spring, and Toe Splay|Zero Drop, Toe Spring, and Toe Splay]]
+Resource: [[resources/shoes/2026-09-13 - Zero Drop, Toe Spring, and Toe Splay|Zero Drop, Toe Spring, and Toe Splay]]
 
 ## Action
 
