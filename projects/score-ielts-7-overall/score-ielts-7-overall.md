@@ -59,7 +59,6 @@ Made 2026-08-24, closing Phase 0. Detail archived in [[archives/score-ielts-7-ov
 
 Phase 1 now runs as dated calendar blocks rather than an undated weekly page. The week's six study hours each have their own note with a time on them; [[projects/score-ielts-7-overall/2026-09-28 - Week of 2026-09-28 Prep Plan|the week plan]] holds the tick list and the rep count.
 
-- [[next/calendar/2026-09-29 - IELTS Dissect Monday's Essay|Dissect Monday's Essay]] — Tue 2026-09-29
 - [[next/calendar/2026-09-29 - IELTS Speaking Part 2 Recordings|Speaking Part 2 Recordings]] — Tue 2026-09-29 19:00
 - [[next/calendar/2026-09-30 - IELTS Rewrite Monday's Essay|Rewrite Monday's Essay]] — Wed 2026-09-30 18:30
 - [[next/calendar/2026-10-01 - IELTS Speaking Part 3 and Pronunciation|Speaking Part 3 and Pronunciation]] — Thu 2026-10-01 19:30

@@ -44,11 +44,10 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 ### Recurring — Other
 
-- [[next/calendar/2026-09-30 - Every-3-Weeks Car Gas Fill-Up]] — 2026-09-30 (recurring every 3 weeks)
+- [[next/calendar/2026-10-21 - Every-3-Weeks Car Gas Fill-Up]] — 2026-10-21 (recurring every 3 weeks; last fill 2026-09-30)
 
 ### One-Off
 
-- [[next/calendar/2026-09-29 - IELTS Dissect Monday's Essay]] — 2026-09-29 (Tuesday, dissect the Book 16 Test 2 essay before Wednesday's rewrite. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-09-29 - IELTS Speaking Part 2 Recordings]] — 2026-09-29 19:00 (Tuesday, before soccer at 20:30; three cue cards recorded to two minutes)
 - [[next/calendar/2026-09-30 - IELTS Rewrite Monday's Essay]] — 2026-09-30 18:30 (Wednesday, before the master's field session; the week's highest-value hour)
 - [[next/calendar/2026-09-30 - Implement the Refresh Token Flow for Excel]] — 2026-09-30 (moved from 2026-09-29. Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]])

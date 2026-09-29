@@ -9,3 +9,6 @@ attachments/
 
 # Python bytecode cache from running .agents/scripts/*.py.
 __pycache__/
+
+# Passwords and account credentials — local only, never tracked in git.
+private/
