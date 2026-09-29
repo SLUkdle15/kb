@@ -53,6 +53,8 @@ EXCLUDED_DIRS = {
     "node_modules",
     ".venv",
     "__pycache__",
+    # Credentials, git-ignored; keep their names out of lint reports.
+    "private",
 }
 
 
