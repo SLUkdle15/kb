@@ -33,3 +33,4 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-28 - Discover What Movies I Can Watch on JFF|Discover What Movies I Can Watch on JFF]] — Japanese Film Festival streaming catalogue
 - [[2026-09-14 - Research How to Massage with the Theragun|Research How to Massage with the Theragun]] — Area: [[areas/health/health|Health]]
 - [[2026-09-19 - Review the Images I Have Shot|Review the Images I Have Shot]] — Area: [[areas/photography/photography|Photography]]
+- [[2026-09-29 - Finish a Half Marathon|Finish a Half Marathon]] — Area: [[areas/health/health|Health]]; held until the 2026-10-15 lower back review

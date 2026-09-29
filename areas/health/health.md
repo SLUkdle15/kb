@@ -24,6 +24,8 @@ Review monthly, or weekly while the lower back routine is active.
 - [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking|Review Six Weeks of Lower Back Tracking]]
 - [[next/maybe/2026-09-07 - Get a Lower Back MRI at Tam Anh|Get a Lower Back MRI at Tam Anh]] (someday/maybe — if the routine doesn't help)
 
+- [[next/maybe/2026-09-29 - Finish a Half Marathon|Finish a Half Marathon]] (someday/maybe — held until the six-week checkpoint)
+
 ## Current Projects
 
 - None.
