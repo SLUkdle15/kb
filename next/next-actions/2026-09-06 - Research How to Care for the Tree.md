@@ -1,5 +1,7 @@
 # Research How to Care for the Tree
 
+Area: [[areas/family/family|Family]]
+
 ## Action
 
 Research what the trees in my garden actually need — several of them, one a lemon tree — so the current minimal upkeep can become a real routine: watering, feeding, pruning, or whatever each needs.
