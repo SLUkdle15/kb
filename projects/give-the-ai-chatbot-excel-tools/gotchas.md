@@ -20,7 +20,7 @@
 
 ## Architectural dead ends
 
-**Graph has no worksheet copy** — not in v1.0, not in beta. The `Worksheet.copy()` you're thinking of is Office.js, which only runs inside Excel. Don't build `clone_sheet`.
+**Graph has no worksheet copy** — not in v1.0, not in beta. The `Worksheet.copy()` you're thinking of is Office.js, which only runs inside Excel. That kills the native path, not the tool: `clone_sheet` was cut on those grounds until 2026-09-29, when someone needed it. It is being built as read-the-source-range-and-write-it-into-a-new-sheet, which carries values — not formulas, number formats, column widths, merged cells, conditional formatting, or charts. See [[next/next-actions/2026-09-29 - Implement Clone Sheet for Excel|Implement Clone Sheet for Excel]].
 
 **`onedrive_copy_item` is async and nothing polls it.** It returns a `monitor_url` only, so you can't get the new file's id and can't […]hat blocks `clone_spreadsheet`, not the copy itself.
 

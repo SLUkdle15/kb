@@ -16,8 +16,9 @@ Gotchas: [[projects/give-the-ai-chatbot-excel-tools/gotchas|Gotchas]]
 
 ## Next Actions
 
-- [[next/calendar/2026-09-29 - Implement the Refresh Token Flow for Excel|Implement the Refresh Token Flow for Excel]]
+- [[next/calendar/2026-09-30 - Implement the Refresh Token Flow for Excel|Implement the Refresh Token Flow for Excel]]
 - [[next/waiting/2026-09-25 - Excel Query Rollout|Excel Query Rollout]]
+- [[next/next-actions/2026-09-29 - Implement Clone Sheet for Excel|Implement Clone Sheet for Excel]]
 
 ## Notes
 
@@ -40,3 +41,4 @@ That list came from the architecture note, not from a survey of the code. It was
 - 2026-09-28 — the hardcoded token will not last past 90 days, so the refresh token flow for Excel is now a next action.
 - 2026-09-28 — token handling rollout split out of the wait: it is mine to implement, so it is now a next action; the wait covers only the Excel query rollout on other people's side.
 - 2026-09-28 — token handling rollout action dropped as not needed; the refresh token flow, on the calendar for 2026-09-29, is my remaining piece.
+- 2026-09-29 — per-sheet clone is wanted after all; the 2026-09-25 cut is reversed and a read-range-and-write path is a next action.

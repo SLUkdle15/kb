@@ -20,7 +20,6 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-08-21 - Start Investing|Start Investing]]
 - [[2026-09-01 - Investigate Making Money from the Soc Son Land|Investigate Making Money from the Soc Son Land]] — idle asset, look for similar cases on YouTube
 - [[2026-09-01 - Buy Tripod and Memory Card|Buy Tripod and Memory Card]] — Area: [[areas/photography/photography|Photography]], Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
-- [[2026-09-06 - Put More Effort into Taking Care of the Tree|Put More Effort into Taking Care of the Tree]]
 - [[2026-09-07 - Get a Lower Back MRI at Tam Anh|Get a Lower Back MRI at Tam Anh]] — hold until the six-week checkpoint on 2026-10-15
 - [[2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 - [[2026-09-12 - Try Kayn Kindred Ekko Norra and TF|Try Kayn, Kindred, Ekko, Norra, and TF]]

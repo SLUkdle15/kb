@@ -50,8 +50,8 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 - [[next/calendar/2026-09-29 - IELTS Dissect Monday's Essay]] — 2026-09-29 (Tuesday, dissect the Book 16 Test 2 essay before Wednesday's rewrite. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-09-29 - IELTS Speaking Part 2 Recordings]] — 2026-09-29 19:00 (Tuesday, before soccer at 20:30; three cue cards recorded to two minutes)
-- [[next/calendar/2026-09-29 - Implement the Refresh Token Flow for Excel]] — 2026-09-29 (Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]])
 - [[next/calendar/2026-09-30 - IELTS Rewrite Monday's Essay]] — 2026-09-30 18:30 (Wednesday, before the master's field session; the week's highest-value hour)
+- [[next/calendar/2026-09-30 - Implement the Refresh Token Flow for Excel]] — 2026-09-30 (moved from 2026-09-29. Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]])
 - [[next/calendar/2026-10-01 - IELTS Speaking Part 3 and Pronunciation]] — 2026-10-01 19:30 (Thursday, ends with a row in the error log's Pronunciation table)
 - [[next/calendar/2026-10-02 - IELTS Task 1 to Time]] — 2026-10-02 07:00 (Friday, morning block because the anniversary takes the evening)
 - [[next/calendar/2026-10-02 - 6-Month Anniversary]] — 2026-10-02 (Friday, moved from 2026-09-28; actual mark 2026-09-30. Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]])
