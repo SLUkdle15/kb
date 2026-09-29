@@ -20,6 +20,7 @@ Only papers named by book and test belong here. A prompt that cannot be traced t
 | 16 | 1 | Listening | Listening baseline | 2026-08-31 |
 | 16 | 1 | Writing Task 1 | 30-min timed rep | 2026-08-31 |
 | 16 | 2 | Writing Task 2 | [[projects/score-ielts-7-overall/my work/2026-09-28 - Book 16 Test 2 Task 2 Essay|Monday timed Task 2]] | 2026-09-28 |
+| 16 | 1 | Speaking Part 2 | [[projects/score-ielts-7-overall/my work/2026-09-29 - Book 16 Test 1 Speaking Part 2 Transcript|Cue card rep, product review]] | 2026-09-29 |
 
 ## Spent Prompts, Not Spent Papers
 
@@ -44,7 +45,7 @@ This section is closed. Everything from here on comes out of the books and gets 
 
 Assuming the standard 4 tests per book (confirm against each book's contents page — not verified here):
 
-- Book 16: Test 1 used 2026-08-31 (Writing Task 2, Listening, Writing Task 1). Test 2 Writing Task 2 used 2026-09-28; rest of Test 2 and Tests 3–4 unseen.
+- Book 16: Test 1 used 2026-08-31 (Writing Task 2, Listening, Writing Task 1) and 2026-09-29 (Speaking Part 2). Test 2 Writing Task 2 used 2026-09-28; rest of Test 2 and Tests 3–4 unseen.
 - Book 17: Tests 1–4, unseen.
 - Book 18: Tests 1–4, unseen.
 - Book 19: Tests 1–4, unseen.
