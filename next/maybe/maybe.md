@@ -19,7 +19,6 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-08-17 - Spend 500k Voucher on Fast Food Coffee or Clothes|Spend 500k Voucher on Fast Food, Coffee or Clothes]]
 - [[2026-08-21 - Start Investing|Start Investing]]
 - [[2026-09-01 - Investigate Making Money from the Soc Son Land|Investigate Making Money from the Soc Son Land]] — idle asset, look for similar cases on YouTube
-- [[2026-09-02 - Text the Guy to Change Weekly Soccer from Tuesday to Monday|Text the Guy to Change Weekly Soccer from Tuesday to Monday]] — Area: [[areas/soccer/soccer|Soccer]]
 - [[2026-09-01 - Buy Tripod and Memory Card|Buy Tripod and Memory Card]] — Area: [[areas/photography/photography|Photography]], Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 - [[2026-09-06 - Put More Effort into Taking Care of the Tree|Put More Effort into Taking Care of the Tree]]
 - [[2026-09-07 - Get a Lower Back MRI at Tam Anh|Get a Lower Back MRI at Tam Anh]] — hold until the six-week checkpoint on 2026-10-15

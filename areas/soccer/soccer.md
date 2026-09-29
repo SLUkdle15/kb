@@ -19,12 +19,10 @@ Review monthly, or weekly when actively training.
 
 ## Protocols
 
-- [[areas/soccer/decide-whether-to-cancel-weekly-soccer|Decide Whether to Cancel Weekly Soccer]]
 - [[areas/soccer/half-turn-under-pressure|Half-Turn Under Pressure]]
 
 ## Current Actions
 
-- [[next/maybe/2026-09-02 - Text the Guy to Change Weekly Soccer from Tuesday to Monday|Text the Guy to Change Weekly Soccer from Tuesday to Monday]] (someday/maybe)
 
 ## Current Projects
 
@@ -38,6 +36,6 @@ Review monthly, or weekly when actively training.
 
 - [[areas/soccer/fields-near-me|Fields Near Me]] — candidate fields, still being collected.
 - [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]]
-- [[resources/soccer/tactics/2026-08-31 - Deep Pivot Build-Up Pattern|Deep Pivot Build-Up Pattern]]
+- [[resources/soccer/2026-08-31 - Deep Pivot Build-Up Pattern|Deep Pivot Build-Up Pattern]]
 - [[areas/reading/reading|Reading]] — *Soccer IQ* queued in the to-read list
 - [[areas/personal-development/favorite-problems|Favorite Problems]] — #5 is about competing across the sports I play

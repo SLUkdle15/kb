@@ -31,4 +31,4 @@ Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 
 ## Related
 
-- [[resources/software-engineering/system-architecture/incidents/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]]
+- [[resources/software-engineering/system-architecture/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]]

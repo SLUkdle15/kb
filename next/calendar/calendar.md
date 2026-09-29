@@ -32,7 +32,7 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 ### Recurring — Weekly
 
-- [[next/calendar/Weekly Tuesday Soccer]] — recurring Tuesday 17:30 (reminder 4 days before to decide on cancelling the field)
+- [[next/calendar/Weekly Tuesday Soccer]] — recurring Tuesday 20:30-23:30
 - [[next/calendar/Weekly Sunday Vault Review]] — recurring Sunday 20:00 (run the `review` skill)
 - [[next/calendar/Weekly Sunday Badminton]] — recurring Sunday 15:00-17:00 (moved from Saturday 2026-09-27, for October)
 - [[next/calendar/Twice-Weekly Lower Back Routine]] — recurring Monday and Thursday 21:00-21:15
@@ -48,9 +48,9 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 ### One-Off
 
-- [[next/calendar/2026-09-28 - Check Her Potted Pine and Buy Banh Bao]] — 2026-09-28 (Monday, moved from next actions; buy bánh bao on the same trip. Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]])
-- [[next/calendar/2026-09-28 - IELTS Task 2 Timed Essay]] — 2026-09-28 19:30 (Monday, Book 16 Test 2. Week plan: [[projects/score-ielts-7-overall/2026-09-28 - Week of 2026-09-28 Prep Plan|Week of 2026-09-28]])
-- [[next/calendar/2026-09-29 - IELTS Speaking Part 2 Recordings]] — 2026-09-29 20:00 (Tuesday, after soccer; three cue cards recorded to two minutes)
+- [[next/calendar/2026-09-29 - IELTS Dissect Monday's Essay]] — 2026-09-29 (Tuesday, dissect the Book 16 Test 2 essay before Wednesday's rewrite. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
+- [[next/calendar/2026-09-29 - IELTS Speaking Part 2 Recordings]] — 2026-09-29 19:00 (Tuesday, before soccer at 20:30; three cue cards recorded to two minutes)
+- [[next/calendar/2026-09-29 - Implement the Refresh Token Flow for Excel]] — 2026-09-29 (Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]])
 - [[next/calendar/2026-09-30 - IELTS Rewrite Monday's Essay]] — 2026-09-30 18:30 (Wednesday, before the master's field session; the week's highest-value hour)
 - [[next/calendar/2026-10-01 - IELTS Speaking Part 3 and Pronunciation]] — 2026-10-01 19:30 (Thursday, ends with a row in the error log's Pronunciation table)
 - [[next/calendar/2026-10-02 - IELTS Task 1 to Time]] — 2026-10-02 07:00 (Friday, morning block because the anniversary takes the evening)

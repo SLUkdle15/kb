@@ -4,7 +4,7 @@ type: protocol
 
 # Clean Your Shoes
 
-Source: [[resources/shoe-care/2026-09-11 - Clean Sneakers by Material|Clean Sneakers by Material]]
+Source: [[resources/shoes/2026-09-11 - Clean Sneakers by Material|Clean Sneakers by Material]]
 
 ## Checklist
 

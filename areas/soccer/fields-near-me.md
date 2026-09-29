@@ -21,11 +21,11 @@ Same handling as [[areas/badminton/courts-near-me|Courts Near Me]]: anything wit
 
 ## Worth Adding Later
 
-Only once a field is actually played on, and only what changes the choice for a weekly 17:30 [[next/calendar/Weekly Tuesday Soccer|Tuesday match]]:
+Only once a field is actually played on, and only what changes the choice for a weekly 20:30 [[next/calendar/Weekly Tuesday Soccer|Tuesday match]]:
 
 - Pitch size — 5, 7, or 11-a-side, and whether it splits.
 - Surface and its state: artificial turf age, bald patches, drainage after rain.
-- Floodlights, since 17:30 kickoffs run into the dark for much of the year.
+- Floodlights, since 20:30 kickoffs are always in the dark.
 - Booking method, whether a weekly slot can be held, and the deposit terms.
 - Price per slot, and what it becomes split across the regular squad.
 - Parking, and whether there are changing rooms or just a tap.

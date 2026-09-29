@@ -1,6 +1,6 @@
 # Practices
 
-Use this collection for cross-cutting engineering rules, checklists, and gotchas that do not belong to a single subsystem — release and merge procedure, dependency resolution, and conventions worth applying everywhere.
+Use this collection for cross-cutting engineering rules, checklists, and gotchas that do not belong to a single subsystem — release and merge procedure, dependency resolution, testing principles, working with Claude Code, and conventions worth applying everywhere.
 
 Parent resource: [[resources/software-engineering/software-engineering|Software Engineering]]
 
@@ -12,3 +12,5 @@ Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 - [[resources/software-engineering/practices/2026-09-03 - npm legacy-peer-deps Ignores Peer Dependencies|npm legacy-peer-deps Ignores Peer Dependencies]]
 - [[resources/software-engineering/practices/2026-09-18 - UTC Everywhere, Named Zones Only at Calendar Boundaries|UTC Everywhere, Named Zones Only at Calendar Boundaries]]
 - [[resources/software-engineering/practices/2026-09-25 - Make the Chain Dependency-Driven, Not Clock-Driven|Make the Chain Dependency-Driven, Not Clock-Driven]]
+- [[resources/software-engineering/practices/2026-07-05 - Integration Testing Principles|Integration Testing Principles]]
+- [[resources/software-engineering/practices/2026-09-25 - Sending Output Between Claude Code Sessions|Sending Output Between Claude Code Sessions]]

@@ -58,4 +58,4 @@ Three LinkedIn Learning courses, in this order. Each becomes its own project whe
 ## Related Resources
 
 - [[areas/photography/2026-09-08 - Places I Have Looked At|Places I Have Looked At]] — places already scouted, and what to shoot there
-- [[areas/photography/2026-09-09 - Exposure Basics on the 6D Mark II|Exposure Basics on the 6D Mark II]] — what the camera itself has taught so far: modes, shutter speed, and the rest of the exposure triangle as it gets covered
+- [[areas/photography/2026-09-09 - Canon 6D Mark II|Canon 6D Mark II]] — what the camera body and lens do

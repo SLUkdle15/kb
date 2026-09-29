@@ -7,7 +7,7 @@ Area: [[areas/photography/photography|Photography]]
 
 Watch the next chapter of [Introduction to Photography](https://www.linkedin.com/learning/introduction-to-photography/introduction?u=556470434) — the one after the resume point in the project's Progress log.
 
-Write anything it teaches about the body into [[areas/photography/2026-09-09 - Exposure Basics on the 6D Mark II|Exposure Basics on the 6D Mark II]], and update the resume point.
+Write anything it teaches about the body into [[areas/photography/2026-09-09 - Canon 6D Mark II|Canon 6D Mark II]], and update the resume point.
 
 ## Done When
 

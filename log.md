@@ -985,3 +985,21 @@
 - cambridge-papers: Used now holds only papers named by book and test; the six untraceable reps moved to Spent Prompts, Not Spent Papers
 - Week of 09-28 rep table reconciled against cambridge-papers and the error log — Task 2 and Task 1 were each one short
 - Sat 10-03 dinner added to Around It; the 10-04 range session given 09:00-10:00 and calendar.ics rebuilt
+
+## [2026-09-28] lint | Vault health check
+
+- Indexed 463 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 8
+- Report: /tmp/vault-lint/report.md
+
+## [2026-09-28] lint | Vault health check
+
+- Indexed 463 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 8
+- Report: /tmp/vault-lint/report.md
