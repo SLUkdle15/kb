@@ -13,6 +13,11 @@ Settle what a copy carries before building it. A read-and-write path moves value
 
 Watch the write-then-read lag from the gotchas note — verifying the new sheet immediately after writing it can show nothing there.
 
+Also:
+
+- Add the list permission.
+- Contact thienbm.
+
 ## Done When
 
 A caller can clone a worksheet inside a workbook through the tool, and the gotchas note records what the clone carries and what it drops.
