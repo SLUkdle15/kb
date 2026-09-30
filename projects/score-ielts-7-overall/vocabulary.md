@@ -4,6 +4,8 @@ Topic collocations captured while writing, not a "band 9 vocabulary" list — ra
 
 Each entry: the collocation, the correction if one was needed, and one example sentence.
 
+Anki import: `vocabulary-anki.txt` in this folder (tab-separated, deck IELTS::Vocabulary). Regenerate it when entries are added.
+
 ## General / Any Topic
 
 - **see little value in** (+ gerund/noun), not *value of*. *Many people see little value in studying the past.*

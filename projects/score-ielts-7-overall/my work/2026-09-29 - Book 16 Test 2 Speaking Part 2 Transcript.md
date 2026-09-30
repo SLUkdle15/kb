@@ -1,6 +1,6 @@
-# Book 16 Test 1 Speaking Part 2 Transcript
+# Book 16 Test 2 Speaking Part 2 Transcript
 
-From [[next/calendar/2026-09-29 - IELTS Speaking Part 2 Recordings|IELTS Speaking Part 2 Recordings]]. Auto-transcribed, not hand-corrected — duration not recorded.
+From [[archives/next-actions/2026-09-29 - IELTS Speaking Part 2 Recordings|IELTS Speaking Part 2 Recordings]]. Auto-transcribed, not hand-corrected — duration not recorded.
 
 ## Cue Card
 
