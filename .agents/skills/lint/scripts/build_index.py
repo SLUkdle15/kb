@@ -97,6 +97,19 @@ def iter_markdown(vault: Path) -> list[Path]:
     return sorted(files, key=lambda p: rel(p, vault).lower())
 
 
+def attachment_keys(vault: Path) -> set[str]:
+    """Non-Markdown files a wiki link can point at (PDFs, images), by name and by path."""
+    keys: set[str] = set()
+    for path in vault.rglob("*"):
+        if not path.is_file() or path.suffix.lower() == ".md":
+            continue
+        if set(path.relative_to(vault).parts) & EXCLUDED_DIRS:
+            continue
+        keys.add(normalize_title(path.name))
+        keys.add(normalize_title(rel(path, vault)))
+    return keys
+
+
 def normalize_title(value: str) -> str:
     value = value.strip().split("|", 1)[0].split("#", 1)[0]
     if value.lower().endswith(".md"):
@@ -197,7 +210,9 @@ def resolve_wiki(raw: str, aliases: dict[str, set[str]]) -> str | None:
     return None
 
 
-def extract_note(path: Path, vault: Path, text: str, aliases: dict[str, set[str]]) -> Note:
+def extract_note(
+    path: Path, vault: Path, text: str, aliases: dict[str, set[str]], attachments: set[str]
+) -> Note:
     path_rel = rel(path, vault)
     prose = strip_code(text)
     claim_prose = strip_template_noise(prose)
@@ -211,7 +226,7 @@ def extract_note(path: Path, vault: Path, text: str, aliases: dict[str, set[str]
         resolved_target = resolve_wiki(target, aliases)
         if resolved_target:
             resolved.append(resolved_target)
-        else:
+        elif normalize_title(target) not in attachments:
             broken.append(target)
 
     external_links = set(URL_RE.findall(prose))
@@ -430,7 +445,8 @@ def main() -> int:
     paths = iter_markdown(vault)
     texts = {path: path.read_text(encoding="utf-8", errors="replace") for path in paths}
     aliases = build_aliases(paths, vault, texts)
-    notes = [extract_note(path, vault, texts[path], aliases) for path in paths]
+    attachments = attachment_keys(vault)
+    notes = [extract_note(path, vault, texts[path], aliases, attachments) for path in paths]
 
     backlinks: dict[str, set[str]] = defaultdict(set)
     for note in notes:
