@@ -1021,3 +1021,12 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 9
 - Report: /tmp/claude-1000/-mnt-c-kb/b4ce9862-5798-46f4-bb16-d6f6aad0607d/scratchpad/vault-lint/report.md
+
+## [2026-09-30] lint | Vault health check
+
+- Indexed 467 notes
+- Broken wiki links: 2
+- Orphan notes: 3
+- Projects missing next actions: 0
+- Stale-claim candidates: 9
+- Report: /tmp/vault-lint/report.md
