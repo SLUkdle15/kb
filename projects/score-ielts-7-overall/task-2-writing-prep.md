@@ -206,6 +206,15 @@ One body paragraph, four sentences, in this order:
 3. **One concrete example.** A place, a figure, or a mechanism — something specific enough that it could be wrong.
 4. **The consequence.** Why this matters for the question actually asked. Not a summary of the three sentences above.
 
+To turn a raw idea into the four sentences, answer one question per slot. Each answer becomes that sentence:
+
+| Slot        | Question                                            |
+| ----------- | --------------------------------------------------- |
+| Topic       | Who does what, and why?                             |
+| Mechanism   | Why does this work? What situation makes it happen? |
+| Example     | Where would I see it? Name a product or scene.      |
+| Consequence | So what, for the question I was asked?              |
+
 Skipping sentence 2 is the common failure: the paragraph jumps from the claim to an example, and the example then has to carry the reasoning as well as illustrate it.
 
 **Chain the mechanism to the person.** *Cheap to produce* is a fact about an industry; the eater only feels *cheap to buy*. Sentence 2 has to land on whoever the essay says is acting, not on a property of the thing itself.

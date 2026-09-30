@@ -3,21 +3,4 @@
 #notetype:Basic
 #deck:IELTS::Vocabulary
 #columns:Front	Back	Tags
-Many people see little ___ studying the past.<br><i>(think it is not worth much)</i>	<b>see little value in</b> + gerund/noun<br>Not <i>value of</i>.	general
-Looking backwards provides ___ what is happening now.<br><i>(downplay how useful one thing is for grasping another)</i>	<b>provide limited practical guidance for understanding [X]</b>	general
-These students ___ not through any lack of effort.<br><i>(lose ground relative to others)</i>	<b>fall behind</b> (+ peers / schedule)<br>No preposition before the group.	general
-A country that relies on foreign farms has no control when supply ___.<br><i>(dependency argument)</i>	<b>[X] that relies on [Y] has no control when [Y] is cut off</b><br>Needs the passive <i>is cut off</i>.	general
-History cannot help us ___.<br><i>(forecast what will happen)</i>	<b>predict future outcomes</b><br>Plural unless naming one specific result.	history_society
-Children who start early ___ formal education with far less disruption.<br><i>(adjust to a new setting)</i>	<b>settle into [X] with far less disruption</b><br>Not <i>settle in education</i>.	education
-Children already ___ a structured setting become ___ academic routines faster.<br><i>(two near-synonyms)</i>	<b>accustomed to</b> → conditions, settings, environments<br><b>familiar with</b> → routines, subjects, material	education
-Students without a laptop are ___ online courses altogether.<br><i>(excluded, as an effect on a person)</i>	<b>shut out of [X]</b>	education_technology
-Students who value ___ often lose interest once classes move online.<br><i>(talking with teacher and peers in class)</i>	<b>classroom interaction</b><br>Attributive noun, not <i>classroom's interaction</i>.	education_technology
-___ many nations eat is now grown on other continents.<br><i>(paraphrase: a large amount of food)</i>	<b>a growing share of what [nations] eat</b><br>Reworks the structure, keeps <i>food</i> free for the bodies.	food_trade
-Food is grown on ___.<br><i>(paraphrase: other parts of the world)</i>	<b>other continents</b>	food_trade
-Food is increasingly ___ rather than grown at home.<br><i>(paraphrase: imported)</i>	<b>shipped in / shipped across borders</b><br>Passive, so the food is the subject.	food_trade
-Much of the paper, glass and metal thrown away is never ___.<br><i>(paraphrase: recycled)</i>	<b>reprocessed</b><br>Use in sentence 1; <i>recycling</i> is fine in the bodies.	environment_waste
-Households put all their ___ into one bag.<br><i>(paraphrase: trash)</i>	<b>rubbish / what is thrown away</b><br>Pick <i>rubbish</i> or <i>trash</i> and keep it; avoid <i>stuff</i>.	environment_waste
-Once one company wins buyers this way, its ___ are forced to answer.<br><i>(a company in relation to another)</i>	<b>rival</b> — needs a reference point (<i>its rivals</i>, <i>a rival brand</i>)<br>Synonyms for variety: <b>business / company / firm</b>.	business_advertising
-Xiaomi has ___ Apple by advertising features the iPhone lacked.<br><i>(take buyers from a competitor)</i>	<b>draw customers away from [X]</b> = <b>win customers from [X]</b><br><i>Draw away</i> needs <i>from</i>.	business_advertising
-Xiaomi has ___ Apple by advertising features the iPhone did not yet offer.<br><i>(take buyers from a competitor)</i>	<b>draw customers away from [X]</b> = <b>win customers from [X]</b><br><i>Draw away</i> needs <i>from</i>; <i>win</i> can stand alone.	business_advertising
 Many people ___ phones that still work simply to own the latest version.<br><i>(swap an object for a new one)</i>	<b>replace / throw away / discard</b><br>Not <i>give up on</i>, which means stop trying (<i>give up on a plan</i>).	business_advertising
