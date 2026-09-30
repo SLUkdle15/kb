@@ -18,3 +18,4 @@ Wednesday 2026-09-30: if he hasn't confirmed by then, call him.
 ## Done When
 
 He has confirmed Thursday, or a new day is agreed. Either way, put the visit in `next/calendar`.
+then 2026-09-25 - Clean the Electric Fan and pick up 2026-09-28 - Pick Up Mom's iPhone Gift
