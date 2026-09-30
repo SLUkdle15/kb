@@ -49,7 +49,6 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 ### One-Off
 
 - [[next/calendar/2026-09-29 - IELTS Speaking Part 2 Recordings]] — 2026-09-29 19:00 (Tuesday, before soccer at 20:30; three cue cards recorded to two minutes)
-- [[next/calendar/2026-09-30 - IELTS Rewrite Monday's Essay]] — 2026-09-30 18:30 (Wednesday, before the master's field session; the week's highest-value hour)
 - [[next/calendar/2026-10-01 - Pick and Book the Anniversary French Restaurant]] — 2026-10-01 (Thursday, the day before the 2026-10-02 dinner; moved from next-actions. Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]])
 - [[next/calendar/2026-10-01 - IELTS Speaking Part 3 and Pronunciation]] — 2026-10-01 19:30 (Thursday, ends with a row in the error log's Pronunciation table)
 - [[next/calendar/2026-10-02 - IELTS Task 1 to Time]] — 2026-10-02 07:00 (Friday, morning block because the anniversary takes the evening)

@@ -37,3 +37,8 @@ Reviewed alongside [[projects/score-ielts-7-overall/task-2-writing-prep|Task 2 W
 
 - **reprocessed** — paraphrase of *recycled*. Use it in sentence 1 so the paraphrase doesn't repeat the prompt's verb; *recycling* is still fine in the bodies. *In many countries, much of the paper, glass and metal that is thrown away is never reprocessed.*
 - **rubbish / what is thrown away** — for *trash*. *Rubbish* (British) and *trash* (American) are both accepted, but pick one and use it throughout the essay. *What is thrown away* is a relative clause, useful when the sentence needs to put the action first. Avoid *stuff*, which is too informal. *Households put all their rubbish into one bag.*
+
+## Business / Advertising
+
+- **business / company / firm** — interchangeable for varying the subject across sentences. **Rival** is not a fourth synonym: it names a company *in relation to another*, so it needs a reference point (*its rivals*, *a rival brand*). *Once one company wins buyers this way, its rivals are forced to answer with novelties of their own.*
+- **draw customers away from [X]** = **win customers from [X]** — taking buyers from a competitor. *Draw away* needs *from*; *win* can also stand alone (*win customers*). *Xiaomi has drawn customers away from Apple by advertising features the iPhone did not yet offer.*

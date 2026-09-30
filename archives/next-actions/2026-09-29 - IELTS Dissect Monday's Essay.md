@@ -18,4 +18,4 @@ Start from the gaps the plan already shows:
 
 ## Done When
 
-A dissect note exists with a fixed plan for both bodies and the intro, and [[next/calendar/2026-09-30 - IELTS Rewrite Monday's Essay|Wednesday's rewrite]] can start from it.
+A dissect note exists with a fixed plan for both bodies and the intro, and [[archives/next-actions/2026-09-30 - IELTS Rewrite Monday's Essay|Wednesday's rewrite]] can start from it.
