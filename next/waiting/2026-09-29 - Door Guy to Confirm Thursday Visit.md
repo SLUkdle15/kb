@@ -5,17 +5,16 @@ Related: [[next/maybe/2026-08-09 - Examine the Door|Examine the Door]]
 
 ## Blocked
 
-The door repair visit on Thursday 2026-10-01 isn't confirmed yet.
+The door repair visit was pencilled in for Thursday 2026-10-01. As of that morning he still hasn't said when he's coming — he may turn up today, but no time is agreed.
 
 ## Waiting On
 
-The door guy to confirm he's coming on Thursday.
+The door guy to name a time, today or another day.
 
 ## Follow Up
 
-Wednesday 2026-09-30: if he hasn't confirmed by then, call him.
+2026-10-01: the Wednesday call-him-if-nothing follow-up passed without a confirmation. Call him for a time.
 
 ## Done When
 
 He has confirmed Thursday, or a new day is agreed. Either way, put the visit in `next/calendar`.
-then 2026-09-25 - Clean the Electric Fan and pick up 2026-09-28 - Pick Up Mom's iPhone Gift
