@@ -35,4 +35,3 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-19 - Review the Images I Have Shot|Review the Images I Have Shot]] — Area: [[areas/photography/photography|Photography]]
 - [[2026-09-29 - Finish a Half Marathon|Finish a Half Marathon]] — Area: [[areas/health/health|Health]]; held until the 2026-10-15 lower back review
 - [[2026-09-30 - Examine the Dishwasher|Examine the Dishwasher]] — Area: [[areas/family/family|Family]]
-- [[2026-09-30 - Buy a Charger for the Griller|Buy a Charger for the Griller]] — Area: [[areas/family/family|Family]]

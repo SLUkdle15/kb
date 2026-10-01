@@ -29,3 +29,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-06 - Research How to Care for the Tree|Research How to Care for the Tree]] — Area: [[areas/family/family|Family]]
 - [[2026-09-29 - Update the Workflow MCP Tools and Descriptions|Update the Workflow MCP Tools and Descriptions]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-09-29 - Implement Clone Sheet and List Permissions for Excel|Implement Clone Sheet for Excel]] — Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]]
+- [[2026-09-30 - Buy a Charger for the Griller|Buy a Charger for the Griller]] — Area: [[areas/family/family|Family]]
