@@ -131,13 +131,35 @@ DEFERRAL_HEADING_RE = re.compile(
     r"what belongs here|what does not belong here|belongs here|naming",
     re.IGNORECASE,
 )
-SELF_DATED_RE = re.compile(r"\b\d{4}-\d{2}-\d{2}\b")
-AGEABLE_RE = re.compile(r"\d|https?://")
+# A claim that names its own moment is auditable rather than stale: a full stamp, the
+# MM-DD shorthand used for reps, a month name (bare "May" excluded - it is also a verb),
+# or a season plus year.
+SELF_DATED_RE = re.compile(
+    r"\b\d{4}-\d{2}-\d{2}\b"
+    r"|(?<!\d)\d{2}-\d{2}(?!\d)"
+    r"|\b(?:january|february|march|april|june|july|august|september|october|november|"
+    r"december|jan|feb|mar|apr|jun|jul|aug|sept?|oct|nov|dec)\b"
+    r"|\bmay\s+(?:\d{1,2}|20\d{2})\b"
+    r"|\b(?:spring|summer|fall|autumn|winter)\s+20\d{2}\b",
+    re.IGNORECASE,
+)
+# Something concrete enough to go and re-check: a link, a decimal or version number, an
+# amount, a percentage, or a figure of three digits or more. A bare "step 4" is not one.
+ANCHOR_RE = re.compile(
+    r"https?://"
+    r"|\b\d+\.\d+"
+    r"|\b\d[\d,]*\s*(?:%|k\b|m\b|bn\b|usd|vnd|d\b|million|billion)"
+    r"|[$\u20ac\u00a3\u00a5\u20ab]\s?\d"
+    r"|\b\d{3,}\b",
+    re.IGNORECASE,
+)
 SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+|\n")
-# Notes whose flagged terms are known-good and deliberately maintained.
+# Notes whose flagged terms are known-good and deliberately maintained. Keep this short:
+# a path here is a standing claim that the note is right, so prefer sharpening the rules
+# in stale_terms over adding to it. (The finances snapshot note used to sit here; it has
+# since been archived, and archives are already out of scope for this check.)
 STALE_SUPPRESSED = {
     "areas/technical-growth/2026-06-03 - Software Architect Roadmap.md",
-    "next/maybe/2026-08-24 - Snapshot My Finances and Pick a Tracking Method.md",
 }
 
 
@@ -164,14 +186,22 @@ def strip_template_noise(text: str) -> str:
 def stale_terms(claim_prose: str, path_rel: str) -> list[str]:
     """Time-sensitive terms that sit in a sentence which can actually go out of date.
 
-    A sentence is skipped when it carries its own YYYY-MM-DD stamp (it is audit-ready,
-    not stale) or when it holds nothing that can age - no number, no URL.
+    Wiki links are dropped first: a link target carries dates and numbers of its own, and
+    they belong to the note being pointed at, not to the claim doing the pointing.
+
+    A sentence then has to clear two bars. It is skipped when it names its own moment
+    (`SELF_DATED_RE`), and skipped again unless it holds something concrete enough to go
+    and re-check (`ANCHOR_RE`). Both exist because the terms themselves are weak evidence
+    in this vault - every project note says "deadline", every plan says "schedule", and
+    "version" turns up in speaking transcripts. What makes a claim stale is an undated
+    assertion about a checkable value, so that is what the two bars ask for.
     """
     if path_rel in STALE_SUPPRESSED:
         return []
     found: list[str] = []
-    for sentence in SENTENCE_SPLIT_RE.split(claim_prose):
-        if SELF_DATED_RE.search(sentence) or not AGEABLE_RE.search(sentence):
+    for raw_sentence in SENTENCE_SPLIT_RE.split(claim_prose):
+        sentence = ANY_WIKI_LINK_RE.sub(" ", raw_sentence)
+        if SELF_DATED_RE.search(sentence) or not ANCHOR_RE.search(sentence):
             continue
         found.extend(m.group(1).lower() for m in TIME_SENSITIVE_RE.finditer(sentence))
     return unique_sorted(found)
