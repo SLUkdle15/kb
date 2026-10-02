@@ -2,8 +2,11 @@
 
 Project: [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]]
 Area: [[areas/personal-development/personal-development|Personal Development]]
+Due: 2026-10-03
 
 ## Action
+
+Committed to Saturday 2026-10-03 on 2026-10-02, off the undated next-actions list where it had sat since 09-27. It is the step for that evening's [[next/calendar/Twice-Weekly Master's Field Sessions|master's field session]] at 20:00 — ten minutes of the hour, and the session ends early by design.
 
 Write one sentence naming what the degree must give that the FPT job plus self-study cannot.
 

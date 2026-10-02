@@ -34,7 +34,7 @@ Wednesday is the highest-value hour in the week. Writing new essays raises volum
 
 ## Phase 0 — Baseline
 
-**Closed 2026-08-24**, started 2026-08-19 — see [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]] for the result and [[archives/score-ielts-7-overall/writing-task-2-baseline|the archived baselines]] for the working. Two things carry forward: **Listening was the untested skill** and has since been baselined at 7, and Reading rests on a past official TRF rather than a fresh sitting, so its confirmation lives in the Saturday maintenance rotation. Booking is no longer readiness-gated — it is a dated commitment for [[next/calendar/2026-10-03 - Book the IELTS Test for Mid-November|2026-10-03]], and the mock checkpoints in Phases 2 and 3 depend on the mock bank that booking unlocks.
+**Closed 2026-08-24**, started 2026-08-19 — see [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]] for the result and [[archives/score-ielts-7-overall/writing-task-2-baseline|the archived baselines]] for the working. Two things carry forward: **Listening was the untested skill** and has since been baselined at 7, and Reading rests on a past official TRF rather than a fresh sitting, so its confirmation lives in the Saturday maintenance rotation. Booking is no longer readiness-gated — it is a dated commitment for [[next/calendar/2026-10-04 - Book the IELTS Test for Mid-November|2026-10-04]], and the mock checkpoints in Phases 2 and 3 depend on the mock bank that booking unlocks.
 
 
 ## Phase 1 — Mechanics

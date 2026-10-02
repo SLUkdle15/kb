@@ -34,6 +34,7 @@ Review monthly, or weekly when a migration or incident is active.
 
 ## Next Actions
 
+- [[next/calendar/2026-10-05 - Fix the FCM Mail Authentication Failure|Fix the FCM Mail Authentication Failure]] — SMTP 535 on `MailService.sendEmail`, dated Mon 2026-10-05
 - [[next/next-actions/2026-10-02 - Deploy the Workflow MCP to Production|Deploy the Workflow MCP to Production]] — the implementation is done, the deploy is not
 - [[archives/next-actions/2026-09-29 - Update the Workflow MCP Tools and Descriptions|Update the Workflow MCP Tools and Descriptions]] — implementation completed 2026-10-02
 - [[next/waiting/2026-09-18 - Fix the 502 on the AI Chatbot Excel Export|Fix the 502 on the AI Chatbot Excel Export]] — waiting on the production deploy

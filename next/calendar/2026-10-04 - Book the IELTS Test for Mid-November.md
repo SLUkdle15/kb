@@ -2,22 +2,22 @@
 
 Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]]
 Area: [[areas/personal-development/personal-development|Personal Development]]
-Due: 2026-10-03
+Due: 2026-10-04
 Remind: 1
 
 ## Action
 
-Saturday 2026-10-03. The full Writing paper is the 09:00 block and the master's field session is 20:00-21:00 — do the booking first thing, before the writing paper, so it does not get squeezed out.
+Sunday 2026-10-04. The range session is 09:00, badminton 15:00-17:00 and the vault review 20:00 — do the booking first thing, before the range, so it does not get squeezed out.
 
 Book an IELTS Academic slot for **mid-November 2026**. Retargeted from 3 October on 2026-08-24 by [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]], which found fluency rather than structure to be the binding constraint — the diagnosis is now in hand, so the remaining question is which mid-November date, not whether October is realistic.
 
 ## Status
 
-**Committed to 2026-10-03.** Moved from 2026-09-30 on 2026-09-27, at request, without a stated reason.
+**Committed to 2026-10-04.** Moved from 2026-09-30 to 2026-10-03 on 2026-09-27, then to 2026-10-04 on 2026-10-02 — both at request, neither with a stated reason.
 
-Read what that move costs, because the 09-30 date was not arbitrary. Booking stopped being do-when-ready on 2026-09-27 — the 2026-09-21 backstop passed unbooked, which is why this note left `next/next-actions` for the calendar — and 09-30 was picked as the last day September could still land a mid-November test. 10-03 is in October. **On the reasoning recorded here, a booking made on 10-03 lands the test in December, not mid-November, and a December test misses the December application window in [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]].**
+Read what that move costs, because the 09-30 date was not arbitrary. Booking stopped being do-when-ready on 2026-09-27 — the 2026-09-21 backstop passed unbooked, which is why this note left `next/next-actions` for the calendar — and 09-30 was picked as the last day September could still land a mid-November test. 10-04 is in October, and the second slip is the same cost paid twice. **On the reasoning recorded here, a booking made on 10-04 lands the test in December, not mid-November, and a December test misses the December application window in [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]].**
 
-That reasoning has never been checked against actual British Council slot availability — it is an inference, not a quoted lead time. So the first thing to do on 10-03 is open the booking page and look at what mid-November dates are genuinely still open. If one is, the move cost nothing and this paragraph should be deleted. If none is, the test date moves to December and the plan's outer limit moves with it, which is a decision to make deliberately rather than discover.
+That reasoning has never been checked against actual British Council slot availability — it is an inference, not a quoted lead time. So the first thing to do on 10-04 is open the booking page and look at what mid-November dates are genuinely still open. If one is, the move cost nothing and this paragraph should be deleted. If none is, the test date moves to December and the plan's outer limit moves with it, which is a decision to make deliberately rather than discover.
 
 Booked against readiness that is not there yet, deliberately. Phase 1 has not passed its bar: no Cambridge paper has been logged since 2026-08-31, no weekly template instance was written for the week of 09-21, and no recorded Part 2 turn has been logged since the 2026-08-21 baseline against a Phase 1 budget of roughly twenty. The reasoning for booking anyway is in the Why Book Before Ready section below.
 
@@ -58,7 +58,7 @@ Close the loop:
 
 A paid booking confirmation exists with a named date and centre, the date is on the calendar, and the six-week plan has been shifted to match it.
 
-Study first, book when ready is over. 2026-09-21 was the backstop and it passed unbooked, so this is a dated commitment — 2026-10-03 — rather than an undated action. It was 09-30 until 2026-09-27; see Status above for what the three days cost.
+Study first, book when ready is over. 2026-09-21 was the backstop and it passed unbooked, so this is a dated commitment — 2026-10-04 — rather than an undated action. It was 09-30 until 2026-09-27 and 10-03 until 2026-10-02; see Status above for what the four days cost.
 
 What booking later costs is the test date, not the project. A mid-November test reports by late November, which still clears the December application window in [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]]. That is now the outer limit rather than a contingency, so the slack that existed while October was the target is gone: booking that slips into October lands the test in December and misses the window.
 

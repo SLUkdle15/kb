@@ -24,9 +24,9 @@ Review monthly, or when a fix or a family commitment is pending.
 ## Current Actions
 
 - [[next/calendar/2026-10-03 - Clean the Electric Fan|Clean the Electric Fan]] — Sat 2026-10-03
-- [[next/calendar/2026-10-03 - Pick Up Mom's iPhone Gift|Pick Up Mom's iPhone Gift]] — Sat 2026-10-03
+- [[2026-10-03 - Call and Pick Up Mom's iPhone Gift|Pick Up Mom's iPhone Gift]] — Sat 2026-10-03
 - [[next/next-actions/2026-09-06 - Research How to Care for the Tree|Research How to Care for the Tree]]
-- [[next/next-actions/2026-09-30 - Buy a Charger for the Griller|Buy a Charger for the Griller]]
+- [[next/calendar/2026-10-04 - Buy a Charger for the Griller|Buy a Charger for the Griller]]
 - [[next/maybe/2026-08-09 - Examine the Door|Examine the Door]] (someday/maybe)
 - [[next/maybe/2026-09-30 - Examine the Dishwasher|Examine the Dishwasher]] (someday/maybe)
 - [[next/waiting/2026-09-29 - Door Guy to Confirm Thursday Visit|Door Guy to Confirm Thursday Visit]] (waiting) — no time agreed for the 2026-10-01 visit
