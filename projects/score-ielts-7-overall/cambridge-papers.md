@@ -22,6 +22,7 @@ Only papers named by book and test belong here. A prompt that cannot be traced t
 | 16 | 2 | Writing Task 2 | [[projects/score-ielts-7-overall/my work/2026-09-28 - Book 16 Test 2 Task 2 Essay|Monday timed Task 2]] | 2026-09-28 |
 | 16 | 2 | Speaking Part 2 | [[projects/score-ielts-7-overall/my work/2026-09-29 - Book 16 Test 2 Speaking Part 2 Transcript|Cue card rep, product review]] | 2026-09-29 |
 | 16 | 3 | Speaking Part 2 | [[projects/score-ielts-7-overall/my work/2026-09-29 - Book 16 Test 3 Speaking Part 2 Transcript|Cue card rep, luxury item]] | 2026-09-29 |
+| 16 | 1 | Speaking Part 3 | [[projects/score-ielts-7-overall/my work/2026-10-01 - Book 16 Test 1 Speaking Part 3 Transcript|Part 3 drill, tourist attractions]] | 2026-10-01 |
 
 ## Spent Prompts, Not Spent Papers
 
@@ -42,11 +43,11 @@ This section is closed. Everything from here on comes out of the books and gets 
 
 ## Still Unseen
 
-**Book 16 Test 1 is spent** — Writing Task 2, Writing Task 1 and Listening, all sat 2026-08-31. Book 16 Test 2's Writing Task 2 went on 2026-09-28, and the Speaking Part 2 cards from Tests 2 and 3 on 2026-09-29. That is the whole of **Used**, so everything else in Books 16–20 is still unseen. Nothing in **Spent Prompts** changes that count: an untraceable prompt may well have come from one of these books, which is a risk carried rather than tracked.
+**Book 16 Test 1 is spent** — Writing Task 2, Writing Task 1 and Listening, all sat 2026-08-31, and Speaking Part 3 on 2026-10-01. Book 16 Test 2's Writing Task 2 went on 2026-09-28, and the Speaking Part 2 cards from Tests 2 and 3 on 2026-09-29. That is the whole of **Used**, so everything else in Books 16–20 is still unseen. Nothing in **Spent Prompts** changes that count: an untraceable prompt may well have come from one of these books, which is a risk carried rather than tracked.
 
 Assuming the standard 4 tests per book (confirm against each book's contents page — not verified here):
 
-- Book 16: Test 1 used 2026-08-31 (Writing Task 2, Listening, Writing Task 1). Test 2 Writing Task 2 used 2026-09-28 and Speaking Part 2 2026-09-29. Test 3 Speaking Part 2 used 2026-09-29; its Writing is still cold for the 2026-10-03 full paper. Rest of Tests 2–3 and all of Test 4 unseen.
+- Book 16: Test 1 used 2026-08-31 (Writing Task 2, Listening, Writing Task 1) and Speaking Part 3 2026-10-01. Test 2 Writing Task 2 used 2026-09-28 and Speaking Part 2 2026-09-29. Test 3 Speaking Part 2 used 2026-09-29; its Writing is still cold for the 2026-10-03 full paper. Rest of Tests 2–3 and all of Test 4 unseen.
 - Book 17: Tests 1–4, unseen.
 - Book 18: Tests 1–4, unseen.
 - Book 19: Tests 1–4, unseen.
