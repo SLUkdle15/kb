@@ -48,12 +48,12 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 ### One-Off
 
-- [[next/calendar/2026-10-01 - Pick and Book the Anniversary French Restaurant]] — 2026-10-01 (Thursday, the day before the 2026-10-02 dinner; moved from next-actions. Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]])
-- [[next/calendar/2026-10-01 - IELTS Speaking Part 3 and Pronunciation]] — 2026-10-01 19:30 (Thursday, ends with a row in the error log's Pronunciation table)
-- [[next/calendar/2026-10-02 - IELTS Task 1 to Time]] — 2026-10-02 07:00 (Friday, morning block because the anniversary takes the evening)
 - [[next/calendar/2026-10-02 - 6-Month Anniversary]] — 2026-10-02 (Friday, moved from 2026-09-28; actual mark 2026-09-30. Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]])
 - [[next/calendar/2026-10-03 - Book the IELTS Test for Mid-November]] — 2026-10-03 (Saturday, moved from 2026-09-30; do it first thing. British Council, computer-delivered. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-10-03 - IELTS Full Writing Paper]] — 2026-10-03 09:00 (Saturday, morning block around the booking and the master's field session; Book 16 Test 3)
+- [[next/calendar/2026-10-03 - IELTS Task 1 to Time]] — 2026-10-03 14:00 (Saturday afternoon, moved from 2026-10-02 07:00; after the writing paper, Book 16 Test 2 Task 1)
+- [[next/calendar/2026-10-03 - Clean the Electric Fan]] — 2026-10-03 (Saturday, no time; promoted from next-actions on 2026-10-02. Area: [[areas/family/family|Family]])
+- [[next/calendar/2026-10-03 - Pick Up Mom's iPhone Gift]] — 2026-10-03 (Saturday, no time; promoted from next-actions on 2026-10-02. Area: [[areas/family/family|Family]])
 - [[next/calendar/2026-10-03 - Dinner with the Bicycles Team]] — 2026-10-03 18:00 (Saturday, before the 20:00 master's field session; venue not picked yet)
 - [[next/calendar/2026-10-04 - Go to the Range and Run an Hour Contact Tally Session]] — 2026-10-04 09:00 (Sunday morning, before badminton; weekly range session; stay on the 8 iron, bring tripod, record all three numbers)
 - [[next/calendar/2026-10-05 - Implement the Refresh Token Flow for Excel]] — 2026-10-05 (Monday, moved from 2026-09-30. Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]])

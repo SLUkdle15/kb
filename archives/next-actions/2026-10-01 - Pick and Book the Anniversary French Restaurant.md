@@ -10,3 +10,7 @@ Decide between Maison Marou and Colette French Bistro and Wine Bar, check whethe
 ## Done When
 
 Reservation is made (or confirmed unnecessary).
+
+## Status
+
+Completed 2026-10-01.
