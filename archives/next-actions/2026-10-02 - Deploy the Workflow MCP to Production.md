@@ -10,6 +10,10 @@ Ship the workflow MCP work to production. The implementation finished on 2026-10
 
 Follow the protocol's checklist rather than merging straight across. The env-var step is the one that matters here: the MCP's tool definitions are what an agent reads to pick a tool, so a stale description in production is worse than a missing one.
 
+## Status
+
+**Completed 2026-10-02.** Shipped the same day the implementation landed.
+
 ## Done When
 
 `dev` is merged to `main`, the deploy is out, and the team is calling the current tool set in production.

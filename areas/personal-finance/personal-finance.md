@@ -58,6 +58,10 @@ Not in this snapshot: account balances, net income, and therefore net position, 
 
 - 
 
+## Next Actions
+
+- [[next/next-actions/2026-10-02 - Answer the Schedule K-1 Delivery Consent|Answer the Schedule K-1 Delivery Consent]] — trace it to a real account before consenting
+
 ## Protocols
 
 - [[areas/personal-finance/transfer-money-from-tpbank-to-cimb|Transfer Money from TPBank to CIMB]]

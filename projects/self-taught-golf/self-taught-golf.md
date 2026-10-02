@@ -12,7 +12,7 @@ Comfortable enough to go play a full round of 18 holes.
 ## Next Actions
 
 - [[next/calendar/2026-10-04 - Go to the Range and Run an Hour Contact Tally Session|Go to the Range and Run an Hour Contact Tally Session]]
-- [[next/next-actions/2026-09-27 - Record Golf Practice at Home|Record Golf Practice at Home]]
+- [[next/calendar/2026-10-03 - Record Golf Practice at Home|Record Golf Practice at Home]]
 
 ## Notes
 

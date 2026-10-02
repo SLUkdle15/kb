@@ -2,8 +2,11 @@
 
 Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 Area: [[areas/golf-training/golf-training|Golf Training]]
+Due: 2026-10-03
 
 ## Action
+
+Committed to Saturday 2026-10-03 on 2026-10-02, off the undated next-actions list where it had sat since 09-27.
 
 Set the GoPro on its tripod at home and film swing practice there, so filming doesn't have to wait for a range trip. Get a down-the-line angle and a face-on angle — those are the two the comparison needs.
 

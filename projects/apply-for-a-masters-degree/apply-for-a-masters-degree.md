@@ -52,7 +52,7 @@ Not steps here — they start only once an offer arrives, and they carry their o
 
 Step 1 runs in [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]]; its current action is the one that moves this project too.
 
-- [[next/calendar/2026-10-03 - Name What the Master's Must Give|Name What the Master's Must Give]] — step 1
+- [[next/calendar/2026-10-04 - Name What the Master's Must Give|Name What the Master's Must Give]] — step 1
 - [[next/calendar/Twice-Weekly Master's Field Sessions|Twice-Weekly Master's Field Sessions]] — Wednesday and Saturday 20:00-21:00, protected time for step 1
 
 ## Notes

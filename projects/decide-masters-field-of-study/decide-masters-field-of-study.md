@@ -29,7 +29,7 @@ One session per block in [[next/calendar/Twice-Weekly Master's Field Sessions|Tw
 
 ## Next Actions
 
-- [[next/calendar/2026-10-03 - Name What the Master's Must Give|Name What the Master's Must Give]] — one sentence, step 1
+- [[next/calendar/2026-10-04 - Name What the Master's Must Give|Name What the Master's Must Give]] — one sentence, step 1
 - [[next/calendar/Twice-Weekly Master's Field Sessions|Twice-Weekly Master's Field Sessions]] — Wednesday and Saturday 20:00-21:00, protected time
 
 ## Notes
