@@ -26,7 +26,7 @@ What happens after — offers, the I-20, the F-1 visa, resigning or arranging le
 
 ## Steps
 
-Work these in order. Only the current step becomes a note in `next/next-actions`; promote the following one when it is done.
+Work these in order. Only the current step becomes a note in `next`, undated or committed to a day; promote the following one when it is done.
 
 1. **Decide the field of study.** Narrow to one or two fields worth two years of effort. Everything downstream depends on this. Running as its own project since 2026-09-27 — it is seven sessions of work, not one action: [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]], targeting 2026-10-17.
 2. ~~**Set the constraints.**~~ Done 2026-08-17 — see Constraints above.
