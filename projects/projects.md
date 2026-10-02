@@ -59,4 +59,3 @@ Move notes into the project folder only when they are project-specific working m
 - [[projects/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]] — course 1 under Self-Taught Photography
 - [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 - [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]] — Area: [[areas/work-systems/work-systems|Work Systems]]
-- [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]; deadline 2026-10-02

@@ -12,7 +12,7 @@ Task 1 in 20 minutes from **Book 16 Test 2, Writing Task 1**, then 40 min readin
 
 Check the overview sentence, the precise collocations and the chart-relationship sentence in [[projects/score-ielts-7-overall/task-1-writing-prep|Task 1 Writing Prep]] first. No overview caps Task Achievement at 5, and Task 1 baselined a band below Task 2 on every criterion.
 
-**Moved off Friday 10-02 on 2026-10-02**, where it had the morning because [[next/calendar/2026-10-02 - 6-Month Anniversary|the 6-month anniversary]] took the evening. Saturday afternoon is the only slack the day has: [[next/calendar/2026-10-03 - IELTS Full Writing Paper|the full writing paper]] runs from 09:00, [[next/calendar/2026-10-03 - Dinner with the Bicycles Team|dinner]] is at 18:00 and the master's field session at 20:00. Keep it after the paper, not before — Book 16 Test 3 stays cold, and the model answers read here feed straight into that self-score.
+**Moved off Friday 10-02 on 2026-10-02**, where it had the morning because [[archives/next-actions/2026-10-02 - 6-Month Anniversary|the 6-month anniversary]] took the evening. Saturday afternoon is the only slack the day has: [[next/calendar/2026-10-03 - IELTS Full Writing Paper|the full writing paper]] runs from 09:00, [[next/calendar/2026-10-03 - Dinner with the Bicycles Team|dinner]] is at 18:00 and the master's field session at 20:00. Keep it after the paper, not before — Book 16 Test 3 stays cold, and the model answers read here feed straight into that self-score.
 
 ## Done When
 

@@ -38,8 +38,8 @@ Review monthly, or weekly when a migration or incident is active.
 - [[next/calendar/2026-10-05 - Fix the FCM Mail Authentication Failure|Fix the FCM Mail Authentication Failure]] — SMTP 535 on `MailService.sendEmail`, dated Mon 2026-10-05
 - [[archives/next-actions/2026-10-02 - Deploy the Workflow MCP to Production|Deploy the Workflow MCP to Production]] — completed 2026-10-02
 - [[archives/next-actions/2026-09-29 - Update the Workflow MCP Tools and Descriptions|Update the Workflow MCP Tools and Descriptions]] — implementation completed 2026-10-02
-- [[next/waiting/2026-09-18 - Fix the 502 on the AI Chatbot Excel Export|Fix the 502 on the AI Chatbot Excel Export]] — waiting on the production deploy
-- [[next/maybe/2026-09-18 - Save a Push Status for Records Sent to DSC|Save a Push Status for Records Sent to DSC]] (someday/maybe)
+- [[next/next-actions/2026-09-18 - Fix the 502 on the AI Chatbot Excel Export|Fix the 502 on the AI Chatbot Excel Export]] — deployed 2026-10-02; verify an export in production
+- [[next/maybe/2026-09-18 - Save a Push Status and Run the DSC Push in Parallel|Save a Push Status and Run the DSC Push in Parallel]] (someday/maybe)
 
 ## Captures Not Yet Filed
 

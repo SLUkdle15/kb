@@ -1,6 +1,6 @@
 # Pick and Book the Anniversary French Restaurant
 
-Project: [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]]
+Project: [[archives/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]]
 Due: 2026-10-01
 
 ## Action

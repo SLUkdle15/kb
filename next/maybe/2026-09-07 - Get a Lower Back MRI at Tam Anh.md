@@ -1,15 +1,15 @@
 # Get a Lower Back MRI at Tam Anh
 
 Area: [[areas/health/health|Health]]
-Routine: [[next/calendar/Twice-Weekly Lower Back Routine|Twice-Weekly Lower Back Routine]]
-Checkpoint: [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking|Review Six Weeks of Lower Back Tracking]]
+Routine: [[archives/next-actions/Twice-Weekly Lower Back Routine|Twice-Weekly Lower Back Routine]] (canceled 2026-10-02)
+Checkpoint: [[archives/next-actions/2026-10-15 - Review Six Weeks of Lower Back Tracking|Review Six Weeks of Lower Back Tracking]] (canceled 2026-10-02)
 
 ## Action
 
 Get the lower back pain looked at at Tâm Anh and ask about an MRI.
 
-Not yet. The six-week tracking runs to 2026-10-11 and the checkpoint on 2026-10-15 already decides whether to escalate — bring the weekly log to that appointment rather than starting from a blank history. Promote this out of maybe if the pain gets sharply worse before then, or if the checkpoint says the routine is not working.
+Not yet. The routine and its 2026-10-15 checkpoint were dropped on 2026-10-02, so no review triggers this any more. Promote it out of maybe if the pain gets worse or keeps coming back. Bring whatever is in the routine's weekly log to the appointment rather than starting from a blank history.
 
 ## Done When
 
-Either the visit happens and there is a clear answer on whether an MRI is needed, or the checkpoint shows the routine is working and this gets dropped.
+The visit happens and there is a clear answer on whether an MRI is needed.

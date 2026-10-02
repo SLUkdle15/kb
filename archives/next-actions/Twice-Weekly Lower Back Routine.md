@@ -1,7 +1,8 @@
 # Twice-Weekly Lower Back Routine
 
 Area: [[areas/health/health|Health]]
-Every: Monday and Thursday 21:00-21:15
+Status: canceled 2026-10-02 — was every Monday and Thursday 21:00-21:15
+Protocol: [[areas/health/do-the-lower-back-routine|Do the Lower Back Routine]]
 
 ## Action
 
@@ -29,4 +30,4 @@ Note two things each Sunday during [[next/calendar/Weekly Sunday Vault Review|th
 | 5 — Oct 4  |                 |             |
 | 6 — Oct 11 |                 |             |
 
-Checkpoint after week 6: [[next/calendar/2026-10-15 - Review Six Weeks of Lower Back Tracking|Review Six Weeks of Lower Back Tracking]] — if the stiffness has not noticeably shortened, take this record to a physiotherapist instead of continuing.
+Checkpoint after week 6: [[archives/next-actions/2026-10-15 - Review Six Weeks of Lower Back Tracking|Review Six Weeks of Lower Back Tracking]] (canceled 2026-10-02) — if the stiffness has not noticeably shortened, take this record to a physiotherapist instead of continuing.

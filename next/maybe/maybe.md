@@ -20,18 +20,15 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-08-21 - Start Investing|Start Investing]]
 - [[2026-09-01 - Investigate Making Money from the Soc Son Land|Investigate Making Money from the Soc Son Land]] — idle asset, look for similar cases on YouTube
 - [[2026-09-01 - Buy Tripod and Memory Card|Buy Tripod and Memory Card]] — Area: [[areas/photography/photography|Photography]], Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
-- [[2026-09-07 - Get a Lower Back MRI at Tam Anh|Get a Lower Back MRI at Tam Anh]] — hold until the six-week checkpoint on 2026-10-15
+- [[2026-09-07 - Get a Lower Back MRI at Tam Anh|Get a Lower Back MRI at Tam Anh]] — if the pain gets worse or keeps coming back
 - [[2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
-- [[2026-09-12 - Try Kayn Kindred Ekko Norra and TF|Try Kayn, Kindred, Ekko, Norra, and TF]]
+- [[2026-09-12 - Try Kayn Kindred Ekko and TF|Try Kayn, Kindred, Ekko, Norra, and TF]]
 - [[2026-09-12 - Explore Flash and Filter Options|Explore Flash and Filter Options]] — Area: [[areas/photography/photography|Photography]]
 - [[2026-09-19 - Ask Girlfriend to Shop for Derby Shoes|Ask Girlfriend to Shop for Derby Shoes]] — go buy derby shoes together, for a classier look
-- [[2026-09-18 - Save a Push Status for Records Sent to DSC|Save a Push Status for Records Sent to DSC]] — Area: [[areas/work-systems/work-systems|Work Systems]]
-- [[2026-09-08 - Go to Temple and Eat Vegetarian|Go to Temple and Eat Vegetarian]] — first day of a lunar month; next is 2026-10-10
-- [[2026-08-26 - Watch the Endgame Encore Showing|Watch the Endgame Encore Showing]] — showing is 2026-09-25
+- [[2026-09-18 - Save a Push Status and Run the DSC Push in Parallel|Save a Push Status and Run the DSC Push in Parallel]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-09-24 - Dissect the AI Chatbot Project|Dissect the AI Chatbot Project]] — Area: [[areas/technical-growth/technical-growth|Technical Growth]]
 - [[2026-09-27 - Buy a Golf Bag to Go to the Range Alone|Buy a Golf Bag to Go to the Range Alone]] — own bag so weekday range sessions are possible. Area: [[areas/golf-training/golf-training|Golf Training]], Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 - [[2026-09-28 - Discover What Movies I Can Watch on JFF|Discover What Movies I Can Watch on JFF]] — Japanese Film Festival streaming catalogue
 - [[2026-09-14 - Research How to Massage with the Theragun|Research How to Massage with the Theragun]] — Area: [[areas/health/health|Health]]
-- [[2026-09-19 - Review the Images I Have Shot|Review the Images I Have Shot]] — Area: [[areas/photography/photography|Photography]]
-- [[2026-09-29 - Finish a Half Marathon|Finish a Half Marathon]] — Area: [[areas/health/health|Health]]; held until the 2026-10-15 lower back review
+- [[2026-09-29 - Finish a Half Marathon|Finish a Half Marathon]] — Area: [[areas/health/health|Health]]; revisit at a weekly review
 - [[2026-09-30 - Examine the Dishwasher|Examine the Dishwasher]] — Area: [[areas/family/family|Family]]

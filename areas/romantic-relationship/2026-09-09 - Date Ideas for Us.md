@@ -12,13 +12,16 @@ A standing list, so a free evening or a weekend does not start from a blank page
 - **Quán Coffee Của Sự Lao Động Cần Cù.** Worth timing around Mid-Autumn (Tết Trung Thu, 2026-09-25). Two locations: Ngõ 38 Xuân La, at the gate of Học viện Hành chính công, 100m into the alley on the left; and 70 Xuân Đỉnh.
 - Any new place goes through [[areas/romantic-relationship/take-her-out-for-weekday-dinner|Take Her Out for Weekday Dinner]], which ends by logging it in [[resources/restaurants/restaurants|resources/restaurants]].
 - **[[resources/restaurants/2026-09-19 - Kohibito|Kohibito]] at night.** Try it at night, next time going to the Old Quarter.
-- **Maison Marou or Colette French Bistro and Wine Bar.** French food. Neither has a note in [[resources/restaurants/restaurants|resources/restaurants]] yet. Picked for the 6-month anniversary — see [[projects/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]].
 
 ## Events
 
 - **Vinamilk 50th anniversary run.** 1,500 members covering 90,000 km — https://vnexpress.net/1-500-thanh-vien-vinamilk-cung-chay-90-000-km-dip-ky-niem-50-nam-5112780.html Check whether it is open to the public, whether registration is still open, and what the date is; if we can make it, it goes to `next/calendar`.
 - **Event news as the feed.** Use news coverage as a source of ideas instead of only remembering places: scan VnExpress and similar for public runs, festivals, exhibitions, markets, and seasonal events in Hanoi, and add the promising ones to this list. The Vinamilk run is what started this.
 - **Van Gogh Timeless exhibition.** Captured 2026-08-17, parked here 2026-09-20, and deliberately left as an idea rather than a live plan — it may already have closed, and that is fine; it stays on the list either way. If it ever gets picked, check run dates, venue, ticket price, and whether tickets must be booked ahead, then give it a `next/calendar` note.
+
+## Temple
+
+- **Go to the temple and eat vegetarian.** On the first day of a lunar month. 2026-10-10 is a lunar first day but is taken by the Thien Truong drive, so this goes to another lunar first day. Moved here 2026-10-02 from [[archives/next-actions/2026-09-08 - Go to Temple and Eat Vegetarian|its someday/maybe note]].
 
 ## Relaxation
 
@@ -41,6 +44,10 @@ Ideas for going out with friends rather than just the two of us. No places picke
 ## Already Promised
 
 The experience items on [[areas/romantic-relationship/2026-07-15 - Promises to Her|Promises to Her]] are date ideas that are already committed — a concert, a workshop, a coloring book together, an out-of-city trip, LUPO and The Scientist, badminton. Pick from there before inventing something new.
+
+## Done
+
+- [x] **Maison Marou or Colette French Bistro and Wine Bar.** French food. Went to [[resources/restaurants/2026-10-02 - Colette French Bistro & Wine Bar|Colette]] on 2026-10-02 for the 6-month anniversary — see [[archives/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]].
 
 ## Rule
 

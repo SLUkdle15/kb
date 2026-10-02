@@ -3,17 +3,9 @@
 Area: [[areas/work-systems/work-systems|Work Systems]]
 System: [[resources/software-engineering/system-architecture/2026-07-17 - AI Chat Bot System Overview|AI Chat Bot]]
 
-## Blocked
+## Action
 
-Nothing on my side. The 502 is fixed on dev; what is left is the production deploy.
-
-## Waiting On
-
-The release to production. Until it ships, the export still 502s for real users.
-
-## Follow Up
-
-At the next deploy to production — verify an export there rather than assuming the dev fix carried.
+Verify an export in production. The fix was on dev, and [[archives/next-actions/2026-10-02 - Deploy the Workflow MCP to Production|the 2026-10-02 production deploy]] merged `dev` to `main`, so it should now be live. Check rather than assume the dev fix carried. Moved from waiting on 2026-10-02.
 
 ## Original Diagnosis
 
