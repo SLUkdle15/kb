@@ -129,7 +129,9 @@ Likely candidates for a Vietnamese L1 speaker, to confirm or dismiss from the ba
 | --- | --- | --- | --- |
 |  |  |  |  |
 
-Start this section with dropped final consonants — `-s`, `-ed`, and final stops — since those cost Grammatical Accuracy as well as Pronunciation.
+Still empty after three Thursday blocks — flagged 2026-09-10, 2026-09-14, and 2026-10-01. Kept rather than deleted on 2026-10-02, because what is empty is the log, not the need: [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]] calls final consonants the highest-yield fix available and the only one that scores twice, under Grammatical Accuracy as well as Pronunciation — and Grammatical Accuracy is a binding 5.
+
+**Why it keeps coming back empty: a drill produces nothing to log.** Ten minutes of saying `-s` and `-ed` aloud generates no observation. A row needs a recording played back with this table open. The two Part 2 recordings from 2026-09-29 are unmined and are the nearest source.
 
 ## Structural and Task Errors
 

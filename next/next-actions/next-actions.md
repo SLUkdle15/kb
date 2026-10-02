@@ -26,3 +26,4 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-09-27 - Record Golf Practice at Home|Record Golf Practice at Home]] — Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 - [[2026-09-06 - Research How to Care for the Tree|Research How to Care for the Tree]] — Area: [[areas/family/family|Family]]
 - [[2026-09-30 - Buy a Charger for the Griller|Buy a Charger for the Griller]] — Area: [[areas/family/family|Family]]
+- [[2026-10-02 - Deploy the Workflow MCP to Production|Deploy the Workflow MCP to Production]] — Area: [[areas/work-systems/work-systems|Work Systems]]

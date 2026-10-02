@@ -25,7 +25,7 @@ Applies inside any phase below except Baseline and Taper, which have their own s
 | Mon | 60 min | Task 2: 5 min plan, 35 min write to time, 20 min self-score against the descriptors |
 | Tue | 60 min | Speaking Part 2: three cue cards, each recorded to a full two minutes, then listen back to one |
 | Wed | 60 min | Rewrite Monday's essay from the self-score. Update [[projects/score-ielts-7-overall/error-log|Error Log]] |
-| Thu | 60 min | Speaking Part 3 drills, then 10 min pronunciation (final consonants, word stress) |
+| Thu | 60 min | Speaking Part 3 drills, then 10 min pronunciation — play back part of Tuesday's recording and write what slips into the error log, rather than drilling blind |
 | Fri | 60 min | Task 1 to time (20 min), then read two model answers closely and steal the sentence patterns |
 | Sat | 90–120 min | Alternating: full Writing paper under 60 min, or a timed Reading or Listening section |
 | Sun | rest | Optional 20 min re-reading the error log |

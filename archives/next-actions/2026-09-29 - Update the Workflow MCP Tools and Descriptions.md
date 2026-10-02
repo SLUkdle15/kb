@@ -17,3 +17,9 @@ Shipping it to the team means it reaches production — use [[areas/work-systems
 ## Done When
 
 The workflow MCP exposes the current tool set, every description matches actual behavior, and it is deployed where the team can use it.
+
+## Outcome
+
+Implementation done 2026-10-02: the exposed tool set matches the workflow system and every description is rewritten against real behavior.
+
+The deploy half of the Done When was not met — the work is on `dev` and has not reached production. Carried into [[next/next-actions/2026-10-02 - Deploy the Workflow MCP to Production|Deploy the Workflow MCP to Production]] rather than left implied by an archived note.

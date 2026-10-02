@@ -41,6 +41,10 @@ Review monthly, or during a weekly review when technical work is under active pr
 
 - [[archives/complete-phase-1-software-architecture-fundamentals/complete-phase-1-software-architecture-fundamentals|Complete Phase 1 Software Architecture Fundamentals]] - completed 2026-07-15
 
+## Captures Not Yet Filed
+
+- [[inbox/2026-10-01 - Network Protocols to Learn|Network Protocols to Learn]] — a bare list: HTTPS, TLS/SSL, TCP, IP, then SSH and the CONNECT method. Overlaps the ports-and-tunnels ground in [[inbox/2026-09-29 - Server A to Server B Connectivity Checks|Server A to Server B Connectivity Checks]].
+
 ## Related Resources
 
 - [[resources/software-engineering/system-architecture/system-architecture|System Architecture]]
