@@ -27,7 +27,6 @@ Review monthly, or when a fix or a family commitment is pending.
 - [[next/next-actions/2026-09-06 - Research How to Care for the Tree|Research How to Care for the Tree]]
 - [[next/maybe/2026-08-09 - Examine the Door|Examine the Door]] (someday/maybe)
 - [[next/maybe/2026-09-30 - Examine the Dishwasher|Examine the Dishwasher]] (someday/maybe)
-- [[next/waiting/2026-09-29 - Door Guy to Confirm Thursday Visit|Door Guy to Confirm Thursday Visit]] (waiting) — no time agreed for the 2026-10-01 visit
 - [[next/maybe/2026-08-09 - Fix the Microwave Küppersbusch MR6330.0S|Fix the Microwave Küppersbusch MR6330.0S]] (someday/maybe) — the door can run open, a safety issue
 
 ## Current Projects
