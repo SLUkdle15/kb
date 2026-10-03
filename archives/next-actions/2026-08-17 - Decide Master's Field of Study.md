@@ -11,7 +11,7 @@ Step 1 of the project. Narrow the master's field down to one or two candidates. 
 
 ## Checklist
 
-One session per block in [[next/calendar/Twice-Weekly Master's Field Sessions|Twice-Weekly Master's Field Sessions]], each about an hour. Do the next unchecked session and nothing after it.
+One session per block in [[archives/next-actions/Twice-Weekly Master's Field Sessions|Twice-Weekly Master's Field Sessions]], each about an hour. Do the next unchecked session and nothing after it.
 
 Session 1: frame the decision
 

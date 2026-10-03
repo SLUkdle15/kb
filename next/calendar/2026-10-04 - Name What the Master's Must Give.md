@@ -6,7 +6,7 @@ Due: 2026-10-04
 
 ## Action
 
-Committed to Sunday 2026-10-04 on 2026-10-02, off the undated next-actions list where it had sat since 09-27, and moved off Saturday 10-03 the same day. Sunday carries no [[next/calendar/Twice-Weekly Master's Field Sessions|master's field session]] — those are Wednesday and Saturday — so this is ten minutes standing on its own, not a session's opening step. The next session, Wednesday 10-07, then starts on step 2 instead of this one.
+Committed to Sunday 2026-10-04 on 2026-10-02, off the undated next-actions list where it had sat since 09-27, and moved off Saturday 10-03 the same day. It is ten minutes standing on its own.
 
 Write one sentence naming what the degree must give that the FPT job plus self-study cannot.
 

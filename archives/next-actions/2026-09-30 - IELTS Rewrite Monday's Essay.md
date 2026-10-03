@@ -11,7 +11,7 @@ Due: 2026-09-30 18:30
 
 The highest-value hour of the week. Writing new essays raises volume; rewriting the same essay after seeing what was wrong with it is what moves the band. Do not swap it for a fresh essay.
 
-The master's field session is 20:00-21:00, so this block runs before it. The booking used to share this day and moved to Saturday on 2026-09-27 — see [[next/calendar/2026-10-04 - Book the IELTS Test for Mid-November|Book the IELTS Test for Mid-November]].
+The master's field session is 20:00-21:00, so this block runs before it. The booking used to share this day and moved to Saturday on 2026-09-27 — see [[next/calendar/2026-10-06 - Book the IELTS Test for Mid-November|Book the IELTS Test for Mid-November]].
 
 ## Done When
 

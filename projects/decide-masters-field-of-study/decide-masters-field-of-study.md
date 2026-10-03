@@ -18,7 +18,7 @@ One or two fields written into [[projects/apply-for-a-masters-degree/apply-for-a
 
 ## Steps
 
-One session per block in [[next/calendar/Twice-Weekly Master's Field Sessions|Twice-Weekly Master's Field Sessions]], about an hour each. Only the current step lives in `next`, undated or committed to a day; promote the next one when it is done.
+About an hour per step. Only the current step lives in `next`, undated or committed to a day; promote the next one when it is done.
 
 1. **Frame the decision.** Name what the degree must give that the FPT job plus self-study cannot, which [[areas/personal-development/favorite-problems|Favorite Problems]] a field would advance, and what is being optimized — depth in the current craft, a pivot, or the move to the US itself. Those three point at different degrees.
 2. **Build the long list.** Five to eight candidate fields, no filtering. For each, name the specific role it opens that is not reachable from where the career sits now. A field with no such role drops out here.
@@ -30,7 +30,6 @@ One session per block in [[next/calendar/Twice-Weekly Master's Field Sessions|Tw
 ## Next Actions
 
 - [[next/calendar/2026-10-04 - Name What the Master's Must Give|Name What the Master's Must Give]] — one sentence, step 1
-- [[next/calendar/Twice-Weekly Master's Field Sessions|Twice-Weekly Master's Field Sessions]] — Wednesday and Saturday 20:00-21:00, protected time
 
 ## Notes
 

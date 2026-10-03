@@ -15,3 +15,5 @@ The step that is currently live sits in `next` — in `next/next-actions` while 
 ## Done When
 
 Recurring. Retire the note once [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]] is done.
+
+Canceled 2026-10-03.
