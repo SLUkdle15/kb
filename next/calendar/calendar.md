@@ -47,12 +47,12 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 ### One-Off
 
 - [[next/calendar/2026-10-03 - IELTS Full Writing Paper]] — 2026-10-03 09:00 (Saturday, morning block around the booking and the master's field session; Book 16 Test 3)
-- [[2026-10-03 - Call and Pick Up Mom's iPhone Gift]] — 2026-10-03 (Saturday, no time; promoted from next-actions on 2026-10-02. Area: [[areas/family/family|Family]])
 - [[next/calendar/2026-10-03 - Record Golf Practice at Home]] — 2026-10-03 (Saturday, no time; promoted from next-actions on 2026-10-02. Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]])
 - [[next/calendar/2026-10-03 - Dinner with the Bicycles Team]] — 2026-10-03 18:00 (Saturday, before the 20:00 master's field session; venue not picked yet)
 - [[next/calendar/2026-10-04 - Name What the Master's Must Give]] — 2026-10-04 (Sunday, no time; moved off Saturday 10-03 on 2026-10-02, so it no longer sits inside a field session. Project: [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]])
 - [[next/calendar/2026-10-04 - Write the Week of 2026-10-05 IELTS Prep Plan]] — 2026-10-04 (Sunday, during the 20:00 vault review; one whole Reading or Listening section, and a day off for the date. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-10-04 - IELTS Task 1 to Time]] — 2026-10-04 13:00 (Sunday, between the range and badminton; moved from 2026-10-02 07:00, then 2026-10-03 14:00; after the writing paper, Book 16 Test 2 Task 1)
+- [[next/calendar/2026-10-04 - Call and Pick Up Mom's iPhone Gift]] — 2026-10-04 (Sunday, no time; moved from 2026-10-03 on 2026-10-03. Area: [[areas/family/family|Family]])
 - [[next/calendar/2026-10-04 - Go to the Range and Run an Hour Contact Tally Session]] — 2026-10-04 09:00 (Sunday morning, before badminton; weekly range session; stay on the 8 iron, bring tripod, record all three numbers)
 - [[next/calendar/2026-10-05 - Fix the Duplicate Bug in NCTool and Excel]] — 2026-10-05 (Monday, back at work; duplicated records in NCTool and the Excel output. Area: [[areas/work-systems/work-systems|Work Systems]])
 - [[next/calendar/2026-10-05 - Fix the FCM Mail Authentication Failure]] — 2026-10-05 (Monday, back at work; SMTP 535 on FCM `common-service`, caught 2026-10-02. Area: [[areas/work-systems/work-systems|Work Systems]])
