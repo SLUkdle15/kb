@@ -48,7 +48,6 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 - [[next/calendar/2026-10-03 - IELTS Full Writing Paper]] — 2026-10-03 09:00 (Saturday, morning block around the booking and the master's field session; Book 16 Test 3)
 - [[next/calendar/2026-10-03 - Record Golf Practice at Home]] — 2026-10-03 (Saturday, no time; promoted from next-actions on 2026-10-02. Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]])
-- [[next/calendar/2026-10-03 - Dinner with the Bicycles Team]] — 2026-10-03 18:00 (Saturday, before the 20:00 master's field session; venue not picked yet)
 - [[next/calendar/2026-10-04 - Name What the Master's Must Give]] — 2026-10-04 (Sunday, no time; moved off Saturday 10-03 on 2026-10-02, so it no longer sits inside a field session. Project: [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]])
 - [[next/calendar/2026-10-04 - Write the Week of 2026-10-05 IELTS Prep Plan]] — 2026-10-04 (Sunday, during the 20:00 vault review; one whole Reading or Listening section, and a day off for the date. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-10-04 - IELTS Task 1 to Time]] — 2026-10-04 13:00 (Sunday, between the range and badminton; moved from 2026-10-02 07:00, then 2026-10-03 14:00; after the writing paper, Book 16 Test 2 Task 1)
