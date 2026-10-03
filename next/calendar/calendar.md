@@ -58,5 +58,6 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 - [[next/calendar/2026-10-05 - Fix the Duplicate Bug in NCTool and Excel]] — 2026-10-05 (Monday, back at work; duplicated records in NCTool and the Excel output. Area: [[areas/work-systems/work-systems|Work Systems]])
 - [[next/calendar/2026-10-05 - Fix the FCM Mail Authentication Failure]] — 2026-10-05 (Monday, back at work; SMTP 535 on FCM `common-service`, caught 2026-10-02. Area: [[areas/work-systems/work-systems|Work Systems]])
 - [[next/calendar/2026-10-07 - Implement the Refresh Token Flow for Excel]] — 2026-10-07 (Wednesday, moved from 2026-09-30, then 2026-10-05. Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]])
+- [[next/calendar/2026-10-07 - Take Her on a Date]] — 2026-10-07 or 2026-10-08 (Wednesday or Thursday, no time yet. Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]])
 - [[next/calendar/2026-10-10 - Drive to Thien Truong]] — 2026-10-10 (same day as temple; check if it's one trip or two)
 - [[next/calendar/2027-02-09 - Decide What to Do with the TPBank Deposit]] — 2027-02-09 (a week before the 2027-02-16 maturity, so the roll-over decision is made rather than defaulted. Area: [[areas/personal-finance/personal-finance|Personal Finance]])

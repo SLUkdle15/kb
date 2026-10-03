@@ -36,3 +36,7 @@ Review monthly, or when a fix or a family commitment is pending.
 ## Related Resources
 
 - [[resources/home-maintenance/2026-09-23 - Program a New Remote on the CT202 Gate Receiver|Program a New Remote on the CT202 Gate Receiver]]
+
+## Protocols
+
+- [[areas/family/oil-an-electric-fan|Oil an Electric Fan]]

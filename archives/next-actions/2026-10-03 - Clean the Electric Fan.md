@@ -1,6 +1,7 @@
 # Clean the Electric Fan
 
 Area: [[areas/family/family|Family]]
+Protocol: [[areas/family/oil-an-electric-fan|Oil an Electric Fan]]
 Due: 2026-10-03
 
 ## Action
