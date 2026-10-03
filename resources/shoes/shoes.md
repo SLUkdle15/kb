@@ -7,6 +7,7 @@ Reference material on shoes: the foot anatomy and biomechanics behind why a shoe
 ## Choosing
 
 - [[resources/shoes/2026-09-13 - Zero Drop, Toe Spring, and Toe Splay|Zero Drop, Toe Spring, and Toe Splay]]
+- RunRepeat — https://runrepeat.com/ — lab-tested shoe reviews with measured specs such as heel-to-toe drop and toebox width, useful for checking a pair before buying.
 
 ## Care
 
