@@ -9,7 +9,8 @@ Go to dinner with the bicycles team, Saturday evening.
 18:00 on purpose — the master's field session is 20:00-21:00, and the IELTS full writing paper takes the morning.
 
 Venue still to pick. If it is somewhere worth returning to, log it in [[resources/restaurants/restaurants|resources/restaurants]].
-
+Xinu - Xiên Nướng Trung Hoa
+https://maps.app.goo.gl/Je19iuHaEkE7XQVF6
 ## Done When
 
 Dinner is had with the team.

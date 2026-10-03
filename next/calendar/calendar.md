@@ -49,7 +49,6 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 - [[next/calendar/2026-10-03 - IELTS Full Writing Paper]] — 2026-10-03 09:00 (Saturday, morning block around the booking and the master's field session; Book 16 Test 3)
 - [[next/calendar/2026-10-03 - IELTS Task 1 to Time]] — 2026-10-03 14:00 (Saturday afternoon, moved from 2026-10-02 07:00; after the writing paper, Book 16 Test 2 Task 1)
-- [[next/calendar/2026-10-03 - Clean the Electric Fan]] — 2026-10-03 (Saturday, no time; promoted from next-actions on 2026-10-02. Area: [[areas/family/family|Family]])
 - [[2026-10-03 - Call and Pick Up Mom's iPhone Gift]] — 2026-10-03 (Saturday, no time; promoted from next-actions on 2026-10-02. Area: [[areas/family/family|Family]])
 - [[next/calendar/2026-10-03 - Record Golf Practice at Home]] — 2026-10-03 (Saturday, no time; promoted from next-actions on 2026-10-02. Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]])
 - [[next/calendar/2026-10-03 - Dinner with the Bicycles Team]] — 2026-10-03 18:00 (Saturday, before the 20:00 master's field session; venue not picked yet)
