@@ -11,6 +11,7 @@ During [[next/calendar/Weekly Sunday Vault Review|the Sunday review]], write the
 
 - **One whole Reading or Listening section, timed.** Saturday 10-03 was the full Writing paper, so the Saturday rotation lands on Reading or Listening anyway. Reading is the one to pick if unsure, because it has not been re-confirmed this cycle. Take an unseen test from [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]], keep two in reserve for the mocks, and log it there.
 - **A day off for [[next/calendar/2026-10-07 - Take Her on a Date|the date]].** Leave Wednesday 10-07 or Thursday 10-08 without a study block, whichever the date lands on. Thursday protects the Wednesday rewrite, which is the highest-value hour of the week. If the date takes Wednesday, move the rewrite rather than drop it.
+- pree add the task so u dont waste time
 
 ## Done When
 

@@ -20,7 +20,7 @@ Map: https://maps.app.goo.gl/qBdBLxqH3KNeqbaN7
 
 ## Past Experience
 
-Visited:
+Visited: 2026-10-03
 
 Ordered:
 - Apple juice — she did not like it
