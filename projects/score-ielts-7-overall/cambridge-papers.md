@@ -44,7 +44,7 @@ This section is closed. Everything from here on comes out of the books and gets 
 
 ## Still Unseen
 
-**Book 16 Test 1 is spent** — Writing Task 2, Writing Task 1 and Listening, all sat 2026-08-31, and Speaking Part 3 on 2026-10-01. Book 16 Test 2's Writing Task 2 went on 2026-09-28, and the Speaking Part 2 cards from Tests 2 and 3 on 2026-09-29. That is the whole of **Used**, so everything else in Books 16–20 is still unseen. Nothing in **Spent Prompts** changes that count: an untraceable prompt may well have come from one of these books, which is a risk carried rather than tracked.
+**Book 16 Test 1 is spent** — Writing Task 2, Writing Task 1 and Listening, all sat 2026-08-31, and Speaking Part 3 on 2026-10-01. Book 16 Test 2's Writing Task 2 went on 2026-09-28, the Speaking Part 2 cards from Tests 2 and 3 on 2026-09-29, and Book 16 Test 3's Writing Task 2 in the full writing paper on 2026-10-03. That is the whole of **Used**, so everything else in Books 16–20 is still unseen. Nothing in **Spent Prompts** changes that count: an untraceable prompt may well have come from one of these books, which is a risk carried rather than tracked.
 
 Assuming the standard 4 tests per book (confirm against each book's contents page — not verified here):
 

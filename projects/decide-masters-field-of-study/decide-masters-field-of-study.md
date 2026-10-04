@@ -29,7 +29,7 @@ About an hour per step. Only the current step lives in `next`, undated or commit
 
 ## Next Actions
 
-- [[next/calendar/2026-10-04 - Name What the Master's Must Give|Name What the Master's Must Give]] — one sentence, step 1
+- [[next/calendar/2026-10-05 - Name What the Master's Must Give|Name What the Master's Must Give]] — one sentence, step 1
 
 ## Notes
 

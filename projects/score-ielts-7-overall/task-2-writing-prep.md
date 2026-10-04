@@ -62,7 +62,7 @@ The reason that reaches the page is almost always a **property of the thing** �
 
 **The rule.** Body 1 argues reason one, body 2 argues reason two. Sentence 2 states both, and each body repeating its own is correct. The fault is body 2 quietly arguing body 1's reason again — twice so far (the 09-09 delivery rep, the artists verdict), 85 words wasted each time. Pointing back to build the pivot (*Closing that gap*) is not a second airing.
 
-**The shortcut.** Take the two reasons from different areas — money, time, habit, health, status, law; a person's action, then an institution's. Different areas rarely need testing.
+**The shortcut.** Take the two reasons from different areas — money, time, habit, health, status, law; a person's action, then an institution's. Two reasons from different areas can't collapse into one.
 
 **Problem and solution is the exception.** Both bodies share a topic by design, so the shortcut can't apply — body 1 says why the cause bites, body 2 why the remedy changes behaviour. A remedy that's just the cause with a policy verb bolted on (*deliveries are convenient* → *charge for deliveries*) leaves body 2 empty.
 
