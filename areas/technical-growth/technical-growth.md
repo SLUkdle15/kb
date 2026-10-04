@@ -43,7 +43,7 @@ Review monthly, or during a weekly review when technical work is under active pr
 
 ## Captures Not Yet Filed
 
-- [[inbox/2026-10-01 - Network Protocols to Learn|Network Protocols to Learn]] — a bare list: HTTPS, TLS/SSL, TCP, IP, then SSH and the CONNECT method. Overlaps the ports-and-tunnels ground in [[inbox/2026-09-29 - Server A to Server B Connectivity Checks|Server A to Server B Connectivity Checks]].
+- [[inbox/2026-10-01 - Network Protocols to Learn|Network Protocols to Learn]] — a bare list: HTTPS, TLS/SSL, TCP, IP, then SSH and the CONNECT method. Overlaps the ports-and-tunnels ground in [[areas/work-systems/check-server-to-server-connectivity|Check Server-to-Server Connectivity]].
 
 ## Related Resources
 

@@ -27,6 +27,7 @@ Review monthly, or weekly when a migration or incident is active.
 
 - [[areas/work-systems/merge-dev-to-production|Merge Dev to Production]]
 - [[areas/work-systems/read-the-json-logs|Read the JSON Logs]]
+- [[areas/work-systems/check-server-to-server-connectivity|Check Server-to-Server Connectivity]]
 
 ## Active Projects
 
@@ -47,7 +48,6 @@ Review monthly, or weekly when a migration or incident is active.
 Raw debugging captures from these systems, still in `inbox` and not yet worth a resource note.
 
 - [[inbox/2026-09-29 - A 200 in the Audit Log Can Be a Handled Exception|A 200 in the Audit Log Can Be a Handled Exception]] — from `fcm-template-service`: a handled exception is logged as HTTP 200, so filtering audit logs by status misses the failures. Leaves an open item, explicit connect and read timeouts on `ApiClient`.
-- [[inbox/2026-09-29 - Server A to Server B Connectivity Checks|Server A to Server B Connectivity Checks]] — the order to check a failing WebClient call from A to B, and why a clean traceroute still says nothing about the port. Breaks off mid-sentence on step 5.
 
 ## Related Resources
 
