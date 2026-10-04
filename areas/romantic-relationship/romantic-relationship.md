@@ -36,7 +36,7 @@ Review monthly, or weekly when the relationship needs active attention.
 
 ## Current Actions
 
-- [[next/calendar/2026-10-07 - Take Her on a Date|Take Her on a Date]] — Wed 2026-10-07 or Thu 2026-10-08
+- [[next/calendar/2026-10-07 - Take Her on a Date|Take Her on a Date]] — Wed 2026-10-07
 - [[next/calendar/Weekly Sunday Badminton|Weekly Sunday Badminton]] — Sunday 15:00-17:00, moved from Saturday 2026-09-27 by agreement
 - [[next/maybe/2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] (someday/maybe)
 

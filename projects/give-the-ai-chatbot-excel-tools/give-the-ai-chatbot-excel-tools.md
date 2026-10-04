@@ -16,6 +16,7 @@ Gotchas: [[projects/give-the-ai-chatbot-excel-tools/gotchas|Gotchas]]
 
 ## Next Actions
 
+- [[next/calendar/2026-10-05 - Add Column Lock and Filter to Clone Sheet|Add Column Lock and Filter to Clone Sheet]] — Mon 2026-10-05
 - [[next/calendar/2026-10-07 - Implement the Refresh Token Flow for Excel|Implement the Refresh Token Flow for Excel]]
 - [[next/waiting/2026-09-25 - Excel Query Rollout|Excel Query Rollout]]
 

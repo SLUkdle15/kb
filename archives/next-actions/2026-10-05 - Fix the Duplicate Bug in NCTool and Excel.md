@@ -3,6 +3,7 @@
 Area: [[areas/work-systems/work-systems|Work Systems]]
 Protocol: [[areas/work-systems/read-the-json-logs|Read the JSON Logs]]
 Due: 2026-10-05
+Status: obsolete, 2026-10-04 — dropped; the duplicate problem behind it could not be recalled.
 
 ## Action
 

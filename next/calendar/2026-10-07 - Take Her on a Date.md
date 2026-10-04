@@ -6,9 +6,9 @@ Due: 2026-10-07
 
 ## Action
 
-Go on a date with her on Wednesday 2026-10-07 or Thursday 2026-10-08. Pick the place from [[areas/romantic-relationship/2026-09-09 - Date Ideas for Us|Date Ideas for Us]].
+Go on a date with her on Wednesday 2026-10-07 — settled on 2026-10-04. Pick the place from [[areas/romantic-relationship/2026-09-09 - Date Ideas for Us|Date Ideas for Us]].
 
-Both evenings are free. If it goes to Thursday, re-date this note to 2026-10-08.
+The evening is kept free of IELTS; the essay rewrite moved to Thursday.
 
 ## Done When
 
