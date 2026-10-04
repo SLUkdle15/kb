@@ -47,7 +47,7 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 ### One-Off
 
 - [[next/calendar/2026-10-05 - Name What the Master's Must Give]] — 2026-10-05 (Monday, no time; moved off Saturday 10-03 on 2026-10-02, then off Sunday 10-04 on 2026-10-04. Project: [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]])
-- [[next/calendar/2026-10-04 - IELTS Task 1 to Time]] — 2026-10-04 13:00 (Sunday, between the range and badminton; moved from 2026-10-02 07:00, then 2026-10-03 14:00; Book 16 Test 3 Task 1, the half of the writing paper left over)
+- [[next/calendar/2026-10-05 - IELTS Task 1 to Time]] — 2026-10-05 (Monday afternoon; moved from 2026-10-02 07:00, 2026-10-03 14:00, then 2026-10-04 13:00; Book 16 Test 3 Task 1, the half of the writing paper left over)
 - [[next/calendar/2026-10-05 - Fix the FCM Mail Authentication Failure]] — 2026-10-05 (Monday, back at work; SMTP 535 on FCM `common-service`, caught 2026-10-02. Area: [[areas/work-systems/work-systems|Work Systems]])
 - [[next/calendar/2026-10-05 - Deploy the NCTool AI Code to Production]] — 2026-10-05 (Monday, work; merge dev to main. Area: [[areas/work-systems/work-systems|Work Systems]])
 - [[next/calendar/2026-10-05 - Add Column Lock and Filter to Clone Sheet]] — 2026-10-05 (Monday, work. Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]])

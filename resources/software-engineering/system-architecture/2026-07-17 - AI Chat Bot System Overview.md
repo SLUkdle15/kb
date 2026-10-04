@@ -19,3 +19,4 @@ Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 ## Architecture Decisions
 
 - [[resources/software-engineering/system-architecture/adr/0002 - Choose Email to Reference Instead of ID|Choose Email to Reference Instead of ID]]
+- [[resources/software-engineering/system-architecture/adr/0004 - Push External Data into the AI Chatbot via S3|Push External Data into the AI Chatbot via S3]]

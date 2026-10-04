@@ -16,6 +16,7 @@ Protocol: [[areas/technical-growth/write-an-adr|Write an ADR]]
 ### [[resources/software-engineering/system-architecture/2026-07-17 - AI Chat Bot System Overview|AI Chat Bot]]
 
 - [[resources/software-engineering/system-architecture/adr/0002 - Choose Email to Reference Instead of ID|Choose Email to Reference Instead of ID]]
+- [[resources/software-engineering/system-architecture/adr/0004 - Push External Data into the AI Chatbot via S3|Push External Data into the AI Chatbot via S3]]
 
 ## Note Shape
 

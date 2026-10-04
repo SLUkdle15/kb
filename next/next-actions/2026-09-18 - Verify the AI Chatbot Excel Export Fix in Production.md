@@ -1,11 +1,11 @@
-# Fix the 502 on the AI Chatbot Excel Export
+# Verify the AI Chatbot Excel Export Fix in Production
 
 Area: [[areas/work-systems/work-systems|Work Systems]]
 System: [[resources/software-engineering/system-architecture/2026-07-17 - AI Chat Bot System Overview|AI Chat Bot]]
 
 ## Action
 
-Verify an export in production. The fix was on dev, and [[archives/next-actions/2026-10-02 - Deploy the Workflow MCP to Production|the 2026-10-02 production deploy]] merged `dev` to `main`, so it should now be live. Check rather than assume the dev fix carried. Moved from waiting on 2026-10-02.
+Verify an export in production. The fix was on dev, and [[archives/next-actions/2026-10-02 - Deploy the Workflow MCP to Production|the 2026-10-02 production deploy]] merged `dev` to `main`, so it should now be live. Check rather than assume the dev fix carried. Moved from waiting on 2026-10-02; renamed from "Fix the 502" on 2026-10-04, since the fix is done and only the check is left.
 
 ## Original Diagnosis
 
@@ -16,4 +16,4 @@ Exporting to Excel returned 502. Two questions split the problem in half, and bo
 
 ## Done When
 
-The fix is in production and an export there returns a file.
+An export in production returns a file instead of a 502.

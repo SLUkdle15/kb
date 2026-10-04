@@ -60,7 +60,7 @@ Made 2026-08-24, closing Phase 0. Detail archived in [[archives/score-ielts-7-ov
 Phase 1 now runs as dated calendar blocks rather than an undated weekly page. The week's six study hours each have their own note with a time on them; [[projects/score-ielts-7-overall/2026-10-05 - Week of 2026-10-05 Prep Plan|the week plan]] holds the tick list and the rep count.
 
 - [[next/calendar/2026-10-06 - Book the IELTS Test for Mid-November|Book the IELTS Test for Mid-November]] — dated commitment, Tue 2026-10-06, before work or at lunch
-- [[next/calendar/2026-10-04 - IELTS Task 1 to Time|Task 1 to Time]] — Sun 2026-10-04 13:00, moved from Fri 10-02 07:00, then Sat 10-03 14:00
+- [[next/calendar/2026-10-05 - IELTS Task 1 to Time|Task 1 to Time]] — Mon 2026-10-05 afternoon, moved from Sun 10-04 13:00, Fri 10-02 07:00, then Sat 10-03 14:00
 - [[next/calendar/2026-10-05 - IELTS Task 2 Timed Essay|Task 2 Timed Essay]] — Mon 2026-10-05 19:30, Book 16 Test 4
 - [[next/calendar/2026-10-06 - IELTS Speaking Part 2 Recordings|Speaking Part 2 Recordings]] — Tue 2026-10-06 19:00
 - [[next/calendar/2026-10-08 - IELTS Rewrite Monday's Essay|Rewrite Monday's Essay]] — Thu 2026-10-08 18:30
