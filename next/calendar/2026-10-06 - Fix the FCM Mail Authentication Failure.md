@@ -2,7 +2,7 @@
 
 Area: [[areas/work-systems/work-systems|Work Systems]]
 Protocol: [[areas/work-systems/read-the-json-logs|Read the JSON Logs]]
-Due: 2026-10-05
+Due: 2026-10-06
 
 ## Action
 

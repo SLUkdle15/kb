@@ -2,7 +2,7 @@
 
 Area: [[areas/work-systems/work-systems|Work Systems]]
 Protocol: [[areas/work-systems/merge-dev-to-production|Merge Dev to Production]]
-Due: 2026-10-05
+Due: 2026-10-06
 
 ## Action
 

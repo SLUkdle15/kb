@@ -16,11 +16,10 @@ Gotchas: [[projects/give-the-ai-chatbot-excel-tools/gotchas|Gotchas]]
 
 ## Next Actions
 
-- [[next/calendar/2026-10-05 - Add Column Lock and Filter to Clone Sheet|Add Column Lock and Filter to Clone Sheet]] — Mon 2026-10-05
 - [[next/calendar/2026-10-07 - Implement the Refresh Token Flow for Excel|Implement the Refresh Token Flow for Excel]]
 - [[next/waiting/2026-09-25 - Excel Query Rollout|Excel Query Rollout]]
 
-[[archives/next-actions/2026-09-29 - Implement Clone Sheet and List Permissions for Excel|Implement Clone Sheet for Excel]] completed 2026-10-02.
+[[archives/next-actions/2026-09-29 - Implement Clone Sheet and List Permissions for Excel|Implement Clone Sheet for Excel]] completed 2026-10-02, and [[archives/next-actions/2026-10-05 - Add Column Lock and Filter to Clone Sheet|Add Column Lock and Filter to Clone Sheet]] completed 2026-10-05.
 
 ## Notes
 
@@ -44,3 +43,4 @@ That list came from the architecture note, not from a survey of the code. It was
 - 2026-09-28 — token handling rollout split out of the wait: it is mine to implement, so it is now a next action; the wait covers only the Excel query rollout on other people's side.
 - 2026-09-28 — token handling rollout action dropped as not needed; the refresh token flow, on the calendar for 2026-09-29, is my remaining piece.
 - 2026-09-29 — per-sheet clone is wanted after all; the 2026-09-25 cut is reversed and a read-range-and-write path is a next action.
+- 2026-10-05 — the clone now carries column lock and filters onto the new sheet; the refresh token flow is the remaining piece on my side.

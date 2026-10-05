@@ -46,11 +46,10 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 ### One-Off
 
-- [[next/calendar/2026-10-05 - Name What the Master's Must Give]] — 2026-10-05 (Monday, no time; moved off Saturday 10-03 on 2026-10-02, then off Sunday 10-04 on 2026-10-04. Project: [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]])
 - [[next/calendar/2026-10-05 - IELTS Task 1 to Time]] — 2026-10-05 (Monday afternoon; moved from 2026-10-02 07:00, 2026-10-03 14:00, then 2026-10-04 13:00; Book 16 Test 3 Task 1, the half of the writing paper left over)
-- [[next/calendar/2026-10-05 - Fix the FCM Mail Authentication Failure]] — 2026-10-05 (Monday, back at work; SMTP 535 on FCM `common-service`, caught 2026-10-02. Area: [[areas/work-systems/work-systems|Work Systems]])
-- [[next/calendar/2026-10-05 - Deploy the NCTool AI Code to Production]] — 2026-10-05 (Monday, work; merge dev to main. Area: [[areas/work-systems/work-systems|Work Systems]])
-- [[next/calendar/2026-10-05 - Add Column Lock and Filter to Clone Sheet]] — 2026-10-05 (Monday, work. Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]])
+- [[next/calendar/2026-10-06 - Name What the Master's Must Give]] — 2026-10-06 (Tuesday, no time; moved off Saturday 10-03 on 2026-10-02, off Sunday 10-04 on 2026-10-04, then off Monday 10-05 on 2026-10-05. Project: [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]])
+- [[next/calendar/2026-10-06 - Fix the FCM Mail Authentication Failure]] — 2026-10-06 (Tuesday, moved from 2026-10-05; SMTP 535 on FCM `common-service`, caught 2026-10-02. Area: [[areas/work-systems/work-systems|Work Systems]])
+- [[next/calendar/2026-10-06 - Deploy the NCTool AI Code to Production]] — 2026-10-06 (Tuesday, moved from 2026-10-05; merge dev to main. Area: [[areas/work-systems/work-systems|Work Systems]])
 - [[next/calendar/2026-10-06 - Book the IELTS Test for Mid-November]] — 2026-10-06 (Tuesday, moved from 2026-09-30, 2026-10-03, then 2026-10-04; before work or at lunch. British Council, computer-delivered. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-10-07 - Implement the Refresh Token Flow for Excel]] — 2026-10-07 (Wednesday, moved from 2026-09-30, then 2026-10-05. Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]])
 - [[next/calendar/2026-10-07 - Take Her on a Date]] — 2026-10-07 (Wednesday, settled 2026-10-04; no time yet. Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]])

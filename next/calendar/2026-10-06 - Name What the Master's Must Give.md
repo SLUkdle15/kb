@@ -2,11 +2,11 @@
 
 Project: [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]]
 Area: [[areas/personal-development/personal-development|Personal Development]]
-Due: 2026-10-05
+Due: 2026-10-06
 
 ## Action
 
-Committed to Sunday 2026-10-04 on 2026-10-02, off the undated next-actions list where it had sat since 09-27, and moved off Saturday 10-03 the same day, then to Monday 10-05 on 2026-10-04. It is ten minutes standing on its own.
+Committed to Sunday 2026-10-04 on 2026-10-02, off the undated next-actions list where it had sat since 09-27, and moved off Saturday 10-03 the same day, then to Monday 10-05 on 2026-10-04, then to Tuesday 10-06 on 2026-10-05 when Monday went to IELTS only. It is ten minutes standing on its own.
 
 Write one sentence naming what the degree must give that the FPT job plus self-study cannot.
 
