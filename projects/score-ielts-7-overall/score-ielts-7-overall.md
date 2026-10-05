@@ -60,7 +60,6 @@ Made 2026-08-24, closing Phase 0. Detail archived in [[archives/score-ielts-7-ov
 Phase 1 now runs as dated calendar blocks rather than an undated weekly page. The week's six study hours each have their own note with a time on them; [[projects/score-ielts-7-overall/2026-10-05 - Week of 2026-10-05 Prep Plan|the week plan]] holds the tick list and the rep count.
 
 - [[next/calendar/2026-10-06 - Book the IELTS Test for Mid-November|Book the IELTS Test for Mid-November]] — dated commitment, Tue 2026-10-06, before work or at lunch
-- [[next/calendar/2026-10-05 - IELTS Task 1 to Time|Task 1 to Time]] — Mon 2026-10-05 afternoon, moved from Sun 10-04 13:00, Fri 10-02 07:00, then Sat 10-03 14:00
 - [[next/calendar/2026-10-05 - IELTS Task 2 Timed Essay|Task 2 Timed Essay]] — Mon 2026-10-05 19:30, Book 16 Test 4
 - [[next/calendar/2026-10-06 - IELTS Speaking Part 2 Recordings|Speaking Part 2 Recordings]] — Tue 2026-10-06 19:00
 - [[next/calendar/2026-10-08 - IELTS Rewrite Monday's Essay|Rewrite Monday's Essay]] — Thu 2026-10-08 18:30
@@ -68,7 +67,7 @@ Phase 1 now runs as dated calendar blocks rather than an undated weekly page. Th
 - [[next/calendar/2026-10-10 - IELTS Timed Reading Section|Timed Reading Section]] — Sat 2026-10-10 09:00, Book 16 Test 2
 - [[next/calendar/2026-10-11 - Write the Week of 2026-10-12 IELTS Prep Plan|Write the Week of 2026-10-12 IELTS Prep Plan]] — Sun 2026-10-11, during the vault review
 
-[[archives/next-actions/2026-10-04 - Write the Week of 2026-10-05 IELTS Prep Plan|Write the Week of 2026-10-05 IELTS Prep Plan]] completed 2026-10-04; [[archives/next-actions/2026-10-03 - IELTS Full Writing Paper|Full Writing Paper]] completed 2026-10-03; [[archives/next-actions/2026-10-01 - IELTS Speaking Part 3 and Pronunciation|Speaking Part 3 and Pronunciation]] completed 2026-10-01.
+[[archives/next-actions/2026-10-05 - IELTS Task 1 to Time|Task 1 to Time]] completed 2026-10-05; [[archives/next-actions/2026-10-04 - Write the Week of 2026-10-05 IELTS Prep Plan|Write the Week of 2026-10-05 IELTS Prep Plan]] completed 2026-10-04; [[archives/next-actions/2026-10-03 - IELTS Full Writing Paper|Full Writing Paper]] completed 2026-10-03; [[archives/next-actions/2026-10-01 - IELTS Speaking Part 3 and Pronunciation|Speaking Part 3 and Pronunciation]] completed 2026-10-01.
 
 Phase 0 closed 2026-08-24. Both baseline actions are archived — [[archives/next-actions/2026-08-22 - Pull the Baseline Bands and Make the Go-No-Go Call|the go/no-go call]] completed, and [[archives/next-actions/2026-08-19 - Finish the IELTS Baseline Diagnostic|the Reading diagnostic]] obsolete. Phase 1 runs off the weekly template in [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]] rather than one note per session.
 

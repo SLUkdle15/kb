@@ -1,6 +1,6 @@
 # Book 16 Test 3 Task 1 Answer
 
-From [[next/calendar/2026-10-05 - IELTS Task 1 to Time|IELTS Task 1 to Time]]. Airport map, now vs planned for next year. The first map-type Task 1. Time not recorded.
+From [[archives/next-actions/2026-10-05 - IELTS Task 1 to Time|IELTS Task 1 to Time]]. Airport map, now vs planned for next year. The first map-type Task 1. Time not recorded.
 
 ## Answer
 
