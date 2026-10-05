@@ -33,3 +33,4 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-29 - Finish a Half Marathon|Finish a Half Marathon]] — Area: [[areas/health/health|Health]]; revisit at a weekly review
 - [[2026-09-30 - Examine the Dishwasher|Examine the Dishwasher]] — Area: [[areas/family/family|Family]]
 - [[2026-10-01 - Learn the Core Network Protocols|Learn the Core Network Protocols]] — Area: [[areas/technical-growth/technical-growth|Technical Growth]]
+- [[2026-10-05 - Organize a Badminton Tournament|Organize a Badminton Tournament]] — Area: [[areas/badminton/badminton|Badminton]]
