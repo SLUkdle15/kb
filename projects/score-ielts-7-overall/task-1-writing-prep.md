@@ -8,9 +8,9 @@ Every Task 1 prompt is one of three families, and each wants a different toolkit
 
 1. **Chart/data** — line, bar, pie, table, and mixed combinations. Toolkit: everything below this section. Practiced repeatedly so far (household appliances, internet access, commuter transport, leisure activities).
 2. **Process** — a natural or man-made sequence. Toolkit: present simple throughout, passive voice for what's done to the material, sequencing language (*first / once this is complete / following this / at the final stage*) instead of trend words, overview names stage count plus start/end (or notes a repeating cycle). First encountered 2026-09-01.
-3. **Map** — two places, or the same place at two points in time. Toolkit: spatial/directional language (*north of, adjacent to, was replaced by*), contrast between the two points (past-vs-present or place-A-vs-place-B), overview names the single biggest change or difference. Not yet encountered in practice — a real coverage gap worth watching in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]].
+3. **Map** — two places, or the same place at two points in time. Toolkit: spatial/directional language (*north of, adjacent to, was replaced by*), contrast between the two points (past-vs-present or place-A-vs-place-B), overview names the single biggest change or difference. First encountered 2026-10-05 (Book 16 Test 3, an airport plan); toolkit in **Maps** at the end of this note.
 
-The rest of this note is the chart/data toolkit specifically.
+The sections below are the chart/data toolkit, apart from **Maps** at the end.
 
 ## Reading a Table/Chart Before Writing
 
@@ -61,3 +61,15 @@ Had all the data for this on 08-31 and never said it — check every mixed-chart
 Replace "First,"/"Second," with referencing back to the previous sentence:
 
 > *"This growth was mirrored by a steady decline in..."*
+
+## Maps
+
+Built from the 2026-10-05 airport rep, where Task Achievement was capped by length and Grammar by the passive.
+
+- **Tense follows the time frame.** For a plan, use *will be + past participle* throughout: *will be extended*, *will be replaced by*. For a past-vs-now map, use the past simple and present perfect: *was replaced by*, *has been converted into*.
+- **Make the place the subject when something is added.** *The departures hall will include a bag drop.* If the added thing leads, write *a bag drop will be added to the departures hall*, never *the departures hall will be added a bag drop*.
+- **Every change gets a location.** Phrases: *next to*, *opposite*, *at the end of*, *to the north of*, *where X used to be*, *on the site of*, *beyond security control*. This is where the missing 20–30 words come from.
+- **Change verbs:** *be extended / enlarged*, *be rebuilt in a V shape*, *be converted into*, *be replaced by*, *make way for*, *be relocated to*, *remain unchanged*.
+- **Use the map's own labels.** If the map says *terminal* or *concourse*, use that word. Avoid *aisle* and *compartment*.
+- **Overview:** name the biggest change plus what stays the same. *Overall, the terminal will be expanded considerably, while its basic layout will remain unchanged.*
+- **Structure:** intro, overview, then one body paragraph for changes to space and one for new facilities. The 10-05 grouping was right.
