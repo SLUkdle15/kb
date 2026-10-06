@@ -18,6 +18,8 @@
 
 **A stubbed dependency makes tests pass while producing nothing.** `stubs.py` swaps in a `MagicMock`, so `wb.save(buf)` would write zero bytes and the "is it a valid xlsx" assertion would still go green. That's why the blank workbook is hand-rolled `zipfile`.
 
+**A fixed range like `A1:A100000` loads every row you named.** The clone timed out on exactly this: one request fanning out into serial Graph calls, each returning 100,000 rows whether or not anything was in them. The sheet wasn't big — the address was. Excel accepts an open-ended column reference, `A:A`, which resolves against the used range instead, so the read stops at the last row that holds data. Same tool, a fraction of the payload. Fixed 2026-10-05 — see [[inbox/2026-10-05 - Clone Sheet Request Times Out on Serial HTTP Calls|Clone Sheet Request Times Out on Serial HTTP Calls]].
+
 ## Architectural dead ends
 
 **Graph has no worksheet copy** — not in v1.0, not in beta. The `Worksheet.copy()` you're thinking of is Office.js, which only runs inside Excel. That kills the native path, not the tool: `clone_sheet` was cut on those grounds until 2026-09-29, when someone needed it. It was built on 2026-10-02 as read-the-source-range-and-write-it-into-a-new-sheet, which carries values — not formulas, number formats, column widths, merged cells, conditional formatting, or charts. That carry/drop list is the design prediction and has not been confirmed against the shipped tool. See [[archives/next-actions/2026-09-29 - Implement Clone Sheet and List Permissions for Excel|Implement Clone Sheet for Excel]].

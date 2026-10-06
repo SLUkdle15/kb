@@ -4,4 +4,4 @@ Related project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-
 
 One HTTP request triggers a series of HTTP requests — the clone action on an Excel sheet — and the original request returns a timeout.
 
-Fixed by 2026-10-05; logged for reference. The fix itself is not recorded yet.
+Fixed by 2026-10-05 by replacing the fixed `A1:A100000` address with the open-ended `A:A` — recorded in [[projects/give-the-ai-chatbot-excel-tools/gotchas|Gotchas]].

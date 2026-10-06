@@ -27,3 +27,11 @@ Find the first failure before changing anything: how long mail has been down dec
 ## Done When
 
 A test send from `common-service` authenticates and delivers, the cause is named rather than guessed, and whatever mail was dropped since the first failure is either resent or recorded as lost.
+
+## Resolution
+
+Completed 2026-10-06. None of the four candidates above — the credentials were never wrong, and nothing had rotated or been locked.
+
+The mail password was wrapped in **double quotes** in the Helm values. A double-quoted YAML scalar is escape-processed, so the string the chart rendered into the deployed config was not the literal string in the file. The mail server was rejecting a password that looked correct everywhere you would think to check it, which is why `535 5.7.3` pointed at the account rather than at the config.
+
+Fixed by switching the value to **single quotes**, which YAML takes literally.
