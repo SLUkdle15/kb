@@ -80,7 +80,7 @@ Step 4: answer the question actually asked, naming the two topic-sentence reason
 | Problem and solution         | the cause you will argue, and the remedy                                     |
 | Advantages and disadvantages | the main advantage and the main disadvantage; which outweighs, only if asked |
 | Two-part question            | an answer to each question, neither borrowing the other's reason             |
-| Direct question               | two answers to the one question asked, both named                          |
+| Direct question              | two answers to the one question asked, both named                            |
 
 - **Name the side**, don't point at it — not *the latter*, not *the second view*.
 - **Don't announce** — not *I will present both views*.
