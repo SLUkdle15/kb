@@ -42,7 +42,25 @@ Bachelor's in computer science. Calculus and linear algebra done. **No calculus-
 
 So chip design is back inside Fall 2027, conditionally: physics has to start now, and the program shortlist has to be filtered by whether each school admits with deficiencies. The selective VLSI programs are the least likely to. That filter belongs in step 3.
 
+## GRE, Checked 2026-10-06
+
+Not a blanket requirement in either field, and not a reason to prefer one over the other. It is per program.
+
+| Program | GRE |
+| --- | --- |
+| USC Viterbi ECE | not required for 2027 |
+| Purdue ECE | optional |
+| Michigan ECE | **required** — 50th percentile or above in all three sections, under 5 years old |
+| JHU Robotics MSE | not required |
+| Michigan Robotics | optional |
+| CMU Robotics | sources conflict — MRSD lists it required, MSR reads as optional. Confirm on CMU's own page |
+
+**But optional is not the same as useless here.** Purdue says outright that applicants from a school it does not know, or with a weaker GPA, benefit from strong scores. That is this application: a Vietnamese CS degree, no track record in the field being applied to, and prerequisites still being cleared. The quantitative GRE is one of the few signals available to offset that — worth having rather than skipping, even where it is not demanded.
+
+The earlier assumption that hardware fields would be stricter than software on this does not hold. Michigan is the only program checked that requires it.
+
 ## Sources
 
 - [Columbia EE MS Bridge Program](https://www.engineering.columbia.edu/academics/programs/masters-programs/ms-bridge-programs/electrical-engineering-ms-bridge-program-faq) · [NJIT MSEE bridge courses](https://catalog.njit.edu/graduate/newark-college-engineering/electrical-computer/electrical-ms/)
 - [JHU Robotics MSE](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/robotics-computational-sensing/robotics-master-science-engineering/) · [WPI Robotics MS](https://www.wpi.edu/academics/online/study/robotics-engineering-ms)
+- GRE: [USC Viterbi ECE](https://viterbigradadmission.usc.edu/programs/masters/msprograms/electrical-computer-engineering/ms-electrical-and-computer-engineering/) · [Purdue ECE admissions](https://engineering.purdue.edu/ECE/Academics/Graduates/Admissions) · [Michigan ECE](https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/apply-for-grad/grad-school-admissions-requirements/) · [CMU MRSD](https://mrsd.ri.cmu.edu/apply/)
