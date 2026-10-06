@@ -14,6 +14,10 @@ One sentence. Not a list, not a session — ten minutes at a desk. Everything el
 
 If no sentence survives scrutiny, the honest answer may be "not a master's". Write that down instead and stop; [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]] then gets reconsidered rather than continued.
 
+## Status
+
+**Completed 2026-10-06.** The sentence is in the project note. The answer turned out to be a pivot: hardware — chip design or mechanical engineering — not software.
+
 ## Done When
 
 The sentence is written into [[projects/decide-masters-field-of-study/decide-masters-field-of-study|the project note]] — or the note records that no such sentence holds.

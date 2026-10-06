@@ -52,10 +52,10 @@ Not steps here — they start only once an offer arrives, and they carry their o
 
 Step 1 runs in [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]]; its current action is the one that moves this project too.
 
-- [[next/calendar/2026-10-06 - Name What the Master's Must Give|Name What the Master's Must Give]] — step 1
+- [[next/next-actions/2026-10-06 - Read Chip Design and Mechanical Engineering Curricula|Read Chip Design and Mechanical Engineering Curricula]] — step 3
 
 ## Notes
 
-Field is still open, which is why step 1 comes before any program research. Steps 5 through 8 can overlap once step 4 has produced concrete deadlines.
+Field narrowed 2026-10-06: the master's is a pivot out of software, and the candidates are chip design and mechanical engineering. Steps 5 through 8 can overlap once step 4 has produced concrete deadlines.
 
 Going full-time in the US means the timeline is driven by two clocks that are not the application deadline. Only one of them falls inside this project: the English test, which has to be booked early because scores take weeks. The other, the F-1 visa interview after admission, sits in After This Project and is what decides whether Fall 2027 is actually made — worth knowing now, because it is the reason submitting early beats submitting on the deadline. Budget not being a constraint removes the funding search but not either clock.

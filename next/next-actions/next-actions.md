@@ -18,6 +18,7 @@ Each note should describe a clear next action. If it requires multiple steps and
 
 ## Current Actions
 
+- [[2026-10-06 - Read Chip Design and Mechanical Engineering Curricula|Read Chip Design and Mechanical Engineering Curricula]] — Project: [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]], before 2026-10-17
 - [[2026-10-02 - Fix the FCM Mail Authentication Failure|Fix the FCM Mail Authentication Failure]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-10-05 - Fill Up Gas Before the Thien Truong Drive|Fill Up Gas Before the Thien Truong Drive]] — Project: [[projects/drive-to-thien-truong/drive-to-thien-truong|Drive to Thien Truong]]
 - [[2026-10-04 - Buy a Dry-Erase Marker for Strike Marks|Buy a Dry-Erase Marker for Strike Marks]] — Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]], before 2026-10-11
