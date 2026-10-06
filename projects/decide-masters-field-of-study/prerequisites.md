@@ -26,9 +26,14 @@ CS is listed as an accepted feeder background, not a deficiency. What programs e
 
 The two costs run opposite to the two benefits. Chip design buys the clean break from software but charges a bridge year. Robotics admits you as you are but delivers a degree that is substantially code — less of the break the step 1 sentence says the degree must buy.
 
-## Still Open
+## The Transcript, 2026-10-06
 
-Against the undergrad transcript: multivariable calculus, calculus-based physics with lab, linear algebra, ODEs, probability and statistics. Each missing one is a bridge course before applying.
+Bachelor's in computer science. Calculus and linear algebra done. **No calculus-based physics with lab.**
+
+- **Robotics — clear.** Calculus, linear algebra and programming are the stated core, and they are all there. Worth confirming ODEs and probability appear on the transcript; if not, they are self-studiable and some programs accept that.
+- **Chip design — the physics gap sits underneath the bridge, not inside it.** The 18 bridge credits assume calculus-based physics with lab as already done. So the path is physics first, then the bridge, then the MS. The lab component is the hard part: it cannot be self-studied, it needs enrolment somewhere.
+
+**What that does to the clock.** Fall 2027 applications close December 2026. Physics plus an 18-credit bridge is a year to eighteen months of coursework that does not exist yet, and a bridge program is its own application. Chip design is therefore not a Fall 2027 field — it is a Fall 2028 field with a year of preparation first, or it is not this degree.
 
 ## Sources
 
