@@ -14,6 +14,8 @@ Prompt: **Book 16 Test 4, Writing Task 2** — pre-picked, unseen. Log the row i
 
 Save it under `my work` as `2026-10-05 - Book 16 Test 4 Task 2 Essay` so Wednesday's rewrite can open it. Lower back routine is 21:00-21:15, so end by then.
 
+In the future all cars, buses and trucks will be driverless. The only people travelling inside these vehicles will be passengers. Do you think the advantages of driverless vehicles outweigh the disadvantages?
+
 ## Done When
 
 A finished essay exists under `my work`, self-scored on all four criteria, and the Book 16 Test 4 Writing Task 2 row is logged.
