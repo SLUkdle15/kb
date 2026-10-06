@@ -23,7 +23,7 @@ About an hour per step. Only the current step lives in `next`, undated or commit
 1. **Frame the decision.** Name what the degree must give that the FPT job plus self-study cannot, which [[areas/personal-development/favorite-problems|Favorite Problems]] a field would advance, and what is being optimized — depth in the current craft, a pivot, or the move to the US itself. Those three point at different degrees.
 2. **Build the long list.** Five to eight candidate fields, no filtering. For each, name the specific role it opens that is not reachable from where the career sits now. A field with no such role drops out here.
 3. **Read the curricula.** For each surviving field, read the real course catalog of two US programs — the required-courses page, not the marketing page. Split the fields across two sessions. Drop any field where the actual curriculum killed the interest.
-4. **Check prerequisites** against the undergrad transcript and note the gaps. US programs often assume specific coursework, and a gap means a bridge course before applying.
+4. **Check prerequisites** against the undergrad transcript and note the gaps. US programs often assume specific coursework, and a gap means a bridge course before applying. Program side researched 2026-10-06: [[projects/decide-masters-field-of-study/prerequisites|Prerequisites for the Two Fields]] — chip design needs a bridge, robotics does not.
 5. **Reach out.** Find two or three people who did that master's and ask what it changed and what they would do differently. Pending replies go to `next/waiting`; do not hold step 6 for them.
 6. **Decide.** Cut to one or two fields, mark which is primary, and write one sentence per survivor into the parent project note.
 
