@@ -23,7 +23,7 @@ Cross-checked 2026-09-15 against outside IELTS-teaching sources: body ideas deve
 - Opinion (positive/negative)
 - Discuss both views
 - Problem and solution
-- Advantages and disadvantages
+- Advantages and disadvantages — *discuss* or *outweigh*; only the second asks for a verdict
 - Two-part question
 - Direct question — the same family with one question instead of two
 
@@ -39,6 +39,40 @@ A prompt that describes two groups — *some benefit, some don't* — reads like
 | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Agree — the gap is real              | access (no device/connection shuts someone out), skill (a connection without the literacy to use it)                                     |
 | Disagree — the gap isn't significant | the access floor is lower than assumed (basic phones now carry messaging apps); the skill gap closes fast through informal peer teaching |
+
+#### Outweigh Is a Verdict, Not a List
+
+Two instruction lines sit on top of the same prompt, and only one of them asks for a verdict:
+
+- *Discuss the advantages and disadvantages.* — name both, weigh neither.
+- *Do the advantages outweigh the disadvantages?* — a yes/no question. An essay that names one of each and never says which wins has answered half of it, and caps Task Response the same way answering one half of a two-part question does.
+
+**Commit in sentence 2, not in a conclusion.** The budget leaves no room for a paragraph whose only job is the verdict, so sentence 2 carries it: the main advantage, the main disadvantage, and which is the greater. The **Weighing** frame below is built for this type and stops one word short — *The clearest gain is [reason], set against [reason]* has to go on and say which side it lands on.
+
+**Don't say *I agree*.** Nothing has been proposed to agree with. Commit with *outweigh*, *the greater of the two*, *worth the cost*.
+
+**Losing side first.** Body 1 argues the side that loses, body 2 the side that wins, so the essay ends on the sentence that answers the question. The pivot at the start of body 2 — *while*, *whereas*, or a backward reference — is owed by this type anyway.
+
+**One body each, not two on the winning side.** The other shape — both bodies arguing the winner, the losing side conceded in a subordinate clause — answers the question too, but not at this budget. The prompt names both sides, so the concession has to be written either way, and it arrives as a clause bolted onto a topic sentence, which is where the errors come from. Two reasons on the same side also collapse into each other far more easily than one of each; an advantage and a disadvantage taken from different areas cannot. The structure never carries the verdict in any case — sentence 2 does.
+
+**Weighing is a ground, not a count.** Two advantages against one disadvantage is arithmetic, and the budget allows one of each in any case. The ground is stated in the winning body's fourth sentence, the consequence slot — *so what, for the question asked* — and the question asked is which side wins. Three grounds that work:
+
+| Ground | The claim | What body 2 ends on |
+| --- | --- | --- |
+| **Scale** | one side reaches far more people than the other | the cost falls on a particular group; the gain reaches anyone who … |
+| **Permanence** | one side's effect outlasts the other's | the cost is paid once, or reverses; the gain keeps compounding |
+| **Remedy** | the losing harm already has a fix; the winning gain has no substitute | the drawback can be mitigated by …; nothing else delivers … |
+
+Pick the ground before writing body 1 — it is what decides which side loses.
+
+**The two sides must not share a causal noun.** One Reason Per Body applies across the advantage/disadvantage split too: *cheap, so more people can afford it* against *cheap, so quality falls* is one claim about price argued twice. Take the advantage and the disadvantage from different areas, exactly as the shortcut says.
+
+> *Many people now buy everyday goods online rather than in local shops. Do the advantages outweigh the disadvantages?*
+>
+> **Body 1, the disadvantage.** Small shopkeepers lose the passing trade they live on, because a street only supports a shop while people still walk past it.
+> **Body 2, the advantage.** People who cannot easily reach a shop — the elderly, the rural, anyone working the hours shops keep — can buy at all.
+> **Ground: scale.** The loss falls on one trade in one street; the gain reaches everyone a shop was never within reach of.
+> **Sentence 2.** *Online shopping does take from small local shops the passing trade they depend on, but it lets people who cannot easily reach a shop buy at all, and that is the greater of the two.*
 
 ### The Two Topic Sentences
 
@@ -78,7 +112,8 @@ Step 4: answer the question actually asked, naming the two topic-sentence reason
 | Opinion (positive/negative)  | which of the two it is                                                       |
 | Discuss both views           | your own side, named — the two views were sentence 1's job                   |
 | Problem and solution         | the cause you will argue, and the remedy                                     |
-| Advantages and disadvantages | the main advantage and the main disadvantage; which outweighs, only if asked |
+| Advantages and disadvantages (*discuss*) | the main advantage and the main disadvantage, no verdict                     |
+| Advantages and disadvantages (*outweigh*) | both of those, plus which is the greater and on what ground                  |
 | Two-part question            | an answer to each question, neither borrowing the other's reason             |
 | Direct question              | two answers to the one question asked, both named                            |
 
@@ -114,7 +149,20 @@ Opinion prompts can take either — the tell decides, not the type name.
 >
 > *Some people argue that* **[view one]**, *while others believe that* **[view two]**.
 
-Rotate the attribution: *It is often argued* · *Many people believe* · *Some argue … while others maintain* · *A common view holds*.
+Rotate the attribution, and not the one the last essay used:
+
+| Opener | Takes |
+| --- | --- |
+| *It is often argued that* … | a claim, as a full clause |
+| *Many people believe that* … | a claim, as a full clause |
+| *A common view holds that* … | a claim, as a full clause |
+| *It is sometimes suggested that* … | a claim the essay will push back on |
+| *There is a widespread belief that* … | a claim, as a full clause |
+| *Some argue that* … *, while others maintain that* … | two claims — for a prompt that raises both sides |
+| *Opinion is divided over whether* … | two sides, without stating either — shortest of the two-sided openers |
+| *… is widely regarded as* … | a noun phrase, not a clause — no *that* |
+
+Every one but the last takes *that* plus a full clause, and dropping it is the logged repeat in [[projects/score-ielts-7-overall/grammar-patterns|Grammar Patterns]]. Say it, don't trust the ear.
 
 **T2 moves** — no frame; change what leads, and not the same move as last essay:
 
