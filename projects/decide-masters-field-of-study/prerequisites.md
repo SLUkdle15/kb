@@ -38,6 +38,8 @@ Bachelor's in computer science. Calculus and linear algebra done. **No calculus-
 - **Deficiency coursework alongside the MS.** Many programs admit conditionally and list the makeup courses as a condition rather than a prerequisite. SJSU requires them finished before the fourth graduate class; Ole Miss, within one semester of enrolling; Wichita State lists them at admission. So the 18 bridge credits can overlap the degree at the right schools, stretching it toward 2.5 years instead of delaying the start by one. They do not count toward the MS, so it is extra time and money, not extra degree.
 - **Physics now, here, before applying.** Coursework in progress can be listed on the application; what is normally required is completion before enrolment, not before applying. A calculus-based physics course with lab started in Hanoi this winter and finished by summer 2027 satisfies a Fall 2027 start. The lab is the part that needs a real institution — it is the one thing that cannot be self-studied.
 
+**Can the physics be taken at the enrolling school?** Yes — bridge coursework is undergraduate courses taken in graduate standing, at that same university. But physics and the bridge are a chain, not a parallel pair: circuits assumes physics E&M, signals assumes circuits. Doing the whole chain there means roughly three years, the first of which is freshman physics at US graduate tuition. Taking physics in Hanoi first removes the first link, so the bridge can start on arrival.
+
 So chip design is back inside Fall 2027, conditionally: physics has to start now, and the program shortlist has to be filtered by whether each school admits with deficiencies. The selective VLSI programs are the least likely to. That filter belongs in step 3.
 
 ## Sources
