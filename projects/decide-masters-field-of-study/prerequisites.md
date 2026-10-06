@@ -59,6 +59,8 @@ Not a blanket requirement in either field, and not a reason to prefer one over t
 
 The earlier assumption that hardware fields would be stricter than software on this does not hold. Michigan is the only program checked that requires it.
 
+**Decided 2026-10-06: no GRE this cycle.** The order is IELTS, then physics, then the GRE — and the GRE only if a shortlisted program demands it, sat in January once IELTS is scored. The mid-November IELTS sitting has no slack for a retake, so nothing else competes with it for prep time. Michigan's ECE program drops off the shortlist unless something else recommends it.
+
 ## Sources
 
 - [Columbia EE MS Bridge Program](https://www.engineering.columbia.edu/academics/programs/masters-programs/ms-bridge-programs/electrical-engineering-ms-bridge-program-faq) · [NJIT MSEE bridge courses](https://catalog.njit.edu/graduate/newark-college-engineering/electrical-computer/electrical-ms/)
