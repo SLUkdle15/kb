@@ -1111,3 +1111,12 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 0
 - Report: /tmp/claude-1000/-mnt-c-kb/d29f0a04-f22a-4fe3-b59d-86102087f05c/scratchpad/vault-lint/report.md
+
+## [2026-10-06] lint | Vault health check
+
+- Indexed 511 notes
+- Broken wiki links: 2
+- Orphan notes: 2
+- Projects missing next actions: 0
+- Stale-claim candidates: 0
+- Report: /tmp/claude-1000/-home-kng-Projects-kb/4479a264-4de5-490b-b6d6-f55fe9e22a5f/scratchpad/vault-lint/report.md
