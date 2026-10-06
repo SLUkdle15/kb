@@ -14,6 +14,10 @@ Exporting to Excel returned 502. Two questions split the problem in half, and bo
 1. Does a request from today reach the service at all? If nothing hits, the 502 comes from in front of the service — proxy, gateway, or timeout — not from the export code.
 2. Does the exported file exist? If the file is written and the response still fails, the export ran and the failure is in returning it.
 
+## Status
+
+**Completed 2026-10-06.** An export in production returned a file, so the dev fix carried through the 2026-10-02 deploy.
+
 ## Done When
 
 An export in production returns a file instead of a 502.
