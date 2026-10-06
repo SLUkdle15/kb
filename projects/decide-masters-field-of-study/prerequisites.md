@@ -33,7 +33,12 @@ Bachelor's in computer science. Calculus and linear algebra done. **No calculus-
 - **Robotics — clear.** Calculus, linear algebra and programming are the stated core, and they are all there. Worth confirming ODEs and probability appear on the transcript; if not, they are self-studiable and some programs accept that.
 - **Chip design — the physics gap sits underneath the bridge, not inside it.** The 18 bridge credits assume calculus-based physics with lab as already done. So the path is physics first, then the bridge, then the MS. The lab component is the hard part: it cannot be self-studied, it needs enrolment somewhere.
 
-**What that does to the clock.** Fall 2027 applications close December 2026. Physics plus an 18-credit bridge is a year to eighteen months of coursework that does not exist yet, and a bridge program is its own application. Chip design is therefore not a Fall 2027 field — it is a Fall 2028 field with a year of preparation first, or it is not this degree.
+**What that does to the clock — revised 2026-10-06.** The gaps do not have to be cleared before the MS starts. Two mechanisms run them in parallel:
+
+- **Deficiency coursework alongside the MS.** Many programs admit conditionally and list the makeup courses as a condition rather than a prerequisite. SJSU requires them finished before the fourth graduate class; Ole Miss, within one semester of enrolling; Wichita State lists them at admission. So the 18 bridge credits can overlap the degree at the right schools, stretching it toward 2.5 years instead of delaying the start by one. They do not count toward the MS, so it is extra time and money, not extra degree.
+- **Physics now, here, before applying.** Coursework in progress can be listed on the application; what is normally required is completion before enrolment, not before applying. A calculus-based physics course with lab started in Hanoi this winter and finished by summer 2027 satisfies a Fall 2027 start. The lab is the part that needs a real institution — it is the one thing that cannot be self-studied.
+
+So chip design is back inside Fall 2027, conditionally: physics has to start now, and the program shortlist has to be filtered by whether each school admits with deficiencies. The selective VLSI programs are the least likely to. That filter belongs in step 3.
 
 ## Sources
 
