@@ -16,7 +16,7 @@ If no sentence survives scrutiny, the honest answer may be "not a master's". Wri
 
 ## Status
 
-**Completed 2026-10-06.** The sentence is in the project note. The answer turned out to be a pivot: hardware — chip design or mechanical engineering — not software.
+**Completed 2026-10-06.** The sentence is in the project note. The answer turned out to be a pivot: hardware — chip design or robotics — not software.
 
 ## Done When
 

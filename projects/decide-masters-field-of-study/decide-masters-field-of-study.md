@@ -29,7 +29,7 @@ About an hour per step. Only the current step lives in `next`, undated or commit
 
 ## Next Actions
 
-- [[next/next-actions/2026-10-06 - Read Chip Design and Mechanical Engineering Curricula|Read Chip Design and Mechanical Engineering Curricula]] — step 3
+- [[next/next-actions/2026-10-06 - Read Chip Design and Robotics Curricula|Read Chip Design and Robotics Curricula]] — step 3
 
 ## Notes
 
@@ -37,7 +37,7 @@ About an hour per step. Only the current step lives in `next`, undated or commit
 
 > The degree must buy entry into hardware, where I have no track record and no way in — FPT and self-study keep making me a better software engineer, which is no longer what I am trying to become.
 
-The framing behind it is a pivot. No more software as the thing to master. The two candidates named are chip design and mechanical engineering. That settles step 1's third question — what is being optimized is neither depth in the current craft nor the move to the US, but leaving the craft. It also narrows step 2 before it starts: a long list of five to eight fields is now a short list of two, and the work shifts to step 3, reading what those curricula actually contain.
+The framing behind it is a pivot. No more software as the thing to master. The two candidates named are chip design and robotics. That settles step 1's third question — what is being optimized is neither depth in the current craft nor the move to the US, but leaving the craft. It also narrows step 2 before it starts: a long list of five to eight fields is now a short list of two, and the work shifts to step 3, reading what those curricula actually contain.
 
 On [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|the Software Architect Roadmap]], which is live and mid-Phase 3 in the craft being left: it stands, at lower ambition. Still learning software, no longer aiming to be world-class at it. The roadmap already framed itself as "one candidate path, not a committed career track," so nothing there needs retracting — only the expectation that it leads anywhere.
 
