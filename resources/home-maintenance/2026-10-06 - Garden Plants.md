@@ -36,9 +36,14 @@ Water the same way for all: soak until it runs from the holes, then wait until t
 - **Fig, dạ quỳnh** — cool dry months.
 - **Rose** — 60–70 days before Tết. Tết 2027 is 6 Feb, so late Nov to early Dec 2026.
 
-## To Check
+## The Pots Hold Garden Soil
 
-Pot size and material (feed dose is per litre; dark pots cook roots in afternoon sun), sun hours per spot, drainage, and whether any pot holds garden soil instead of potting mix — it packs solid and rots roots through nồm.
+Confirmed 2026-10-06, and it is the one real problem here. Garden soil is far denser than potting mix: in a pot it compacts a little more with every watering, the air pockets roots need disappear, and water stops moving through. Dense wet soil plus nồm is exactly how roots rot.
+
+- **Fix:** repot all four into free-draining mix (potting mix opened up with perlite or coarse sand; cactus or orchid mix for the dạ quỳnh). Best window is late winter, just before the spring flush — **January 2027**, after the winter rest and ahead of nồm.
+- **Until then:** water much less often than the figures above assume — dense soil stays wet far longer, so check 5 cm down, not 2–3. Raise the pots off the ground, keep the holes clear, no saucers.
+
+Still to note per pot: size and material, and hours of direct sun.
 
 ## Sources
 
