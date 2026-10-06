@@ -28,17 +28,17 @@ Snapshot taken 2026-09-28. Amounts in thousand VND, per month. Quarterly subscri
 | ---------- | ------------------- |
 | House      | 3,688               |
 | House 2    | 1,595               |
+| Soccer     | 350                 |
 | Soccer 2   | 750                 |
 | Claude     | 599                 |
 | Gas, car   | 500                 |
 | Gas, motor | 400                 |
-| Soccer     | 350                 |
 | YouTube    | 195                 |
 | Phone      | 100                 |
 | iQIYI      | 56 (169 / 3 months) |
 | Youku      | 53 (159 / 3 months) |
 | **Total**  | **8,286**           |
-
+appsub ís 1122
 **Girlfriend — 4,000**
 
 **Spending — 775 to 855**, budgeted at 800-1,100 for the buffer.
