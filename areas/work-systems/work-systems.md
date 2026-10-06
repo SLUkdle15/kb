@@ -40,7 +40,7 @@ Review monthly, or weekly when a migration or incident is active.
 - [[archives/next-actions/2026-10-05 - Add Column Lock and Filter to Clone Sheet|Add Column Lock and Filter to Clone Sheet]] — AI Excel tools, completed 2026-10-05
 - [[archives/next-actions/2026-10-02 - Deploy the Workflow MCP to Production|Deploy the Workflow MCP to Production]] — completed 2026-10-02
 - [[archives/next-actions/2026-09-29 - Update the Workflow MCP Tools and Descriptions|Update the Workflow MCP Tools and Descriptions]] — implementation completed 2026-10-02
-- [[next/next-actions/2026-09-18 - Verify the AI Chatbot Excel Export Fix in Production|Verify the AI Chatbot Excel Export Fix in Production]] — deployed 2026-10-02; verify an export in production
+- [[archives/next-actions/2026-09-18 - Verify the AI Chatbot Excel Export Fix in Production|Verify the AI Chatbot Excel Export Fix in Production]] — completed 2026-10-06
 - [[next/maybe/2026-09-18 - Save a Push Status and Run the DSC Push in Parallel|Save a Push Status and Run the DSC Push in Parallel]] (someday/maybe)
 
 ## Captures Not Yet Filed

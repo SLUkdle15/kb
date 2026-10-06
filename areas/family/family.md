@@ -23,7 +23,6 @@ Review monthly, or when a fix or a family commitment is pending.
 
 ## Current Actions
 
-- [[next/next-actions/2026-09-06 - Research How to Care for the Tree|Research How to Care for the Tree]]
 - [[next/maybe/2026-08-09 - Examine the Door|Examine the Door]] (someday/maybe)
 - [[next/maybe/2026-09-30 - Examine the Dishwasher|Examine the Dishwasher]] (someday/maybe)
 - [[next/maybe/2026-08-09 - Fix the Microwave Küppersbusch MR6330.0S|Fix the Microwave Küppersbusch MR6330.0S]] (someday/maybe) — the door can run open, a safety issue
@@ -35,6 +34,7 @@ Review monthly, or when a fix or a family commitment is pending.
 ## Related Resources
 
 - [[resources/home-maintenance/2026-09-23 - Program a New Remote on the CT202 Gate Receiver|Program a New Remote on the CT202 Gate Receiver]]
+- [[resources/home-maintenance/2026-10-06 - Garden Plants|Garden Plants]] — pot care for the lemon, fig, dạ quỳnh and rose
 
 ## Protocols
 

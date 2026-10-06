@@ -1,6 +1,7 @@
 # Research How to Care for the Tree
 
 Area: [[areas/family/family|Family]]
+List: [[resources/home-maintenance/2026-10-06 - Garden Plants|Garden Plants]]
 
 ## Action
 
@@ -10,4 +11,4 @@ Not her potted pine, which is a separate, diagnosed problem — see [[archives/n
 
 ## Done When
 
-I know what each tree needs and can write down a care routine to follow.
+The care fields in [[resources/home-maintenance/2026-10-06 - Garden Plants|Garden Plants]] are filled in, and I can write down a routine to follow.

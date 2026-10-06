@@ -7,6 +7,7 @@ Area: [[areas/family/family|Family]]
 ## Notes
 
 - [[resources/home-maintenance/2026-09-23 - Program a New Remote on the CT202 Gate Receiver|Program a New Remote on the CT202 Gate Receiver]]
+- [[resources/home-maintenance/2026-10-06 - Garden Plants|Garden Plants]]
 
 ## Manuals
 
