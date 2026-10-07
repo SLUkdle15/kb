@@ -104,3 +104,28 @@ Access and skill are independent — either can fail without the other — so th
 **s2.** students who enjoy having classroom's interaction loses interest in study
 
 Caught at the check: sentence 2 reused the **Verdict-first** frame almost word-for-word from this note's own example and from the 09-13 working-hours rep — exactly what [[projects/score-ielts-7-overall/task-2-writing-prep#Frames|Frames]] warns against. Rebuilt with the new **Reason leads** frame instead: *Because students without access to a laptop are shut out of online courses altogether, and because those who value classroom interaction lose interest in studying without it, this is a negative development.*
+
+## 2026-10-06 — Advantages and Disadvantages, Outweigh (Driverless Vehicles)
+
+**Prompt.** In the future all cars, buses and trucks will be driverless. The only people travelling inside these vehicles will be passengers. Do you think the advantages of driverless vehicles outweigh the disadvantages?
+
+**Type**, named first and abbreviated on the page: *Op advantage or disadvantage*. The instruction line is the **outweigh** variant, so a verdict is owed rather than a list — see [[projects/score-ielts-7-overall/task-2-writing-prep#Outweigh Is a Verdict, Not a List|Outweigh Is a Verdict, Not a List]].
+
+**Lens**, written into the body slot before any content was generated: *or whom, and what do they do differently because of it*.
+
+**Body ideas, as built.**
+
+1. *for the passengers: they cant trust 100% on the drive less transportation because they cant resolve accidents once they happen*
+2. *for the passengers: dont need to have a license they can spend their time to do something else*
+
+**Sentence 2, as written.** *The clearest gain is people don't need to learn how to drive, set against these vehicles will not be able to resolve once an incident occurs*
+
+**Opener, written last.** *It is argued that automatic vehicles like cars, busses and trucks will completely replace human drivers.*
+
+Two things the plan shows, both of them the documented traps rather than new ones.
+
+**Sentence 2 stops one word short.** It is the **Weighing** frame used correctly — *The clearest gain is [reason], set against [reason]* — and it ends there, having named both sides and said which is the greater of neither. That is the exact failure the outweigh rule is written against: a yes/no question answered halfway caps Task Response. The frame is built to stop here, so the sentence has to go on under its own steam.
+
+**Both bodies came back with the same stakeholder.** The lens asked *for whom*, and both answers were *for the passengers*. The prep note's argument for one body each is that an advantage and a disadvantage drawn from different areas cannot collapse into each other — two drawn from the same group can. Nothing was lost yet, because the two claims are genuinely independent (trust in incident handling; not needing a licence), but the lens was answered once and reused rather than run twice.
+
+The ordering is right: the losing side is body 1 and the winning side body 2, so the essay would end on the answer — assuming the missing verdict lands on the advantages.

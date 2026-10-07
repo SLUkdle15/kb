@@ -1136,3 +1136,21 @@
 - Reason, the first one given for these moves: the fee money is not in hand yet and is expected by Monday
 - The booking account was opened on 2026-10-07 and early November looks good, which retires the "an October booking lands the test in December" inference in the note's Status and in the project note
 - Open on the page: mid-November is still the target, early November only if mid is closed, and a compression recorded in the six-week plan if it goes that way
+
+## [2026-10-07] lint | Vault health check
+
+- Indexed 512 notes
+- Broken wiki links: 2
+- Orphan notes: 1
+- Projects missing next actions: 0
+- Stale-claim candidates: 0
+- Report: /tmp/vault-lint/report.md
+
+## [2026-10-07] lint | Vault health check
+
+- Indexed 512 notes
+- Broken wiki links: 2
+- Orphan notes: 1
+- Projects missing next actions: 0
+- Stale-claim candidates: 0
+- Report: /tmp/vault-lint/report.md
