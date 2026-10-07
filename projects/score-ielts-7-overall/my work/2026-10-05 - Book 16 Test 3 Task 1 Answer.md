@@ -2,6 +2,10 @@
 
 From [[archives/next-actions/2026-10-05 - IELTS Task 1 to Time|IELTS Task 1 to Time]]. Airport map, now vs planned for next year. The first map-type Task 1. Time not recorded.
 
+## Prompt
+
+The plans below show the site of an airport now and how it will look after redevelopment next year. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
 ## Answer
 
 1. SHAPE  is the map
