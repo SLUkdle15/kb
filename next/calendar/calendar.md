@@ -52,7 +52,6 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 - [[next/calendar/2026-10-10 - Drive to Thien Truong]] — 2026-10-10 (Saturday; the trip on its own. Project: [[projects/drive-to-thien-truong/drive-to-thien-truong|Drive to Thien Truong]])
 - [[next/calendar/2026-10-11 - Go to the Range and Run a Low-Point Drill Session]] — 2026-10-11 10:00 (Sunday; towel drill replaces most of the tally, 7 iron, 20-ball check at the end)
 - [[next/calendar/2026-10-09 - Hieu PC Conference in the Diamond Room]] — 2026-10-09 09:00-12:00 (Friday; Diamond conference room)
-- [[next/calendar/2026-10-05 - IELTS Task 2 Timed Essay]] — 2026-10-05 19:30 (Monday; Book 16 Test 4 Writing Task 2. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-10-06 - IELTS Speaking Part 2 Recordings]] — 2026-10-06 19:00 (Tuesday, ends by 20:00 for soccer; Book 16 Tests 1 and 4, Book 17 Test 1. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-10-08 - IELTS Rewrite Monday's Essay]] — 2026-10-08 18:30 (Thursday; the date has Wednesday. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-10-09 - IELTS Speaking Part 3 and Pronunciation]] — 2026-10-09 19:30 (Friday, Thursday holds the rewrite; Book 16 Test 4 Part 3. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
