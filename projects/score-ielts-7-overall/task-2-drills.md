@@ -116,16 +116,22 @@ Caught at the check: sentence 2 reused the **Verdict-first** frame almost word-f
 **Body ideas, as built.**
 
 1. *for the passengers: they cant trust 100% on the drive less transportation because they cant resolve accidents once they happen*
-2. *for the passengers: dont need to have a license they can spend their time to do something else*
+2. *for the passengers: dont need to have a license they can spend their time to do something else* — replaced on the re-read with *for the passengers:  the workforce is moving to other fields -> help country to develop*
 
-**Sentence 2, as written.** *The clearest gain is people don't need to learn how to drive, set against these vehicles will not be able to resolve once an incident occurs*
+**Sentence 2, as written**, rebuilt around the new body 2. *The clearest gain is that drivers are moving to other fields to contribute their work, set against these vehicles will not be able to resolve once an incident occurs*
 
 **Opener, written last.** *It is argued that automatic vehicles like cars, busses and trucks will completely replace human drivers.*
 
-Two things the plan shows, both of them the documented traps rather than new ones.
+Four things the plan shows, all of them documented traps rather than new ones.
 
-**Sentence 2 stops one word short.** It is the **Weighing** frame used correctly — *The clearest gain is [reason], set against [reason]* — and it ends there, having named both sides and said which is the greater of neither. That is the exact failure the outweigh rule is written against: a yes/no question answered halfway caps Task Response. The frame is built to stop here, so the sentence has to go on under its own steam.
+**Sentence 2 stops one word short, and survived a revision still doing it.** It is the **Weighing** frame used correctly — *The clearest gain is [reason], set against [reason]* — and it ends there, having named both sides and said which is the greater of neither. That is the exact failure the outweigh rule is written against: a yes/no question answered halfway caps Task Response. The frame is built to stop here, so the sentence has to go on under its own steam. Body 2 was rewritten and sentence 2 rebuilt around it, and the missing verdict was carried across untouched — which makes it the first thing to fix rather than a slip.
 
-**Both bodies came back with the same stakeholder.** The lens asked *for whom*, and both answers were *for the passengers*. The prep note's argument for one body each is that an advantage and a disadvantage drawn from different areas cannot collapse into each other — two drawn from the same group can. Nothing was lost yet, because the two claims are genuinely independent (trust in incident handling; not needing a licence), but the lens was answered once and reused rather than run twice.
+**No ground was picked.** Scale, permanence or remedy is chosen before body 1, because it decides which side loses and it is what body 2's consequence sentence ends on. Nothing in the plan names one, which is the missing verdict seen from the other end: with no ground there is nothing for the verdict to rest on. *Remedy* is the one this prompt hands over — a vehicle that cannot handle an incident is a problem with an obvious fix in sight, while the labour freed up has no substitute.
+
+**The revision fixed the stakeholder collapse and left the label behind.** The first version answered the lens once and reused it: both bodies came back *for the passengers*, and the prep note's argument for one body each is that an advantage and a disadvantage drawn from different areas cannot collapse into each other — two drawn from the same group can. The new body 2 is drawn from a different area, labour rather than safety, so the two sides can no longer collapse. The slot still reads *for the passengers* while the sentence is about drivers; nothing scores on the plan page, but the label is the only record of which lens answer produced the body.
+
+**The new body 2 trades a concrete gain for an abstract one.** *Don't need a licence, time freed up* is a person doing something different, with the example slot half written already — a commuter working through a motorway journey. *The workforce is moving to other fields -> help country to develop* lands on a country instead of a person, which is [[projects/score-ielts-7-overall/task-2-writing-prep#A Reason Names an Effect, Not a Property|land it on the person]] run backwards, and it owes an argumentative step the other does not: losing a driving job is a loss from the driver's seat, so the body has to establish why the move is a gain before it can be weighed as one. Both are legitimate advantages; the second costs more of the 85 words. Keeping the new area and landing it on the driver who now does other work gets both.
+
+**The attribution repeats the last rep's.** The 10-03 sugar plan opened *it often argued that* and this one opens *It is argued that* — the rotation table exists so the opener is not the same move twice running, and *A common view holds that* and *There is a widespread belief that* were both free. T1 itself is defensible here: the prompt carries no belief tell, but a prediction about the future is not yet a fact, so attributing it is the safer read.
 
 The ordering is right: the losing side is body 1 and the winning side body 2, so the essay would end on the answer — assuming the missing verdict lands on the advantages.

@@ -129,7 +129,7 @@ Pick one
 - **Verdict first.** *On balance this is a negative development, because [reason], and because [reason].*
 - **Cause as the subject.** *[Reason] explains most of it, and [remedy] is the response with any chance of working.*
 - **Listed.** *Two pressures do most of the work here: [reason], and [reason].*
-- **Weighing.** *The clearest gain is [reason], set against [reason].*
+- **Weighing.** *The clearest gain is [reason], set against [reason].* For the **outweigh** variant it does not stop there — the verdict and the ground are owed in the same sentence: *The clearest gain is [advantage], set against [disadvantage] — and because [ground], [side] is the greater of the two.* The ground is one of [[#Outweigh Is a Verdict, Not a List|scale, permanence or remedy]], picked before body 1.
 - **Reason leads.** *Because [reason], and because [reason], [verdict or stated answer].* Use it when the last essay put the verdict first.
 
 ### Sentence 1 — The Opener, T1 or T2
