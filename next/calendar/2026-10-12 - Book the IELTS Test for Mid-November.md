@@ -2,22 +2,22 @@
 
 Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]]
 Area: [[areas/personal-development/personal-development|Personal Development]]
-Due: 2026-10-06
+Due: 2026-10-12
 Remind: 1
 
 ## Action
 
-Tuesday 2026-10-06, a workday with soccer at 20:30 — do the booking before work or at lunch, so it does not get squeezed out.
+Monday 2026-10-12, a workday that also carries [[next/calendar/2026-10-12 - Deploy FCM to Production and Repoint the 230 Callback to Signgate|the FCM production deploy]] — do the booking before work or at lunch, so it does not get squeezed out. The fee is what set this date: the money is not in hand on 2026-10-07 and Monday is when it is expected.
 
 Book an IELTS Academic slot for **mid-November 2026**. Retargeted from 3 October on 2026-08-24 by [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]], which found fluency rather than structure to be the binding constraint — the diagnosis is now in hand, so the remaining question is which mid-November date, not whether October is realistic.
 
 ## Status
 
-**Committed to 2026-10-06.** Moved from 2026-09-30 to 2026-10-03 on 2026-09-27, to 2026-10-04 on 2026-10-02, then to 2026-10-06 on 2026-10-03 — all at request, none with a stated reason.
+**Committed to 2026-10-12.** Moved from 2026-10-06 on 2026-10-07 because the fee money is not in hand yet — the first of these moves with a stated reason. Before that: 2026-09-30 to 2026-10-03 on 2026-09-27, to 2026-10-04 on 2026-10-02, then to 2026-10-06 on 2026-10-03, all at request and none with a reason given.
 
-Read what that move costs, because the 09-30 date was not arbitrary. Booking stopped being do-when-ready on 2026-09-27 — the 2026-09-21 backstop passed unbooked, which is why this note left `next/next-actions` for the calendar — and 09-30 was picked as the last day September could still land a mid-November test. 10-06 is in October, and each slip after the first is the same cost paid again. **On the reasoning recorded here, a booking made on 10-06 lands the test in December, not mid-November, and a December test misses the December application window in [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]].**
+**The December inference is dead, and that is the good news in this move.** What used to stand here reasoned that 09-30 was the last day September could still land a mid-November test, so any October booking would land in December and miss the December application window in [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]]. It was an inference from assumed lead time, never checked against the page. It has now been checked: the booking account was opened on 2026-10-07 and **early November looks good**. Booking on 10-12 does not cost the test date.
 
-That reasoning has never been checked against actual British Council slot availability — it is an inference, not a quoted lead time. So the first thing to do on 10-06 is open the booking page and look at what mid-November dates are genuinely still open. If one is, the move cost nothing and this paragraph should be deleted. If none is, the test date moves to December and the plan's outer limit moves with it, which is a decision to make deliberately rather than discover.
+One thing to settle on the page rather than on arrival. What was seen open is early November; the target written into this note and the plan is mid-November. An early-November date reports sooner and clears the application window with more room, but it compresses what is left of the six-week plan by a week — and Phase 1 is already behind its bar. Mid-November is still the target; take an early-November slot only if mid-November turns out not to be open, and if that happens, say so in [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]] as a deliberate compression.
 
 Booked against readiness that is not there yet, deliberately. Phase 1 has not passed its bar: no Cambridge paper has been logged since 2026-08-31, no weekly template instance was written for the week of 09-21, and no recorded Part 2 turn has been logged since the 2026-08-21 baseline against a Phase 1 budget of roughly twenty. The reasoning for booking anyway is in the Why Book Before Ready section below.
 
@@ -58,9 +58,9 @@ Close the loop:
 
 A paid booking confirmation exists with a named date and centre, the date is on the calendar, and the six-week plan has been shifted to match it.
 
-Study first, book when ready is over. 2026-09-21 was the backstop and it passed unbooked, so this is a dated commitment — 2026-10-06 — rather than an undated action. It was 09-30 until 2026-09-27, 10-03 until 2026-10-02 and 10-04 until 2026-10-03; see Status above for what the six days cost.
+Study first, book when ready is over. 2026-09-21 was the backstop and it passed unbooked, so this is a dated commitment — 2026-10-12 — rather than an undated action. It was 09-30 until 2026-09-27, 10-03 until 2026-10-02, 10-04 until 2026-10-03 and 10-06 until 2026-10-07; see Status above for the reasons and for what the booking page actually shows.
 
-What booking later costs is the test date, not the project. A mid-November test reports by late November, which still clears the December application window in [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]]. That is now the outer limit rather than a contingency, so the slack that existed while October was the target is gone: booking that slips into October lands the test in December and misses the window.
+What booking later costs is the test date, not the project. A mid-November test reports by late November, which still clears the December application window in [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]]. The fear that an October booking would push the test into December was an inference, and the page contradicted it on 2026-10-07 — early November is open. So the date itself is not what waiting costs now. What it costs is study: every week unbooked is another week without the mock bank that booking unlocks.
 
 What does erode with waiting is study material, and this is the reason to book with the **British Council** specifically. Booking there unlocks IELTS Ready Premium free — 40 full scored mock tests with AI feedback across all four skills, open until shortly after the test date. Both of the plan's mock checkpoints depend on having mocks to sit, so booking early enough to study *against* that bank is worth more than holding the date open. https://takeielts.britishcouncil.org/take-ielts/prepare/ielts-ready
 

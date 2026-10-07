@@ -46,7 +46,7 @@ Generated dashboards, not commitments. Rebuild with the `month` skill.
 
 ### One-Off
 
-- [[next/calendar/2026-10-06 - Book the IELTS Test for Mid-November]] — 2026-10-06 (Tuesday, moved from 2026-09-30, 2026-10-03, then 2026-10-04; before work or at lunch. British Council, computer-delivered. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
+- [[next/calendar/2026-10-12 - Book the IELTS Test for Mid-November]] — 2026-10-12 (Monday, moved from 2026-09-30, 2026-10-03, 2026-10-04, then 2026-10-06 on 2026-10-07 for the fee money; before work or at lunch. British Council, computer-delivered. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-10-07 - Implement the Refresh Token Flow for Excel]] — 2026-10-07 (Wednesday, moved from 2026-09-30, then 2026-10-05. Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]])
 - [[next/calendar/2026-10-07 - Take Her on a Date]] — 2026-10-07 (Wednesday, settled 2026-10-04; no time yet. Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]])
 - [[next/calendar/2026-10-10 - Drive to Thien Truong]] — 2026-10-10 (Saturday; the trip on its own. Project: [[projects/drive-to-thien-truong/drive-to-thien-truong|Drive to Thien Truong]])

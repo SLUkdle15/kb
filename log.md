@@ -1129,3 +1129,10 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 0
 - Report: /tmp/vault-lint/report.md
+
+## [2026-10-07] move | Booking moved from 2026-10-06 to 2026-10-12
+
+- `next/calendar/2026-10-12 - Book the IELTS Test for Mid-November.md` — renamed and re-dated; six referencing notes retargeted
+- Reason, the first one given for these moves: the fee money is not in hand yet and is expected by Monday
+- The booking account was opened on 2026-10-07 and early November looks good, which retires the "an October booking lands the test in December" inference in the note's Status and in the project note
+- Open on the page: mid-November is still the target, early November only if mid is closed, and a compression recorded in the six-week plan if it goes that way
