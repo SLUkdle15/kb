@@ -135,3 +135,32 @@ Four things the plan shows, all of them documented traps rather than new ones.
 **The attribution repeats the last rep's.** The 10-03 sugar plan opened *it often argued that* and this one opens *It is argued that* — the rotation table exists so the opener is not the same move twice running, and *A common view holds that* and *There is a widespread belief that* were both free. T1 itself is defensible here: the prompt carries no belief tell, but a prediction about the future is not yet a fact, so attributing it is the safer read.
 
 The ordering is right: the losing side is body 1 and the winning side body 2, so the essay would end on the answer — assuming the missing verdict lands on the advantages.
+
+## 2026-10-07 — Problem and Solution (Household Waste)
+
+**Prompt.** In many countries, the amount of household waste like food packaging is increasing. What are the causes of this problem? What measures could be taken to reduce it?
+
+**Type**, named first and correctly: *cause and solution*. The first **problem and solution** rep in this log, and the type whose two bodies share a topic by design — see [[projects/score-ielts-7-overall/task-2-writing-prep#One Reason Per Body|Problem and solution is the exception]]. Captured in [[projects/score-ielts-7-overall/my work/2026-10-07 - Household Waste Task 2 Plan|the plan]].
+
+**Body ideas, as built.**
+
+1. Cause — *for consumer, carrying food now need more packaging. ex: some food with soup now can be carry, this need multiple layer or package to prevent leakage and at the same time, keep the soup hot.*
+2. Measure — *growing pott veggie to reduce the demand for food*
+
+**Sentence 2.** *cooked food require more packaaging explains most òf it, and self plant is the response wiht nay chance of wokring.*
+
+**Opener, written last.** *an increasing number of families now throw away food packaging*
+
+**The remedy argues against its own cause.** The exception rule names one way body 2 goes empty — a cause with a policy verb bolted on — and this is the other way: a remedy aimed at a different cause entirely. Body 1 establishes that people buy meals they carry away hot, which is a claim about people who are not cooking. Body 2 then asks those same people to grow vegetables and cook them. The mechanism sentence body 2 owes is *why the remedy changes behaviour*, and the only behaviour available to change is the one body 1 just explained they do not have time for, so the paragraph has to spend its 85 words arguing against the paragraph before it. A measure that bites on this cause acts on the same transaction the cause happens in — a charge or a deposit on the container, or the vendor made to take it back — and leaves body 1 standing. This is the first entry where the two bodies fail by being *unrelated* rather than by collapsing into one; the shortcut that prevents the collapse (take the two from different areas) is switched off for this type, and nothing replaces it, which is how the gap opened.
+
+**Sentence 2 commits to both halves — the thing the last rep missed.** [[projects/score-ielts-7-overall/task-2-writing-prep#What Each Type Commits To|Problem and solution]] owes the cause and the remedy, and both are named. The 10-06 plan reached for a frame that stopped one word short and stopped there twice; this one uses **Cause as the subject** and the frame carries the full commitment on its own. The frame is also new — Verdict-first on 09-13, Listed on 09-13, Reason-leads on 10-03, Weighing on 10-06 — so the rotation held without being prompted.
+
+The wording is the template's own, *is the response with any chance of working*, carried across unchanged. Not an error, and the same phrase twice running would be, so it is a watch rather than a fix.
+
+**The person is compressed out between the body slot and sentence 2.** The body slot opens *for consumer* — the lens answered, a person on the page. Sentence 2 reduces it to *cooked food require more packaging*, a property of the food with nobody in it. That is [[projects/score-ielts-7-overall/task-2-writing-prep#A Reason Names an Effect, Not a Property|shorter is not the problem; abstract is]] happening in the compression step rather than in the first reach: the reason was found correctly and then lost on the way into the sentence that reports it. The same compression keeping the person reads *people now buy meals they did not cook, and a meal that travels needs packaging a meal eaten at home does not*.
+
+**The opener moves the quantifier off the waste and onto the families.** The prompt's spine is that the *amount* of waste is rising. The opener says an increasing *number of families* throw packaging away, which is a different claim and a weaker one — families have always thrown packaging away; what is rising is how much each one throws. [[projects/score-ielts-7-overall/task-2-writing-prep#How Far the Paraphrase Has to Go|Step 1 is find the spine]], and swapping which noun the increase attaches to changes it. T2 is the right call — *is increasing* is a situation tell, no belief to attribute.
+
+**Quantify the trend, twice running.** *An increasing number of* is the T2 move the note marks *once per set of essays, not every time*, and the last T2 opener — 09-22, *An increasing number of universities* — used it. The two T1 reps in between hide the repeat: the rotation runs per move, not per rep, so the three other T2 moves have now gone unused for a month.
+
+**Body 2 has an idea and nothing under it.** Body 1 carries an idea and a mechanism, with the soup detail doing real work — multiple layers, leakage, heat retention — and needs only a named scene and a consequence. Body 2 is one noun phrase. Planning stopped once both slots had something in them rather than once both had a mechanism, which is also what let the mismatch above through unnoticed.
