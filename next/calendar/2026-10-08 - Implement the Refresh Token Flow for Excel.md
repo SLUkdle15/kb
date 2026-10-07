@@ -2,7 +2,7 @@
 
 Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]]
 Area: [[areas/work-systems/work-systems|Work Systems]]
-Due: 2026-10-07
+Due: 2026-10-08
 
 ## Action
 
