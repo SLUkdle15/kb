@@ -13,7 +13,7 @@ Someone else in the group runs cost and collection now, so chasing the per-head 
 
 ## Waiting On
 
-Not the collection cycle any more. Both courts have a name against them, so this is two direct asks rather than a Sunday-session trigger: **duongvt32** for the first court, **anhvh49** for the second.
+Not the collection cycle any more. Both courts have a name against them rather than a Sunday-session trigger: **duongvt32** for the first court, **anhvh49** for the second. Waiting on them, for as long as it takes.
 
 ## Follow Up
 
@@ -23,7 +23,9 @@ If it is not settled that day, stop waiting on the collection cycle and ask whoe
 
 **2026-10-07** — that day passed unsettled. Both courts now have a name and a venue against them, which is what the escalation was missing: it said "ask whoever runs it" without saying who. Ask the two of them directly, court by court.
 
-**2026-10-08** — every entry above is a post-mortem of a date that passed; none of them set a date to act. This one does. Send both asks on 2026-10-08, not at a session: **duongvt32** for 1,500,000 (first court), **anhvh49** for 1,830,000 (second court). Check back **2026-10-15**; if either has not answered by then, this stops being a wait and the amount gets written off out loud rather than carried another month.
+**2026-10-08** — the escalation above is closed, and the two entries before it misread the item. This was never a debt to chase. Both courts stand with a name against them and the money comes back when the club's cost cycle is running properly, however long that takes — no deadline, no write-off date, no session trigger.
+
+The note's job is to hold the two figures so they are not forgotten, not to pursue them. It is deliberately untriggered: do not re-raise it as a stalled wait or add a follow-up date to it.
 
 ## Done When
 
