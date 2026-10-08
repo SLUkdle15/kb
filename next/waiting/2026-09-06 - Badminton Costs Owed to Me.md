@@ -23,6 +23,8 @@ If it is not settled that day, stop waiting on the collection cycle and ask whoe
 
 **2026-10-07** — that day passed unsettled. Both courts now have a name and a venue against them, which is what the escalation was missing: it said "ask whoever runs it" without saying who. Ask the two of them directly, court by court.
 
+**2026-10-08** — every entry above is a post-mortem of a date that passed; none of them set a date to act. This one does. Send both asks on 2026-10-08, not at a session: **duongvt32** for 1,500,000 (first court), **anhvh49** for 1,830,000 (second court). Check back **2026-10-15**; if either has not answered by then, this stops being a wait and the amount gets written off out loud rather than carried another month.
+
 ## Done When
 
 I have the money back.
