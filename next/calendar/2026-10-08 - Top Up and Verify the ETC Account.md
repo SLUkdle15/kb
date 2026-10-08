@@ -2,6 +2,7 @@
 
 Project: [[projects/drive-to-thien-truong/drive-to-thien-truong|Drive to Thien Truong]]
 Area: [[areas/vehicles/vehicles|Vehicles]]
+Due: 2026-10-08
 
 ## Action
 
