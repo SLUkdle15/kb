@@ -8,7 +8,7 @@ Due: 2026-10-10
 
 Drive to Thien Truong. The temple and vegetarian day that shared this date is now in [[areas/romantic-relationship/2026-09-09 - Date Ideas for Us|Date Ideas for Us]], for another lunar first day, so this is a trip on its own.
 
-Prep: [[next/calendar/2026-10-08 - Top Up and Verify the ETC Account|Top Up and Verify the ETC Account]] and [[next/calendar/2026-10-09 - Fill Up Gas Before the Thien Truong Drive|Fill Up Gas Before the Thien Truong Drive]].
+Prep: [[archives/next-actions/2026-10-08 - Top Up and Verify the ETC Account|Top Up and Verify the ETC Account]] and [[next/calendar/2026-10-09 - Fill Up Gas Before the Thien Truong Drive|Fill Up Gas Before the Thien Truong Drive]].
 
 ## Done When
 
