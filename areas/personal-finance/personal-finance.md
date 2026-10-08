@@ -51,7 +51,7 @@ Snapshot taken 2026-09-28, app subscriptions added 2026-10-06. Amounts in thousa
 | Parking    | ~55                         |
 | **Total**  | **775-855**                 |
 
-Everything out: **14,183 to 14,263**, budgeted 13,400 — over by 783 to 863 since the app subscriptions went in. Either the budget moves or something in the table does.
+Everything out: **14,183 to 14,263**, budgeted 13,400 — over by 783 to 863 since the app subscriptions went in. Either the budget moves or something in the table does — [[next/maybe/2026-10-08 - Cancel Claude|cancelling Claude]] is one candidate, at 599.
 
 Not in this snapshot: account balances, net income, and therefore net position, monthly surplus, and emergency-fund coverage in months. Those are the open half of [[archives/next-actions/2026-08-24 - Snapshot My Finances and Pick a Tracking Method|Snapshot My Finances and Pick a Tracking Method]], and they are what [[next/maybe/2026-08-21 - Start Investing|Start Investing]] is still waiting on.
 
@@ -63,7 +63,7 @@ A US partnership interest does exist, found on 2026-10-08 when the [[archives/ne
 
 ## Next Actions
 
-- 
+- [[next/maybe/2026-10-08 - Cancel Claude|Cancel Claude]] (someday/maybe)
 
 ## Protocols
 
