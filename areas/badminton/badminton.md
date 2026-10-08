@@ -26,7 +26,6 @@ Review monthly, or weekly when actively training.
 ## Current Actions
 
 - [[next/calendar/Weekly Sunday Badminton|Weekly Sunday Badminton]] — Sunday 15:00-17:00 since 2026-09-27, court confirmed at Phúc Long (Lê Văn Thiêm)
-- [[next/next-actions/2026-10-08 - Ask duongvt32 and anhvh49 for the Badminton Amounts|Ask duongvt32 and anhvh49 for the Badminton Amounts]] — the two courts I fronted, [[next/waiting/2026-09-06 - Badminton Costs Owed to Me|still owed]]
 - [[next/maybe/2026-10-05 - Organize a Badminton Tournament|Organize a Badminton Tournament]] (someday/maybe)
 
 ## Current Projects

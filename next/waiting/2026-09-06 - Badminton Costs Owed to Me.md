@@ -23,8 +23,6 @@ If it is not settled that day, stop waiting on the collection cycle and ask whoe
 
 **2026-10-07** — that day passed unsettled. Both courts now have a name and a venue against them, which is what the escalation was missing: it said "ask whoever runs it" without saying who. Ask the two of them directly, court by court.
 
-The ask itself is now its own action — [[next/next-actions/2026-10-08 - Ask duongvt32 and anhvh49 for the Badminton Amounts|Ask duongvt32 and anhvh49 for the Badminton Amounts]], created 2026-10-08.
-
 ## Done When
 
 I have the money back.
