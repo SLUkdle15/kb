@@ -17,3 +17,5 @@ Resolve it from the sender's own domain and an account you already hold, not fro
 ## Done When
 
 The request is traced to a real account and answered, or identified as not yours and deleted.
+
+Done 2026-10-08. Traced to a real account and answered — the K-1 is genuine, not misdirected and not a lure. So a US partnership interest does exist, which this vault had no record of; the account is not named here.

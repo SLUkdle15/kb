@@ -55,13 +55,15 @@ Everything out: **14,183 to 14,263**, budgeted 13,400 — over by 783 to 863 sin
 
 Not in this snapshot: account balances, net income, and therefore net position, monthly surplus, and emergency-fund coverage in months. Those are the open half of [[archives/next-actions/2026-08-24 - Snapshot My Finances and Pick a Tracking Method|Snapshot My Finances and Pick a Tracking Method]], and they are what [[next/maybe/2026-08-21 - Start Investing|Start Investing]] is still waiting on.
 
+A US partnership interest does exist, found on 2026-10-08 when the [[archives/next-actions/2026-10-02 - Answer the Schedule K-1 Delivery Consent|Schedule K-1 delivery consent]] traced to a real account. It issues a K-1 yearly. The account is not named here yet.
+
 ## Current Projects
 
 - 
 
 ## Next Actions
 
-- [[next/next-actions/2026-10-02 - Answer the Schedule K-1 Delivery Consent|Answer the Schedule K-1 Delivery Consent]] — trace it to a real account before consenting
+- 
 
 ## Protocols
 
