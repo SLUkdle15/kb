@@ -23,7 +23,6 @@ Review monthly, or when a fix or a family commitment is pending.
 
 ## Current Actions
 
-- [[next/calendar/2027-01-10 - Repot the Garden Plants Out of Garden Soil|Repot the Garden Plants Out of Garden Soil]] — 2027-01-10
 - [[next/maybe/2026-08-09 - Examine the Door|Examine the Door]] (someday/maybe)
 - [[next/maybe/2026-09-30 - Examine the Dishwasher|Examine the Dishwasher]] (someday/maybe)
 - [[next/maybe/2026-08-09 - Fix the Microwave Küppersbusch MR6330.0S|Fix the Microwave Küppersbusch MR6330.0S]] (someday/maybe) — the door can run open, a safety issue
