@@ -18,6 +18,7 @@ Each note should describe a clear next action. If it requires multiple steps and
 
 ## Current Actions
 
+- [[2026-10-08 - Buy Medicine for Mr Hieu|Buy Medicine for Mr Hieu]] — errand; what and where are already known
 - [[2026-10-07 - Find Her a Running Shoe|Find Her a Running Shoe]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 - [[2026-10-06 - Read Chip Design and Robotics Curricula|Read Chip Design and Robotics Curricula]] — Project: [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]], before 2026-10-17
 - [[2026-10-05 - Fill Up Gas Before the Thien Truong Drive|Fill Up Gas Before the Thien Truong Drive]] — Project: [[projects/drive-to-thien-truong/drive-to-thien-truong|Drive to Thien Truong]]
