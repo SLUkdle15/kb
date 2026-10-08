@@ -11,10 +11,6 @@ Excel query is implemented on my side. My remaining piece is the refresh token f
 
 Other people to implement their side and to support it once it runs. The named piece is the tenant-wide admin consent grant on the new app registration (`Files.ReadWrite.All`, `Sites.Read.All`, `offline_access`), which only someone else can give — see [[resources/software-engineering/auth/2026-09-17 - Microsoft Graph Auth Architecture for MCP Excel and OneDrive|Microsoft Graph Auth Architecture for MCP Excel and OneDrive]].
 
-## Follow Up
-
-No date yet — chase at the next work sync if nothing has moved.
-
 ## Done When
 
 Their side is implemented and supported, so a real request can be answered end to end as the signed-in user.
