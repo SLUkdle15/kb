@@ -21,6 +21,8 @@ Body 1 is the disadvantage, because the advantages win and the losing side goes 
 
 Check before pasting: present tense throughout, plural `-s` on countable nouns, no *and* in sentence 1.
 
+Then 2 min of flashcards from the [[projects/score-ielts-7-overall/error-log|Error Log]] rows — wrong version on the front, right version on the back.
+
 ## Done When
 
 Body 1 exists under `my work`, graded, and every repeat error it exposed has a row in the Error Log.

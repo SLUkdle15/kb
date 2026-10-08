@@ -60,8 +60,9 @@ Made 2026-08-24, closing Phase 0. Detail archived in [[archives/score-ielts-7-ov
 Phase 1 now runs as dated calendar blocks rather than an undated weekly page. The week's six study hours each have their own note with a time on them; [[projects/score-ielts-7-overall/2026-10-05 - Week of 2026-10-05 Prep Plan|the week plan]] holds the tick list and the rep count.
 
 - [[next/calendar/2026-10-12 - Book the IELTS Test for Mid-November|Book the IELTS Test for Mid-November]] — dated commitment, Mon 2026-10-12, before work or at lunch
+- [[next/calendar/2026-10-09 - IELTS Commute Podcast|Commute Podcast]] — Fri 2026-10-09 08:30, 10 min
 - [[next/calendar/2026-10-09 - IELTS Driverless Vehicles Body 1|Driverless Vehicles Body 1]] — Fri 2026-10-09 12:15, lunch
-- [[next/calendar/2026-10-09 - IELTS Speaking Part 3 and Pronunciation|Speaking Part 3 and Pronunciation]] — Fri 2026-10-09 19:30
+- [[next/calendar/2026-10-09 - IELTS Speaking Part 3 and Pronunciation|Speaking Part 3 and Pronunciation]] — Fri 2026-10-09 19:30, 30 min
 - [[next/calendar/2026-10-10 - IELTS Timed Reading Section|Timed Reading Section]] — Sat 2026-10-10 09:00, Book 16 Test 2
 - [[next/calendar/2026-10-11 - Write the Week of 2026-10-12 IELTS Prep Plan|Write the Week of 2026-10-12 IELTS Prep Plan]] — Sun 2026-10-11, during the vault review
 
