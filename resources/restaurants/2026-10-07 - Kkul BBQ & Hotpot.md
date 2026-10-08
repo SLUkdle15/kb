@@ -25,4 +25,4 @@ Ordered:
 
 - Food rating:
 
-Notes: The 2026-10-07 date — [[next/calendar/2026-10-07 - Take Her on a Date|Take Her on a Date]].
+Notes: The 2026-10-07 date — [[archives/next-actions/2026-10-07 - Take Her on a Date|Take Her on a Date]].

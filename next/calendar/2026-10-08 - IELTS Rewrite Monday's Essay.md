@@ -10,7 +10,7 @@ Remind: 1
 
 60 min: rewrite Monday's Book 16 Test 4 essay from the self-score, then add whatever repeats to [[projects/score-ielts-7-overall/error-log|Error Log]].
 
-The highest-value hour of the week; never swapped for a fresh essay. On Thursday because [[next/calendar/2026-10-07 - Take Her on a Date|the date]] is Wednesday, settled 2026-10-04.
+The highest-value hour of the week; never swapped for a fresh essay. On Thursday because [[archives/next-actions/2026-10-07 - Take Her on a Date|the date]] is Wednesday, settled 2026-10-04.
 
 ## Done When
 

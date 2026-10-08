@@ -1163,3 +1163,17 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 0
 - Report: /tmp/vault-lint/report.md
+
+## [2026-10-08] remove | Drop the database resource collection
+
+- Deleted `resources/software-engineering/database/` — the index plus all 18 *Designing Data-Intensive Applications* notes
+- Unlinked from `software-engineering.md`, `system-architecture.md`, `technical-growth.md`, and `areas/reading/reading.md`
+
+## [2026-10-08] lint | Vault health check
+
+- Indexed 498 notes
+- Broken wiki links: 6
+- Orphan notes: 1
+- Projects missing next actions: 0
+- Stale-claim candidates: 0
+- Report: /tmp/claude-1000/-home-kng-Projects-kb/43bbbfb8-d98a-4627-9b88-19793114caff/scratchpad/vault-lint/report.md

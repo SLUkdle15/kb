@@ -4,8 +4,6 @@ Use this collection for architecture notes about the systems you actually work o
 
 Parent resource: [[resources/software-engineering/software-engineering|Software Engineering]]
 	
-Related resource: [[resources/software-engineering/database/database|Database]] — the *Designing Data-Intensive Applications* notes live there.
-
 Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 
 ## Notes
