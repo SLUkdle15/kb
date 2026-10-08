@@ -22,12 +22,6 @@ Use this folder for date-specific or time-specific commitments.
 
 A prefix marks a date that is maintained by hand. A note with a `Due:` line gets one — the date the thing happens, re-dated when it moves — including recurring items the weekly feed cannot express, like the every-3-weeks fill-up. A note with an `Every:` line gets none; its schedule regenerates itself.
 
-## Monthly Views
-
-Generated dashboards, not commitments. Rebuild with the `month` skill.
-
-- None.
-
 ## Items
 
 ### Recurring — Weekly

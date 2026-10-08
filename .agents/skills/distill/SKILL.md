@@ -1,81 +1,41 @@
 ---
 name: distill
-description: Distill a long or dense note into smaller, focused notes. Use when the user asks to distill, split, break up, summarize, condense, or progressively summarize a note, or when a note has grown too long to reuse.
+description: File a note the user has already distilled by hand — rename it to the dated convention, mark it `type: distilled-note`, and suggest where in `resources` it belongs. Use when the user says they have distilled, written up, or finished a note and wants it named, marked, or filed. It does not write, split, summarize, or rewrite the content; the user does that.
 ---
 
-# Distill Note
+# File a Distilled Note
 
-Use this skill to distill **one** specified note: sharpen its core idea and, when it covers more than one reusable idea, break it into smaller focused notes.
+The user does the distilling. This skill does the mechanical part afterwards: name, mark, place.
 
 ## Inputs
 
-- Required: the path of the note to distill.
-- Optional `mode`: `suggest` or `apply`. Default to `suggest` unless the user clearly asks to make the changes.
+- Required: the path or title fragment of **one** note. If none is given, or a fragment matches several notes, ask which one.
+- The content is finished work. Do not improve it.
 
 ## Workflow
 
-1. Read `AGENTS.md` and `index.md`.
-2. Read the target note fully. Check which notes link to it before proposing changes.
-3. Assess whether distillation is needed:
-   - The note is long or covers several distinct ideas.
-   - The title no longer describes everything inside.
-   - Only part of the note is reusable outside its original context.
-   - Actionable items are buried inside reference material.
-4. Build a distillation plan:
-   - A short summary of the core idea to place at the top of the note.
-   - Split candidates: sections that stand alone as a smaller, reusable note.
-   - A PARA destination for each split note (`projects`, `areas`, `resources`, or `next` for buried actions).
-   - A proposed filename for each split note (`YYYY-MM-DD - Note Title.md`), specific enough to be found by title alone.
-   - Links: the source note links to each split note, and each split note links back to the source.
-5. For splits routed to `resources`, decide the exact placement:
-   - Use an existing topic subfolder (`resources/badminton`, `resources/software-engineering/...`) when one clearly fits.
-   - Propose a new subfolder only when the split plus existing notes would give it two or more members; a new subfolder needs a folder note (like `badminton/badminton.md`) and an entry in `resources/resources.md`.
-   - Otherwise leave the note flat at the `resources` root.
-   - Say which of these applies and why in the report.
-6. Reject weak splits:
-   - Tiny fragments with no clear future use.
-   - Context that only makes sense inside the source note.
-   - Splits that would turn one readable note into many hollow stubs.
-7. In `suggest` mode, report the plan only. Do not edit files.
-8. In `apply` mode:
-   - Create the smaller notes using the shape below.
-   - Create any new subfolder with its folder note before adding notes to it.
-   - In the source note, add the summary and replace moved sections with links to the new notes.
-   - Route buried actions with the `next` skill instead of leaving them in a reference note.
-   - Update the relevant folder index notes.
+1. Read the note.
+2. If it is still raw capture or source material rather than a distilled idea, say so and stop. Marking it `distilled-note` would be a false claim.
+3. **Name it.** Derive a title from what the note actually argues:
+   - State the claim or the specific question — `Log Levels Are a Threshold, Not a Category`, not `Logging`. A bare topic label is the failure mode.
+   - Rename to `YYYY-MM-DD - Note Title.md`. Keep the note's existing date prefix if it has one; otherwise use today's date.
+   - Set the H1 to the same title, without the date prefix.
+4. **Mark it.** Add `type: distilled-note` frontmatter if absent. Leave any other frontmatter alone.
+5. **Suggest a home.** Say where it belongs and why:
+   - An existing `resources` subfolder when one clearly fits.
+   - Flat at the `resources` root when none does.
+   - A new subfolder only when it plus existing notes would have two or more members — and say that it needs a folder note and an entry in `resources/resources.md`.
+   - Suggest only. Move it when the user asks.
 
-## Split Note Shape
+## Do Not
 
-Use this shape when it fits. Omit sections that add clutter.
-
-```md
-# Split Note Title
-
-Source: [[source-note]]
-
-<distilled content>
-```
-
-## Naming Rules
-
-- Use dated filenames: `YYYY-MM-DD - Note Title.md` with today's date.
-- Use a clean H1 without the date prefix.
-- Prefer specific titles over broad topic labels.
-- Keep folder names lowercase.
-- Do not add topic tags or PARA category tags.
-
-## Guardrails
-
-- Never delete the source note; it becomes the summary hub that links to the split notes.
-- Preserve meaning: move content, do not rewrite claims while splitting.
-- Ask before splitting a note other notes link into heavily, if the split would change what those links mean.
+- Rewrite, condense, split, or reorder the content. Preserve the wording.
+- Add a `Source:` line, a `Related:` header, or any other boilerplate block. Attach a link inline at the line it is relevant to.
+- Add topic, PARA, or source tags.
 
 ## Reporting
 
-Report:
-
-- Whether the note needs distillation at all.
-- The proposed summary and split candidates, each with its filename and exact destination (existing subfolder, new subfolder, or flat).
-- Files created and edits made in `apply` mode.
-- Split candidates rejected as too weak.
-- Open questions that block a clean split.
+- Old path → new path, and the new H1.
+- Whether `type: distilled-note` was added or already present.
+- Suggested destination, with the reason.
+- Anything about the note that was unclear, as a question.
