@@ -18,3 +18,7 @@ Test it by saying it inside your own sentence, not the podcast's. If it survives
 ## Done When
 
 Ten minutes listened and one phrase said aloud.
+
+## Result
+
+Done 2026-10-09. Phrase caught: *circumstances change opinion* — not yet a native chunk as said; the units are *when circumstances change* and *change [my] opinion / mind*.
