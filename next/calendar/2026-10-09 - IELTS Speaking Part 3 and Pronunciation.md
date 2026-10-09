@@ -8,13 +8,13 @@ Remind: 1
 
 ## Action
 
-50 min Part 3, then 10 min pronunciation.
+30 min, cut down from 60 on 2026-10-08 to fit a Friday evening after a full day: 20 min Part 3, then 10 min pronunciation.
 
-Part 3 from **Book 16 Test 4** — the discussion that follows Tuesday's card. Aim for answers that run past two sentences; lengths are in [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]]. Log the row in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]].
+Part 3 from **Book 16 Test 4** — the discussion that follows the technology card recorded on 2026-10-08. Answer **three questions**, each recorded, each in the four moves from [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]] — answer, reason, example, the other side or a limit — about 45 seconds apiece. Log the row in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]].
 
-Pronunciation: play back part of Tuesday's recording and write what slips into the Pronunciation table of [[projects/score-ielts-7-overall/error-log|Error Log]] — final consonants and word stress first.
+Pronunciation: play back take 2 of [[projects/score-ielts-7-overall/my work/2026-10-08 - Book 16 Test 4 Speaking Part 2 Transcript|the 10-08 card]] and listen for one thing — whether the final `-s` survived on *photos*, *conversations*, *groups*. Write each miss into the Pronunciation table of [[projects/score-ielts-7-overall/error-log|Error Log]].
 
-On Friday this week because Thursday 10-08 holds the rewrite, pushed a day by the Wednesday date. It takes the Task 1 slot: Task 1s are at budget (2 of 2, plus Sunday's), and speaking is the binding gap.
+Paste the three transcripts and the misses for scoring.
 
 ## Done When
 

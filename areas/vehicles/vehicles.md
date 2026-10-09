@@ -26,7 +26,6 @@ Review monthly, or whenever something breaks or a service falls due.
 ## Current Actions
 
 - [[next/calendar/2026-10-21 - Every-3-Weeks Car Gas Fill-Up|Every-3-Weeks Car Gas Fill-Up]]
-- [[next/calendar/2026-10-08 - Top Up and Verify the ETC Account|Top Up and Verify the ETC Account]]
 - [[next/calendar/2026-10-09 - Fill Up Gas Before the Thien Truong Drive|Fill Up Gas Before the Thien Truong Drive]]
 - [[2026-09-19 - Find the Cushion Seat for Car|Find the Cushion Seat for Car]]
 

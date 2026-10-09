@@ -16,6 +16,9 @@ Restarted empty on 2026-10-05. Everything logged before that is in git history.
 
 | Error                                                | Wrong                                                               | Right                                                                 | Last seen  |
 | ---------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------- |
+| Present perfect for a finished event | I **have stopped** using the app for about years / the app that I **had stopped** using | I **stopped** using it about two years **ago** — a finished story takes the past simple; *ago* fixes the time | 2026-10-08 |
+| Uncountable *time* | whenever I have free **times** | whenever I have free **time** | 2026-10-08 |
+| *each other* takes no *'s* | chat with each **other's** | chat with each **other** | 2026-10-08 |
 | Passive with the object left behind | the aisle is going to be added a train system | the concourse will **include** a train system / a train system **will be added to** the concourse — *X will be added to Y*, never *Y will be added X* | 2026-10-05 |
 
 
