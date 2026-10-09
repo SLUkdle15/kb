@@ -2,11 +2,11 @@
 
 ## Where I Am
 
-**Phase 1 — Mechanics**, since 2026-08-24. Updated 2026-09-28.
+**Phase 1 — Mechanics**, since 2026-08-24. Updated 2026-10-09.
 
-Five weeks in against a budget of roughly two weeks of reps — behind on reps, not past them. Task 1s to time are done (2 of 2); Task 2 essays are 2 of 4 written and 1 of 4 rewritten; **recorded Part 2 turns are 0 of ~20**, which is the binding gap and the reason [[projects/score-ielts-7-overall/2026-09-28 - Week of 2026-09-28 Prep Plan|this week]] weights toward speaking. Eight intro/planning drills sit outside the budget — useful, but they do not clear the bar.
+Forty-six days in against a budget of roughly two weeks of reps — behind on reps, not past them. Task 1s to time are past budget (3 of 2, the last on 2026-10-05); Task 2 essays are 3 of 4 written and 2 of 4 rewritten; **recorded Part 2 turns are 4 of ~20**, still the binding gap by volume and the reason [[projects/score-ielts-7-overall/2026-10-05 - Week of 2026-10-05 Prep Plan|this week]] keeps weighting toward speaking. Ten intro/planning drills sit outside the budget — useful, but they do not clear the bar, and the last three weeks have produced more of them than essays written to time.
 
-Of the five move-on criteria: essay-shape selection and the locked four-paragraph structure are holding, the error log has real repeat offenders, the Task 1 overview is untested since 08-31, and Part 2 cannot be assessed at all until there are recordings.
+Of the five move-on criteria: essay-shape selection and the locked four-paragraph structure are holding, the error log has real repeat offenders, and the two that were unassessable on 09-28 now have evidence. The Task 1 overview appeared unprompted on 2026-10-05 — one clean data point, not yet the "every time" the bar asks for. Part 2 is assessable and **failing**: the 2026-10-08 card ran 1:30 on take 1, against a criterion that is the full two minutes every time.
 
 Update this line when a phase changes or the rep count moves.
 
