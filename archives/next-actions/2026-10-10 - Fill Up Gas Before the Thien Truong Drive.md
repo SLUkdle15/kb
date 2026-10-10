@@ -1,6 +1,6 @@
 # Fill Up Gas Before the Thien Truong Drive
 
-Project: [[projects/drive-to-thien-truong/drive-to-thien-truong|Drive to Thien Truong]]
+Project: [[archives/drive-to-thien-truong/drive-to-thien-truong|Drive to Thien Truong]]
 Area: [[areas/vehicles/vehicles|Vehicles]]
 Due: 2026-10-10
 

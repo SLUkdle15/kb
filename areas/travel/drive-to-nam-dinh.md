@@ -4,7 +4,7 @@ type: protocol
 
 # Drive to Nam Dinh
 
-Source: [[projects/drive-to-thien-truong/drive-to-thien-truong|Drive to Thien Truong]]
+Source: [[archives/drive-to-thien-truong/drive-to-thien-truong|Drive to Thien Truong]]
 
 ## Checklist
 

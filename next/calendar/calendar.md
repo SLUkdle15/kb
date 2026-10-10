@@ -36,14 +36,12 @@ A prefix marks a date that is maintained by hand. A note with a `Due:` line gets
 
 ### Recurring — Other
 
-- [[next/calendar/2026-10-21 - Every-3-Weeks Car Gas Fill-Up]] — 2026-10-21 (recurring every 3 weeks; last fill 2026-09-30)
+- [[next/calendar/2026-10-31 - Every-3-Weeks Car Gas Fill-Up]] — 2026-10-31 (recurring every 3 weeks; last fill 2026-10-10)
 
 ### One-Off
 
 - [[next/calendar/2026-10-12 - Book the IELTS Test for Mid-November]] — 2026-10-12 (Monday, moved from 2026-09-30, 2026-10-03, 2026-10-04, then 2026-10-06 on 2026-10-07 for the fee money; before work or at lunch. British Council, computer-delivered. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-10-12 - Implement the Refresh Token Flow for Excel]] — 2026-10-12 (Monday, moved from 2026-09-30, 2026-10-05, 2026-10-07, then 2026-10-08 on 2026-10-08. Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]])
-- [[next/calendar/2026-10-10 - Drive to Thien Truong]] — 2026-10-10 (Saturday; the trip on its own. Project: [[projects/drive-to-thien-truong/drive-to-thien-truong|Drive to Thien Truong]])
-- [[next/calendar/2026-10-10 - Fill Up Gas Before the Thien Truong Drive]] — 2026-10-10 (Saturday before setting off, moved from Friday on 2026-10-09; last fill 2026-09-30. Project: [[projects/drive-to-thien-truong/drive-to-thien-truong|Drive to Thien Truong]])
 - [[next/calendar/2026-10-11 - Go to the Range and Run a Low-Point Drill Session]] — 2026-10-11 10:00 (Sunday; towel drill replaces most of the tally, 7 iron, 20-ball check at the end)
 - [[next/calendar/2026-10-10 - IELTS Driverless Vehicles Body 1]] — 2026-10-10 10:15 (Saturday, after the Reading section; moved from Friday lunch on 2026-10-09; replaces the Thursday rewrite. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-10-10 - IELTS Speaking Part 3 and Pronunciation]] — 2026-10-10 19:30 (Saturday, 30 min, after the drive; moved from Friday on 2026-10-09; Book 16 Test 4 Part 3. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])

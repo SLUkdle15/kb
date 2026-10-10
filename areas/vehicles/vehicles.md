@@ -25,13 +25,12 @@ Review monthly, or whenever something breaks or a service falls due.
 
 ## Current Actions
 
-- [[next/calendar/2026-10-21 - Every-3-Weeks Car Gas Fill-Up|Every-3-Weeks Car Gas Fill-Up]]
-- [[next/calendar/2026-10-10 - Fill Up Gas Before the Thien Truong Drive|Fill Up Gas Before the Thien Truong Drive]]
+- [[next/calendar/2026-10-31 - Every-3-Weeks Car Gas Fill-Up|Every-3-Weeks Car Gas Fill-Up]]
 - [[2026-09-19 - Find the Cushion Seat for Car|Find the Cushion Seat for Car]]
 
 ## Current Projects
 
-- [[projects/drive-to-thien-truong/drive-to-thien-truong|Drive to Thien Truong]] — Sat 2026-10-10
+- None.
 
 ## Related Resources
 

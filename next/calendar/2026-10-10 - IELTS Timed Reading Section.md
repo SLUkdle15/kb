@@ -12,7 +12,7 @@ Remind: 1
 
 Reading rests on a past TRF and has not been re-confirmed this cycle, so it takes the Saturday rotation after last week's Writing paper. Book 16 Test 2 keeps Books 17-20 fresh and leaves Book 19 Test 4 and Book 20 Test 4 untouched for the mocks. Log the row in [[projects/score-ielts-7-overall/cambridge-papers|Cambridge Papers Used]].
 
-Morning, because [[next/calendar/2026-10-10 - Drive to Thien Truong|the drive to Thien Truong]] is the same day — move it if the trip leaves early.
+Morning, because [[archives/next-actions/2026-10-10 - Drive to Thien Truong|the drive to Thien Truong]] is the same day — move it if the trip leaves early.
 
 ## Done When
 

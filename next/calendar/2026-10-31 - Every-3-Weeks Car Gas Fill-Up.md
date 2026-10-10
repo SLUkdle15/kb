@@ -1,7 +1,7 @@
 # Every-3-Weeks Car Gas Fill-Up
 
 Area: [[areas/vehicles/vehicles|Vehicles]]
-Due: 2026-10-21
+Due: 2026-10-31
 
 ## Action
 
@@ -15,4 +15,4 @@ The tank is filled.
 
 Fill up roughly every 3 weeks. The calendar feed only supports weekly recurrence, so this is a one-off event: after filling, re-date this note to the next fill and regenerate `calendar.ics`.
 
-Last fill: 2026-09-30. Check the gauge before the [[next/calendar/2026-10-10 - Drive to Thien Truong|Thien Truong drive]]; if it's low, fill then and re-date from that fill.
+Last fill: 2026-10-10, before the [[archives/next-actions/2026-10-10 - Drive to Thien Truong|Thien Truong drive]].
