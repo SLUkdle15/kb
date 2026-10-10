@@ -16,7 +16,8 @@ Source: [[projects/drive-to-thien-truong/drive-to-thien-truong|Drive to Thien Tr
 
 ## Notes
 
-- Route: Vành Đai 3 → cao tốc Pháp Vân – Cầu Giẽ → Cầu Giẽ – Ninh Bình → exit Liêm Tuyền → đường Liêm Tuyền – Nam Định.
+- Route there: Vành Đai 3 → cao tốc Pháp Vân – Cầu Giẽ → Cầu Giẽ – Ninh Bình → exit Liêm Tuyền → đường Liêm Tuyền – Nam Định.
+- Route home: đường Liêm Tuyền – Nam Định → Liêm Tuyền interchange toward Hà Nội → Cầu Giẽ – Ninh Bình → Pháp Vân – Cầu Giẽ → Vành Đai 3.
 - Liêm Tuyền comes soon after the Phủ Lý exit — move to the right lane early.
 - Bảo hiểm tự nguyện (vật chất, tai nạn) does not count as TNDS bắt buộc unless the certificate says "TNDS bắt buộc".
 - Zero alcohol limit.
