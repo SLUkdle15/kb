@@ -1,6 +1,7 @@
 # Drive to Thien Truong
 
 Area: [[areas/vehicles/vehicles|Vehicles]]
+Protocol: [[areas/travel/drive-to-nam-dinh|Drive to Nam Dinh]]
 
 ## Outcome
 

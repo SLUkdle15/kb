@@ -21,6 +21,7 @@ Review monthly, or before an upcoming trip.
 
 - [[areas/travel/drive-to-van-dinh|Drive to Van Dinh]]
 - [[areas/travel/drive-to-ho-anh-be|Drive to Ho Anh Be]]
+- [[areas/travel/drive-to-nam-dinh|Drive to Nam Dinh]]
 
 ## Current Projects
 
