@@ -2,7 +2,7 @@
 
 Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 Area: [[areas/golf-training/golf-training|Golf Training]]
-For: [[next/calendar/2026-10-11 - Go to the Range and Run a Low-Point Drill Session|the 2026-10-11 range session]]
+For: [[archives/next-actions/2026-10-11 - Go to the Range and Run a Low-Point Drill Session|the 2026-10-11 range session]]
 
 ## Action
 

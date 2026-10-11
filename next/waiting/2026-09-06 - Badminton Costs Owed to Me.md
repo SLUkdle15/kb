@@ -6,9 +6,8 @@ Area: [[areas/badminton/badminton|Badminton]]
 
 Getting back what I fronted for the group. Two separate courts — one note, but two amounts that settle on their own. Do not add them up.
 
-- **First court**, Phúc Long, Số 6 Lê Văn Thiêm — 840,000 for court + 660,000 for shuttlecocks, per [[archives/monthly-cost-and-collection|Monthly Cost & Collection]]. Owed by **duongvt32**, named 2026-10-07.
-- **Second court**, VĐV Cấp Cao Mỹ Đình — 840,000 for court (210,000 × 4) + 990,000 for shuttlecocks (3 Thanh Cong TC77 at 330,000 each) = 1,830,000. Recalculated 2026-10-03; replaces the earlier from-memory figure of about 1,200,000. Owed by **anhvh49**, named 2026-10-07.
-- **Added 2026-10-11** — 660,000. Court, item, and who owes it not recorded yet.
+- **First court**, Phúc Long, Số 6 Lê Văn Thiêm — 1,830,000. Recalculated 2026-10-11; replaces 840,000 for court + 660,000 for shuttlecocks per [[archives/monthly-cost-and-collection|Monthly Cost & Collection]]. Owed by **duongvt32**, named 2026-10-07.
+- **Second court**, VĐV Cấp Cao Mỹ Đình — 1,200,000 + 660,000 = 1,860,000. Recalculated 2026-10-11; the 660,000 added that day goes here, on top of 1,200,000. Replaces the 2026-10-03 figure of 1,830,000. Owed by **anhvh49**, named 2026-10-07.
 
 Someone else in the group runs cost and collection now, so chasing the per-head split is not my job — I am only waiting to be settled up.
 
