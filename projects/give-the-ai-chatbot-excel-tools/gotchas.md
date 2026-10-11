@@ -13,6 +13,6 @@ Background: [How to avoid getting throttled or blocked in SharePoint Online](htt
 
 ## Architectural dead ends
 
-**Graph has no worksheet copy**
+**Graph has no worksheet copy.** `Worksheet.copy()` is Office.js only, so `clone_sheet` reads the source range and writes it into a new sheet — values carry, formulas and formatting don't.
 
-**`onedrive_copy_item` is async and nothing polls it.** It returns a `monitor_url` only
+**`onedrive_copy_item` is async and nothing polls it.** It returns a `monitor_url` only, so you never get the new file's id — that blocks `clone_spreadsheet`.
