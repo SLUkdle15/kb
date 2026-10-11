@@ -8,3 +8,4 @@ Build a chat interface on top of this knowledge vault, so its notes can be queri
 
 - Clarify the outcome: personal assistant over the vault? search tool? something shareable?
 - Decide the approach (local LLM vs API, embedding/indexing the notes, chat UI vs CLI).
+- Candidate approach, noted 2026-10-11: build my own MCP server over the vault, so any MCP client can query it, instead of building a whole chat app.

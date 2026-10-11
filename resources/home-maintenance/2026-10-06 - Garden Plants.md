@@ -3,7 +3,11 @@
 Area: [[areas/family/family|Family]]
 Related: [[archives/next-actions/2026-09-06 - Research How to Care for the Tree|Research How to Care for the Tree]]
 
-All four are in pots.
+All four in the table are in pots.
+
+## Also in the Garden
+
+- **Bạch trầm hương** — noted 2026-10-11. Pot or ground, light, and care figures not recorded yet.
 
 ## Numbers
 

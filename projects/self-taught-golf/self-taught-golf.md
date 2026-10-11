@@ -12,6 +12,7 @@ Comfortable enough to go play a full round of 18 holes.
 ## Next Actions
 
 - [[next/calendar/2026-10-11 - Go to the Range and Run a Low-Point Drill Session|Go to the Range and Run a Low-Point Drill Session]]
+- [[next/next-actions/2026-09-27 - Buy a Golf Mini Bag to Go to the Range Alone|Buy a Golf Mini Bag to Go to the Range Alone]]
 
 ## Notes
 
