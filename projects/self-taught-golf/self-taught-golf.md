@@ -11,7 +11,6 @@ Comfortable enough to go play a full round of 18 holes.
 
 ## Next Actions
 
-- [[next/next-actions/2026-10-04 - Buy a Dry-Erase Marker for Strike Marks|Buy a Dry-Erase Marker for Strike Marks]] — before 2026-10-11
 - [[next/calendar/2026-10-11 - Go to the Range and Run a Low-Point Drill Session|Go to the Range and Run a Low-Point Drill Session]]
 
 ## Notes

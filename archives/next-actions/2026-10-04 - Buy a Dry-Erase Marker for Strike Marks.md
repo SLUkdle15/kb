@@ -13,3 +13,5 @@ Scribbled on the clubface, it shows where each ball struck, so strike location f
 ## Done When
 
 The marker or spray is in the golf bag.
+
+Done 2026-10-11.
