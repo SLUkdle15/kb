@@ -16,4 +16,4 @@ Work out where at home there is room to swing safely first. A slow rehearsal swi
 
 Usable down-the-line and face-on footage of my swing exists at home and is saved somewhere I can find it again.
 
-Done 2026-10-03 for the down-the-line angle; the face-on angle is not worked out yet and continues in [[next/next-actions/2026-10-04 - Film the Face-On Golf Swing at Home|Film the Face-On Golf Swing at Home]].
+Done 2026-10-03 for the down-the-line angle; the face-on angle was worked out later; both setups are in [[projects/self-taught-golf/2026-10-11 - Home Swing Camera Setup|Home Swing Camera Setup]].

@@ -26,7 +26,6 @@ Review monthly, or weekly during active practice cycles.
 
 - [[next/next-actions/2026-10-04 - Buy a Dry-Erase Marker for Strike Marks|Buy a Dry-Erase Marker for Strike Marks]]
 - [[next/calendar/2026-10-11 - Go to the Range and Run a Low-Point Drill Session|Go to the Range and Run a Low-Point Drill Session]]
-- [[next/next-actions/2026-10-04 - Film the Face-On Golf Swing at Home|Film the Face-On Golf Swing at Home]]
 
 ## Current Projects
 
