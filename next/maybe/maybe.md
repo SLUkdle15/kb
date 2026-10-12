@@ -34,3 +34,4 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-10-01 - Learn the Core Network Protocols|Learn the Core Network Protocols]] — Area: [[areas/technical-growth/technical-growth|Technical Growth]]
 - [[2026-10-05 - Organize a Badminton Tournament|Organize a Badminton Tournament]] — Area: [[areas/badminton/badminton|Badminton]]
 - [[2026-10-08 - Cancel Claude|Cancel Claude]] — Area: [[areas/personal-finance/personal-finance|Personal Finance]]; 599/month, closes most of the budget gap
+- [[2026-10-12 - Automate the Monthly Account Transfers|Automate the Monthly Account Transfers]] — Area: [[areas/personal-finance/personal-finance|Personal Finance]]; standing transfers per bucket, needs a funding date first
