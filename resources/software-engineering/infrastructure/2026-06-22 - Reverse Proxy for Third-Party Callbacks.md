@@ -4,6 +4,8 @@ type: distilled-note
 
 # Reverse Proxy for Third-Party Callbacks
 
+Protocol: [[areas/work-systems/add-an-haproxy-route|Add an HAProxy Route]]
+
 A third-party caller gets one simple entrypoint, a raw IP, and a reverse proxy in front of Kong adapts the request so Kong's routing still works.
 
 The chain is `Client (raw IP) → Reverse Proxy (HAProxy) → Kong → upstream service`. HAProxy takes each incoming request and reshapes it into whatever Kong needs to match its route before passing it on.

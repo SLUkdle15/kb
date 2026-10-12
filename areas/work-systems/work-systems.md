@@ -27,6 +27,7 @@ Review monthly, or weekly when a migration or incident is active.
 
 - [[areas/work-systems/merge-dev-to-production|Merge Dev to Production]]
 - [[areas/work-systems/read-the-json-logs|Read the JSON Logs]]
+- [[areas/work-systems/add-an-haproxy-route|Add an HAProxy Route]]
 - [[areas/work-systems/check-server-to-server-connectivity|Check Server-to-Server Connectivity]]
 
 ## Active Projects
