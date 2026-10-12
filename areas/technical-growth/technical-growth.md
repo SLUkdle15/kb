@@ -32,7 +32,7 @@ Review monthly, or during a weekly review when technical work is under active pr
 ## Current Actions
 
 - [[next/maybe/2026-09-24 - Dissect the AI Chatbot Project|Dissect the AI Chatbot Project]] (someday/maybe)
-- [[next/maybe/2026-10-01 - Learn the Core Network Protocols|Learn the Core Network Protocols]] (someday/maybe) — overlaps [[areas/work-systems/check-server-to-server-connectivity|Check Server-to-Server Connectivity]]
+- [[next/next-actions/2026-10-01 - Learn the Core Network Protocols|Learn the Core Network Protocols]] — overlaps [[areas/work-systems/check-server-to-server-connectivity|Check Server-to-Server Connectivity]]
 
 ## Current Projects
 

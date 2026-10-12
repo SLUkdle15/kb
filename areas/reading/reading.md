@@ -27,7 +27,7 @@ Ask:
 
 ## Currently Reading
 
-- *Learning Domain-Driven Design* — Vlad Khononov — #4 in the [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|roadmap]]'s Starter Stack and the entry point to its Phase 3, boundaries and bounded contexts; capture in [[inbox/2026-09-09 - Learning Domain-Driven Design|2026-09-09 - Learning Domain-Driven Design]]
+- *Learning Domain-Driven Design* — Vlad Khononov — #4 in the [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|roadmap]]'s Starter Stack and the entry point to its Phase 3, boundaries and bounded contexts; reading questions in [[next/maybe/2026-09-28 - Read Chapter 1 of Learning Domain-Driven Design|Read Chapter 1 of Learning Domain-Driven Design]]
 
 ## To Read
 

@@ -4,7 +4,7 @@ Area: [[areas/reading/reading|Reading]]
 
 ## Action
 
-The Reading Questions in [[inbox/2026-09-09 - Learning Domain-Driven Design|2026-09-09 - Learning Domain-Driven Design]] were generated, not chosen. Replace them with questions actually worth reading the book for.
+The Reading Questions in [[next/maybe/2026-09-28 - Read Chapter 1 of Learning Domain-Driven Design|Read Chapter 1 of Learning Domain-Driven Design]] were generated, not chosen. Replace them with questions actually worth reading the book for.
 
 Work from the book's own table of contents and from what Phase 3 of [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]] is asking — where should the boundaries be — rather than from the generated list.
 
@@ -14,4 +14,4 @@ The Reading Questions section holds questions that were picked deliberately, and
 
 ## Disposition
 
-Done 2026-09-28. Five questions picked deliberately and written into [[inbox/2026-09-09 - Learning Domain-Driven Design|2026-09-09 - Learning Domain-Driven Design]], replacing the generated list. They cover when DDD earns its cost, bounded contexts against deployment boundaries, what is testable without a database, how the model and Ubiquitous Language are discovered, and aggregate size and consistency.
+Done 2026-09-28. Five questions picked deliberately and written into [[next/maybe/2026-09-28 - Read Chapter 1 of Learning Domain-Driven Design|Read Chapter 1 of Learning Domain-Driven Design]], replacing the generated list. They cover when DDD earns its cost, bounded contexts against deployment boundaries, what is testable without a database, how the model and Ubiquitous Language are discovered, and aggregate size and consistency.

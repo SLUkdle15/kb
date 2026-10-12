@@ -28,10 +28,10 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-09-18 - Save a Push Status and Run the DSC Push in Parallel|Save a Push Status and Run the DSC Push in Parallel]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-09-24 - Dissect the AI Chatbot Project|Dissect the AI Chatbot Project]] — Area: [[areas/technical-growth/technical-growth|Technical Growth]]
 - [[2026-09-28 - Discover What Movies I Can Watch on JFF|Discover What Movies I Can Watch on JFF]] — Japanese Film Festival streaming catalogue
+- [[2026-09-28 - Read Chapter 1 of Learning Domain-Driven Design|Read Chapter 1 of Learning Domain-Driven Design]] — Area: [[areas/reading/reading|Reading]]; the book is not started yet
 - [[2026-09-14 - Research How to Massage with the Theragun|Research How to Massage with the Theragun]] — Area: [[areas/health/health|Health]]
 - [[2026-09-29 - Finish a Half Marathon|Finish a Half Marathon]] — Area: [[areas/health/health|Health]]; revisit at a weekly review
 - [[2026-09-30 - Examine the Dishwasher|Examine the Dishwasher]] — Area: [[areas/family/family|Family]]
-- [[2026-10-01 - Learn the Core Network Protocols|Learn the Core Network Protocols]] — Area: [[areas/technical-growth/technical-growth|Technical Growth]]
 - [[2026-10-05 - Organize a Badminton Tournament|Organize a Badminton Tournament]] — Area: [[areas/badminton/badminton|Badminton]]
 - [[2026-10-08 - Cancel Claude|Cancel Claude]] — Area: [[areas/personal-finance/personal-finance|Personal Finance]]; 599/month, closes most of the budget gap
 - [[2026-10-12 - Automate the Monthly Account Transfers|Automate the Monthly Account Transfers]] — Area: [[areas/personal-finance/personal-finance|Personal Finance]]; standing transfers per bucket, needs a funding date first
