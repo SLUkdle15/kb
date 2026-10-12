@@ -1,4 +1,8 @@
-# Circuit Breaker and Retry in NC Tool Job
+---
+type: distilled-note
+---
+
+# Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs
 
 Date: 2026-09-30
 

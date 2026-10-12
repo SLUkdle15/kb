@@ -16,7 +16,7 @@ Maintain the systems I am responsible for at work — currently NCTool and FCM �
 
 ## Systems
 
-- **NCTool**
+- **NCTool** — [[resources/software-engineering/system-architecture/2026-09-30 - Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs|the 30 Sep 2026 breaker outage]], fix proposed in [[resources/software-engineering/system-architecture/adr/0005 - Count Each AI Call Once in the Circuit Breaker|ADR 0005]]
 - **FCM**
 
 ## Review Rhythm
@@ -36,6 +36,7 @@ Review monthly, or weekly when a migration or incident is active.
 
 ## Next Actions
 
+- [[next/next-actions/2026-10-12 - Refactor the Breaker Incident Note and Finish ADR 0005|Refactor the Breaker Incident Note and Finish ADR 0005]] — then implement the breaker fix
 - [[archives/next-actions/2026-10-12 - Deploy FCM to Production and Repoint the 230 Callback to Signgate|Deploy FCM to Production and Repoint the 230 Callback to Signgate]] — completed 2026-10-12
 - [[archives/next-actions/2026-10-06 - Deploy the NCTool AI Code to Production|Deploy the NCTool AI Code to Production]] — completed 2026-10-06
 - [[archives/next-actions/2026-10-02 - Fix the FCM Mail Authentication Failure|Fix the FCM Mail Authentication Failure]] — SMTP 535 on `MailService.sendEmail`, completed 2026-10-06

@@ -18,6 +18,10 @@ Protocol: [[areas/technical-growth/write-an-adr|Write an ADR]]
 - [[resources/software-engineering/system-architecture/adr/0002 - Choose Email to Reference Instead of ID|Choose Email to Reference Instead of ID]]
 - [[resources/software-engineering/system-architecture/adr/0004 - Push External Data into the AI Chatbot via S3|Push External Data into the AI Chatbot via S3]]
 
+### NCTool
+
+- [[resources/software-engineering/system-architecture/adr/0005 - Count Each AI Call Once in the Circuit Breaker|Count Each AI Call Once in the Circuit Breaker]] — proposed
+
 ## Note Shape
 
 ADR filenames use a monotonic sequence instead of the vault's usual date prefix:
