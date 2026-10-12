@@ -1,5 +1,7 @@
 # Investigate Why the Ceiling Neon Light Is Out
 
+Area: [[areas/home/home|Home]]
+
 ## Action
 
 Get on a ladder with the power off and check the ceiling neon light: the tube (blackened ends, loose in its pins), the starter, and the wall switch. Note the tube's length and wattage so you can buy a matching replacement.
