@@ -6,7 +6,7 @@ Area: [[areas/personal-finance/personal-finance|Personal Finance]]
 
 Cancel the Claude subscription. Someday/maybe — not committed yet.
 
-It is 599 a month in [[areas/personal-finance/personal-finance|Monthly Outflows]], where everything out runs 783 to 863 over the 13,400 budget. Cutting it closes most of the gap on its own, which is the "something in the table does" option that note leaves open.
+It is 599 a month in [[areas/personal-finance/personal-finance|Monthly Outflows]], where everything out runs 616 to 706 over the 13,400 budget. Cutting it closes most of the gap on its own, which is the "something in the table does" option that note leaves open.
 
 Against that: this vault is maintained with it. The cost of cancelling is paid in how the notes get written, not in money.
 

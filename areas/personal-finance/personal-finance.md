@@ -20,16 +20,17 @@ Review monthly, and before major financial decisions.
 
 Snapshot taken 2026-10-12. Amounts in thousand VND, per month. Quarterly subscriptions are divided by three so every line is comparable.
 
-**Main account — 6,483.** The fixed bills.
+**Main account — 6,583.** The fixed bills.
 
-| Item      | Amount    |
-| --------- | --------- |
-| House     | 3,688     |
-| House 2   | 1,595     |
-| Soccer 2  | 750       |
-| Soccer    | 350       |
-| Phone     | 100       |
-| **Total** | **6,483** |
+| Item       | Amount    |
+| ---------- | --------- |
+| House      | 3,688     |
+| House 2    | 1,595     |
+| Soccer 2   | 750       |
+| Soccer     | 350       |
+| Department | 100       |
+| Phone      | 100       |
+| **Total**  | **6,583** |
 
 **Second account — 1,803.**: BIDV -> SHOPEE (9,003)
 
@@ -54,9 +55,12 @@ Snapshot taken 2026-10-12. Amounts in thousand VND, per month. Quarterly subscri
 | Parking    | 550                         |
 | **Total**  | **1,630-1,720**             |
 
-Everything out: **13,916 to 14,006**, budgeted 13,400 — over by 516 to 606. Either the budget moves or something in the table does — [[next/maybe/2026-10-08 - Cancel Claude|cancelling Claude]] is one candidate, at 599.
+Everything out: **14,016 to 14,106**, budgeted 13,400 — over by 616 to 706. Either the budget moves or something in the table does — [[next/maybe/2026-10-08 - Cancel Claude|cancelling Claude]] is one candidate, at 599.
 
-A US partnership interest does exist, found on 2026-10-08 when the [[archives/next-actions/2026-10-02 - Answer the Schedule K-1 Delivery Consent|Schedule K-1 delivery consent]] traced to a real account. It issues a K-1 yearly. The account is not named here yet.
+**This month, October 2026.** One-offs and exceptions, on top of the totals above rather than inside them.
+
+- Soccer team: dropped this month. Normally 120 a week on the weeks it runs.
+- Gift on 20 Oct: 200. This month only.
 
 ## Current Projects
 
