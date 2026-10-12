@@ -19,7 +19,7 @@ Book an IELTS Academic slot for **mid-November 2026**. Retargeted from 3 October
 
 One thing to settle on the page rather than on arrival. What was seen open is early November; the target written into this note and the plan is mid-November. An early-November date reports sooner and clears the application window with more room, but it compresses what is left of the six-week plan by a week — and Phase 1 is already behind its bar. Mid-November is still the target; take an early-November slot only if mid-November turns out not to be open, and if that happens, say so in [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]] as a deliberate compression.
 
-Booked against readiness that is not there yet, deliberately. Phase 1 has not passed its bar: no Cambridge paper has been logged since 2026-08-31, no weekly template instance was written for the week of 09-21, and no recorded Part 2 turn has been logged since the 2026-08-21 baseline against a Phase 1 budget of roughly twenty. The reasoning for booking anyway is in the Why Book Before Ready section below.
+Booked against readiness that is not there yet, deliberately. As of 2026-10-12, Phase 1 has not passed its bar. Recorded Part 2 turns stand at 4 of roughly 20, and the full two minutes has not held yet. The 10-08 card's first take ran 1:30. Cambridge papers have been logged since 2026-09-28, but the week of 09-21 went unwritten. The reasoning for booking anyway is in the Why Book Before Ready section below.
 
 Earlier: as of 2026-09-21, not booked. Early October was reconsidered and set aside — the 2026-08-24 baseline verdict's fluency finding stands, and it is what retargeted this to November in the first place. Mid-November is the target; the open question is which date, not which month.
 
