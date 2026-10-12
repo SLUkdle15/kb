@@ -27,13 +27,13 @@ Ask:
 
 ## Currently Reading
 
+- *The Power of Full Engagement* — Jim Loehr and Tony Schwartz — managing energy rather than time; started 2026-10-12, capture in [[inbox/2026-10-12 - The Power of Full Engagement|The Power of Full Engagement]]
 
 ## To Read
 
 Two reading programs feed this list: [[areas/personal-development/2026-08-21 - Build an Idea Pool for Conversation and Debate|Build an Idea Pool for Conversation and Debate]] and the [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]].
 
 - *Learning Domain-Driven Design* — Vlad Khononov — #4 in the [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|roadmap]]'s Starter Stack and the entry point to its Phase 3, boundaries and bounded contexts; reading questions in [[next/maybe/2026-09-28 - Read Chapter 1 of Learning Domain-Driven Design|Read Chapter 1 of Learning Domain-Driven Design]]
-- *The Power of Full Engagement* — Jim Loehr and Tony Schwartz — managing energy rather than time
 - *Four Thousand Weeks* — Oliver Burkeman
 - *Peak* — Anders Ericsson and Robert Pool
 
