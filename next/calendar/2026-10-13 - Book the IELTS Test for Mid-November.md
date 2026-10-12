@@ -2,20 +2,20 @@
 
 Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]]
 Area: [[areas/personal-development/personal-development|Personal Development]]
-Due: 2026-10-12
+Due: 2026-10-13
 Remind: 1
 
 ## Action
 
-Monday 2026-10-12, a workday that also carries [[next/calendar/2026-10-12 - Deploy FCM to Production and Repoint the 230 Callback to Signgate|the FCM production deploy]] — do the booking before work or at lunch, so it does not get squeezed out. The fee is what set this date: the money is not in hand on 2026-10-07 and Monday is when it is expected.
+Tuesday 2026-10-13, moved from Monday 10-12 on 2026-10-12 at request. Tuesday also carries [[next/calendar/2026-10-13 - Implement the Refresh Token Flow for Excel|the refresh token flow]] at work, [[next/calendar/2026-10-13 - IELTS Task 2 Timed Essay|the Task 2 essay]] at 19:00 and soccer at 20:30. Book before work or at lunch so it doesn't get squeezed out. The fee money was expected on Monday, which is what set the date.
 
 Book an IELTS Academic slot for **mid-November 2026**. Retargeted from 3 October on 2026-08-24 by [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]], which found fluency rather than structure to be the binding constraint — the diagnosis is now in hand, so the remaining question is which mid-November date, not whether October is realistic.
 
 ## Status
 
-**Committed to 2026-10-12.** Moved from 2026-10-06 on 2026-10-07 because the fee money is not in hand yet — the first of these moves with a stated reason. Before that: 2026-09-30 to 2026-10-03 on 2026-09-27, to 2026-10-04 on 2026-10-02, then to 2026-10-06 on 2026-10-03, all at request and none with a reason given.
+**Committed to 2026-10-13.** Moved from 2026-10-12 on 2026-10-12 at request, with no reason given. Before that, moved from 2026-10-06 on 2026-10-07 because the fee money is not in hand yet — the first of these moves with a stated reason. Before that: 2026-09-30 to 2026-10-03 on 2026-09-27, to 2026-10-04 on 2026-10-02, then to 2026-10-06 on 2026-10-03, all at request and none with a reason given.
 
-**The December inference is dead, and that is the good news in this move.** What used to stand here reasoned that 09-30 was the last day September could still land a mid-November test, so any October booking would land in December and miss the December application window in [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]]. It was an inference from assumed lead time, never checked against the page. It has now been checked: the booking account was opened on 2026-10-07 and **early November looks good**. Booking on 10-12 does not cost the test date.
+**The December inference is dead, and that is the good news in this move.** What used to stand here reasoned that 09-30 was the last day September could still land a mid-November test, so any October booking would land in December and miss the December application window in [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]]. It was an inference from assumed lead time, never checked against the page. It has now been checked: the booking account was opened on 2026-10-07 and **early November looks good**. Booking on 10-13 does not cost the test date.
 
 One thing to settle on the page rather than on arrival. What was seen open is early November; the target written into this note and the plan is mid-November. An early-November date reports sooner and clears the application window with more room, but it compresses what is left of the six-week plan by a week — and Phase 1 is already behind its bar. Mid-November is still the target; take an early-November slot only if mid-November turns out not to be open, and if that happens, say so in [[projects/score-ielts-7-overall/six-week-plan|the six-week plan]] as a deliberate compression.
 
@@ -58,7 +58,7 @@ Close the loop:
 
 A paid booking confirmation exists with a named date and centre, the date is on the calendar, and the six-week plan has been shifted to match it.
 
-Study first, book when ready is over. 2026-09-21 was the backstop and it passed unbooked, so this is a dated commitment — 2026-10-12 — rather than an undated action. It was 09-30 until 2026-09-27, 10-03 until 2026-10-02, 10-04 until 2026-10-03 and 10-06 until 2026-10-07; see Status above for the reasons and for what the booking page actually shows.
+Study first, book when ready is over. 2026-09-21 was the backstop and it passed unbooked, so this is a dated commitment — 2026-10-13 — rather than an undated action. It was 09-30 until 2026-09-27, 10-03 until 2026-10-02, 10-04 until 2026-10-03, 10-06 until 2026-10-07 and 10-12 until 2026-10-12; see Status above for the reasons and for what the booking page actually shows.
 
 What booking later costs is the test date, not the project. A mid-November test reports by late November, which still clears the December application window in [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|Apply for a Master's Degree]]. The fear that an October booking would push the test into December was an inference, and the page contradicted it on 2026-10-07 — early November is open. So the date itself is not what waiting costs now. What it costs is study: every week unbooked is another week without the mock bank that booking unlocks.
 
