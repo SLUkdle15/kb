@@ -18,6 +18,8 @@ Each note should describe a clear next action. If it requires multiple steps and
 
 ## Current Actions
 
+- [[2026-10-13 - Work Out SSH to a Server Behind CAPAM|Work Out SSH to a Server Behind CAPAM]] — Area: [[areas/work-systems/work-systems|Work Systems]]
+- [[2026-10-13 - Configure the HAProxy Route for FCM|Configure the HAProxy Route for FCM]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-10-13 - Investigate Why the Ceiling Neon Light Is Out|Investigate Why the Ceiling Neon Light Is Out]] — Area: [[areas/home/home|Home]]
 - [[2026-10-12 - Refactor the Breaker Incident Note and Finish ADR 0005|Refactor the Breaker Incident Note and Finish ADR 0005]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-10-11 - Reset My Laptop Clean|Reset My Laptop Clean]]

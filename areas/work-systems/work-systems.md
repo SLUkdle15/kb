@@ -36,6 +36,8 @@ Review monthly, or weekly when a migration or incident is active.
 
 ## Next Actions
 
+- [[next/next-actions/2026-10-13 - Work Out SSH to a Server Behind CAPAM|Work Out SSH to a Server Behind CAPAM]] — terminal error, copy-paste, and the password prompt
+- [[next/next-actions/2026-10-13 - Configure the HAProxy Route for FCM|Configure the HAProxy Route for FCM]] — open questions on Kong routing and the `no route`
 - [[next/next-actions/2026-10-12 - Refactor the Breaker Incident Note and Finish ADR 0005|Refactor the Breaker Incident Note and Finish ADR 0005]] — then implement the breaker fix
 - [[archives/next-actions/2026-10-12 - Deploy FCM to Production and Repoint the 230 Callback to Signgate|Deploy FCM to Production and Repoint the 230 Callback to Signgate]] — completed 2026-10-12
 - [[archives/next-actions/2026-10-06 - Deploy the NCTool AI Code to Production|Deploy the NCTool AI Code to Production]] — completed 2026-10-06
