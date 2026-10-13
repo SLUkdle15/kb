@@ -36,13 +36,16 @@ Review monthly, or weekly when the relationship needs active attention.
 
 ## Current Actions
 
+- [[next/next-actions/2026-10-13 - Settle the Dates for the Trip to Her Family's House|Settle the Dates for the Trip to Her Family's House]] — Project: [[projects/visit-her-family/visit-her-family|Visit Her Family and Meet Her Parents]]
 - [[next/next-actions/2026-10-07 - Find Her a Running Shoe|Find Her a Running Shoe]] — size 39–40, tried on rather than ordered
 - [[next/calendar/Weekly Sunday Badminton|Weekly Sunday Badminton]] — Sunday 15:00-17:00, moved from Saturday 2026-09-27 by agreement
 - [[next/maybe/2026-09-12 - Research Visa Green Card Sponsorship for Wife|Research Visa Green Card Sponsorship for Wife]] (someday/maybe)
 
 ## Current Projects
 
-None. [[archives/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]] completed 2026-10-02.
+- [[projects/visit-her-family/visit-her-family|Visit Her Family and Meet Her Parents]] — last week of November 2026
+
+[[archives/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]] completed 2026-10-02.
 
 ## Related Resources
 

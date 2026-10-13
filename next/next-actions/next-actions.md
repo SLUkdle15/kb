@@ -18,6 +18,7 @@ Each note should describe a clear next action. If it requires multiple steps and
 
 ## Current Actions
 
+- [[2026-10-13 - Settle the Dates for the Trip to Her Family's House|Settle the Dates for the Trip to Her Family's House]] — Project: [[projects/visit-her-family/visit-her-family|Visit Her Family and Meet Her Parents]]
 - [[2026-10-13 - Work Out SSH to a Server Behind CAPAM|Work Out SSH to a Server Behind CAPAM]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-10-13 - Configure the HAProxy Route for FCM|Configure the HAProxy Route for FCM]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-10-13 - Investigate Why the Ceiling Neon Light Is Out|Investigate Why the Ceiling Neon Light Is Out]] — Area: [[areas/home/home|Home]]
