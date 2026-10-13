@@ -32,30 +32,31 @@ Snapshot taken 2026-10-12. Amounts in thousand VND, per month. Quarterly subscri
 | Phone      | 100       |
 | **Total**  | **6,583** |
 
-**Second account — 1,803.**: BIDV -> SHOPEE (9,003)
-
-| Item       | Amount              |
-| ---------- | ------------------- |
-| Claude     | 599                 |
-| Gas, car   | 500                 |
-| Gas, motor | 400                 |
-| YouTube    | 195                 |
-| iQIYI      | 56 (169 / 3 months) |
-| Youku      | 53 (159 / 3 months) |
-| **Total**  | **1,803**           |
-
-**Girlfriend — 4,000**: 19006600
-
-**Spending — 1,630 to 1,720**: 7979
+**Second account — 3,033 to 3,123.**: BIDV -> SHOPEE (9,003)
 
 | Item       | Amount                      |
 | ---------- | --------------------------- |
-| Friday out | 400                         |
 | Badminton  | 680-770 (90 x 4-5 + 80 x 4) |
+| Claude     | 599                         |
 | Parking    | 550                         |
-| **Total**  | **1,630-1,720**             |
+| Gas, car   | 500                         |
+| Gas, motor | 400                         |
+| YouTube    | 195                         |
+| iQIYI      | 56 (169 / 3 months)         |
+| Youku      | 53 (159 / 3 months)         |
+| **Total**  | **3,033-3,123**             |
 
-Everything out: **14,016 to 14,106**, budgeted 13,400 — over by 616 to 706. Either the budget moves or something in the table does — [[next/maybe/2026-10-08 - Cancel Claude|cancelling Claude]] is one candidate, at 599.
+**Girlfriend — 4,000**: 19006600
+
+**Spending — 1,400**: 7979
+
+| Item       | Amount    |
+| ---------- | --------- |
+| Myself     | 1,000     |
+| Friday out | 400       |
+| **Total**  | **1,400** |
+
+Everything out: **15,016 to 15,106**, budgeted 13,400 — over by 1,616 to 1,706. Either the budget moves or something in the table does — [[next/maybe/2026-10-08 - Cancel Claude|cancelling Claude]] is one candidate, at 599.
 
 **This month, October 2026.** One-offs and exceptions, on top of the totals above rather than inside them.
 
