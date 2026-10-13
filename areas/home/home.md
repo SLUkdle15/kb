@@ -23,7 +23,7 @@ Review monthly, or whenever something breaks.
 
 ## Current Actions
 
-- [[2026-10-13 - Investigate Why the Ceiling Neon Light Is Out|Investigate Why the Ceiling Neon Light Is Out]]
+- [[next/maybe/2026-10-13 - Investigate Why the Ceiling Neon Light Is Out|Investigate Why the Ceiling Neon Light Is Out]] (someday/maybe)
 
 ## Current Projects
 
