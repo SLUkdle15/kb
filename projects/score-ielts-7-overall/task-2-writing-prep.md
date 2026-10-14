@@ -42,37 +42,28 @@ A prompt that describes two groups — *some benefit, some don't* — reads like
 
 #### Outweigh Is a Verdict, Not a List
 
-Two instruction lines sit on top of the same prompt, and only one of them asks for a verdict:
+*Discuss the advantages and disadvantages* wants both sides and no winner. *Do the advantages outweigh the disadvantages?* is a yes/no question: say which side wins, or Task Response is capped.
 
-- *Discuss the advantages and disadvantages.* — name both, weigh neither.
-- *Do the advantages outweigh the disadvantages?* — a yes/no question. An essay that names one of each and never says which wins has answered half of it, and caps Task Response the same way answering one half of a two-part question does.
+- **Verdict in sentence 2**, not the conclusion: the advantage, the disadvantage, and which is greater. Commit with *outweigh* or *the greater of the two*, never *I agree*.
+- **Losing side in body 1, winning side in body 2**, one body each. Open body 2 with a pivot (*while*, *whereas*).
+- **Different areas.** The two sides must not share a causal noun (*cheap → affordable* vs *cheap → low quality* is one idea twice).
+- **Say why it wins.** Pick the ground before body 1 and end body 2 on it:
 
-**Commit in sentence 2, not in a conclusion.** The budget leaves no room for a paragraph whose only job is the verdict, so sentence 2 carries it: the main advantage, the main disadvantage, and which is the greater. The **Weighing** frame below is built for this type and stops one word short — *The clearest gain is [reason], set against [reason]* has to go on and say which side it lands on.
+| Ground         | In plain words                                            | Body 2 ends on                                             |
+| -------------- | --------------------------------------------------------- | ---------------------------------------------------------- |
+| **Scale**      | the good side helps many people, the bad side hurts few   | the cost falls on one group; the gain reaches anyone who … |
+| **Permanence** | the bad side passes or can be undone, the good side lasts | the cost is paid once; the gain keeps growing              |
+| **Remedy**     | the bad side has a fix, the good side has no substitute   | the drawback can be eased by …; nothing else gives …       |
+|                |                                                           |                                                            |
 
-**Don't say *I agree*.** Nothing has been proposed to agree with. Commit with *outweigh*, *the greater of the two*, *worth the cost*.
-
-**Losing side first.** Body 1 argues the side that loses, body 2 the side that wins, so the essay ends on the sentence that answers the question. The pivot at the start of body 2 — *while*, *whereas*, or a backward reference — is owed by this type anyway.
-
-**One body each, not two on the winning side.** The other shape — both bodies arguing the winner, the losing side conceded in a subordinate clause — answers the question too, but not at this budget. The prompt names both sides, so the concession has to be written either way, and it arrives as a clause bolted onto a topic sentence, which is where the errors come from. Two reasons on the same side also collapse into each other far more easily than one of each; an advantage and a disadvantage taken from different areas cannot. The structure never carries the verdict in any case — sentence 2 does.
-
-**Weighing is a ground, not a count.** Two advantages against one disadvantage is arithmetic, and the budget allows one of each in any case. The ground is stated in the winning body's fourth sentence, the consequence slot — *so what, for the question asked* — and the question asked is which side wins. Three grounds that work:
-
-| Ground | The claim | What body 2 ends on |
-| --- | --- | --- |
-| **Scale** | one side reaches far more people than the other | the cost falls on a particular group; the gain reaches anyone who … |
-| **Permanence** | one side's effect outlasts the other's | the cost is paid once, or reverses; the gain keeps compounding |
-| **Remedy** | the losing harm already has a fix; the winning gain has no substitute | the drawback can be mitigated by …; nothing else delivers … |
-
-Pick the ground before writing body 1 — it is what decides which side loses.
-
-**The two sides must not share a causal noun.** One Reason Per Body applies across the advantage/disadvantage split too: *cheap, so more people can afford it* against *cheap, so quality falls* is one claim about price argued twice. Take the advantage and the disadvantage from different areas, exactly as the shortcut says.
+Not sure which? Default to **permanence**: *X can be recovered, Y lasts.*
 
 > *Many people now buy everyday goods online rather than in local shops. Do the advantages outweigh the disadvantages?*
 >
-> **Body 1, the disadvantage.** Small shopkeepers lose the passing trade they live on, because a street only supports a shop while people still walk past it.
-> **Body 2, the advantage.** People who cannot easily reach a shop — the elderly, the rural, anyone working the hours shops keep — can buy at all.
-> **Ground: scale.** The loss falls on one trade in one street; the gain reaches everyone a shop was never within reach of.
-> **Sentence 2.** *Online shopping does take from small local shops the passing trade they depend on, but it lets people who cannot easily reach a shop buy at all, and that is the greater of the two.*
+> **Body 1.** Small shopkeepers lose the passing trade they live on.
+> **Body 2.** People who cannot easily reach a shop — the elderly, the rural, shift workers — can buy at all.
+> **Ground: scale.** The loss falls on one street; the gain reaches everyone a shop never could.
+> **Sentence 2.** *Online shopping does take passing trade from small local shops, but it lets people who cannot easily reach a shop buy at all, and that is the greater of the two.*
 
 ### The Two Topic Sentences
 
@@ -106,16 +97,16 @@ Step 4: answer the question actually asked, naming the two topic-sentence reason
 
 #### What Each Type Commits To
 
-| Type                         | Sentence 2 commits to                                                        |
-| ---------------------------- | ---------------------------------------------------------------------------- |
-| Opinion (agree/disagree)     | agree, disagree, or agree with a stated limit                                |
-| Opinion (positive/negative)  | which of the two it is                                                       |
-| Discuss both views           | your own side, named — the two views were sentence 1's job                   |
-| Problem and solution         | the cause you will argue, and the remedy                                     |
-| Advantages and disadvantages (*discuss*) | the main advantage and the main disadvantage, no verdict                     |
-| Advantages and disadvantages (*outweigh*) | both of those, plus which is the greater and on what ground                  |
-| Two-part question            | an answer to each question, neither borrowing the other's reason             |
-| Direct question              | two answers to the one question asked, both named                            |
+| Type                                      | Sentence 2 commits to                                            |
+| ----------------------------------------- | ---------------------------------------------------------------- |
+| Opinion (agree/disagree)                  | agree, disagree, or agree with a stated limit                    |
+| Opinion (positive/negative)               | which of the two it is                                           |
+| Discuss both views                        | your own side, named — the two views were sentence 1's job       |
+| Problem and solution                      | the cause you will argue, and the remedy                         |
+| Advantages and disadvantages (*discuss*)  | the main advantage and the main disadvantage, no verdict         |
+| Advantages and disadvantages (*outweigh*) | both of those, plus which is the greater and on what ground      |
+| Two-part question                         | an answer to each question, neither borrowing the other's reason |
+| Direct question                           | two answers to the one question asked, both named                |
 
 - **Name the side**, don't point at it — not *the latter*, not *the second view*.
 - **Don't announce** — not *I will present both views*.
