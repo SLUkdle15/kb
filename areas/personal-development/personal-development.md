@@ -44,3 +44,4 @@ Review monthly, or during a weekly review when a habit is plateauing or slipping
 
 - [[resources/behavior-change/behavior-change|Behavior Change]]
 - [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]
+- [[resources/energy-management/energy-management|Energy Management]]

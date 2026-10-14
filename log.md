@@ -1264,3 +1264,12 @@
 - New protocol in `areas/work-systems`: the `ssh -p <PORT> jump90` call, `C-b j` at the password prompt, and `Ctrl+V` to paste into the terminal
 - Disabling mouse drag selection in kitty is what makes the paste work; with it on, text had to round-trip through the browser
 - `Work Out SSH to a Server Behind CAPAM` completed and archived; the terminal error closed without a written fix
+
+## [2026-10-14] lint | Vault health check
+
+- Indexed 533 notes
+- Broken wiki links: 0
+- Orphan notes: 2
+- Projects missing next actions: 0
+- Stale-claim candidates: 0
+- Report: /tmp/claude-1000/-mnt-c-kb/d1083a3d-1dd2-4f8a-b27e-f3da0825581b/scratchpad/vault-lint/report.md

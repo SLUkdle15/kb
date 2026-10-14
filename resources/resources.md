@@ -15,6 +15,7 @@ Examples:
 
 - [[resources/behavior-change/behavior-change|Behavior Change]]
 - [[resources/emotional-regulation/emotional-regulation|Emotional Regulation]]
+- [[resources/energy-management/energy-management|Energy Management]]
 - [[resources/personal-knowledge-management/personal-knowledge-management|Personal Knowledge Management]]
 - [[resources/software-engineering/software-engineering|Software Engineering]]
 - [[resources/ideas/ideas|Ideas]]

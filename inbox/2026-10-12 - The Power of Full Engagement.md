@@ -6,19 +6,15 @@ Started: 2026-10-12
 
 Managing energy rather than time. This is the living capture note for the book: add your questions and notes here as you read.
 
+## Distilled notes
 
-1. definition of fully engagement:
-	feeling eager to get to work and equally happy to return home and be able to setting boundaries between 2.
-2. the comparison between athletes:
-	1. spend 90 training and perform 10%
-	2. off season for 5 months a year
-	3. career span of 10 years. 
-3. 4 grounded principles behind the model:
-	1. Full engagement requires 4 sources of energy: physical, emotional mental and spiritual
-	2. Because energy capacity can be drained both over and underused, we must balance energy with rest
-	3. To build capacity we must push beyond our limits
-	4. to keep the model going, we need to build routines of doing positive energy
-4. 3 steps model:
-	1. Define purpose
-	2. Face The True: how
-	3. Take Action
+In [[resources/energy-management/energy-management|Energy Management]]:
+
+- [[resources/energy-management/2026-10-14 - Full Engagement Means Eager to Work and Glad to Go Home|Full Engagement Means Eager to Work and Glad to Go Home]]
+- [[resources/energy-management/2026-10-14 - Athletes Train Most of the Time, Workers Only Perform|Athletes Train Most of the Time, Workers Only Perform]]
+- [[resources/energy-management/2026-10-14 - Four Principles Behind Full Engagement|Four Principles Behind Full Engagement]]
+- [[resources/energy-management/2026-10-14 - Building and Renewing Energy in Four Dimensions|Building and Renewing Energy in Four Dimensions]]
+- [[resources/energy-management/2026-10-14 - Change Energy Habits by Purpose, Truth, Action|Change Energy Habits by Purpose, Truth, Action]]
+
+## Notes
+
