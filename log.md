@@ -1258,3 +1258,9 @@
 - `Weekly Sunday Badminton.md` — Sunday is permanent; dropped the "for October, revisit at the end of the month" instruction. Calendar index updated to match
 - `Weekly Sunday Vault Review.md` gains a `One-Off Agenda` section for dated prompts that do not deserve notes of their own
 - First entry: 2026-10-25, price the Mỹ Đình court and update the `Badminton` row in Monthly Outflows
+
+## [2026-10-14] protocol | SSH to a Server Behind CAPAM
+
+- New protocol in `areas/work-systems`: the `ssh -p <PORT> jump90` call, `C-b j` at the password prompt, and `Ctrl+Shift+C` / `Ctrl+Shift+V` for copy-paste
+- `set -g mouse off` in tmux is what makes the terminal copy-paste work; with mouse mode on, text had to round-trip through the browser
+- `Work Out SSH to a Server Behind CAPAM` completed and archived; the terminal error closed without a written fix
