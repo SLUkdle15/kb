@@ -18,6 +18,8 @@ Each note should describe a clear next action. If it requires multiple steps and
 
 ## Current Actions
 
+- [[2026-10-14 - Build the Take a Renewal Break Protocol|Build the Take a Renewal Break Protocol]] — Area: [[areas/personal-development/personal-development|Personal Development]]
+- [[2026-10-14 - Buy Swim Goggles|Buy Swim Goggles]] — Area: [[areas/health/health|Health]]
 - [[2026-10-13 - Settle the Dates for the Trip to Her Family's House|Settle the Dates for the Trip to Her Family's House]] — Project: [[projects/visit-her-family/visit-her-family|Visit Her Family and Meet Her Parents]]
 - [[2026-10-13 - Configure the HAProxy Route for FCM|Configure the HAProxy Route for FCM]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-10-12 - Refactor the Breaker Incident Note and Finish ADR 0005|Refactor the Breaker Incident Note and Finish ADR 0005]] — Area: [[areas/work-systems/work-systems|Work Systems]]
