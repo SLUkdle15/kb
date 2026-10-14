@@ -8,7 +8,7 @@ Remind: 1
 
 ## Action
 
-60 min: rewrite [[next/calendar/2026-10-13 - IELTS Task 2 Timed Essay|Tuesday's essay]] from its self-score, then add the repeated errors to [[projects/score-ielts-7-overall/error-log|Error Log]]. Check [[projects/score-ielts-7-overall/grammar-patterns|Grammar Patterns]] while you rewrite.
+60 min: rewrite [[archives/next-actions/2026-10-13 - IELTS Task 2 Timed Essay|Tuesday's essay]] from its self-score, then add the repeated errors to [[projects/score-ielts-7-overall/error-log|Error Log]]. Check [[projects/score-ielts-7-overall/grammar-patterns|Grammar Patterns]] while you rewrite.
 
 This is the highest-value hour of the week. If Tuesday produced only a plan, finish the essay to time tonight instead, and move the rewrite to Thursday.
 

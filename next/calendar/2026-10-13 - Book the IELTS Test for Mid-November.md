@@ -7,7 +7,7 @@ Remind: 1
 
 ## Action
 
-Tuesday 2026-10-13, moved from Monday 10-12 on 2026-10-12 at request. Tuesday also carries [[next/calendar/2026-10-13 - Implement the Refresh Token Flow for Excel|the refresh token flow]] at work, [[next/calendar/2026-10-13 - IELTS Task 2 Timed Essay|the Task 2 essay]] at 19:00 and soccer at 20:30. Book before work or at lunch so it doesn't get squeezed out. The fee money was expected on Monday, which is what set the date.
+Tuesday 2026-10-13, moved from Monday 10-12 on 2026-10-12 at request. Tuesday also carries [[archives/next-actions/2026-10-13 - IELTS Task 2 Timed Essay|the Task 2 essay]] at 19:00 and soccer at 20:30. Book before work or at lunch so it doesn't get squeezed out. The fee money was expected on Monday, which is what set the date.
 
 Book an IELTS Academic slot for **mid-November 2026**. Retargeted from 3 October on 2026-08-24 by [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]], which found fluency rather than structure to be the binding constraint — the diagnosis is now in hand, so the remaining question is which mid-November date, not whether October is realistic.
 

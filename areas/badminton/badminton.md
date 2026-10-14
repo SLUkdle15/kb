@@ -26,6 +26,7 @@ Review monthly, or weekly when actively training.
 ## Current Actions
 
 - [[next/calendar/Weekly Sunday Badminton|Weekly Sunday Badminton]] — Sunday 15:00-17:00 since 2026-09-27, court confirmed at Phúc Long (Lê Văn Thiêm)
+- [[next/calendar/Weekly Monday Badminton|Weekly Monday Badminton]] — Monday 17:30-19:30 since 2026-10-13, at Trung Tâm Huấn Luyện VĐV Cấp Cao Hà Nội (Mỹ Đình)
 - [[next/maybe/2026-10-05 - Organize a Badminton Tournament|Organize a Badminton Tournament]] (someday/maybe)
 
 ## Current Projects

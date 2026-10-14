@@ -829,7 +829,7 @@
 
 ## [2026-09-27] move | Weekly badminton moved from Saturday to Sunday for the month
 
-- `next/calendar/Weekly Sunday Badminton.md` — renamed, `Every: Sunday 15:00-17:00`; same time and venue
+- `next/calendar/Weekly Monday Badminton.md` — renamed, `Every: Sunday 15:00-17:00`; same time and venue
 - Month bound recorded in the note: recurring notes carry no end date, so end-of-October is the check that keeps this from becoming permanent by default
 - Court is still booked for the Saturday slot and the session is with girlfriend — both named in the note as unsettled
 - Saturday rationale lines in the IELTS notes corrected; archived notes keep their historical wording, paths retargeted
@@ -878,7 +878,7 @@
 
 - Phúc Long (Lê Văn Thiêm) confirmed Sunday 15:00-17:00; Saturday slot released
 - `next/next-actions/2026-09-27 - Rebook the Badminton Court for Sunday.md` — deleted rather than archived; it was a note that should not have been generated. Recoverable from git at 5113ad1
-- Court claim corrected in `areas/badminton/courts-near-me.md`, `areas/badminton/badminton.md`, `next/calendar/Weekly Sunday Badminton.md`, `next/next-actions/next-actions.md`
+- Court claim corrected in `areas/badminton/courts-near-me.md`, `areas/badminton/badminton.md`, `next/calendar/Weekly Monday Badminton.md`, `next/next-actions/next-actions.md`
 - `next/calendar/calendar.md` — the 2026-10-03 line still listed badminton in the Saturday afternoon; removed, the note itself was already corrected on the move
 
 ## [2026-09-27] project | Pursue a Master's Degree renamed to Apply for a Master's Degree
@@ -1222,3 +1222,39 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 0
 - Report: /tmp/vault-lint/report.md
+
+## [2026-10-13] next | Add a second weekly badminton on Monday at Mỹ Đình
+
+- Added `next/calendar/Weekly Monday Badminton.md`, `Every: Monday 17:30-19:30`, venue Trung Tâm Huấn Luyện VĐV Cấp Cao Hà Nội (Mỹ Đình)
+- Sunday 15:00-17:00 at Phúc Long (Lê Văn Thiêm) continues unchanged — two weekly sessions now
+- New court added to `areas/badminton/courts-near-me.md`; listed in `areas/badminton/badminton.md` and the calendar index
+- Added `next/calendar/2026-10-19 - Bring the Camera to Monday Badminton.md` for the first Monday session
+- `calendar.ics` gains a `BYDAY=MO` 17:30 event and the camera reminder — push before the phone will see it
+- First pass of this wrongly read the Monday session as a move of the Sunday one and renamed the Sunday note; corrected 2026-10-14
+
+## [2026-10-13] next | Undate the Excel refresh token flow
+
+- `next/calendar/2026-10-13 - Implement the Refresh Token Flow for Excel.md` moved back to `next/next-actions/2026-09-28 - ...` (its original capture date), `Due:` dropped
+- Removed from `calendar.ics` and the calendar index; the Tuesday mentions in the IELTS booking note and the week plan no longer claim it
+
+## [2026-10-14] complete | Archive the 2026-10-13 IELTS Task 2 Timed Essay
+
+- Moved to `archives/next-actions/2026-10-13 - IELTS Task 2 Timed Essay.md`; removed from the calendar index and the project's Next Actions
+- Recorded as a planning rep, not an essay written to time — second in a row, so the fourth Task 2 of the Phase 1 budget is still unwritten
+- Week plan Tuesday ticked with that outcome; `cambridge-papers.md` already carried the Book 17 Test 1 row
+- `calendar.ics` regenerated with `.agents/scripts/build_calendar_ics.py` — 17 events, push still pending
+
+## [2026-10-14] lint | Vault health check
+
+- Indexed 524 notes
+- Broken wiki links: 2
+- Orphan notes: 0
+- Projects missing next actions: 0
+- Stale-claim candidates: 0
+- Report: /tmp/claude-1000/-home-kng-Projects-kb/1e1f6d09-4810-4752-a5ab-7284acd3f22d/scratchpad/vault-lint/report.md
+
+## [2026-10-14] next | Settle the Sunday badminton slot and add a review agenda
+
+- `Weekly Sunday Badminton.md` — Sunday is permanent; dropped the "for October, revisit at the end of the month" instruction. Calendar index updated to match
+- `Weekly Sunday Vault Review.md` gains a `One-Off Agenda` section for dated prompts that do not deserve notes of their own
+- First entry: 2026-10-25, price the Mỹ Đình court and update the `Badminton` row in Monthly Outflows
