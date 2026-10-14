@@ -36,6 +36,7 @@ Review monthly, or weekly when the relationship needs active attention.
 
 ## Current Actions
 
+- [[next/calendar/2026-10-17 - Date Night at Am Thuc Moi Nha|Date Night at Ẩm Thực Mọi Nhà]] — Saturday 2026-10-17 18:00
 - [[next/next-actions/2026-10-13 - Settle the Dates for the Trip to Her Family's House|Settle the Dates for the Trip to Her Family's House]] — Project: [[projects/visit-her-family/visit-her-family|Visit Her Family and Meet Her Parents]]
 - [[next/next-actions/2026-10-07 - Find Her a Running Shoe|Find Her a Running Shoe]] — size 39–40, tried on rather than ordered
 - [[next/calendar/Weekly Sunday Badminton|Weekly Sunday Badminton]] — Sunday 15:00-17:00, moved from Saturday 2026-09-27 by agreement

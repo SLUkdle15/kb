@@ -41,6 +41,7 @@ A prefix marks a date that is maintained by hand. A note with a `Due:` line gets
 
 ### One-Off
 
+- [[next/calendar/2026-10-17 - Date Night at Am Thuc Moi Nha]] — 2026-10-17 18:00 (Saturday. Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]])
 - [[next/calendar/2026-10-13 - Book the IELTS Test for Mid-November]] — 2026-10-13 (Tuesday, moved from 2026-09-30, 2026-10-03, 2026-10-04, 2026-10-06 on 2026-10-07 for the fee money, then 2026-10-12 on 2026-10-12; before work or at lunch. British Council, computer-delivered. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-10-18 - Go to the Range and Run a Low-Point Drill Session]] — 2026-10-18 10:00 (Sunday; repeat of the 2026-10-11 session, towel drill replaces most of the tally, 7 iron, 20-ball check at the end)
 - [[next/calendar/2026-10-14 - Write Up the FCM Callback Incident]] — 2026-10-14 (Wednesday; callback updated but the record still follows the old system. Area: [[areas/work-systems/work-systems|Work Systems]])
