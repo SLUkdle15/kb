@@ -1261,6 +1261,6 @@
 
 ## [2026-10-14] protocol | SSH to a Server Behind CAPAM
 
-- New protocol in `areas/work-systems`: the `ssh -p <PORT> jump90` call, `C-b j` at the password prompt, and `Ctrl+Shift+C` / `Ctrl+Shift+V` for copy-paste
-- `set -g mouse off` in tmux is what makes the terminal copy-paste work; with mouse mode on, text had to round-trip through the browser
+- New protocol in `areas/work-systems`: the `ssh -p <PORT> jump90` call, `C-b j` at the password prompt, and `Ctrl+V` to paste into the terminal
+- Disabling mouse drag selection in kitty is what makes the paste work; with it on, text had to round-trip through the browser
 - `Work Out SSH to a Server Behind CAPAM` completed and archived; the terminal error closed without a written fix

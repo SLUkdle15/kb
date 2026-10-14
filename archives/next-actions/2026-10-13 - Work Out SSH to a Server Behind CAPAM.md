@@ -27,13 +27,6 @@ ssh -p <PORT> jump90          # PORT from the address CAPAM shows
 
 The port comes from the address CAPAM shows, so it changes per session. At the `password:` prompt, `C-b j` is what gets the password in rather than typing it; entering the protocol after that lands on the server behind CAPAM.
 
-Copying from CAPAM into the terminal goes through the browser:
-
-- Highlight the text.
-- `Ctrl+V` into the browser.
-- `Ctrl+C` there.
-- `Ctrl+Shift+V` in the terminal.
-
-The browser is the bridge — the highlight alone does not survive the trip, so it has to be pasted and re-copied before the terminal will take it.
+Copying from CAPAM into the terminal needed a round trip through the browser until mouse drag selection was disabled in kitty; after that `Ctrl+V` pastes straight into the terminal. The protocol above carries the working version.
 
 The terminal error was never written down, and it stopped getting in the way before this was closed.
