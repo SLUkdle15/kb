@@ -3,4 +3,22 @@
 #notetype:Basic
 #deck:IELTS::Vocabulary
 #columns:Front	Back	Tags
+Many people see little ___ studying the past.	<b>value in</b> (+ gerund/noun)<br>Not <i>value of</i>.	general
+Looking backwards provides ___ for understanding what is happening now.<br><i>(is not very useful for grasping)</i>	<b>limited practical guidance</b><br>Downplays how useful one thing is for understanding another.	general
+These students ___ their peers not through any lack of effort.<br><i>(lose ground relative to others)</i>	<b>fall behind</b><br>No preposition before the group: <i>fall behind their peers</i>.	general
+A country that relies on foreign farms has no control when supply ___.<br><i>(stops arriving)</i>	<b>is cut off</b><br>Passive. <i>When supply cut off</i> is missing its verb. Works for any dependency argument.	general
+Studying history does not help us predict future ___.	<b>outcomes</b><br>Plural unless you name one specific result. Singular <i>outcome</i> reads as a slip.	history_society
+Children who start early tend to ___ formal education with far less disruption.	<b>settle into</b><br>Not <i>settle in education</i>.	education_child_development
+Children who are already ___ a structured setting become ___ academic routines faster.	<b>accustomed to / familiar with</b><br><i>Accustomed to</i> pairs with conditions and settings. <i>Familiar with</i> pairs with routines, subjects and material.	education_child_development
+Students without access to a laptop are ___ online courses altogether.<br><i>(excluded from)</i>	<b>shut out of</b><br>Names exclusion as an effect on a person, not just an absence of access.	education_technology
+Students who value ___ often lose interest once classes move online.<br><i>(talking with the teacher and classmates)</i>	<b>classroom interaction</b><br>Attributive noun, no possessive. Not <i>classroom's interaction</i>.	education_technology
+A ___ many nations eat is now grown on other ___.<br><i>(paraphrase: a large amount of food / other parts of the world)</i>	<b>growing share of what / continents</b><br>Reworks the structure so <i>food</i> stays free for the bodies.	food_trade
+Food is increasingly ___ rather than grown at home.<br><i>(paraphrase of imported)</i>	<b>shipped across borders / shipped in</b><br>Passive, so the food is the subject.	food_trade
+Much of the paper, glass and metal that is thrown away is never ___.<br><i>(paraphrase of recycled)</i>	<b>reprocessed</b><br>Use it in sentence 1 so you don't repeat the prompt's verb. <i>Recycling</i> is fine in the bodies.	environment_waste
+Households put all their ___ into one bag.<br><i>(trash, British)</i>	<b>rubbish</b><br><i>Rubbish</i> (British) and <i>trash</i> (American) are both fine, but pick one for the whole essay. Avoid <i>stuff</i>.	environment_waste
+Once one company wins buyers this way, ___ are forced to answer with novelties of their own.<br><i>(its competitors)</i>	<b>its rivals</b><br><i>Rival</i> is not a synonym of <i>company</i>: it needs a reference point (<i>its rivals</i>, <i>a rival brand</i>).	business_advertising
+Xiaomi has ___ customers ___ Apple by advertising features the iPhone did not yet offer.<br><i>(taken buyers from a competitor)</i>	<b>drawn … away from</b><br>= <i>won customers from</i>. <i>Draw away</i> needs <i>from</i>.	business_advertising
 Many people ___ phones that still work simply to own the latest version.<br><i>(swap an object for a new one)</i>	<b>replace / throw away / discard</b><br>Not <i>give up on</i>, which means stop trying (<i>give up on a plan</i>).	business_advertising
+These companies are ___ to put this information to ___.<br><i>(in a good position to use it well)</i>	<b>best placed / good use</b><br>Not <i>best to put … into good uses</i>.	technology_personal_information
+Customers save time, and they are willing to ___ the fact that their data is being collected.<br><i>(choose not to mind)</i>	<b>overlook</b><br>Not <i>willing to ignore despite knowing</i>: <i>ignore</i> needs an object.	technology_personal_information
+Streaming platforms attract users by ___ them ___ new films based on their ___ history.	<b>helping / discover / viewing</b><br>Not <i>aiding them to find</i> or <i>watching history</i>.	technology_personal_information

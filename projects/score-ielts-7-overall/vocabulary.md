@@ -45,3 +45,9 @@ Reviewed alongside [[projects/score-ielts-7-overall/task-2-writing-prep|Task 2 W
 - **business / company / firm** — interchangeable for varying the subject across sentences. **Rival** is not a fourth synonym: it names a company *in relation to another*, so it needs a reference point (*its rivals*, *a rival brand*). *Once one company wins buyers this way, its rivals are forced to answer with novelties of their own.*
 - **draw customers away from [X]** = **win customers from [X]** — taking buyers from a competitor. *Draw away* needs *from*; *win* can also stand alone (*win customers*). *Xiaomi has drawn customers away from Apple by advertising features the iPhone did not yet offer.*
 - **replace / throw away / discard [a product]**, not *give up on*. *Give up on* means to stop trying or stop believing in something (*give up on a plan*, *give up on a person*); for an object that still works, use *replace* (swapped for a new one) or *throw away / discard* (got rid of). *Many people replace phones that still work simply to own the latest version.*
+
+## Technology / Personal Information
+
+- **best placed to [do X]** / **put [X] to good use** — not *best to put … into good uses*. Both are fixed phrases: *best placed* means in the strongest position, and *good use* stays singular. *These companies are best placed to put this information to good use.*
+- **overlook the fact that [clause]** — not *willing to ignore despite knowing*. *Ignore* needs an object, and *overlook the fact that* gives it one while softening the choice. *Customers are willing to overlook the fact that their data is being collected.*
+- **help [someone] discover** / **viewing history** — not *aid them to find* or *watching history*. *Aid* doesn't take *to* + verb, and *viewing history* is the standard collocation for what someone has watched. *Streaming platforms attract users by helping them discover new films based on their viewing history.*
