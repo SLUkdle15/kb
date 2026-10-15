@@ -12,7 +12,7 @@ resilience4j 2.2.0 jars rather than recalled.
 
 Parent resource: [[resources/software-engineering/system-architecture/system-architecture|System Architecture]]
 
-Related note: [[resources/software-engineering/system-architecture/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]] — another production misconfiguration write-up.
+Related note: [[resources/software-engineering/system-architecture/incidents/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]] — another production misconfiguration write-up.
 
 
 ---

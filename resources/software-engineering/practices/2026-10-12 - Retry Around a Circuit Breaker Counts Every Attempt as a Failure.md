@@ -30,4 +30,4 @@ Breaker outside counts real calls but reacts more slowly, because one record can
 
 ## Where it bit
 
-[[resources/software-engineering/system-architecture/2026-09-30 - Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs|The 30 Sep 2026 NCTool outage]]: one timed-out AI call wrote 3 failures into a window of 5, the breaker opened, and the job runner rejected 334 queued jobs in 2.8 seconds. The fix is proposed in [[resources/software-engineering/system-architecture/adr/0005 - Count Each AI Call Once in the Circuit Breaker|ADR 0005]].
+[[resources/software-engineering/system-architecture/incidents/2026-09-30 - Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs|The 30 Sep 2026 NCTool outage]]: one timed-out AI call wrote 3 failures into a window of 5, the breaker opened, and the job runner rejected 334 queued jobs in 2.8 seconds. The fix is proposed in [[resources/software-engineering/system-architecture/adr/0005 - Count Each AI Call Once in the Circuit Breaker|ADR 0005]].

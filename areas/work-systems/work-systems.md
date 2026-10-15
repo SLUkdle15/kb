@@ -16,7 +16,7 @@ Maintain the systems I am responsible for at work — currently NCTool and FCM �
 
 ## Systems
 
-- **NCTool** — [[resources/software-engineering/system-architecture/2026-09-30 - Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs|the 30 Sep 2026 breaker outage]], fix proposed in [[resources/software-engineering/system-architecture/adr/0005 - Count Each AI Call Once in the Circuit Breaker|ADR 0005]]
+- **NCTool** — [[resources/software-engineering/system-architecture/incidents/2026-09-30 - Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs|the 30 Sep 2026 breaker outage]], fix proposed in [[resources/software-engineering/system-architecture/adr/0005 - Count Each AI Call Once in the Circuit Breaker|ADR 0005]]
 - **FCM**
 
 ## Review Rhythm

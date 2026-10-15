@@ -1,7 +1,7 @@
 # Refactor the Breaker Incident Note and Finish ADR 0005
 
 Area: [[areas/work-systems/work-systems|Work Systems]]
-Incident: [[resources/software-engineering/system-architecture/2026-09-30 - Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs|Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs]]
+Incident: [[resources/software-engineering/system-architecture/incidents/2026-09-30 - Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs|Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs]]
 ADR: [[resources/software-engineering/system-architecture/adr/0005 - Count Each AI Call Once in the Circuit Breaker|Count Each AI Call Once in the Circuit Breaker]]
 
 ## Action

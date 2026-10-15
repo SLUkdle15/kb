@@ -17,7 +17,11 @@ Related area: [[areas/technical-growth/technical-growth|Technical Growth]]
 
 - [[resources/software-engineering/system-architecture/2026-07-14 - What a Software Architect Needs to Do|What a Software Architect Needs to Do]]
 - [[resources/software-engineering/system-architecture/adr/architecture-decision-records|Architecture Decision Records]]
-- [[resources/software-engineering/system-architecture/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]]
-- [[resources/software-engineering/system-architecture/2026-09-30 - Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs|Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs]] — the NCTool AI outage of 30 Sep 2026, verified against the code and the resilience4j 2.2.0 jars. Fix proposed in ADR 0005.
+
+### Incidents
+
+- [[resources/software-engineering/system-architecture/incidents/2026-06-28 - eContract Gateway Misconfiguration Incident|eContract Gateway Misconfiguration Incident]]
+- [[resources/software-engineering/system-architecture/incidents/2026-09-30 - Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs|Retry Around the Breaker Turned One Slow AI Call Into 334 Rejected Jobs]] — the NCTool AI outage of 30 Sep 2026, verified against the code and the resilience4j 2.2.0 jars. Fix proposed in ADR 0005.
+- [[resources/software-engineering/system-architecture/incidents/2026-10-14 - FCM Callback Incident|FCM Callback Incident]]
 
 Related plan: [[areas/technical-growth/2026-06-03 - Software Architect Roadmap|Software Architect Roadmap]]
