@@ -12,3 +12,6 @@ __pycache__/
 
 # Passwords and account credentials — local only, never tracked in git.
 private/
+
+# Bank statement records — kept local only, not tracked in git.
+areas/personal-finance/*Spending Account*

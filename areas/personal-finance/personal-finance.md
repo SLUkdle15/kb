@@ -63,6 +63,8 @@ Everything out: **15,016 to 15,106**, budgeted 13,400 — over by 1,616 to 1,706
 - Soccer team: dropped this month. Normally 120 a week on the weeks it runs.
 - Gift on 20 Oct: 200. This month only.
 
+Spending account record for the cycle: [[areas/personal-finance/2026-10-16 - Spending Account, 10 Oct to 10 Nov 2026|10 Oct to 10 Nov 2026]].
+
 ## Current Projects
 
 - 
