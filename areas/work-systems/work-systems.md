@@ -53,7 +53,7 @@ Review monthly, or weekly when a migration or incident is active.
 
 Raw debugging captures from these systems, still in `inbox` and not yet worth a resource note.
 
-- None.
+- [[inbox/2026-10-16 - DSCAI OAuth Timeout|DSCAI OAuth Timeout]] — 2026-10-16 07:27, OAuth socket timeout in `DscaiApiClient` surfacing as a bare 500; log lines read, nothing verified against the code yet
 
 ## Related Resources
 
