@@ -52,4 +52,5 @@ A prefix marks a date that is maintained by hand. A note with a `Due:` line gets
 - [[next/calendar/2026-10-18 - Write the Week of 2026-10-19 IELTS Prep Plan]] — 2026-10-18 (Sunday, during the 20:00 vault review. Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]])
 - [[next/calendar/2026-10-17 - Coffee with the Bicycles Team]] — 2026-10-17 (Saturday; no time or venue yet)
 - [[next/calendar/2026-10-19 - Bring the Camera to Monday Badminton]] — 2026-10-19 (Monday; first session at the Mỹ Đình court. Area: [[areas/photography/photography|Photography]])
+- [[next/calendar/2026-10-20 - Give Her the 20-10 Gift]] — 2026-10-20 (Tuesday; Speedo swimming goggles, bought before the day, 200 one-off in Monthly Outflows. Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]])
 - [[next/calendar/2027-02-09 - Decide What to Do with the TPBank Deposit]] — 2027-02-09 (a week before the 2027-02-16 maturity, so the roll-over decision is made rather than defaulted. Area: [[areas/personal-finance/personal-finance|Personal Finance]])
