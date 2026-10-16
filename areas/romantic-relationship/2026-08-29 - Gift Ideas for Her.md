@@ -14,6 +14,7 @@ A standing list, so a birthday or an anniversary does not start from a blank pag
 ## Beauty and Skincare
 
 - **Makeup.** Needs her actual brands and shades before buying — this is the category where guessing wrong is most visible. Ask, or go with her once and note what she picks.
+  - **Tiệm Son Goong** — <https://tiemsongoong.vn/>. Authentic imported lipsticks with a bill (YSL, Dior, Chanel, MAC, Hermès, Gucci), most between 580k and 1.68tr. Free name engraving and gift wrap, which is what turns a lipstick into a gift rather than a purchase. Online, with one Hanoi address at 91 Phố Hồ Văn Chương, Đống Đa. Does not solve the shade problem above — still need to know what she wears first.
 - **Sheet masks (mặt nạ giấy)** — the paper kind, not a clay or peel-off mask. Low risk, easy to give in a set, easy to repeat.
 - Lip balm or hand cream. The small ones that get used up and can be given again without ceremony.
 
