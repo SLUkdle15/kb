@@ -17,6 +17,7 @@ Gotchas: [[projects/give-the-ai-chatbot-excel-tools/gotchas|Gotchas]]
 ## Next Actions
 
 - [[next/next-actions/2026-09-28 - Implement the Refresh Token Flow for Excel|Implement the Refresh Token Flow for Excel]]
+- [[next/next-actions/2026-10-16 - Find Out What Read Cell Returns for an Image|Find Out What Read Cell Returns for an Image]]
 
 [[archives/next-actions/2026-09-29 - Implement Clone Sheet and List Permissions for Excel|Implement Clone Sheet for Excel]] completed 2026-10-02, and [[archives/next-actions/2026-10-05 - Add Column Lock and Filter to Clone Sheet|Add Column Lock and Filter to Clone Sheet]] completed 2026-10-05.
 
