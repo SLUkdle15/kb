@@ -14,3 +14,7 @@ Other people to implement their side and to support it once it runs. The named p
 ## Done When
 
 Their side is implemented and supported, so a real request can be answered end to end as the signed-in user.
+
+## Status
+
+Dropped 2026-10-15 — no longer tracked as a wait. The remaining piece on my side is [[next/next-actions/2026-09-28 - Implement the Refresh Token Flow for Excel|Implement the Refresh Token Flow for Excel]].
