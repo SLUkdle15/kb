@@ -5,7 +5,7 @@ Area: [[areas/work-systems/work-systems|Work Systems]]
 
 ## Blocked
 
-Excel query is implemented on my side. My remaining piece is the refresh token flow, which runs as its own action — [[next/next-actions/2026-09-28 - Implement the Refresh Token Flow for Excel|Implement the Refresh Token Flow for Excel]] — so this note waits only on the parts other people own.
+Excel query is implemented on my side. My remaining piece is the refresh token flow, which runs as its own action — [[archives/next-actions/2026-09-28 - Implement the Refresh Token Flow for Excel|Implement the Refresh Token Flow for Excel]] — so this note waits only on the parts other people own.
 
 ## Waiting On
 
@@ -17,4 +17,4 @@ Their side is implemented and supported, so a real request can be answered end t
 
 ## Status
 
-Dropped 2026-10-15 — no longer tracked as a wait. The remaining piece on my side is [[next/next-actions/2026-09-28 - Implement the Refresh Token Flow for Excel|Implement the Refresh Token Flow for Excel]].
+Dropped 2026-10-15 — no longer tracked as a wait. The remaining piece on my side is [[archives/next-actions/2026-09-28 - Implement the Refresh Token Flow for Excel|Implement the Refresh Token Flow for Excel]].

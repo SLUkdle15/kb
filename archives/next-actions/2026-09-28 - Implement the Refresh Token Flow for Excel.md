@@ -10,7 +10,9 @@ Replace the hardcoded token with a real refresh token flow for the Excel tools. 
 
 Build [[resources/software-engineering/auth/2026-09-17 - Proactive and Reactive OAuth Token Refresh|both halves of the refresh]]: refresh before a token is about to expire, and refresh once and retry on a 401.
 
-## Where It Stands
+Completed: 2026-10-17 — done and deployed.
+
+## Where It Stood
 
 In progress as of 2026-10-17, interrupted by urgent work. Kept undated on purpose: it was calendared for 2026-09-29, 2026-10-12 and 2026-10-13 and moved each time, so it lives here and gets picked up when there is time. The deadline above is the only real date.
 
