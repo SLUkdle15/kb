@@ -33,6 +33,23 @@ One minute of preparation, four keywords on the paper, one per slot. Keywords, n
 
 If the two minutes end early, the frame was not used. If the examiner stops you mid-sentence, that is a good sign, not a bad one.
 
+Before the minute ends, check each card bullet against a box. On 2026-10-17 both cards came up short by one bullet each: the future answer on one, how you'd travel on the other.
+
+## How to Expand
+
+A short turn is a string of sentences with nothing after them. Every plain sentence answers a question, and expanding means asking the next one out loud and answering it. There are only four to choose from:
+
+| Ask yourself | Start with |
+| --- | --- |
+| Why? | *because…* / *the reason is…* |
+| For example? | *for example…* / *like the time…* |
+| Compared to what? | *unlike…* / *compared to…* |
+| How did it feel? | *it made me feel…* / *I'd feel…* |
+
+**Each hook gets one sentence, then one or two of these questions.** It doesn't matter which you pick, as long as you pick one. In the prep, put a small **?** next to any box with only one hook.
+
+**The drill, 5 min, no cue card.** Say one plain sentence about anything. Ask yourself "why?" and answer it, then "for example?" and answer that. Then start again with a new sentence. Five rounds, at the start of every Part 2 slot. It trains the reflex so it fires mid-turn without thinking.
+
 ## Part 1 and Part 3 Lengths Are Different
 
 - **Part 1** wants answer plus one reason or example — two or three sentences. One-word answers give the examiner nothing to score. Long speeches waste the warm-up and read as rehearsed.
@@ -40,7 +57,9 @@ If the two minutes end early, the frame was not used. If the examiner stops you 
 
 ## The Recording Loop
 
-The speaking equivalent of the Wednesday rewrite. Never record a cue card once and move to a new one.
+The speaking equivalent of the Wednesday rewrite. Never record a cue card once and move to a new one. **Take 2 is mandatory**, and a card with one take is not done. Fewer cards with two takes each beats more cards with one, because take 1 only shows the gap and take 2 is where it closes. Decided 2026-10-17, after a session of three cards with one take each.
+
+When the time is short, cut the middle steps, never the last one. The minimum loop is: take 1, one listen for content, take 2 with **one** fix (usually: the expansion question on every hook), and both durations from the recorder.
 
 - [ ] Record the turn on the phone. Full two minutes, no restarts, no stopping to fix a sentence.
 - [ ] Listen once for content only. Were all four slots covered? Was the "why" bullet actually answered?

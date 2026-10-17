@@ -30,7 +30,7 @@ Study blocks go **after 18:00** on weekdays. On weekends, mornings are usually t
 Six hours, same budget as the template, but the days move because Monday is no longer free:
 
 - **Mon 10-19** — no study block. Badminton runs to 19:30 at Mỹ Đình and the ride home is longer than Lê Văn Thiêm. Putting the Task 2 essay after that is how the last two became planning reps.
-- **Tue 10-20, 18:30-19:30** — Speaking Part 2, three cards. Recording is clock-bounded, so the 20:00 hard stop for soccer does not hurt it.
+- **Tue 10-20, 18:30-19:30** — Speaking Part 2: the 5 min expansion drill, then **two cards, two takes each**, both durations noted. Decided 2026-10-17: the second take is mandatory and replaces the third card. Recording is clock-bounded, so the 20:00 hard stop for soccer does not hurt it.
 - **Wed 10-21, 19:00-20:00** — **Task 2 timed essay**. A clear evening with no hard stop after it. This block has failed twice running under a deadline; it gets the protected slot.
 - **Thu 10-22, 19:00-20:00** — Speaking Part 3 and pronunciation, playing back Tuesday's recording.
 - **Fri 10-23, 19:00-20:00** — rewrite Wednesday's essay. Still two days after the essay, which is the point of the template's Mon-to-Wed gap, even though it is no longer Wednesday.

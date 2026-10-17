@@ -23,7 +23,7 @@ Applies inside any phase below except Baseline and Taper, which have their own s
 | Day | Block | Work |
 | --- | --- | --- |
 | Mon | 60 min | Task 2: 5 min plan, 35 min write to time, 20 min self-score against the descriptors |
-| Tue | 60 min | Speaking Part 2: three cue cards, each recorded to a full two minutes, then listen back to one |
+| Tue | 60 min | Speaking Part 2: 5 min expansion drill, then two cue cards, **each recorded twice** — take 1 cold, take 2 straight after with one fix. Note both durations. A card with one take is not done |
 | Wed | 60 min | Rewrite Monday's essay from the self-score. Update [[projects/score-ielts-7-overall/error-log|Error Log]] |
 | Thu | 60 min | Speaking Part 3 drills, then 10 min pronunciation — play back part of Tuesday's recording and write what slips into the error log, rather than drilling blind |
 | Fri | 60 min | Task 1 to time (20 min), then read two model answers closely and steal the sentence patterns |
@@ -46,7 +46,7 @@ Fix form before adding volume. Writing badly in bulk just automates the mistakes
 - Task 1: the overview sentence becomes non-negotiable. No overview caps Task Achievement at 5.
 - Speaking Part 2: a full two minutes, every single time, using the four-slot frame in [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]].
 - Every second Saturday: alternate a full Writing paper and a timed Listening section.
-- Reps to aim for before checking against the pass bar: four Task 2 essays written and rewritten, two Task 1s, roughly twenty recorded Part 2 turns.
+- Reps to aim for before checking against the pass bar: four Task 2 essays written and rewritten, two Task 1s, roughly twenty recorded Part 2 turns. Every take counts as a turn, so two cards with two takes each makes four turns a week. From 2026-10-17 every card gets a second take, because the second take is where the learning happens: [[projects/score-ielts-7-overall/speaking-6-5-levers|Speaking 6.5 Levers]].
 
 **Move on when:**
 - The right essay shape gets picked correctly from a cold prompt, consistently, without having to think about it.
