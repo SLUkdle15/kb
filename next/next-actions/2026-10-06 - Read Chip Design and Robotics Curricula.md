@@ -11,6 +11,10 @@ Step 2 is already answered: the pivot named these two and no others. This is ste
 
 About an hour, and it splits cleanly into one session per field.
 
+## On Hold
+
+Paused 2026-10-17 until [[next/calendar/2026-10-18 - Look Up Master's Application Deadlines|Look Up Master's Application Deadlines]] is done. If the target moves to robotics only for Fall 2027, read just the robotics half.
+
 ## Done When
 
 Both fields have four real course lists read, with a note on which survived and why.

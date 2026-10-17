@@ -12,6 +12,8 @@ One or two master's fields chosen — weighed against what the degree is actuall
 
 Two to three weeks — **2026-10-17**. This gates step 3 and step 4 of the parent project, and step 4 is what confirms whether 7.0 with no band below 6.5 is the right IELTS target. The December 2026 application deadline is what makes the pace matter.
 
+**2026-10-17 — missed.** Step 3 did not start, because the FPT job left no time, not because the action was unclear. The new deadline waits on [[next/calendar/2026-10-18 - Look Up Master's Application Deadlines|the 2026-10-18 deadline check]], which decides between Fall 2027 with a smaller scope and Fall 2028.
+
 ## Definition of Done
 
 One or two fields written into [[projects/apply-for-a-masters-degree/apply-for-a-masters-degree|the parent project note]], with a sentence on why each survived, and the primary one marked.
@@ -29,7 +31,7 @@ About an hour per step. Only the current step lives in `next`, undated or commit
 
 ## Next Actions
 
-- [[next/next-actions/2026-10-06 - Read Chip Design and Robotics Curricula|Read Chip Design and Robotics Curricula]] — step 3
+- [[next/next-actions/2026-10-06 - Read Chip Design and Robotics Curricula|Read Chip Design and Robotics Curricula]] — step 3, on hold until [[next/calendar/2026-10-18 - Look Up Master's Application Deadlines|the deadline check]] on 2026-10-18
 
 ## Notes
 

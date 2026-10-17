@@ -18,6 +18,8 @@ Decided 2026-08-17:
 
 Target: the Fall 2027 intake. US applications for that cycle typically close between December 2026 and February 2027, so the working deadline is **December 2026** — about two months out as of 2026-09-28. Confirm the real per-program dates in step 4.
 
+**2026-10-17 — the December deadline is in question.** The FPT job leaves too little time for steps 3 to 9 by December, and step 1 missed its 10-17 deadline for lack of time. The real deadlines of four programs get checked first, on 2026-10-18. If they fall in January–February, Fall 2027 stays with a smaller scope (robotics only, 2–3 programs). If they fall in December, the target moves to **Fall 2028**, with a December 2027 deadline. The IELTS score is valid for two years, so the November 2026 test covers either.
+
 ## Definition of Done
 
 Every shortlisted program has a submitted application, on or before its deadline.
@@ -52,7 +54,8 @@ Not steps here — they start only once an offer arrives, and they carry their o
 
 Step 1 runs in [[projects/decide-masters-field-of-study/decide-masters-field-of-study|Decide Master's Field of Study]]; its current action is the one that moves this project too.
 
-- [[next/next-actions/2026-10-06 - Read Chip Design and Robotics Curricula|Read Chip Design and Robotics Curricula]] — step 3
+- [[next/calendar/2026-10-18 - Look Up Master's Application Deadlines|Look Up Master's Application Deadlines]] — Sun 2026-10-18 08:30, a step 4 shortcut that decides the intake
+- [[next/next-actions/2026-10-06 - Read Chip Design and Robotics Curricula|Read Chip Design and Robotics Curricula]] — step 3, on hold until the deadlines are in
 
 ## Notes
 
