@@ -48,3 +48,4 @@ That list came from the architecture note, not from a survey of the code. It was
 - 2026-10-08 — the refresh token flow moved to 2026-10-12; it is still the remaining piece on my side.
 - 2026-10-11 — the refresh token flow moved to 2026-10-13.
 - 2026-10-15 — the Excel query rollout wait is dropped: it is no longer tracked, so the refresh token flow is the only open action on this project.
+- 2026-10-17 — refresh token flow is in progress and stays an undated next action rather than a calendar date. Its real deadline is the hardcoded token's expiry, about 2026-12-17.

@@ -36,4 +36,5 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-10-08 - Cancel Claude|Cancel Claude]] — Area: [[areas/personal-finance/personal-finance|Personal Finance]]; 599/month, closes most of the budget gap
 - [[2026-10-12 - Automate the Monthly Account Transfers|Automate the Monthly Account Transfers]] — Area: [[areas/personal-finance/personal-finance|Personal Finance]]; standing transfers per bucket, needs a funding date first
 - [[2026-10-07 - Find Her a Running Shoe|Find Her a Running Shoe]] — Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]; size 39–40, tried on rather than ordered
+- [[2026-10-01 - Learn the Core Network Protocols|Learn the Core Network Protocols]] — Area: [[areas/technical-growth/technical-growth|Technical Growth]]; demoted 2026-10-17, revive when a connectivity problem at work makes it pressing
 - [[2026-10-13 - Investigate Why the Ceiling Neon Light Is Out|Investigate Why the Ceiling Neon Light Is Out]] — Area: [[areas/home/home|Home]]

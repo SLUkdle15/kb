@@ -2,7 +2,7 @@
 
 Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]]
 Area: [[areas/personal-development/personal-development|Personal Development]]
-Due: 2026-10-13
+Due: 2026-10-17 13:00
 Remind: 1
 
 ## Action
@@ -12,6 +12,8 @@ Tuesday 2026-10-13, moved from Monday 10-12 on 2026-10-12 at request. Tuesday al
 Book an IELTS Academic slot for **mid-November 2026**. Retargeted from 3 October on 2026-08-24 by [[projects/score-ielts-7-overall/score-ielts-7-overall|the Baseline Verdict]], which found fluency rather than structure to be the binding constraint — the diagnosis is now in hand, so the remaining question is which mid-November date, not whether October is realistic.
 
 ## Status
+
+**Committed to Saturday 2026-10-17 13:00**, the first block of the afternoon, before the three IELTS study blocks. 2026-10-13 passed unbooked, the sixth miss. Booking is about 20 minutes: pick the date, pay. The rest of the checklist can follow.
 
 **Committed to 2026-10-13.** Moved from 2026-10-12 on 2026-10-12 at request, with no reason given. Before that, moved from 2026-10-06 on 2026-10-07 because the fee money is not in hand yet — the first of these moves with a stated reason. Before that: 2026-09-30 to 2026-10-03 on 2026-09-27, to 2026-10-04 on 2026-10-02, then to 2026-10-06 on 2026-10-03, all at request and none with a reason given.
 

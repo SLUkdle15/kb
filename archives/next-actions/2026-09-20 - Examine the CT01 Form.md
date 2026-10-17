@@ -1,6 +1,7 @@
 # Examine the CT01 Form
 
 Project: [[projects/register-temporary-residence/register-temporary-residence|Register Temporary Residence]]
+Status: obsolete 2026-10-17 — replaced by [[next/next-actions/2026-10-17 - Message My Sisters About Registering Temporary Residence|Message My Sisters About Registering Temporary Residence]]. "Examine" never named a first physical step, so it sat for four weeks.
 
 ## Action
 

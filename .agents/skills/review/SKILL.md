@@ -42,6 +42,7 @@ Everything loose goes to `inbox`, and `inbox` gets emptied: each capture is clas
 **`next/next-actions`** — tick off what is done, then sweep what is left.
 
 - Anything that takes under about five minutes is a do-it-now candidate for this session, not a re-filing job. An action that keeps surviving reviews is usually smaller than its note makes it look.
+- Past about two weeks, check the wording before the date. An action that keeps surviving usually hides its first step behind a vague verb ("examine", "look into", "figure out"). Rewrite it to the first physical move — a verb startable in ten seconds (call, message, download, fill in) — rather than re-dating it. If the blocker is missing information someone else has, the action is to ask them; once asked, it becomes a `next/waiting` note.
 - Judge age by the date in the filename. Past about 30 days it is not a next action any more. Say how many days it has been sitting and force one of four outcomes: do it now, promote it to a project because it is really multi-step, demote it to `next/maybe`, or drop it.
 
 **`projects`** — every active project needs at least one linked next action, and that action must link back.

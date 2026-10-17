@@ -14,7 +14,9 @@ Area: [[areas/family/family|Family]]
 
 ## Next Actions
 
-- [[2026-09-20 - Examine the CT01 Form|Examine the CT01 Form]]
+- [[next/next-actions/2026-10-17 - Message My Sisters About Registering Temporary Residence|Message My Sisters About Registering Temporary Residence]]
+
+[[archives/next-actions/2026-09-20 - Examine the CT01 Form|Examine the CT01 Form]] obsolete 2026-10-17 — asking my sisters replaces researching the form alone.
 
 ## Notes
 

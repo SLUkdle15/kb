@@ -3,7 +3,7 @@
 Project: [[projects/score-ielts-7-overall/score-ielts-7-overall|Score IELTS 7.0 Overall]]
 Area: [[areas/personal-development/personal-development|Personal Development]]
 Week plan: [[projects/score-ielts-7-overall/2026-10-12 - Week of 2026-10-12 Prep Plan|Week of 2026-10-12 Prep Plan]]
-Due: 2026-10-17 10:30
+Due: 2026-10-17 14:45
 Remind: 1
 
 ## Action
