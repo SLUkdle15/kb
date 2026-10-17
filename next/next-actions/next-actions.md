@@ -18,8 +18,6 @@ Each note should describe a clear next action. If it requires multiple steps and
 
 ## Current Actions
 
-- [[2026-10-17 - Ask Minh to Set a Match Date With His Friends|Ask Minh to Set a Match Date With His Friends]] — Area: [[areas/company-soccer/company-soccer|Company Soccer]]
-- [[2026-10-17 - Invite CSOC to a Friendly|Invite CSOC to a Friendly]] — Area: [[areas/company-soccer/company-soccer|Company Soccer]]
 - [[2026-10-17 - Find a Danny Maude 7-Iron Reference Swing|Find a Danny Maude 7-Iron Reference Swing]] — Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 - [[2026-10-17 - Message My Sisters About Registering Temporary Residence|Message My Sisters About Registering Temporary Residence]] — Project: [[projects/register-temporary-residence/register-temporary-residence|Register Temporary Residence]]
 - [[2026-10-16 - Find Out What Read Cell Returns for an Image|Find Out What Read Cell Returns for an Image]] — Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]]

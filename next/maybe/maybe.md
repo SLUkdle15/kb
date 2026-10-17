@@ -39,3 +39,5 @@ Keep this low-pressure. Review during weekly or monthly review and either promot
 - [[2026-10-01 - Learn the Core Network Protocols|Learn the Core Network Protocols]] — Area: [[areas/technical-growth/technical-growth|Technical Growth]]; demoted 2026-10-17, revive when a connectivity problem at work makes it pressing
 - [[2026-10-17 - Resume Introduction to Photography|Resume Introduction to Photography]] — Area: [[areas/photography/photography|Photography]]; paused at chapter 2, restart after the IELTS test
 - [[2026-10-13 - Investigate Why the Ceiling Neon Light Is Out|Investigate Why the Ceiling Neon Light Is Out]] — Area: [[areas/home/home|Home]]
+- [[2026-10-17 - Ask Minh to Set a Match Date With His Friends|Ask Minh to Set a Match Date With His Friends]] — Area: [[areas/soccer/soccer|Soccer]]
+- [[2026-10-17 - Invite CSOC to a Friendly|Invite CSOC to a Friendly]] — Area: [[areas/soccer/soccer|Soccer]]

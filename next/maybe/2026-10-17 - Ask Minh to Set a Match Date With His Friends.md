@@ -1,6 +1,6 @@
 # Ask Minh to Set a Match Date With His Friends
 
-Area: [[areas/company-soccer/company-soccer|Company Soccer]]
+Area: [[areas/soccer/soccer|Soccer]]
 
 ## Action
 

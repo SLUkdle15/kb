@@ -1300,5 +1300,10 @@
 
 ## [2026-10-17] next | Two outside-match invitations for Company Soccer
 
-- Added `next/next-actions/2026-10-17 - Ask Minh to Set a Match Date With His Friends.md` and `2026-10-17 - Invite CSOC to a Friendly.md`, both under Company Soccer
-- Listed in the next-actions index and the area's Current Actions; each moves to `next/waiting` once its message is sent
+- Added `next/maybe/2026-10-17 - Ask Minh to Set a Match Date With His Friends.md` and `2026-10-17 - Invite CSOC to a Friendly.md`, both under Company Soccer. First filed in `next/next-actions`; moved to maybe on the owner's call
+- Two separate options, not one alternating plan; listed in the maybe index and in a new `## Maybe` section in the area
+
+## [2026-10-17] merge | Company Soccer folded into Soccer
+
+- `areas/company-soccer/` removed; its purpose, the Tuesday 17:30 company field, the ideas to boost the group, the Maybe list and the DSC league details now live in `areas/soccer/soccer.md`
+- Both maybe notes and the maybe index retargeted to Soccer; dropped from `areas/areas.md`
