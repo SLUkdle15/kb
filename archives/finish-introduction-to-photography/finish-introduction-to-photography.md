@@ -1,5 +1,7 @@
 # Finish Introduction to Photography
 
+Status: paused 2026-10-17. No progress since 2026-09-28, because IELTS and the master's decision use the free hours. Restart through [[next/maybe/2026-10-17 - Resume Introduction to Photography|Resume Introduction to Photography]] after the IELTS test.
+
 ## Outcome
 
 The Introduction to Photography course is finished, and what it teaches about the camera body is written into [[areas/photography/2026-09-09 - Canon 6D Mark II|Canon 6D Mark II]].

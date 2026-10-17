@@ -1,6 +1,8 @@
 # Watch the Next Chapter of Introduction to Photography
 
-Project: [[projects/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]]
+Status: paused 2026-10-17 with the project. Resume at chapter 2, not yet finished.
+
+Project: [[archives/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]]
 Area: [[areas/photography/photography|Photography]]
 
 ## Action
@@ -11,4 +13,4 @@ Write anything it teaches about the body into [[areas/photography/2026-09-09 - C
 
 ## Done When
 
-The chapter is watched and the Progress log in [[projects/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]] names the new resume point. This action stays open and repeats until the course is done.
+The chapter is watched and the Progress log in [[archives/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]] names the new resume point. This action stays open and repeats until the course is done.

@@ -25,7 +25,7 @@ Review monthly, or before an upcoming trip.
 
 ## Current Projects
 
-- [[projects/visit-her-family/visit-her-family|Visit Her Family and Meet Her Parents]] — drive to Ninh Giang, Hải Dương, last week of November 2026; no protocol for that route yet
+- [[projects/visit-her-family/visit-her-family|Visit Her Family and Meet Her Parents]] — drive to Ninh Giang, Hải Dương, late December 2026; no protocol for that route yet
 
 ## Related Resources
 

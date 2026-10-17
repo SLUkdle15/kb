@@ -2,13 +2,13 @@
 
 ## Outcome
 
-Driven to her family's house in the last week of November 2026, stayed a few days, and met her parents in person.
+Driven to her family's house in late December 2026, stayed a few days, and met her parents in person.
 
 Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 
 ## Deadline
 
-Within 2026-11-23 to 2026-11-29. The exact days and the number of nights are not set yet.
+Late December 2026. Moved from the last week of November (2026-11-23 to 2026-11-29) on 2026-10-17, as planned together, because late November may be a bad time. The exact days and the number of nights are not set yet.
 
 ## Definition of Done
 

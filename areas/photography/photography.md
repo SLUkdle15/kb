@@ -21,13 +21,13 @@ Review monthly, or weekly when practicing actively.
 ## Current Actions
 
 - [[next/calendar/Monthly Sync Pictures]]
-- [[2026-09-28 - Watch the Next Chapter of Introduction to Photography|Watch the Next Chapter of Introduction to Photography]]
+- [[next/calendar/2026-10-19 - Bring the Camera to Monday Badminton|Bring the Camera to Monday Badminton]]
 - [[next/maybe/2026-09-12 - Explore Flash and Filter Options|Explore Flash and Filter Options]]
-- [[2026-09-19 - Review the Images I Have Shot|Review the Images I Have Shot]]
+- [[next/maybe/2026-10-17 - Resume Introduction to Photography|Resume Introduction to Photography]] — course paused 2026-10-17
 
 ## Current Projects
 
-- [[projects/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]]
+None. [[archives/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]] paused 2026-10-17 until after the IELTS test.
 
 ## What Comfortable Looks Like
 
@@ -51,7 +51,7 @@ Photographers to study: Vivian Maier, Steve McCurry, Gregory Halpern.
 
 Three LinkedIn Learning courses, in this order. Each becomes its own project when the one before it is done.
 
-1. [Introduction to Photography](https://www.linkedin.com/learning/introduction-to-photography/introduction?u=556470434) — the camera and the exposure triangle. In progress as [[projects/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]].
+1. [Introduction to Photography](https://www.linkedin.com/learning/introduction-to-photography/introduction?u=556470434) — the camera and the exposure triangle. Paused at chapter 2 on 2026-10-17 as [[archives/finish-introduction-to-photography/finish-introduction-to-photography|Finish Introduction to Photography]].
 2. [The Practicing Photographer](https://www.linkedin.com/learning/the-practicing-photographer/introducing-the-practicing-photographer?u=556470434) — shooting habits and working through real situations.
 3. [Photography Foundations: Composition](https://www.linkedin.com/learning/photography-foundations-composition/welcome?u=556470434) — framing and seeing.
 

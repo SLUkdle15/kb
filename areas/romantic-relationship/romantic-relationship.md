@@ -46,7 +46,7 @@ Review monthly, or weekly when the relationship needs active attention.
 
 ## Current Projects
 
-- [[projects/visit-her-family/visit-her-family|Visit Her Family and Meet Her Parents]] — last week of November 2026
+- [[projects/visit-her-family/visit-her-family|Visit Her Family and Meet Her Parents]] — late December 2026
 
 [[archives/plan-the-6-month-anniversary/plan-the-6-month-anniversary|Plan the 6-Month Anniversary]] completed 2026-10-02.
 
