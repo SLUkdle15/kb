@@ -13,7 +13,7 @@ First, check the rep count against the Phase 1 pass bar. Tuesday 10-13 ran as a 
 
 ## Fixed Commitments That Week
 
-Study blocks go **after 18:00**. Sunday mornings are the range.
+Study blocks go **after 18:00** on weekdays. On weekends, mornings are usually taken, so blocks go **after 13:00**. Sunday mornings are the range. Learned 2026-10-17: Saturday's 09:00, 10:30 and 11:30 blocks only ran after 13:00, so the times were moved to the afternoon. Put each block where it will actually happen, so the calendar stays true.
 
 | Day | Taken |
 | --- | --- |
@@ -34,7 +34,7 @@ Six hours, same budget as the template, but the days move because Monday is no l
 - **Wed 10-21, 19:00-20:00** — **Task 2 timed essay**. A clear evening with no hard stop after it. This block has failed twice running under a deadline; it gets the protected slot.
 - **Thu 10-22, 19:00-20:00** — Speaking Part 3 and pronunciation, playing back Tuesday's recording.
 - **Fri 10-23, 19:00-20:00** — rewrite Wednesday's essay. Still two days after the essay, which is the point of the template's Mon-to-Wed gap, even though it is no longer Wednesday.
-- **Sat 10-24, 09:00-11:00** — the full Writing paper. Saturday morning is free; move it to 18:00-20:00 if the after-18:00 rule covers weekends too.
+- **Sat 10-24, 13:00-15:00** — the full Writing paper. Not the morning: weekend mornings are usually taken.
 - **Sun 10-25** — rest. Optional 20 min re-reading the error log after 18:00.
 
 Task 1 drops again, as it did this week; it is past budget at 3 of 2.
