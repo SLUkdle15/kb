@@ -1,6 +1,7 @@
 # Settle the Dates for the Trip to Her Family's House
 
 Project: [[projects/visit-her-family/visit-her-family|Visit Her Family and Meet Her Parents]]
+Due: 2026-11-23
 
 ## Action
 

@@ -23,7 +23,6 @@ Each note should describe a clear next action. If it requires multiple steps and
 - [[2026-10-16 - Find Out What Read Cell Returns for an Image|Find Out What Read Cell Returns for an Image]] — Project: [[projects/give-the-ai-chatbot-excel-tools/give-the-ai-chatbot-excel-tools|Give the AI Chatbot Excel Tools]]
 - [[2026-10-16 - Examine the Claude Apps and Get Full Value From Them|Examine the Claude Apps and Get Full Value From Them]] — Area: [[areas/personal-finance/personal-finance|Personal Finance]]
 - [[2026-10-14 - Build the Take a Renewal Break Protocol|Build the Take a Renewal Break Protocol]] — Area: [[areas/personal-development/personal-development|Personal Development]]
-- [[2026-10-13 - Settle the Dates for the Trip to Her Family's House|Settle the Dates for the Trip to Her Family's House]] — Project: [[projects/visit-her-family/visit-her-family|Visit Her Family and Meet Her Parents]]
 - [[2026-10-13 - Configure the HAProxy Route for FCM|Configure the HAProxy Route for FCM]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-10-12 - Refactor the Breaker Incident Note and Finish ADR 0005|Refactor the Breaker Incident Note and Finish ADR 0005]] — Area: [[areas/work-systems/work-systems|Work Systems]]
 - [[2026-10-08 - Write Up the GTD Three Models, Weekly Review, and Five Phases|Write Up the GTD Three Models, Weekly Review, and Five Phases]] — Resource: [[resources/personal-knowledge-management/personal-knowledge-management|Personal Knowledge Management]]

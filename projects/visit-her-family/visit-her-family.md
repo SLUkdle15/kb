@@ -19,7 +19,7 @@ Late December 2026. Moved from the last week of November (2026-11-23 to 2026-11-
 
 ## Next Actions
 
-- [[next/next-actions/2026-10-13 - Settle the Dates for the Trip to Her Family's House|Settle the Dates for the Trip to Her Family's House]]
+- [[next/calendar/2026-11-23 - Settle the Dates for the Trip to Her Family's House|Settle the Dates for the Trip to Her Family's House]]
 
 ## Notes
 
