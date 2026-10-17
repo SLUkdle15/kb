@@ -3,6 +3,7 @@
 Area: [[areas/romantic-relationship/romantic-relationship|Romantic Relationship]]
 Protocol: [[areas/romantic-relationship/take-her-out-for-weekday-dinner|Take Her Out for Weekday Dinner]]
 Due: 2026-10-17 18:00
+Completed: 2026-10-17 — the date happened, but at [[resources/restaurants/2026-06-20 - Cuon Sen Original Co So 3|Cuốn Sen]] instead, for something light and cool. Ẩm Thực Mọi Nhà is still unvisited.
 
 ## Action
 

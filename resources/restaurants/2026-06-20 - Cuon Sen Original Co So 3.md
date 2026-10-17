@@ -15,10 +15,11 @@ Map:
 ## Best For
 
 - Fresh rolls (cuốn), light Vietnamese meals
+- A light, cool, healthy date dinner
 
 ## Past Experience
 
-Visited: 2026-06-20
+Visited: 2026-06-20, 2026-10-17 (date night, picked over [[resources/restaurants/2026-10-14 - Am Thuc Moi Nha|Ẩm Thực Mọi Nhà]] for something light and cool)
 
 Ordered:
 - Cuốn heo quay (roasted pork rolls)
