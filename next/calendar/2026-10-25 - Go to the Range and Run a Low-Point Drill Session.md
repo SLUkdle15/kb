@@ -4,7 +4,7 @@ Project: [[projects/self-taught-golf/self-taught-golf|Self-Taught Golf]]
 Area: [[areas/golf-training/golf-training|Golf Training]]
 Session notes: [[projects/self-taught-golf/2026-09-10 - Beginner Range Practice Session|Beginner Range Practice Session]]
 Previous session: [[projects/self-taught-golf/2026-10-04 - Range Session Log|2026-10-04 Range Session Log]] (the 2026-10-11 session was not recorded)
-Due: 2026-10-18 10:00
+Due: 2026-10-25 10:00
 Remind: 2
 
 ## Action

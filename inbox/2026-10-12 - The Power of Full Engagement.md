@@ -18,3 +18,5 @@ In [[resources/energy-management/energy-management|Energy Management]]:
 
 ## Notes
 
+- [[inbox/2026-10-17 - Lunch Nap Plan|Lunch Nap Plan]]: applying physical renewal to lunch and an afternoon nap.
+

@@ -6,7 +6,7 @@ Due: 2026-10-18 08:30
 
 ## Action
 
-30 min, Sunday morning before the range at 10:00. Look up the **Fall 2027 application deadline** for four programs. Start with these, and swap any of them for one you would rather check:
+30 min, Sunday morning. Look up the **Fall 2027 application deadline** for four programs. Start with these, and swap any of them for one you would rather check:
 
 - Chip design: Georgia Tech MS ECE, UCSD MS ECE (circuits / VLSI)
 - Robotics: CMU MS in Robotics, University of Michigan MS Robotics
