@@ -34,6 +34,7 @@ Review monthly, or weekly when actively training.
 
 ## Related Resources
 
+- [[areas/company-soccer/company-soccer|Company Soccer]] — the FPT group at my center, with a field on Tuesday from 17:30.
 - [[areas/soccer/fields-near-me|Fields Near Me]] — candidate fields, still being collected.
 - [[resources/soccer/2026-08-04 - Soccer Playing Cues|Soccer Playing Cues]]
 - [[resources/soccer/2026-08-31 - Deep Pivot Build-Up Pattern|Deep Pivot Build-Up Pattern]]

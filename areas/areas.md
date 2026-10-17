@@ -35,6 +35,7 @@ Ask:
 - [[areas/badminton/badminton|Badminton]]
 - [[areas/photography/photography|Photography]]
 - [[areas/reading/reading|Reading]]
+- [[areas/company-soccer/company-soccer|Company Soccer]]
 - [[areas/golf-training/golf-training|Golf Training]]
 - [[areas/health/health|Health]]
 - [[areas/home/home|Home]]

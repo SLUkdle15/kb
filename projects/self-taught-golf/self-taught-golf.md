@@ -2,12 +2,14 @@
 
 ## Outcome
 
-Comfortable enough to go play a full round of 18 holes.
+Play a full 18-hole round on a real golf course, finishing every hole, by the end of March 2027.
+
+Sharpened 2026-10-17 from "comfortable enough to go play a full round of 18 holes", which had no measurable finish line.
 
 ## Definition of Done
 
-- Basics of stance, grip, and swing are solid from range practice.
-- Comfortable enough with the game to play a full 18-hole round.
+- **Range gate:** 15 of 20 balls clean with a 7 iron, in two range sessions in a row. At 9/20 on 2026-10-04. Two in a row so one lucky day does not count. Clearing it makes booking a round the next action.
+- **The round:** 18 holes played on a course, every hole finished, picking up at double par so the group is not held up.
 
 ## Next Actions
 

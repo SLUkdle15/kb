@@ -1291,3 +1291,14 @@
 - Projects missing next actions: 0
 - Stale-claim candidates: 0
 - Report: /tmp/vault-lint/report.md
+
+## [2026-10-17] area | Company Soccer
+
+- New area `areas/company-soccer/company-soccer.md` for the FPT group at my center (~15 people), with a field on Tuesday from 17:30. Some weeks I play the 20:30 Korean-group match instead
+- Holds the ideas to boost the group now that the quarterly prize tournament has been dropped; outside teams (Minh's friends, CSOC) about once a quarter
+- Listed in `areas/areas.md`; linked from `areas/soccer/soccer.md`; DSC Soccer League listed as a past project
+
+## [2026-10-17] next | Two outside-match invitations for Company Soccer
+
+- Added `next/next-actions/2026-10-17 - Ask Minh to Set a Match Date With His Friends.md` and `2026-10-17 - Invite CSOC to a Friendly.md`, both under Company Soccer
+- Listed in the next-actions index and the area's Current Actions; each moves to `next/waiting` once its message is sent
