@@ -21,6 +21,7 @@ Review monthly, or weekly when the relationship needs active attention.
 ## Things to Remember About Her
 
 - She has low blood pressure.
+- Her eye prescription: left -4.5, right -5.5.
 - She likes the green color of sunlight passing through leaves.
 - She likes grapes, papaya, guava, oranges, tangerines, and watermelon.
 
