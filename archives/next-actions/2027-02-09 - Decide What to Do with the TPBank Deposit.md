@@ -2,6 +2,7 @@
 
 Area: [[areas/personal-finance/personal-finance|Personal Finance]]
 Due: 2027-02-09
+Completed: 2026-10-17 — withdrawn early (closed before maturity) because something urgent came up. The deposit no longer exists.
 
 ## Action
 
