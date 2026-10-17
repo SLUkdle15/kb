@@ -5,6 +5,7 @@ Area: [[areas/personal-development/personal-development|Personal Development]]
 Week plan: [[projects/score-ielts-7-overall/2026-10-12 - Week of 2026-10-12 Prep Plan|Week of 2026-10-12 Prep Plan]]
 Due: 2026-10-17 14:45
 Remind: 1
+Completed: 2026-10-17 — three cards, one take each. Not fully met: no duration was timed for any turn, so the two-minute bar is still unchecked.
 
 ## Action
 

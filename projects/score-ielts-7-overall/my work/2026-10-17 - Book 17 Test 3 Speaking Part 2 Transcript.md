@@ -1,6 +1,6 @@
 # Book 17 Test 3 Speaking Part 2 Transcript
 
-From [[next/calendar/2026-10-17 - IELTS Speaking Part 2 Recordings|IELTS Speaking Part 2 Recordings]]. Auto-transcribed, not hand-corrected.
+From [[archives/next-actions/2026-10-17 - IELTS Speaking Part 2 Recordings|IELTS Speaking Part 2 Recordings]]. Auto-transcribed, not hand-corrected.
 
 ## Cue Card
 
